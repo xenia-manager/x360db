@@ -1,0 +1,35 @@
+{
+    "id": "58550CEE",
+    "title": {
+        "full": "Path of King Arthur",
+        "reduced": "Path of King Arthur"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Point Hit Games",
+    "publisher": "Point Hit Games",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=2/3, Mature Content=1/3. Build up your army and guide King Arthur through Camelot! A mix of Tower Defense, Action and Strategy, Path of King Arthur contains all of your favorite Camelotia characters, and some of your least favorite, too!",
+        "short": "Build up your army and guide King Arthur through Camelot! A mix of Tower Defense, Action and Strategy, Path of King Arthur contains all of your favorite Camelotia characters, and some of your least favorite, too!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550cee00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CEE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550cee/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CEE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CEE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CEE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CEE_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

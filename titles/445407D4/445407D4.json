@@ -1,0 +1,50 @@
+{
+    "id": "445407D4",
+    "title": {
+        "full": "Gray Matter",
+        "reduced": "Gray Matter"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Wizarbox",
+    "publisher": "dtp entertainment AG",
+    "release_date": "2010-10-29",
+    "user_rating": "0.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  When you play with fate, just how will fate play with you?  Oxford. Strange things are happening in the old English university city. Following the death of his wife, the mysterious Dr. Styles retreats more and more into his laboratory at Dread Hill House. The scientist is desperately trying to make contact with his departed wife. Then, apparently by chance, Samantha, a young street performer and magician comes in to his life. As puzzling events start to occur around the city, the pair sets out to find their own explanation for the paranormal phenomena.  Challenging puzzles and a mysterious story await you in this new adventure from Jane Jensen, author of the legendary ‘Gabriel Knight’ series.",
+        "short": "Challenging puzzles and a mysterious story await you in the new adventure from Jane Jensen, author of the legendary ‘Gabriel Knight’ series."
+    },
+    "media": [
+        {
+            "media_id": "4806A474",
+            "title": "Gray Matter",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d4/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d4/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d4/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d4/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d4/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

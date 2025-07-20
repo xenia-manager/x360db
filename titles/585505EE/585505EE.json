@@ -1,0 +1,35 @@
+{
+    "id": "585505EE",
+    "title": {
+        "full": "BioHack",
+        "reduced": "BioHack"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Mark Walker",
+    "publisher": "Mark Walker",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. We've all played physics-based games before. But have you ever tried one based on biochemical kinetics? BioHack is a simulation game where you must solve challenging design problems. The game includes 25 unique levels, plus randomly-generated mutant levels. No science background necessary!",
+        "short": "We've all played physics-based games before. But have you ever tried one based on biochemical kinetics? BioHack is a simulation game where you must solve challenging design problems. The game includes 25 unique levels, plus randomly-generated mutant levels. No science background necessary!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585505ee00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505EE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505ee/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505EE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505EE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505EE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505EE_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

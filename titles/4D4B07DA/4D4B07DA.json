@@ -1,0 +1,46 @@
+{
+    "id": "4D4B07DA",
+    "title": {
+        "full": "The Serious Sam Collection",
+        "reduced": "The Serious Sam Collection"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Croteam",
+    "publisher": "Mastertronic Group Ltd.",
+    "release_date": "2013-07-12",
+    "user_rating": "0.00",
+    "description": {
+        "full": "Sam ‘Serious’ Stone is back in this ultimate collection of shooting mayhem. All Sam’s legendary encounters, plus the Jewel of the Nile DLC come together to provide frenetic non-stop mayhem, giant multiplayer battles and the chance to pit the world’s coolest uberhero  against his mortal enemy, Mental! ",
+        "short": "Sam ‘Serious’ Stone is back in this ultimate collection of shooting mayhem. All Sam’s legendary encounters, plus the Jewel of the Nile DLC come together to provide frenetic non-stop mayhem, giant multiplayer battles and the chance to pit the world’s coolest uberhero  against his mortal enemy, Mental! "
+    },
+    "media": [
+        {
+            "media_id": "69194BB5",
+            "title": "The Serious Sam Collection",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07da/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07da/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07da/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07da/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07da/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07da/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07da/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07da/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07da/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07da/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07da/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07da/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

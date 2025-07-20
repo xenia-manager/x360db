@@ -1,0 +1,59 @@
+{
+    "id": "545407EF",
+    "title": {
+        "full": "NBA 2K7",
+        "reduced": "NBA 2K7"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Visual Concepts Entertainment",
+    "publisher": "2K Games",
+    "release_date": "2008-01-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Voted best current and next-generation NBA hoops franchise by press and gamers, NBA 2K7 continues its legacy of dominance this year on the hard court. With incredible graphics, tight control, and a revolutionary shooting game, NBA 2K7 is poised for another run as the top-rated NBA simulation.",
+        "short": "Voted best current and next-generation NBA hoops franchise by press and gamers, NBA 2K7 continues its legacy of dominance this year on the hard court. With incredible graphics, tight control, and a revolutionary shooting game, NBA 2K7 is poised for another run as the top-rated NBA simulation."
+    },
+    "media": [
+        {
+            "media_id": "7C1A403B",
+            "title": "NBA 2K7",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "62336097",
+            "title": "NBA 2K7",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

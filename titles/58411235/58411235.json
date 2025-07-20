@@ -1,0 +1,39 @@
+{
+    "id": "58411235",
+    "title": {
+        "full": "NFL Blitz",
+        "reduced": "NFL Blitz"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts - Tiburon",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2012-01-17",
+    "user_rating": "3.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) The big hits and stellar plays are back with all-new NFL Blitz. Featuring a combination of the arcade-style gameplay that made the original a hit and the deep, immersive game modes of today, NFL Blitz is recharged with an energetic, football gaming experience.    Whether battling your rival in a 7-on-7 grudge match, fighting your way through a season of the Blitz Gauntlet, or taking over the online Battle Boards in Blitz Battles, Every Game Is a Two-Minute Drill with NFL Blitz! ",
+        "short": "The all-new NFL Blitz combines the arcade-style gameplay from the original with the deep, immersive game modes of today!  Whether you’re battling your rival in a 7-on-7 grudge match or fighting your way through a season of the Blitz Gauntlet, Every Game Is a Two-Minute Drill! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d80258411235/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d80258411235/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d80258411235/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d80258411235/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d80258411235/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d80258411235/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d80258411235/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d80258411235/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d80258411235/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d80258411235/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d80258411235/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d80258411235/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

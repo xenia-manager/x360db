@@ -1,0 +1,42 @@
+{
+    "id": "58410AF7",
+    "title": {
+        "full": "Crazy Machines Elements",
+        "reduced": "Crazy Machines Elements"
+    },
+    "genre": [
+        "Puzzle & Trivia",
+        "Strategy & Simulation"
+    ],
+    "developer": "FAKT software GmbH",
+    "publisher": "dtp entertainment AG",
+    "release_date": "2011-02-10",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Hundreds of totally wacky chain reactions are just waiting to be created! Experience the latest chapter in the international, multi award-winning Crazy Machines series: “Elements”. This time with next gen visuals! Put your grey matter to the test by carrying out zany experiments. Build crazy machines from everyday objects and bizarre components. Use the elements (fire, water and wind) to discover all the fantastic possibilities available to you! Use the cloud machine and generate lightning, tornadoes and rain to complete your chain reactions; real physics will simultaneously be your best ally and your toughest enemy. 100 puzzles will get your brain buzzing, and the in-built editor and lots of new level packs will provide the puzzle fodder. Play in Challenge mode and find out who can make the coolest machine out of you and your friends. Get Crazy Machines Elements and become a nutty professor! Your lab awaits you...",
+        "short": "Hundreds of totally wacky chain reactions are just waiting to be created! Experience the latest chapter in the international, multi award-winning Crazy Machines series: “Elements”. This time with next gen visuals!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af7/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af7/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af7/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af7/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af7/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af7/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

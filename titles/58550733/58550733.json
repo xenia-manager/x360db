@@ -1,0 +1,35 @@
+{
+    "id": "58550733",
+    "title": {
+        "full": "Finish 2 Colors",
+        "reduced": "Finish 2 Colors"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "RicolaVG",
+    "publisher": "RicolaVG",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. The sequal to Finish. Finish 2: Colors offers new levels and a whole different way to play. Use A,B,X,Y to control your colors and reach each mark. Test your skills.",
+        "short": "The sequal to Finish. Finish 2: Colors offers new levels and a whole different way to play. Use A,B,X,Y to control your colors and reach each mark. Test your skills."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550733/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550733_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550733/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550733_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550733_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550733_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550733_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

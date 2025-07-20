@@ -1,0 +1,30 @@
+{
+    "id": "584107D4",
+    "title": {
+        "full": "Arcade Sessions",
+        "reduced": "Arcade Sessions"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Developer string",
+    "publisher": "Xbox LIVE Arcade",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "sell text",
+        "short": "sell text"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d4/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

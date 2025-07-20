@@ -1,0 +1,35 @@
+{
+    "id": "585501C6",
+    "title": {
+        "full": "RBR - Fading Memories",
+        "reduced": "RBR - Fading Memories"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Von Chrono",
+    "publisher": "Von Chrono",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Artificial brain implants are a necessity for most. With it brings benefits but also danger. If someone were to find themselves the target of mass mental attacks, this would cause a system overload if continually maintained. Your duty is to prolong the life of a person undergoing mental attacks. During this time, collect as many memories as possible before complete system shutdown occurs.",
+        "short": "Artificial brain implants are a necessity for most. With it brings benefits but also danger. If someone were to find themselves the target of mass mental attacks, this would cause a system overload if continually maintained. Your duty is to prolong the life of a person undergoing mental attacks. During this time, collect as many memories as possible before complete system shutdown occurs."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585501c6/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585501C6_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585501c6/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585501C6_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501C6_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501C6_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501C6_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

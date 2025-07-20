@@ -1,0 +1,48 @@
+{
+    "id": "4541084F",
+    "title": {
+        "full": "Army of Two Asia",
+        "reduced": "Army of Two Asia"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Electronic Arts Montreal",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-02-22",
+    "user_rating": null,
+    "description": {
+        "full": "When one man is not enough, it will take an army of two to fight through war, political turmoil and a conspiracy so vast it threatens the entire world.  Some multi-player functionalities may no longer be supported.",
+        "short": "When one man is not enough, it will take an army of two to fight through war, political turmoil and a conspiracy so vast it threatens the entire world.  Some multi-player functionalities may no longer be supported."
+    },
+    "media": [
+        {
+            "media_id": "418BEE5C",
+            "title": "Army of Two",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "7EE7066A",
+            "title": "Army of Two",
+            "edition": "Original",
+            "region": "Korea"
+        }
+    ],
+    "artwork": {
+        "background": null,
+        "banner": null,
+        "boxart": null,
+        "icon": null,
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454107F8",
+                "title": "Army of Two"
+            }
+        ],
+        "related": []
+    }
+}

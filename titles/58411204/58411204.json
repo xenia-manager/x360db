@@ -1,0 +1,40 @@
+{
+    "id": "58411204",
+    "title": {
+        "full": "All Zombies Must Die",
+        "reduced": "All Zombies Must Die"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Doublesix",
+    "publisher": "Square Enix",
+    "release_date": "2011-12-28",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Go on!  Do it!  Spend those points!  Hurry up!: time is of the essence. Someone has to take care of all those zombies and who better to do that than a gifted gamer like yourself!  Think - in a short while - you could be blasting your way through ranks of brain-hungry monsters, making bizarre weapons and completing crazy quests. All that could be yours if you just buy the game!  Remember, All Zombies Must Die!  We need you!",
+        "short": "Boom, headshot! You’re all that stands between 6 billion zombies and the world’s supply of delicious, supple head-candy. Guide up to four players through the town of Deadhill and blast your way through ranks of brain-hungry monsters, making bizarre weapons and completing crazy quests. Imagine non-stop action vs the fun bits of an RPG, including classes, levelling, crafting, loot and an unrelenting, undead army. So reload your shotguns and lock up your brains: All Zombies Must Die!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411204/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411204/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411204/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411204/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411204/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411204/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411204/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411204/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411204/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411204/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411204/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411204/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411204/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

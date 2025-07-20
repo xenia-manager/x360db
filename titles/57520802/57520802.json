@@ -1,0 +1,63 @@
+{
+    "id": "57520802",
+    "title": {
+        "full": "Batman Arkham City",
+        "reduced": "Batman Arkham City"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Platformer"
+    ],
+    "developer": "Rocksteady Studios Ltd",
+    "publisher": "WB Games Inc.",
+    "release_date": "2011-10-18",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish, Russian, Japanese, Korean.  No escape from Arkham City…the sprawling super-prison in the heart of Gotham City, home to its most violent thugs and infamous super villains. With the lives of the innocent at stake, only one man can save them and bring justice to the streets of Gotham City…The Batman.",
+        "short": "No escape from Arkham City…with the lives of the innocent at stake, only one man can save them and bring justice to the streets of Gotham City…The Batman."
+    },
+    "media": [
+        {
+            "media_id": "7ACAB0B0",
+            "title": "Batman: Arkham City",
+            "edition": "Original",
+            "region": "World"
+        },
+        {
+            "media_id": "5D278B66",
+            "title": "Batman: Arkham City: Game of the Year Edition (Disc 1)",
+            "edition": "Original, Platinum Hits, Batman: Arkham Dual Pack",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "69B8A24F",
+            "title": "Batman: Arkham City: Game of the Year Edition (Disc 2)",
+            "edition": "Original, Platinum Hits, Batman: Arkham Dual Pack",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520802/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520802/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520802/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520802/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520802/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520802/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520802/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520802/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520802/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520802/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520802/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520802/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520802/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520802/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520802/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

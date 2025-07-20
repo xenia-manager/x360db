@@ -1,0 +1,35 @@
+{
+    "id": "58550E6D",
+    "title": {
+        "full": "TASSURUS 3012",
+        "reduced": "TASSURUS 3012"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Laser Disc studio",
+    "publisher": "Laser Disc studio",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Tassurus is a classic arcade generation thriller, with 65,845 training levels. No split screen here, two players can play on the same screen at the same time. Two players can either stand by each others side to the end, or turn on each other and go for it. Challenging weapons portals allow you to earn upgraded weapons by competing in one of the many gauntlet arenas.  www.laserdiscstudios.com.",
+        "short": "Tassurus is a classic arcade generation thriller, with 65,845 training levels. No split screen here, two players can play on the same screen at the same time. Two players can either stand by each others side to the end, or turn on each other and go for it. Challenging weapons portals allow you to earn upgraded weapons by competing in one of the many gauntlet arenas.  www.laserdiscstudios.com."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550e6d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E6D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e6d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E6D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E6D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E6D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E6D_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

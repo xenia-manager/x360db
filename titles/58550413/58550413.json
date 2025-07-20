@@ -1,0 +1,35 @@
+{
+    "id": "58550413",
+    "title": {
+        "full": "Princess Baker Palace",
+        "reduced": "Princess Baker Palace"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Ming Yee Iu",
+    "publisher": "Ming Yee Iu",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=2/3, Mature Content=1/3. Help the Princess Baker bake cakes and cookies by building baking machinery in her palace.",
+        "short": "Help the Princess Baker bake cakes and cookies by building baking machinery in her palace."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855041300000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550413_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550413/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550413_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550413_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550413_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550413_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "id": "4B4E0820",
+    "title": {
+        "full": "DEF JAM RAPSTAR",
+        "reduced": "DEF JAM RAPSTAR"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "Terminal Reality, Inc.",
+    "publisher": "Konami Digital Entertainment",
+    "release_date": "2010-10-05",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The ultimate MC experience, DEF JAM RAPSTAR is the only music game that focuses exclusively on Hip Hop, you and your social networks. With 45 tracks spanning the history of Hip Hop, DEF JAM RAPSTAR lets you rap along with friends in Party mode, polish your skills in Career, or use exclusive tracks by some of today’s hottest Hip Hop producers to create your own songs in Freestyle mode. Then by utilizing your Xbox LIVE Vision camera, DEF JAM RAPSTAR allows you to record your performance and use the in-game editing tools to create custom videos, which can be uploaded to the DEF JAM RAPSTAR Community.",
+        "short": "The ultimate MC experience, DEF JAM RAPSTAR is the only music game that focuses exclusively on Hip Hop, you and your social networks. With 45 tracks spanning the history of Hip Hop, DEF JAM RAPSTAR lets you rap along with friends in Party mode, polish your skills in Career, or use exclusive tracks by some of today’s hottest Hip Hop producers to create your own songs in Freestyle mode. Then by utilizing your Xbox LIVE Vision camera, DEF JAM RAPSTAR allows you to record your performance and use t…"
+    },
+    "media": [
+        {
+            "media_id": "676FD099",
+            "title": "Def Jam Rapstar",
+            "edition": "Original",
+            "region": "France"
+        },
+        {
+            "media_id": "32253A44",
+            "title": "Def Jam: Rapstar",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "3909C362",
+            "title": "Def Jam: Rapstar",
+            "edition": "Bundled with Microphone",
+            "region": "Europe"
+        },
+        {
+            "media_id": "19E7161C",
+            "title": "Def Jam: Rapstar",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0820/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0820/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0820/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0820/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

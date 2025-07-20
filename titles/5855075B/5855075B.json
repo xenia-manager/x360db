@@ -1,0 +1,35 @@
+{
+    "id": "5855075B",
+    "title": {
+        "full": "Avatar Karting",
+        "reduced": "Avatar Karting"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Juan Alberto Munoz",
+    "publisher": "Juan Alberto Munoz",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Go karting with your avatar! Put the pedal to the metal and drift your way to the checkered flag on 16 twisty circuits. Challenging AI, online multiplayer, global rankings, Turbo Boost, rewind function, and more, from the creator of Avatar Racedrome.",
+        "short": "Go karting with your avatar! Put the pedal to the metal and drift your way to the checkered flag on 16 twisty circuits. Challenging AI, online multiplayer, global rankings, Turbo Boost, rewind function, and more, from the creator of Avatar Racedrome."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855075b00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855075B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855075b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855075B_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855075B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855075B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855075B_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

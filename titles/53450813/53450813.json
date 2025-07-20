@@ -1,0 +1,66 @@
+{
+    "id": "53450813",
+    "title": {
+        "full": "BAYONETTA",
+        "reduced": "BAYONETTA"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "PlatinumGames",
+    "publisher": "Sega",
+    "release_date": "2009-06-23",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Xbox 360 iconic classic BAYONETTA; a game of 100% pure, unadulterated, climatic action. With powers far beyond the comprehension of mere mortals, our heroine Bayonetta fights countless enemies, evil forces and giant foes in brutal yet graceful ways.",
+        "short": "Xbox 360 iconic classic BAYONETTA; a game of 100% pure, unadulterated, climatic action. With powers far beyond the comprehension of mere mortals, our heroine Bayonetta fights countless enemies, evil forces and giant foes in brutal yet graceful ways."
+    },
+    "media": [
+        {
+            "media_id": "1BDF2032",
+            "title": "Bayonetta",
+            "edition": "Original, Collector's Edition",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "13130AF4",
+            "title": "Bayonetta",
+            "edition": "Original, Platinum Collection, Bundled with Xbox 360",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/7177/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/7177/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/7177/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/7177/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/7177/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/7177/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/7177/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/7177/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/7177/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/53450813/75adc115-ee95-4c80-ae5f-00d15dc8019f.PDF"
+        ]
+    }
+}

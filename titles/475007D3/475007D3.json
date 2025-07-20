@@ -1,0 +1,53 @@
+{
+    "id": "475007D3",
+    "title": {
+        "full": "Legendary",
+        "reduced": "Legendary"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Spark Unlimited",
+    "publisher": "Gamecock Media Group",
+    "release_date": "2008-11-04",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports  English. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Fight tooth and claw with machine gun and grenade as mythological creatures clash with the modern day in Legendary. The world is changed forever when Charles Deckard, an international art thief, is tricked into opening \"Pandora's Box\" by a secret society determined to harness its power. Engage vicious werewolves, griffons, firedrakes and more as you enter a full-scale war for humanity's survival. (Online Interactions Not Rated by the ESRB)",
+        "short": "Fight tooth and claw with machine gun and grenade as mythological creatures clash with the modern day in Legendary. The world is changed forever when Charles Deckard, an international art thief, is tricked into opening \"Pandora's Box\" by a secret society determined to harness its power. Engage vicious werewolves, griffons, firedrakes and more as you enter a full-scale war for humanity's survival."
+    },
+    "media": [
+        {
+            "media_id": "6E38B2BE",
+            "title": "Legendary",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "6E635BD8",
+            "title": "Legendary",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d3/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/12/b3/12b393a0-2748-4a1b-b440-4c3518831517.PDF?v=1#Legendary_GonD.P"
+        ]
+    }
+}

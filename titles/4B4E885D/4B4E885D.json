@@ -1,0 +1,44 @@
+{
+    "id": "4B4E885D",
+    "title": {
+        "full": "Castlevania Lords Of Shadow 2 Demo",
+        "reduced": "Castlevania LoS 2 Demo"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Mercury Steam Entertainment",
+    "publisher": "Konami Digital Entertainment",
+    "release_date": "2013-12-04",
+    "user_rating": null,
+    "description": {
+        "full": "Castlevania: Lords of Shadow revealed the origin of Dracula and his legendary connection to the Belmont clan. In Castlevania: Lords of Shadow 2 Dracula returns once again, weakened and yearning release from his immortal bonds. Facing a new powerful threat, He must reacquire his old powers to which only his castle holds the key. However, the famed Belmont clan also seek his ultimate destruction",
+        "short": "Castlevania: Lords of Shadow revealed the origin of Dracula and his legendary connection to the Belmont clan. In Castlevania: Lords of Shadow 2 Dracula returns once again, weakened and yearning release from his immortal bonds. Facing a new powerful threat, He must reacquire his old powers to which only his castle holds the key. However, the famed Belmont clan also seek his ultimate destruction"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e885d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e885d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e885d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e885d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e885d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e885d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e885d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e885d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e885d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e885d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e885d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e885d/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4B4E084D",
+                "title": "Castlevania: LoS 2"
+            }
+        ],
+        "related": []
+    }
+}

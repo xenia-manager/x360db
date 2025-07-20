@@ -1,0 +1,41 @@
+{
+    "id": "4B4D87F0",
+    "title": {
+        "full": "Summer Stars 2012 Demo",
+        "reduced": "Summer Stars 2012 Demo"
+    },
+    "genre": [
+        "Kinect",
+        "Sports & Recreation"
+    ],
+    "developer": "49Games",
+    "publisher": "Deep Silver",
+    "release_date": "2012-04-11",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Whether playing solo in the expansive career mode or competing with friends in the addictive four player multiplayer modes, Summer Stars 2012 brings you an exciting arcade-style sporting experience.  Take on a huge variety of summer sports and special challenges and see if you've got what it takes to bring home the gold this summer!",
+        "short": "Take on your friends or go it alone in a huge variety of summer sports & special challenges to see if you have what it takes to bring home the gold this summer!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d87f0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d87f0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d87f0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d87f0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d87f0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d87f0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d87f0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d87f0/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4B4D07EB",
+                "title": "Summer Stars 2012"
+            }
+        ],
+        "related": []
+    }
+}

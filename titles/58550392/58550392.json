@@ -1,0 +1,35 @@
+{
+    "id": "58550392",
+    "title": {
+        "full": "Holiday Trivia",
+        "reduced": "Holiday Trivia"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "JoMasta",
+    "publisher": "JoMasta",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Get in the Holiday Spirit with some Holiday-themed trivia! Play as your Avatar with up to 3 other friends or family members and enjoy hundreds of Holiday-related questions while listening to wonderful Holiday music! Fun for all ages!",
+        "short": "Get in the Holiday Spirit with some Holiday-themed trivia! Play as your Avatar with up to 3 other friends or family members and enjoy hundreds of Holiday-related questions while listening to wonderful Holiday music! Fun for all ages!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550392/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550392_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550392/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550392_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550392_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550392_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550392_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

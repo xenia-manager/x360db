@@ -1,0 +1,49 @@
+{
+    "id": "464507DD",
+    "title": {
+        "full": "Bound by Flame",
+        "reduced": "Bound by Flame"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Spiders",
+    "publisher": "Focus Home Interactive",
+    "release_date": "2014-05-08",
+    "user_rating": "3.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  In a desperate world ravaged by seven Ice Lords and their Deadarmy, you are Vulcan, a mercenary possessed by a flame demon.  In this RPG where all your choices lead to consequences, you will have to choose between unleashing the powers of the demon within, and rejecting the demonic influence that wants to claim your humanity. Freely develop your skills and combat style through three skill trees: swing the heavy weapons of the Fighter, wield the sneaky dual daggers of the Ranger, or use the devastating flame spells of the Pyromancer. Recruit companions who will live, love, hate and fight alongside you against the dreadful creatures of Vertiel, in spectacular and tactical real-time combat.  The bigger the danger, the greater the temptation to draw on the demon’s power at the cost of your soul… which way will YOU choose? ",
+        "short": "You are a mercenary possessed by a flame demon in a desperate world ravaged by seven Ice Lords. In this RPG where every choice counts, you will have to choose between unleashing the powers of the beast within and rejecting its demonic influence. Develop your character, abilities and combat style, and recruit companions who will fight alongside you, in real-time epic battles."
+    },
+    "media": [
+        {
+            "media_id": "77248B75",
+            "title": "Bound by Flame",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dd/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dd/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dd/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dd/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dd/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dd/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dd/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dd/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dd/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dd/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/464507dd/0/BBF_manuel_360_INT_digital.pdf"
+        ]
+    }
+}

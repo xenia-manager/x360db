@@ -1,0 +1,43 @@
+{
+    "id": "545408A5",
+    "title": {
+        "full": "Nickelodeon Dance 2",
+        "reduced": "Nickelodeon Dance 2"
+    },
+    "genre": [
+        "Family",
+        "Kinect",
+        "Music"
+    ],
+    "developer": "High Voltage Software",
+    "publisher": "2K Play",
+    "release_date": "2012-11-06",
+    "user_rating": "3.25",
+    "description": {
+        "full": "The Games on Demand version supports English. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". This game requires a Kinect™ Sensor. The dance party’s bigger than ever in Nickelodeon Dance 2! Dance alongside 20 Nickelodeon characters - TWICE as many as in the original game! Join new friends from Team Umizoomi and Bubble Guppies, as well as returning favorites from Dora the Explorer, The Fresh Beat Band and more!  Dance, sing and workout with all-new Nickelodeon songs and routines!  The dance moves are developed especially for kids with the guidance of an Emmy-recognized® children's dance choreographer.",
+        "short": "The dance party’s bigger than ever in Nickelodeon Dance 2! Dance alongside 20 Nickelodeon characters - TWICE as many as in the original game! Join new friends from Team Umizoomi and Bubble Guppies, as well as returning favorites from Dora the Explorer, The Fresh Beat Band and more!  Dance, sing and workout with all-new Nickelodeon songs and routines!  The dance moves are developed especially for kids with the guidance of an Emmy-recognized® children's dance choreographer."
+    },
+    "media": [
+        {
+            "media_id": "2D6E1ACF",
+            "title": "Nickelodeon Dance 2",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a5/1033/screenlg1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/545408a5/NickDance2_Eng_Manual_Final.pdf"
+        ]
+    }
+}

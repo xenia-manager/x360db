@@ -1,0 +1,50 @@
+{
+    "id": "465607D7",
+    "title": {
+        "full": "タユタマ-Kiss on my Deity-",
+        "reduced": "タユタマ-Kiss on my Deity-"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "5pb.Inc",
+    "publisher": "5pb.Inc",
+    "release_date": "2009-08-24",
+    "user_rating": "0.00",
+    "description": {
+        "full": "人間と「太転依（たゆたい）」の恋を描いた伝奇アドベンチャーゲーム。主人公、泉戸裕理の通う学校の校庭から\"太転依\"の文字が彫られた不思議な遺跡が出土される。偶然そこに訪れた裕理は、小さな物の怪と遭遇するのだが……。",
+        "short": "人間と「太転依（たゆたい）」の恋を描いた伝奇アドベンチャーゲーム。主人公、泉戸裕理の通う学校の校庭から\"太転依\"の文字が彫られた不思議な遺跡が出土される。偶然そこに訪れた裕理は、小さな物の怪と遭遇するのだが……。"
+    },
+    "media": [
+        {
+            "media_id": "69EFB1FF",
+            "title": "Tayutama: Kiss on My Deity",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d7/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d7/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d7/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d7/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d7/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d7/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d7/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d7/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

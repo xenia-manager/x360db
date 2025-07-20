@@ -1,0 +1,35 @@
+{
+    "id": "58550A71",
+    "title": {
+        "full": "LCD Dungeon System",
+        "reduced": "LCD Dungeon System"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "We Love Hamsters Software",
+    "publisher": "We Love Hamsters Software",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. A first person dungeon crawling adventure in the style of early 80s LCD gaming. Explore seven levels of monsters, treasure and teleportation traps to reclaim the crown of kings. No watch batteries required!",
+        "short": "A first person dungeon crawling adventure in the style of early 80s LCD gaming. Explore seven levels of monsters, treasure and teleportation traps to reclaim the crown of kings. No watch batteries required!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550a71/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A71_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a71/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A71_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A71_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A71_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A71_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

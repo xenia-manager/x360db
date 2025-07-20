@@ -1,0 +1,34 @@
+{
+    "id": "58550B86",
+    "title": {
+        "full": "Dead sea",
+        "reduced": "Dead sea"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "BM Games",
+    "publisher": "BM Games",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=2/3, Mature Content=3/3. A girl lost in the ocean infested by sharks. will you be able to make her survive,  swimming without drawing attention of sharks? You will face a new breed of sharks more deadly than the great white shark,  which leaves behind a trail of death and blood.",
+        "short": "A girl lost in the ocean infested by sharks. will you be able to make her survive,  swimming without drawing attention of sharks? You will face a new breed of sharks more deadly than the great white shark,  which leaves behind a trail of death and blood."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550b86/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B86_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b86/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B86_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B86_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B86_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "4D5309B2",
+    "title": {
+        "full": "Halo Legends",
+        "reduced": "Halo Legends"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "343 Industries",
+    "publisher": "Microsoft",
+    "release_date": "2010-10-18",
+    "user_rating": null,
+    "description": {
+        "full": "This sweeping science-fiction saga delves into the rich Halo universe with seven exciting stories (told in eight parts) including tales of Master Chief’s mysterious origins, the Spartans’ advanced combat capabilities and the tense rivalry between Spartans and Orbital Drop Shock Troopers (ODSTs).  Created in collaboration with some of the world’s leading animators from Japan, “Halo Legends” draws you into the center of humankind’s ongoing battles with the Covenant, dynamically depicted in cutting-edge animation styles that deliver breathtaking visuals and gripping adventure. Go beyond the game – and enter the world of “Halo Legends”. ",
+        "short": "This sweeping science-fiction saga delves into the rich Halo universe with seven exciting stories (told in eight parts) including tales of Master Chief’s mysterious origins, the Spartans’ advanced combat capabilities and the tense rivalry between Spartans and Orbital Drop Shock Troopers (ODSTs)."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5309b2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5309b2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5309b2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5309b2/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "543807E1",
+    "title": {
+        "full": "Full Spectrum Warrior Ten Hammers",
+        "reduced": "FSW2"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics",
+        "Shooter"
+    ],
+    "developer": "Pandemic Studios",
+    "publisher": "THQ Nordic",
+    "release_date": "2021-11-30",
+    "user_rating": null,
+    "description": {
+        "full": "The sequel to the critically acclaimed, squad-based/real-time tactical combat game, Full Spectrum Warrior™: Ten Hammers delivers the most authentic and realistic infantry combat experience ever. As Squad Leader, coordinate the actions of multiple infantry squads, leading them through more than 12 levels of intense action.  Use authentic combat tactics to command your squad as you battle enemies with an explosive arsenal of weapons, high-tech military equipment, and new controllable mechanized units. New advanced squad controls give you more in-depth tactical command over your squad as you lead them through a variety of realistic combat missions.",
+        "short": "The sequel to the critically acclaimed, squad-based/real-time tactical combat game, Full Spectrum Warrior™: Ten Hammers delivers the most authentic and realistic infantry combat experience ever. As Squad Leader, coordinate the actions of multiple infantry squads, leading them through more than 12 levels of intense action."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d802543807e1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d802543807e1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d802543807e1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d802543807e1/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

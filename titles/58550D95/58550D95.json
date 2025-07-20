@@ -1,0 +1,35 @@
+{
+    "id": "58550D95",
+    "title": {
+        "full": "Retro Racer Combat",
+        "reduced": "Retro Racer Combat"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Flump Studios",
+    "publisher": "Flump Studios",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Say hello to Retro Racer Combat, our little love letter to the classic 8-bit racing combat genre.  Race through 6 different levels, avoiding traffic and taking down the level bosses with your cannons.  Created by Paul Marrable  With music from Dylan Barry",
+        "short": "Say hello to Retro Racer Combat, our little love letter to the classic 8-bit racing combat genre.  Race through 6 different levels, avoiding traffic and taking down the level bosses with your cannons.  Created by Paul Marrable  With music from Dylan Barry"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550d95/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D95_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d95/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D95_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D95_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D95_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D95_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

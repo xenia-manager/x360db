@@ -1,0 +1,35 @@
+{
+    "id": "58550519",
+    "title": {
+        "full": "meds",
+        "reduced": "meds"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "stevec0re",
+    "publisher": "stevec0re",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=3/3. Meds: Recommended Dosage 100mg 3 times daily. Classic retro-style gameplay with the only enemy being your mind. 50 levels of madness, each with randomly generated withdrawal symptoms.  Caution: you may never have the same experience twice. Taking pills may help, but beware of unexpected side effects. Taking meds with a friend may result in versus mode, so be sure to divide up your dosage evenly.",
+        "short": "Meds: Recommended Dosage 100mg 3 times daily. Classic retro-style gameplay with the only enemy being your mind. 50 levels of madness, each with randomly generated withdrawal symptoms.  Caution: you may never have the same experience twice. Taking pills may help, but beware of unexpected side effects. Taking meds with a friend may result in versus mode, so be sure to divide up your dosage evenly."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550519/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550519_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550519/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550519_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550519_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550519_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550519_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

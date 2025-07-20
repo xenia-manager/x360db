@@ -1,0 +1,35 @@
+{
+    "id": "58550AEB",
+    "title": {
+        "full": "Miner Warfare",
+        "reduced": "Miner Warfare"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "HeartBit Interactive",
+    "publisher": "HeartBit Interactive",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=0/3. MINER WARFARE is a frantic 2D shooting and digging multiplayer experience. With the innovative 2 player per controller system up to 8 miners can dig their way through dirt blocks and other miners in order to be the wealthiest at the end of the match. Ten maps, 28 weapons, up to 8 players (yep, 8 players with 4 controllers) and only 1$, MINER WARFARE is the perfect couch game friendship breaker!",
+        "short": "MINER WARFARE is a frantic 2D shooting and digging multiplayer experience. With the innovative 2 player per controller system up to 8 miners can dig their way through dirt blocks and other miners in order to be the wealthiest at the end of the match. Ten maps, 28 weapons, up to 8 players (yep, 8 players with 4 controllers) and only 1$, MINER WARFARE is the perfect couch game friendship breaker!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550aeb/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550AEB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550aeb/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550AEB_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AEB_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AEB_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AEB_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

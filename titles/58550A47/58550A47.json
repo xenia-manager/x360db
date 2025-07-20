@@ -1,0 +1,33 @@
+{
+    "id": "58550A47",
+    "title": {
+        "full": "Smarter Than A Cheerleader",
+        "reduced": "Smarter Than A Cheerleader"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Jason Keiderling",
+    "publisher": "Jason Keiderling",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=1/3, Mature Content=0/3. Are you smarter than a cheerleader?  Find out as you compete against cheerleaders in a battle of knowledge across 15 categories.",
+        "short": "Are you smarter than a cheerleader?  Find out as you compete against cheerleaders in a battle of knowledge across 15 categories."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550a47/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A47_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a47/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A47_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A47_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

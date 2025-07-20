@@ -1,0 +1,35 @@
+{
+    "id": "5855021B",
+    "title": {
+        "full": "Cold War Commander",
+        "reduced": "Cold War Commander"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "ChefTeslaCoil",
+    "publisher": "ChefTeslaCoil",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. The year is 198X and the first Cold War rages on.  As President Ronald Reagan you must eat jellybeans and punch the Berlin Wall into submission.  You are the caretaker of freedom.  You are the Cold War Commander. Complete with BONUS Controller Massage and Controller Race turbo xtreme minigames!",
+        "short": "The year is 198X and the first Cold War rages on.  As President Ronald Reagan you must eat jellybeans and punch the Berlin Wall into submission.  You are the caretaker of freedom.  You are the Cold War Commander. Complete with BONUS Controller Massage and Controller Race turbo xtreme minigames!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855021b/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855021B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855021b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855021B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855021B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855021B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855021B_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

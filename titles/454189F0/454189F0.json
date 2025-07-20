@@ -1,0 +1,35 @@
+{
+    "id": "454189F0",
+    "title": {
+        "full": "EA SPORTS FIFA 16 Downloadable Demo",
+        "reduced": "EA SPORTS FIFA 16 Downloadable Demo"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "release_date": "2015-09-08",
+    "user_rating": "4.00",
+    "description": {
+        "full": "FIFA 16 innovates across the entire pitch to deliver a balanced, authentic, and exciting football experience that lets you play your way, and compete at a higher level. And with all new ways to play!  With innovative gameplay features, FIFA 16 brings Confidence in Defending, Control in Midfield, and gives you the tools to create more Moments of Magic than ever before. Fans new to the franchise, or skilled players looking to improve their game will have a chance to Compete at a Higher Level using the all new FIFA Trainer. Innovation Across the Entire Pitch. New Ways to Play. Compete at a Higher Level.  Play Beautiful in FIFA 16. ",
+        "short": "FIFA 16 innovates across the entire pitch to deliver a balanced, authentic, and exciting football experience that lets you play your way, and compete at a higher level. FIFA 16 – Play Beautiful."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189f0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189f0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189f0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189f0/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454109EE",
+                "title": "EA SPORTS™ FIFA 16"
+            }
+        ],
+        "related": []
+    }
+}

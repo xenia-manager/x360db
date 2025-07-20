@@ -1,0 +1,35 @@
+{
+    "id": "58550953",
+    "title": {
+        "full": "Air Combat Desert Aces",
+        "reduced": "Air Combat Desert Aces"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Strange Games",
+    "publisher": "Strange Games",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Take to the skies over North Africa in a P-47 Thunderbolt to defend against the German Luftwaffe.  Attempt to break past their fighters and destroy their base while your squadron provides cover.  Your armament includes wing mounted .50 cal machine guns and the option to equip a variety of rockets and heavy bombs.",
+        "short": "Take to the skies over North Africa in a P-47 Thunderbolt to defend against the German Luftwaffe.  Attempt to break past their fighters and destroy their base while your squadron provides cover.  Your armament includes wing mounted .50 cal machine guns and the option to equip a variety of rockets and heavy bombs."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855095300000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550953_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550953/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550953_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550953_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550953_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550953_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

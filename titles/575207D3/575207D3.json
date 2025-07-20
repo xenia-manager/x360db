@@ -1,0 +1,67 @@
+{
+    "id": "575207D3",
+    "title": {
+        "full": "FEAR 2",
+        "reduced": "FEAR 2"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Monolith Productions, Inc.",
+    "publisher": "Warner Bros.",
+    "release_date": "2009-02-10",
+    "user_rating": "4.25",
+    "description": {
+        "full": "What starts off as a routine mission to locate a corrupt executive turns into a non-stop struggle to survive as Sgt. Michael Becket comes face to face with Alma, a vengeful force growing ever more powerful.  (Online Interactions Not Rated by the ESRB)",
+        "short": "What starts off as a routine mission to locate a corrupt executive turns into a non-stop struggle to survive as Sgt. Michael Becket comes face to face with Alma, a vengeful force growing ever more powerful."
+    },
+    "media": [
+        {
+            "media_id": "23DC3D80",
+            "title": "F.E.A.R. 2: Project Origin",
+            "edition": "Original, Promo",
+            "region": "Europe"
+        },
+        {
+            "media_id": "110FED67",
+            "title": "F.E.A.R. 2: Project Origin",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "47FF209F",
+            "title": "F.E.A.R. 2: Project Origin",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/79/04/7904332c-3e0c-4f10-87d3-34e7064d49fe.PDF?v=1#fear2-en.PDF"
+        ]
+    }
+}

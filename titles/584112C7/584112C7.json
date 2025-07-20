@@ -1,0 +1,38 @@
+{
+    "id": "584112C7",
+    "title": {
+        "full": "Castle of Illusion Starring Mickey Mouse",
+        "reduced": "Castle of Illusion"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics",
+        "Platformer"
+    ],
+    "developer": "Sega Studios Australia",
+    "publisher": "SEGA",
+    "release_date": "2013-09-04",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Mickey Mouse returns to star in Castle of Illusion, a fantastical reimagining of the Sega Genesis classic. With all-new HD graphics and gameplay, Castle of Illusion brings Mickey and his world to life in this magical Disney adventure!  When the evil witch Mizrabel kidnaps Minnie, it’s up to Mickey to brave the dangers of the Castle of Illusion to rescue Minnie.  Gather your courage and traverse enchanted forests, take on hordes of rebellious toys and navigate mazes of living books.  Play as Mickey and save Minnie from Mizrabel’s evil clutches!  Features: - Play as Mickey Mouse in this reimagining of the classic Sega Genesis/Mega Drive game.  - Experience a world of wonder, brought to life with all-new graphics and magical adventures. - Journey across five magical worlds filled with Mizrabel’s powerful minions. - Complete hidden challenges to customize Mickey with classic costumes! ",
+        "short": "Mickey Mouse returns to star in Castle of Illusion, a fantastical reimagining of the Sega Genesis classic. With all-new HD graphics and gameplay, Castle of Illusion brings Mickey and his world to life in this magical Disney adventure! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c7/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

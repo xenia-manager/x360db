@@ -1,0 +1,30 @@
+{
+    "id": "4D5387FB",
+    "title": {
+        "full": "ロストオデッセイ 体験版",
+        "reduced": "ロストオデッセイ 体験版"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "ミストウォーカー／フィールプラス",
+    "publisher": "Microsoft",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "坂口博信氏 (ミストウォーカー) を中心に、井上雄彦氏、重松清氏、植松伸夫氏ら各業界一流のスタッフが垣根を越えて結集して織り成す新世代の RPG。",
+        "short": "坂口博信氏 (ミストウォーカー) を中心に、井上雄彦氏、重松清氏、植松伸夫氏ら各業界一流のスタッフが垣根を越えて結集して織り成す新世代の RPG。"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5387fb/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5387fb/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5387fb/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5387fb/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

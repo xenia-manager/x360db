@@ -1,0 +1,72 @@
+{
+    "id": "4B4F07D5",
+    "title": {
+        "full": "SAMURAI WARRIORS 2",
+        "reduced": "SAMURAI WARRIORS 2"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "TECMO KOEI GAMES.CO.,LTD",
+    "publisher": "TECMO KOEI AMERICA Corporation",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Tctical action returns to feudal Japan! Online vs play makes its Xbox Live debut!",
+        "short": "Tactical action returns to feudal Japan! Online vs play makes its Xbox Live debut!"
+    },
+    "media": [
+        {
+            "media_id": "6EBE8410",
+            "title": "Samurai Warriors 2",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "02F39967",
+            "title": "Sengoku Musou 2",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "29484048",
+            "title": "Sengoku Musou 2 with Moushouden",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d5/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4b4f07d5/SW2_360GonD_ENG.pdf"
+        ]
+    }
+}

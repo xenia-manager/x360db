@@ -1,0 +1,35 @@
+{
+    "id": "5855054B",
+    "title": {
+        "full": "Zombie Sniper HD",
+        "reduced": "Zombie Sniper HD"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Frozen Software",
+    "publisher": "Frozen Software",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=3/3. Official Dream Build Play 2010 entry.  A fast paced arcade style shooter.  Play one of three modes: Arcade, Story, and Challenge Mode.  Kill as many zombies as you can, chaining combo shots together for bonus points! Protect civilians to complete your mission.  Purchase the game to unlock the Challenge Mode!",
+        "short": "Official Dream Build Play 2010 entry.  A fast paced arcade style shooter.  Play one of three modes: Arcade, Story, and Challenge Mode.  Kill as many zombies as you can, chaining combo shots together for bonus points! Protect civilians to complete your mission.  Purchase the game to unlock the Challenge Mode!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855054b00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855054B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855054b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855054B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855054B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855054B_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855054B_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

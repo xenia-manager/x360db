@@ -1,0 +1,56 @@
+{
+    "id": "5A5007D1",
+    "title": {
+        "full": "Minute To Win It",
+        "reduced": "Minute To Win It"
+    },
+    "genre": [
+        "Avatar",
+        "Family",
+        "Independent & Music Videos",
+        "Kinect",
+        "Sports & Recreation",
+        "TV Shows",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "SDP Games",
+    "publisher": "Zoo Games",
+    "release_date": "2012-05-29",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports  English.  Do you have nerves of steel and enough nimble moves to win $1,000,000? •Jump into the action using your Xbox 360® KINECT™ Sensor. •Compete in 20 EXCITING CHALLENGES taken right from the show including Card Ninja, Broomski Ball and Go the Distance! •Features the VOICE AND LIKENESS OF GUY FIERI, celebrity chef and host of NBC's hit show, Minute To Win It. •Play using your XBOX 360 AVATAR.  •Choose from four SINGLE-PLAYER modes and six MULTI-PLAYER modes including 2-player co-op and 4-player turn-based action. ",
+        "short": "Do you have nerves of steel and enough nimble moves to win $1,000,000? "
+    },
+    "media": [
+        {
+            "media_id": "3DB6CE43",
+            "title": "Minute to Win It",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a5007d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a5007d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a5007d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a5007d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a5007d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a5007d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a5007d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a5007d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a5007d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a5007d1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a5007d1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a5007d1/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a5007d1/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a5007d1/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/5a5007d1/MinuteToWinIt_Xbox360_Kinect_US_Manual_Revised.pdf"
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": "565107D7",
+    "title": {
+        "full": "HISTORY Legends of War Patton",
+        "reduced": "Legends of War"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Enigma Software Productions",
+    "publisher": "Maximum Games",
+    "release_date": "2012-11-06",
+    "user_rating": "4.25",
+    "description": {
+        "full": "In this epic turn-based strategy game you will follow the paths of General Patton during WWII, leading your troops to battle while traversing Western Europe’s devastated land. Gain prestige points and use them to enhance your army, acquiring advanced weapons and gear. Play through four different types of missions: Attack, Defense, Infiltration, and Sabotage. From the French beaches to Belgium, you will have to prove your worth as a member of Patton’s Third Army, and fight for victory!",
+        "short": "Advance along the historical course of General Patton’s Third Army in this epic turn-based strategy game. Lead your troops through the exact paths that Patton traveled during WWII as you successfully complete different operations while traversing the Western European Theater. "
+    },
+    "media": [
+        {
+            "media_id": "672BD661",
+            "title": "History Legends of War: Patton",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d7/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

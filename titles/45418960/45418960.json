@@ -1,0 +1,49 @@
+{
+    "id": "45418960",
+    "title": {
+        "full": "Crysis 2 Multiplayer Demo",
+        "reduced": "Crysis 2 Multiplayer Demo"
+    },
+    "genre": [
+        "Classics",
+        "Shooter"
+    ],
+    "developer": "Crytek",
+    "publisher": "Electronic Arts",
+    "release_date": "2011-03-01",
+    "user_rating": "4.75",
+    "description": {
+        "full": "Improved and extended with an all new map: Pier 17, and featuring 2 game modes, 5 classes, 10 ranks and multiple weapons. Use the unique Strength, Agility and Stealth abilities of the Nanosuit 2 as you compete head-to-head in fast paced 6 Vs 6 multiplayer combat. ",
+        "short": "Improved and extended with an all new map: Pier 17, and featuring 2 game modes, 5 classes, 10 ranks and multiple weapons. Use the unique Strength, Agility and Stealth abilities of the Nanosuit 2 as you compete head-to-head in fast paced 6 Vs 6 multiplayer combat. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418960/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418960/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418960/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418960/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418960/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418960/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418960/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418960/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418960/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418960/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418960/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418960/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418960/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418960/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418960/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418960/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454108E3",
+                "title": "Crysis 2"
+            }
+        ],
+        "related": []
+    }
+}

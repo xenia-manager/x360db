@@ -1,0 +1,48 @@
+{
+    "id": "484507DA",
+    "title": {
+        "full": "Rugby League Live 3",
+        "reduced": "Rugby League Live 3"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Big Ant Studios Pty Ltd",
+    "publisher": "Home Entertainment Suppliers Pty Ltd",
+    "release_date": "2015-09-17",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French.  Instructions: http://www.trublu.com.au/manuals/rll3/xbox360/rll3xbox360manual.pdf  It’s Footy season and this is Rugby League Live 3!!! • All 2014/2015 rule changes, updates to current 2015 rosters and team uniforms. • Over 100 teams from Rugby League competitions around the world including the NRL, Super League, Holden Cup, and many more. • New Career mode with Be A Pro - take a Forward or a Back through the ranks of a U20 team into a full professional squad. • Dynamic Tackling System: Fend and break tackle your way past multiple defenders and use the new dynamic Struggle and Drag system to burst over the line to score or alternatively drag them into touch!    • Instant Replay System including super slow-mo and user defined camera placement – get right into the action! • Enhanced online play including filtering by locality and Online Tournaments. • Dynamic time of day lighting with full sun movement and weather system giving dusk to night progress and mid game rain. • New Experience System: Earn badges and experience both online and off to rise to the top of the leaderboards. • FanHub Player Sharing – create your own players and teams and share them online across all supported platforms.",
+        "short": "It’s Footy season and this is Rugby League Live 3!!! Featuring: Be a Pro mode, Fanhub Player Sharing, a Dynamic Tacking System and Action replay! Plus all 2014/2015 rule changes, updates to current 2015 rosters and team uniforms."
+    },
+    "media": [
+        {
+            "media_id": "2C99BD40",
+            "title": "Rugby League Live 3",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507da/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507da/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507da/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507da/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507da/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507da/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507da/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507da/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507da/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507da/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507da/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507da/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507da/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507da/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

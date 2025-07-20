@@ -1,0 +1,36 @@
+{
+    "id": "555387DA",
+    "title": {
+        "full": "King Kong Demo",
+        "reduced": "King Kong Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "UbiSoft",
+    "release_date": null,
+    "user_rating": null,
+    "description": {
+        "full": "- Play both Jack and Kong - No interface to ensure better immersion – get the real cinematic feeling by being in the centre of the action. - Go deeper in Skull Island than the movie, the game features Peter Jackson approved creatures that will not be shown in the movie.",
+        "short": "- Play both Jack and Kong - No interface to ensure better immersion – get the real cinematic feeling by being in the centre of the action. - Go deeper in Skull Island than the movie, the game features Peter Jackson approved creatures that will not be shown in the movie."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.555387da/marketplace/0/1",
+        "boxart": null,
+        "icon": "http://avatar.xboxlive.com/global/t.555387da/icon/0/8000",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "555307D3",
+                "title": "Peter Jacksons King Kong"
+            }
+        ],
+        "related": []
+    }
+}

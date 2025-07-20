@@ -1,0 +1,65 @@
+{
+    "id": "4E4D080A",
+    "title": {
+        "full": "マグナカルタ2",
+        "reduced": "マグナカルタ2"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "SOFTMAX CO.,LTD.",
+    "publisher": "株式会社バンダイナムコエンターテインメント",
+    "release_date": "2010-01-09",
+    "user_rating": "4.00",
+    "description": {
+        "full": "「マグナカルタ2」は、前作に引き続きキャラクターデザインをキム・ヒョンテが担当し、一新された魅力的なキャラクターたちや壮大な世界観、そしてフィールドの区分なく行われるシームレスで小気味良い戦闘や多彩なクエスト、美しいムービーなどをふんだんに盛り込んだ完全新作の愛と憎しみのRPGです。",
+        "short": "「マグナカルタ2」は、前作に引き続きキャラクターデザインをキム・ヒョンテが担当し、一新された魅力的なキャラクターたちや壮大な世界観、そしてフィールドの区分なく行われるシームレスで小気味良い戦闘や多彩なクエスト、美しいムービーなどをふんだんに盛り込んだ完全新作の愛と憎しみのRPGです。"
+    },
+    "media": [
+        {
+            "media_id": "08264E29",
+            "title": "Magnacarta II (Disc 1)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "6D49B693",
+            "title": "Magnacarta II (Disc 2)",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080a/1033/screenlg16.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4E4D080B",
+                "title": "Magnacarta2"
+            }
+        ],
+        "related": []
+    }
+}

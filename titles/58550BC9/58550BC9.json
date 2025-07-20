@@ -1,0 +1,35 @@
+{
+    "id": "58550BC9",
+    "title": {
+        "full": "Oozi Earth Adventure Ep 4",
+        "reduced": "Oozi Earth Adventure Ep 4"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "AwesomeGamesStudio",
+    "publisher": "AwesomeGamesStudio",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. The final episode of Oozi's adventure is here! Oozi: Earth Adventure is where classic platforming fun meets modern visuals and hand-drawn art. Lots of special abilities, dozens of enemies, extra difficult challenge mode and time limited arcade mode specially for hardcore gamers. All that for only 80 MSP, a must have for all platformer fans!",
+        "short": "The final episode of Oozi's adventure is here! Oozi: Earth Adventure is where classic platforming fun meets modern visuals and hand-drawn art. Lots of special abilities, dozens of enemies, extra difficult challenge mode and time limited arcade mode specially for hardcore gamers. All that for only 80 MSP, a must have for all platformer fans!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550bc9/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550BC9_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550bc9/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550BC9_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BC9_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BC9_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BC9_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

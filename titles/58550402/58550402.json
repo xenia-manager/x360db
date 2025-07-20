@@ -1,0 +1,35 @@
+{
+    "id": "58550402",
+    "title": {
+        "full": "Dreams of Witchtown",
+        "reduced": "Dreams of Witchtown"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Frozen Software",
+    "publisher": "Frozen Software",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=1/3, Mature Content=1/3. Dreams of Witchtown is a 2D side scrolling action RPG. Players join elderly witch Aurora, as she embarks on a quest to save her world from the sinister forces trying to destroy it.  Defeat your enemies, increase your level, and save your progress; all with one foot in the grave!",
+        "short": "Dreams of Witchtown is a 2D side scrolling action RPG. Players join elderly witch Aurora, as she embarks on a quest to save her world from the sinister forces trying to destroy it.  Defeat your enemies, increase your level, and save your progress; all with one foot in the grave!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855040200000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550402_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550402/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550402_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550402_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550402_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550402_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

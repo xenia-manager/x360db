@@ -1,0 +1,42 @@
+{
+    "id": "54540832",
+    "title": {
+        "full": "Bully",
+        "reduced": "Bully"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Rockstar Games",
+    "publisher": "2K Games",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Bully: Scholarship Edition takes place at the fictional New England boarding school, Bullworth Academy and tells the story of mischievous 15-year-old Jimmy Hopkins as he goes through the hilarity and awkwardness of adolescence. Beat the jocks at dodge ball, prank the preppies, save the nerds, kiss the girl and ultimately navigate the social hierarchy in the worst school around. ",
+        "short": "Bully: Scholarship Edition takes place at the fictional New England boarding school, Bullworth Academy and tells the story of mischievous 15-year-old Jimmy Hopkins as he goes through the hilarity and awkwardness of adolescence. Beat the jocks at dodge ball, prank the preppies, save the nerds, kiss the girl and ultimately navigate the social hierarchy in the worst school around. "
+    },
+    "media": [
+        {
+            "media_id": "14B3B85C",
+            "title": "Bully",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540832/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540832/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540832/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540832/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5454081A",
+                "title": "Bully Scholarship Ed"
+            }
+        ],
+        "related": []
+    }
+}

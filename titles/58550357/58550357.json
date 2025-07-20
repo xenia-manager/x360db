@@ -1,0 +1,32 @@
+{
+    "id": "58550357",
+    "title": {
+        "full": "Mr BeatLoop",
+        "reduced": "Mr BeatLoop"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "WickedWorx",
+    "publisher": "WickedWorx",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Create music quickly on your Xbox 360. Best viewed as a fun music/sketch toy, Mr BeatLoop lets you create loops using 3 different drum kits and 8 different instruments. Edit the loops in real time, change the speed, save and load your best ideas! Designed with absolute ease of use and fun in mind - Mr BeatLoop is great for sketching up quick musical ideas, or just experimenting!",
+        "short": "Create music quickly on your Xbox 360. Best viewed as a fun music/sketch toy, Mr BeatLoop lets you create loops using 3 different drum kits and 8 different instruments. Edit the loops in real time, change the speed, save and load your best ideas! Designed with absolute ease of use and fun in mind - Mr BeatLoop is great for sketching up quick musical ideas, or just experimenting!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855035700000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550357_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550357/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550357_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

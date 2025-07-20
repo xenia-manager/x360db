@@ -1,0 +1,33 @@
+{
+    "id": "58550A6F",
+    "title": {
+        "full": "Avatar Onslaught 2",
+        "reduced": "Avatar Onslaught 2"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Lighthouse Games Studio",
+    "publisher": "Lighthouse Games Studio",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Brace yourself for a massive onslaught of evil avatars. Take on the horde alone or get help with the online CO-OP mode. Level your character and compete against the world with global scoreboards. See you on the battlefield!",
+        "short": "Brace yourself for a massive onslaught of evil avatars. Take on the horde alone or get help with the online CO-OP mode. Level your character and compete against the world with global scoreboards. See you on the battlefield!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550a6f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A6F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a6f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A6F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A6F_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

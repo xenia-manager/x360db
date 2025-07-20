@@ -1,0 +1,66 @@
+{
+    "id": "555307D5",
+    "title": {
+        "full": "Tom Clancys Ghost Recon Advanced Warfighter",
+        "reduced": "TCs GRAW"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter",
+        "Strategy & Simulation"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2010-08-03",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". The face of war has changed. New enemies and new threats require a new type of warfare - a new type of soldier. Enter the Ghosts.    Become the soldier of the future:  Using a fully integrated combat system with cutting-edge weapons and revolutionary communication systems, gain a realistic view of how war will be fought in the next decade.    Customizable multiplayer experience and Unique Online Co-op Campaign: Create your own identity, create your own gametypes, and take the battle online with up to 16 players. Then, play a brand new campaign created exclusively for online coop play. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "The face of war has changed. New enemies and new threats require a new type of warfare - a new type of soldier. Enter the Ghosts.    Become the soldier of the future:  Using a fully integrated combat system with cutting-edge weapons and revolutionary communication systems, gain a realistic view of how war will be fought in the next decade.    Customizable multiplayer experience and Unique Online Co-op Campaign: Create your own identity, create your own gametypes, and take the battle online …"
+    },
+    "media": [
+        {
+            "media_id": "6E367319",
+            "title": "Tom Clancy's Ghost Recon: Advanced Warfighter",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "617C5216",
+            "title": "Tom Clancy's Ghost Recon: Advanced Warfighter",
+            "edition": "Original, Tom Clancy's Ghost Recon Trilogy",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/2057/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/2057/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/2057/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/2057/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/2057/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/2057/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/2057/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/2057/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/2057/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d5/2057/screenlg18.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/555307d5/9888ec48-bd47-4d5f-a04e-a37cc8cab94e.PDF"
+        ]
+    }
+}

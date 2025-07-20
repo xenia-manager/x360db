@@ -1,0 +1,49 @@
+{
+    "id": "465607DC",
+    "title": {
+        "full": "CHAOSHEAD らぶChuChu",
+        "reduced": "CHAOSHEAD らぶChuChu"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Other"
+    ],
+    "developer": "5pb.",
+    "publisher": "5pb.",
+    "release_date": "2010-03-04",
+    "user_rating": "4.50",
+    "description": {
+        "full": "妄想科学ADV『CHAOS;HEAD』をもうちょっとプレイしたい！ そんな貴方に送る妄想爆裂ADV 『CHAOS;HEAD　らぶChu☆Chu！』  　2008年4月にPC版・2009年2月にXbox 360版を発売し、好評を博した『CHAOS;HEAD』がラブコメディとなって登場。 リア充を志した拓巳が前作ではありえなかった物語を繰り広げます。一味違った『CHAOS;HEAD』をお楽しみ下さい。",
+        "short": "妄想科学ADV『CHAOS;HEAD』をもうちょっとプレイしたい！ そんな貴方に送る妄想爆裂ADV 『CHAOS;HEAD　らぶChu☆Chu！』  　2008年4月にPC版・2009年2月にXbox 360版を発売し、好評を博した『CHAOS;HEAD』がラブコメディとなって登場。 リア充を志した拓巳が前作ではありえなかった物語を繰り広げます。一味違った『CHAOS;HEAD』をお楽しみ下さい。"
+    },
+    "media": [
+        {
+            "media_id": "0ABB8791",
+            "title": "Chaos;Head Love Chu Chu!",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607dc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607dc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607dc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607dc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607dc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607dc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607dc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607dc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607dc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607dc/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607dc/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607dc/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607dc/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607dc/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

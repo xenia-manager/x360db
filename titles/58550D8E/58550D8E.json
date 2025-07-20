@@ -1,0 +1,35 @@
+{
+    "id": "58550D8E",
+    "title": {
+        "full": "BB Fatfree",
+        "reduced": "BB Fatfree"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "BigCorporation",
+    "publisher": "BigCorporation",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=3/3. online CO-OP Survival Game with Epic Boss battles,  Mini-Boss battles, while fighting up to 300 zombie pigs. Unlock and equip an assortment of weapons and pickups to defend yourself against waves of undead zombies. Can you survive 50+ Days and Nights of blood and carnage?  This is a 1st-Person-Shooter and 3rd-Person-Shooter !!",
+        "short": "online CO-OP Survival Game with Epic Boss battles,  Mini-Boss battles, while fighting up to 300 zombie pigs. Unlock and equip an assortment of weapons and pickups to defend yourself against waves of undead zombies. Can you survive 50+ Days and Nights of blood and carnage?  This is a 1st-Person-Shooter and 3rd-Person-Shooter !!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550d8e00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D8E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d8e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D8E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D8E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D8E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D8E_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

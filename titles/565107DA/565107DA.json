@@ -1,0 +1,44 @@
+{
+    "id": "565107DA",
+    "title": {
+        "full": "Serious Sam Collection",
+        "reduced": "Serious Sam"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Croteam",
+    "publisher": "Maximum Games",
+    "release_date": "2013-07-16",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Get ready for serious first-person shooting action! The Serious Sam™ Collection features all the best of Sam ‘Serious’ Stone, with updated visuals, lush landscapes, wild weaponry, insane extraterrestrials and more! Multiplayer capabilities include playing through Campaign Mode with up to four players or challenging friends in versus modes like Deathmatch and Beast Hunt.",
+        "short": "Sam ‘Serious’ Stone is back! Follow the legendary hero in his quest to destroy the alien overlord, Mental, in The Serious Sam™ Collection."
+    },
+    "media": [
+        {
+            "media_id": "4B66744F",
+            "title": "The Serious Sam Collection",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107da/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107da/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107da/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107da/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107da/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107da/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107da/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107da/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107da/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107da/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

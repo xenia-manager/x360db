@@ -1,0 +1,64 @@
+{
+    "id": "4E4D07E9",
+    "title": {
+        "full": "Tales of Vesperia",
+        "reduced": "Tales of Vesperia"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "NAMCO BANDAI Games Inc.",
+    "publisher": "Namco",
+    "release_date": "2008-08-07",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   \"Tales of Vesperia\" is the latest installment in the worldwide multi-million selling Tales RPG series. Experience sharp, beautiful graphics in HD, captivating voiced events and real-time, action-packed battles featuring all new enhanced systems such as \"Fatal Strikes\" and \"Burst Artes.\"",
+        "short": "\"Tales of Vesperia\" is the latest installment in the worldwide multi-million selling Tales RPG series. Experience sharp, beautiful graphics in HD, captivating voiced events and real-time, action-packed battles featuring all new enhanced systems such as \"Fatal Strikes\" and \"Burst Artes.\""
+    },
+    "media": [
+        {
+            "media_id": "16198D2F",
+            "title": "Tales of Vesperia",
+            "edition": "Original",
+            "region": "Japan, Korea"
+        },
+        {
+            "media_id": "45A9E23A",
+            "title": "Tales of Vesperia",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e9/1041/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "id": "454109EE",
+    "title": {
+        "full": "EA SPORTS FIFA 16",
+        "reduced": "EA SPORTS FIFA 16"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "release_date": "2015-09-22",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Czech, Danish, Dutch, Norwegian, Polish, Portuguese, Russian, Swedish, Japanese.   Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  FIFA 16 innovates across the entire pitch to deliver a balanced, authentic, and exciting football experience that lets you play your way, and compete at a higher level. And with all new ways to play!  With innovative gameplay features, FIFA 16 brings Confidence in Defending, Control in Midfield, and gives you the tools to create more Moments of Magic than ever before. Fans new to the franchise, or skilled players looking to improve their game will have a chance to Compete at a Higher Level using the all new FIFA Trainer. Innovation Across the Entire Pitch. New Ways to Play. Compete at a Higher Level.  Play Beautiful in FIFA 16. ",
+        "short": "FIFA 16 innovates across the entire pitch to deliver a balanced, authentic, and exciting football experience that lets you play your way, and compete at a higher level. FIFA 16 – Play Beautiful."
+    },
+    "media": [
+        {
+            "media_id": "0ACEE0C5",
+            "title": "FIFA 16",
+            "edition": "Original",
+            "region": "Australia"
+        },
+        {
+            "media_id": "63AD66C3",
+            "title": "FIFA 16",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "16582B36",
+            "title": "FIFA 16",
+            "edition": "Original",
+            "region": "Brazil"
+        },
+        {
+            "media_id": "34ABB71D",
+            "title": "FIFA 16",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "2F374315",
+            "title": "FIFA 16",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ee/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ee/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ee/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ee/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ee/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ee/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ee/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ee/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

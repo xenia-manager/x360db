@@ -1,0 +1,73 @@
+{
+    "id": "534307DB",
+    "title": {
+        "full": "Hitman Blood Money",
+        "reduced": "Hitman Blood Money"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "IO Interactive A/S",
+    "publisher": "IO Interactive A/S",
+    "release_date": "2010-03-30",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English  Some players may need to set their console to PAL 60 Hz using an Xbox 360 Composite A/V cable to play this game. More information is available in the game manual.   Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Hitman’s back, drawing you closer than ever into his deadly world where staying anonymous, being smart and totally ruthless are the key to a perfect execution. Lucrative contracts on the rich and powerful in high profile locations make killing for money good business. But when a rival agency enters the scene it’s war and only the best man will be left standing. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.  Official Xbox Magazine- 8/10 “a unique and hugely enjoyable experience”  VideoGamer- 8/10 “some of the best levels ever created in a video game.”",
+        "short": "Hitman’s back, drawing you closer than ever into his deadly world where staying anonymous, being smart and totally ruthless are the key to a perfect execution. Lucrative contracts on the rich and powerful in high profile locations make killing for money good business. But when a rival agency enters the scene it’s war and only the best man will be left standing."
+    },
+    "media": [
+        {
+            "media_id": "3DD45CCE",
+            "title": "Hitman: Blood Money",
+            "edition": "Original, Hitman HD Trilogy (Disc 1)",
+            "region": "Germany"
+        },
+        {
+            "media_id": "2783613B",
+            "title": "Hitman: Blood Money",
+            "edition": "Original, Hitman HD Trilogy (Disc 2)",
+            "region": "World"
+        },
+        {
+            "media_id": "1EE8B003",
+            "title": "Hitman: Blood Money",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307db/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/534307db/1387a972-40d4-4bda-8681-044aa17d0a1c.PDF"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550DAC",
+    "title": {
+        "full": "X SEED",
+        "reduced": "X SEED"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Mikael Tillander",
+    "publisher": "Mikael Tillander",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. A small weapon research facility, located on a small island, have had an unusual outbreak. As a former S.E.E.D scientist you have been sent in to deal with it.  * Platforming Action * Two Endings * Unique Flower Planting System * New Ninja Mode * No Continues",
+        "short": "A small weapon research facility, located on a small island, have had an unusual outbreak. As a former S.E.E.D scientist you have been sent in to deal with it.  * Platforming Action * Two Endings * Unique Flower Planting System * New Ninja Mode * No Continues"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550dac00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550DAC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550dac/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550DAC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DAC_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DAC_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DAC_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

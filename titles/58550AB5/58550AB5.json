@@ -1,0 +1,35 @@
+{
+    "id": "58550AB5",
+    "title": {
+        "full": "Car Washer Summer of the Ninja",
+        "reduced": "Car Washer Summer of the Ninja"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Pen and Sword Games",
+    "publisher": "Pen and Sword Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=2/3, Mature Content=0/3. You’ve started a car wash to earn money over summer break.  Unfortunately, Ninja Car Washing Corp. doesn’t appreciate the competition!  Wash cars quickly but beware!  Those pesky ninja will do everything they can to run you out of business.  You’ll need to use your wits, reflexes, and collection of basic car washing tools to defend against their attacks while keeping your customers happy.",
+        "short": "You’ve started a car wash to earn money over summer break.  Unfortunately, Ninja Car Washing Corp. doesn’t appreciate the competition!  Wash cars quickly but beware!  Those pesky ninja will do everything they can to run you out of business.  You’ll need to use your wits, reflexes, and collection of basic car washing tools to defend against their attacks while keeping your customers happy."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550ab500000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550AB5_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550ab5/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550AB5_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AB5_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AB5_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AB5_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

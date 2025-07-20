@@ -1,0 +1,35 @@
+{
+    "id": "58550CCD",
+    "title": {
+        "full": "Cootie Crusher",
+        "reduced": "Cootie Crusher"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Vagabond Games LLC",
+    "publisher": "Vagabond Games LLC",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. You are the cootie crusher!  People come to you to resolve their cootie infestations.  Crush those little bugs as quickly as you can.  You get bonuses for speed and accuracy.",
+        "short": "You are the cootie crusher!  People come to you to resolve their cootie infestations.  Crush those little bugs as quickly as you can.  You get bonuses for speed and accuracy."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550ccd00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CCD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550ccd/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CCD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CCD_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CCD_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CCD_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

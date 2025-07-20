@@ -1,0 +1,54 @@
+{
+    "id": "414B07D1",
+    "title": {
+        "full": "A-Train HX",
+        "reduced": "A-Train HX"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "ARTDINK",
+    "publisher": "ARTDINK",
+    "release_date": "2010-06-01",
+    "user_rating": "0.00",
+    "description": {
+        "full": "The newest entry in the A-Train series! The ultimate A-Train experience is now on the Xbox 360! In the A-Train series of simulation games, you develop cities by building railways.As the manager of a railway company, you will place trains on the rails you lay, and use them to transport passengers and cargo.Whether your city thrives or slumps is entirely up to you.Watch as your city changes its outer face over time. Experience the kind of amazing graphics that only a next-gen console can provide.",
+        "short": "The newest entry in the A-Train series! The ultimate A-Train experience is now on the Xbox 360! In the A-Train series of simulation games, you develop cities by building railways.As the manager of a railway company, you will place trains on the rails you lay, and use them to transport passengers and cargo.Whether your city thrives or slumps is entirely up to you.Watch as your city changes its outer face over time. Experience the kind of amazing graphics that only a next-gen console can provid…"
+    },
+    "media": [
+        {
+            "media_id": "3F01048E",
+            "title": "A Ressha de Ikou HX",
+            "edition": "Original, Kanzenban",
+            "region": "Japan"
+        },
+        {
+            "media_id": "4B908A09",
+            "title": "A-Train HX",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414b07d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414b07d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414b07d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414b07d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414b07d1/15369/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414b07d1/15369/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414b07d1/15369/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414b07d1/15369/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414b07d1/15369/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414b07d1/15369/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414b07d1/15369/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414b07d1/15369/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414b07d1/15369/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414b07d1/15369/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

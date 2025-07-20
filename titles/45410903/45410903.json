@@ -1,0 +1,50 @@
+{
+    "id": "45410903",
+    "title": {
+        "full": "Need for Speed Hot Pursuit",
+        "reduced": "Need for Speed Hot Pursuit"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Racing & Flying"
+    ],
+    "developer": "Criterion Games",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-11-16",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish, Polish, Russian, Japanese, Chinese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   This November, Need for Speed Hot Pursuit will transform online entertainment for this generation.  Criterion Games is redefining the meaning of cops versus racers by providing players with the opportunity to play a full career as either a cop or a racer, advancing through the ranks by accruing bounty.Players will experience stunning speeds, takedowns and getaways as they chase, battle, escape or bust their buddies.The innovative Need for Speed Autolog is poised to re-think head-to-head social competition by changing how people connect, how they communicate and how they play games with each other. Through Autolog, Need for Speed Hot Pursuit dynamically tracks and shares performance and stats so your friends actually drive your gameplay experience. So, whether you’re online or offline, the connected experience is at the heart of Need for Speed Hot Pursuit.",
+        "short": "This November, Need for Speed Hot Pursuit will transform online entertainment for this generation.  Criterion Games is redefining the meaning of cops versus racers by providing players with the opportunity to play a full career as either a cop or a racer, advancing through the ranks by accruing bounty.Players will experience stunning speeds, takedowns and getaways as they chase, battle, escape or bust their buddies.The innovative Need for Speed Autolog is poised to re-think head-to-head social …"
+    },
+    "media": [
+        {
+            "media_id": "B132B42D",
+            "title": "Need for Speed: Hot Pursuit",
+            "edition": "Limited Edition",
+            "region": "USA"
+        },
+        {
+            "media_id": "A326F0A6",
+            "title": "Need for Speed: Hot Pursuit",
+            "edition": "Original, Promo",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410903/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410903/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410903/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410903/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410903/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410903/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410903/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410903/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410903/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

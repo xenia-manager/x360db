@@ -1,0 +1,51 @@
+{
+    "id": "53450839",
+    "title": {
+        "full": "Resonance of Fate",
+        "reduced": "Resonance of Fate"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "tri-Ace Inc.",
+    "publisher": "SEGA",
+    "release_date": "2010-02-06",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish, Japanese.  In the far future, mankind's descendants live within Basel, an enormous mechanical tower that stretches to the heavens. Now, the bells begin to toll the beginning of the world's end. Experience cinematic, gun-toting action and an in-depth, post-apocalyptic story in this original game from SEGA and acclaimed RPG developer tri-Ace!",
+        "short": "In the far future, mankind's descendants live within Basel, an enormous mechanical tower that stretches to the heavens. Now, the bells begin to toll the beginning of the world's end. Experience cinematic, gun-toting action and an in-depth, post-apocalyptic story in this original game from SEGA and acclaimed RPG developer tri-Ace!"
+    },
+    "media": [
+        {
+            "media_id": "4389B19F",
+            "title": "Resonance of Fate",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450839/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450839/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450839/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450839/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450839/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450839/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450839/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450839/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450839/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450839/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450839/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450839/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450839/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450839/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450839/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450839/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450839/1033/screenlg13.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

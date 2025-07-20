@@ -1,0 +1,35 @@
+{
+    "id": "454189AE",
+    "title": {
+        "full": "CRYSIS 3 OPEN BETA",
+        "reduced": "CRYSIS 3 OPEN BETA"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Crytek",
+    "publisher": "Electronic Arts",
+    "release_date": "2013-01-29",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Crysis 3 Open Beta lets you experience hands-on Crysis 3's unique sandbox Multiplayer action before the game’s official release in February 2013. Set in the 7 Wonders of New York's Liberty Dome play both Crash Site and the brand new Hunter game modes on two unique maps, Museum and Airport.",
+        "short": "The Crysis 3 Open Beta lets you experience hands-on Crysis 3's unique sandbox Multiplayer action before the game’s official release in February 2013. Set in the 7 Wonders of New York's Liberty Dome play both Crash Site and the brand new Hunter game modes on two unique maps, Museum and Airport."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189ae/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189ae/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189ae/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189ae/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4541098E",
+                "title": "Crysis® 3"
+            }
+        ],
+        "related": []
+    }
+}

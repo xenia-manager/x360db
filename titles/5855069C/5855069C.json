@@ -1,0 +1,35 @@
+{
+    "id": "5855069C",
+    "title": {
+        "full": "Avatar Laser Tag",
+        "reduced": "Avatar Laser Tag"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Strange Games",
+    "publisher": "Strange Games",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Play classic lasertag with your avatar online against your friends or offline against computer controlled opponents.  Battle it out in team versus team mode or in free for all where everyone is out for themselves. Games can be played indoors or outdoors in both daytime and nighttime modes.",
+        "short": "Play classic lasertag with your avatar online against your friends or offline against computer controlled opponents.  Battle it out in team versus team mode or in free for all where everyone is out for themselves. Games can be played indoors or outdoors in both daytime and nighttime modes."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855069c00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855069C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855069c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855069C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855069C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855069C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855069C_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

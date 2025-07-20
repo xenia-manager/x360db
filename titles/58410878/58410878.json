@@ -1,0 +1,40 @@
+{
+    "id": "58410878",
+    "title": {
+        "full": "Ikaruga",
+        "reduced": "Ikaruga"
+    },
+    "genre": [
+        "Classics",
+        "Shooter"
+    ],
+    "developer": "TREASURE",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-04-09",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Single Player, Xbox LIVE Multiplayer 2, Local Multiplayer 2, HD (High Definition). Looking for more polarity-switching, freedom-fighting gameplay? Upgrade to the full version of Ikaruga to access five exciting levels, cooperative multiplayer, leaderboards, achievements, and the ability to record and replay levels, thus immortalizing your magnificent and awe-inspiring skill. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "A scrolling shooter with a tactical twist: the color of your ship determines your effect on enemies. Use your polarity to achieve victory!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410878/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410878/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410878/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410878/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410878/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410878/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410878/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410878/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410878/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410878/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410878/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410878/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

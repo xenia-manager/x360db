@@ -1,0 +1,162 @@
+{
+    "id": "425307D1",
+    "title": {
+        "full": "Oblivion",
+        "reduced": "Oblivion"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2010-06-01",
+    "user_rating": "4.75",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Step inside the most richly detailed and vibrant game-world ever created. Oblivion is the latest chapter in the epic Elder Scrolls saga. With a powerful combination of freeform gameplay and unprecedented graphics, you can unravel the main quest at your own pace or explore the vast world and find your own challenges. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Step inside the most richly detailed and vibrant game-world ever created. Oblivion is the latest chapter in the epic Elder Scrolls saga. With a powerful combination of freeform gameplay and unprecedented graphics, you can unravel the main quest at your own pace or explore the vast world and find your own challenges."
+    },
+    "media": [
+        {
+            "media_id": "05F666B7",
+            "title": "The Elder Scrolls IV: Oblivion",
+            "edition": "Original, Classics",
+            "region": "Germany"
+        },
+        {
+            "media_id": "5B652ACF",
+            "title": "The Elder Scrolls IV: Oblivion",
+            "edition": "Original, Platinum Collection",
+            "region": "Japan"
+        },
+        {
+            "media_id": "46086DE1",
+            "title": "The Elder Scrolls IV: Oblivion",
+            "edition": "Original, Platinum Hits",
+            "region": "Asia"
+        },
+        {
+            "media_id": "6E0B7FE3",
+            "title": "The Elder Scrolls IV: Oblivion",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "7D25BE50",
+            "title": "The Elder Scrolls IV: Oblivion",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "067DF6B5",
+            "title": "The Elder Scrolls IV: Oblivion",
+            "edition": "Original, Game of the Year Edition (Disc 1)",
+            "region": "Spain"
+        },
+        {
+            "media_id": "013FE217",
+            "title": "The Elder Scrolls IV: Oblivion",
+            "edition": "Original, Game of the Year Edition (Disc 1)",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "25FF6E54",
+            "title": "The Elder Scrolls IV: Oblivion: Edition Jeu de L'Année (Disc 1)",
+            "edition": "Original",
+            "region": "France"
+        },
+        {
+            "media_id": "566EE23E",
+            "title": "The Elder Scrolls IV: Oblivion: Edition Jeu de L'Année (Disc 2)",
+            "edition": "Original",
+            "region": "France"
+        },
+        {
+            "media_id": "7E9E9CDF",
+            "title": "The Elder Scrolls IV: Oblivion: Game of the Year Edition (Disc 1)",
+            "edition": "Platinum Hits, 5th Anniversary Edition, Fallout 3 & Oblivion Double Pack",
+            "region": "USA"
+        },
+        {
+            "media_id": "122D41F3",
+            "title": "The Elder Scrolls IV: Oblivion: Game of the Year Edition (Disc 1)",
+            "edition": "Original, BioShock & The Elder Scrolls IV: Oblivion Bundle",
+            "region": "USA"
+        },
+        {
+            "media_id": "6E381527",
+            "title": "The Elder Scrolls IV: Oblivion: Game of the Year Edition (Disc 2)",
+            "edition": "Original",
+            "region": "Spain"
+        },
+        {
+            "media_id": "23A1643C",
+            "title": "The Elder Scrolls IV: Oblivion: Game of the Year Edition (Disc 2)",
+            "edition": "Original, The Elder Scrolls IV: Shivering Isles",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "00F19FBE",
+            "title": "The Elder Scrolls IV: Oblivion: Game of the Year Edition (Disc 2)",
+            "edition": "Platinum Hits, 5th Anniversary Edition",
+            "region": "USA"
+        },
+        {
+            "media_id": "76CCAFD1",
+            "title": "The Elder Scrolls IV: Oblivion: Game of the Year Edition (Disco 1)",
+            "edition": "Original",
+            "region": "Italy"
+        },
+        {
+            "media_id": "3F5A24A8",
+            "title": "The Elder Scrolls IV: Oblivion: Jubiläumsausgabe (Disc 1)",
+            "edition": "Classics",
+            "region": "Germany"
+        },
+        {
+            "media_id": "5FEF4CFD",
+            "title": "The Elder Scrolls IV: Oblivion: Jubiläumsausgabe (Disc 2)",
+            "edition": "Classics",
+            "region": "Germany"
+        },
+        {
+            "media_id": "5DA54CDF",
+            "title": "The Elder Scrolls IV: Shivering Isles",
+            "edition": "Original, The Elder Scrolls IV: Oblivion: Game of the Year Edition (Disco Due)",
+            "region": "Italy"
+        },
+        {
+            "media_id": "7B4AB8EE",
+            "title": "The Elder Scrolls IV: Shivering Isles",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "71706E0E",
+            "title": "The Elder Scrolls IV: Shivering Isles",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d1/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/425307d1/6feec69a-3b19-45d4-9486-9a15acad3281.PDF"
+        ]
+    }
+}

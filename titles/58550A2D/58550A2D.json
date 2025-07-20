@@ -1,0 +1,35 @@
+{
+    "id": "58550A2D",
+    "title": {
+        "full": "EchoSpace",
+        "reduced": "EchoSpace"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Cribzero",
+    "publisher": "Cribzero",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Pilot your ship and it's energy weapon independently as you blast through hyperspace! EchoSpace is a top down \"shooter\" which requires skill and determination. Controlling two objects at one time is difficult, but very rewarding. You've never played anything quite like it!",
+        "short": "Pilot your ship and it's energy weapon independently as you blast through hyperspace! EchoSpace is a top down \"shooter\" which requires skill and determination. Controlling two objects at one time is difficult, but very rewarding. You've never played anything quite like it!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550a2d/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A2D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a2d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A2D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A2D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A2D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A2D_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "585507EA",
+    "title": {
+        "full": "The Sugar Killerz",
+        "reduced": "The Sugar Killerz"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Fun Hazard",
+    "publisher": "Fun Hazard",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=3/3. The Sugar Killerz is the perfect mix of cinematic adventure, CoOperative violence, stunning graphics and great music by AcidRider. Play it with 4 friends or with advanced AI companions. Enjoy this incredible cinematic experience! Official site: www.TheSugarKillerz.com",
+        "short": "The Sugar Killerz is the perfect mix of cinematic adventure, CoOperative violence, stunning graphics and great music by AcidRider. Play it with 4 friends or with advanced AI companions. Enjoy this incredible cinematic experience! Official site: www.TheSugarKillerz.com"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585507ea00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585507EA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585507ea/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585507EA_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507EA_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507EA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507EA_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

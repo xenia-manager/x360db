@@ -1,0 +1,46 @@
+{
+    "id": "43430821",
+    "title": {
+        "full": "ULTIMATE MARVEL VS CAPCOM 3",
+        "reduced": "U MARVEL VS CAPCOM 3"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "release_date": "2799-12-30",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Japanese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  The fight between the Marvel and Capcom characters has been taken to a new level! Marvel vs. Capcom 3 has evolved into the ultimate experience! New playable characters include popular Marvel comic characters such as Ghost Rider and returning characters like the highly-demanded Strider Hiryu, bringing the cast to a total of 48!",
+        "short": "The fight between the Marvel and Capcom characters has been taken to a new level! Marvel vs. Capcom 3 has evolved into the ultimate experience! New playable characters include popular Marvel comic characters such as Ghost Rider and returning characters like the highly-demanded Strider Hiryu, bringing the cast to a total of 48!"
+    },
+    "media": [
+        {
+            "media_id": "41B25F6B",
+            "title": "Ultimate Marvel vs. Capcom 3",
+            "edition": "Original",
+            "region": "USA, Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430821/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430821/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430821/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430821/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430821/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430821/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430821/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430821/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430821/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430821/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/43430821/UMVC3_MG_360_ENG_V2_LR.pdf"
+        ]
+    }
+}

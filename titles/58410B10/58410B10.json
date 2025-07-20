@@ -1,0 +1,42 @@
+{
+    "id": "58410B10",
+    "title": {
+        "full": "Red Bull X-Fighters World Tour",
+        "reduced": "Red Bull X-Fighters"
+    },
+    "genre": [
+        "Racing & Flying",
+        "Sports & Recreation"
+    ],
+    "developer": "Xendex",
+    "publisher": "Konami Digital Entertainment",
+    "release_date": "2011-09-14",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(MC 10) With Red Bull X-Fighters, gamers can now experience the thrill and excitement of the best Freestyle Motocross riders in the world! The game puts you, the player, on centre stage of the Red Bull X-Fighters World Tour. Take your bike, launch from huge ramps and pull off truly stunning and jaw-dropping tricks while up to 40 feet in the air. Do you have what it takes to wow the crowd and pull out all stops in the attempt to finish as overall champion?  Don’t crash or it will ruin your run.",
+        "short": "(MC 10) With Red Bull X-Fighters, gamers around the world can now experience the thrill and excitement of the best Freestyle Motocross riders in the world!  Do you have what it takes to wow the crowd and pull out all stops in the attempt to finish as overall Red Bull X-Fighters champion?  Don’t crash or it will ruin your run."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b10/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b10/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b10/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b10/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b10/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b10/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b10/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b10/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b10/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b10/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b10/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b10/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b10/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b10/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

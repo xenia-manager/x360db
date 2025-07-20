@@ -1,0 +1,39 @@
+{
+    "id": "354807DF",
+    "title": {
+        "full": "Red Faction II",
+        "reduced": "Red Faction II"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics",
+        "Shooter"
+    ],
+    "developer": "Volition",
+    "publisher": "THQ Nordic",
+    "release_date": "2017-10-19",
+    "user_rating": null,
+    "description": {
+        "full": "Twenty-second century Earth. Five years after the rebellion on Mars.  For the last 15 years, Sopot, the corrupt dictator, has oppressed the people of the Commonwealth. His relentless pursuit of unification with the neighboring United Republic has left the country soaked in unnecessary bloodshed and poverty. Propaganda is plastered throughout communities and a Public Information Building, built as a tribute to the self-centered chancellor, spews news broadcasts with claims of victory as more and more soldiers fall victim. Fed up after years on the front lines, a group of super-soldiers injected with nanotechnology vow to replace the dictator and restore peace.  Defend your country as Alias, a demolitions expert, with the help of your five squad members, each specializing in their own method of destruction. Fight through diverse levels using vehicles, an arsenal of specialized weapons and massive explosives in your rampage to overthrow the government. ",
+        "short": "Twenty-second century Earth. Five years after the rebellion on Mars. For the last 15 years, Sopot, the corrupt dictator, has oppressed the people of the Commonwealth. His relentless pursuit of unification with the neighboring United Republic has left the country soaked in unnecessary bloodshed and poverty."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807df/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807df/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807df/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807df/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807df/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807df/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807df/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807df/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807df/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807df/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

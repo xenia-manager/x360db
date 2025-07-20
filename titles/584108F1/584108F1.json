@@ -1,0 +1,46 @@
+{
+    "id": "584108F1",
+    "title": {
+        "full": "Bionic Commando Rearmed",
+        "reduced": "BionicCommandoRearmed"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Grin",
+    "publisher": "Capcom",
+    "release_date": "2010-06-23",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Single Player, Local Multiplayer 1-4, HD (High Definition). The classic 8-bit side-scroller reports back for duty in a stunning remake, complete with all-new HD graphics and features that puts 2D gaming back on the map! There are no refunds for this item. For more information, see www.xbox.com/Live/accounts.",
+        "short": "The remake of the legendary Bionic Commando - one of the absolute best games in the history of sidescrollers! Put an end to Generalissimo Killt's plan to take over the world with the help of your trusty bionic arm! With unrivaled graphics, unique gameplay, coop and multiplayer modes and Leaderboard-ranked short obstacle courses, this is a must-have for any LIVE gamer!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f1/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f1/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f1/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "58410937",
+                "title": "Bionic Commando Rearmed"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550A6C",
+    "title": {
+        "full": "Diamond Digger",
+        "reduced": "Diamond Digger"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Elemental Focus",
+    "publisher": "Elemental Focus",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. With a unique puzzle mechanic, use your wits to get all of the diamonds to the bottom of the screen to collect them.  Each block will crush only one other, so you need to carefully manage your playfield to avoid deadlock.  Includes a puzzle mode with 40 puzzles, timed and endurance modes and P2P high scores.",
+        "short": "With a unique puzzle mechanic, use your wits to get all of the diamonds to the bottom of the screen to collect them.  Each block will crush only one other, so you need to carefully manage your playfield to avoid deadlock.  Includes a puzzle mode with 40 puzzles, timed and endurance modes and P2P high scores."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550a6c00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A6C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a6c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A6C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A6C_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A6C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A6C_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

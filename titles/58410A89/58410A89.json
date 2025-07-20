@@ -1,0 +1,31 @@
+{
+    "id": "58410A89",
+    "title": {
+        "full": "Ghostbusters Sanctum of Slime",
+        "reduced": "Ghostbusters Sanctum of Slime"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Behaviour",
+    "publisher": "Atari",
+    "release_date": "2011-02-07",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Strap on your proton packs for an all-new Ghostbusting adventure! Ectoplasmic threats are spawning all over New York, and only you and your team of rookie Ghostbusters can stop them. Choose from 4 new playable characters. Hop in the all-new ECTO-4WD and blast your foes with a medley of destructive weapons. Battle against the hordes of evil entities alone or with a team of friends through local or online multiplayer co-op. Show them you ain’t afraid of no ghosts! ",
+        "short": "(Online Interactions Not Rated by the ESRB) Strap on your proton packs for an all-new Ghostbusting adventure! Hop in the ECTO-4WD and blast ghouls with a medley of weapons. Battle alone or team up with friends in local or online co-op. Show them you ain’t afraid of no ghosts! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a89/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a89/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a89/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a89/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": "454107D2",
+    "title": {
+        "full": "Madden NFL 06",
+        "reduced": "Madden NFL 06"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts - Tiburon",
+    "publisher": "Electronic Arts",
+    "release_date": "2008-01-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Setting the bar for the next generation of gaming, Madden NFL 06 for the Xbox 360 has been built from the ground up to deliver completely redesigned gameplay and the most lifelike football experience ever created. You will feel the true emotion and passion of the NFL, on and off the field, with revolutionary player models and a new graphics engine that provides realistic lighting and visual effects on players, stadiums and fans that have never been seen before. With a full Franchise mode, in-depth online play and a new play calling and presentation style, Madden NFL 06 will once again deliver the most intense experience as the only authentic and licensed NFL videogame.",
+        "short": "Setting the bar for the next generation of gaming, Madden NFL 06 for the Xbox 360 has been built from the ground up to deliver completely redesigned gameplay and the most lifelike football experience ever created. You will feel the true emotion and passion of the NFL, on and off the field, with revolutionary player models and a new graphics engine that provides realistic lighting and visual effects on players, stadiums and fans that have never been seen before. With a full Franchise mode, in-dep"
+    },
+    "media": [
+        {
+            "media_id": "7A3F44A8",
+            "title": "Madden NFL 06",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "724DE7CE",
+            "title": "Madden NFL 06",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107d2/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

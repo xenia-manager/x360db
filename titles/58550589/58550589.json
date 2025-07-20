@@ -1,0 +1,35 @@
+{
+    "id": "58550589",
+    "title": {
+        "full": "Drum Studio",
+        "reduced": "Drum Studio"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "All Seeing Eye Games",
+    "publisher": "All Seeing Eye Games",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Finally, play, record, edit, save, and playback your own song creations using your Xbox 360 drum kit or controller! All Seeing Eye Games' Drum Studio features a powerful but easy to use recording interface, hundreds of high quality drum sounds, fully animated characters and eye-popping 1080p visuals. \"8.7 out of 10\", Editor's Choice Award -teamxbox.com, \"9 out of 10\" -xblaratings.com",
+        "short": "Finally, play, record, edit, save, and playback your own song creations using your Xbox 360 drum kit or controller! All Seeing Eye Games' Drum Studio features a powerful but easy to use recording interface, hundreds of high quality drum sounds, fully animated characters and eye-popping 1080p visuals. \"8.7 out of 10\", Editor's Choice Award -teamxbox.com, \"9 out of 10\" -xblaratings.com"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550589/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550589_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550589/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550589_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550589_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550589_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550589_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

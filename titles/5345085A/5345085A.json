@@ -1,0 +1,47 @@
+{
+    "id": "5345085A",
+    "title": {
+        "full": "Dreamcast Collection",
+        "reduced": "Dreamcast Collection"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics",
+        "Music",
+        "Sports & Recreation"
+    ],
+    "developer": "SEGA",
+    "publisher": "SEGA",
+    "release_date": "2011-02-22",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Experience four of SEGA’s classic hits from the Dreamcast era in this must-have collection. Speed through uncharted territories in Sonic Adventure ™, zip around town in Crazy Taxi ™, fend off menacing invaders in Space Channel 5 ™ or get your nostalgia fix with SEGA Bass Fishing™! These games are sure to delight old and new gamers of all ages.",
+        "short": "Go back in time with this compilation of SEGA’s most beloved Dreamcast games. This includes Sonic Adventure™, Crazy Taxi™, Space Channel 5 ™ and SEGA Bass Fishing."
+    },
+    "media": [
+        {
+            "media_id": "6876EE29",
+            "title": "Dreamcast Collection",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085a/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

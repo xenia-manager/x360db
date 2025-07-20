@@ -1,0 +1,42 @@
+{
+    "id": "58411201",
+    "title": {
+        "full": "Rhythm Party",
+        "reduced": "Rhythm Party"
+    },
+    "genre": [
+        "Kinect",
+        "Music"
+    ],
+    "developer": "Konami Digital Entertainment Co., Ltd.",
+    "publisher": "Konami Digital Entertainment, Inc.",
+    "release_date": "2012-02-01",
+    "user_rating": "3.50",
+    "description": {
+        "full": "\"Rhythm Party\" is a rhythm action game developed exclusively for Kinect on Xbox LIVE Arcade! Brought to you by the \"Dance Masters\" development team, it transforms your entire body into a controller. No need for choreography anymore. You're the choreographer and the dancer! When your body appears at the center of the screen, just dance! Game play is simple: Use your arms and legs to hit the Ripples in time with the rhythm while you create an original performance. Your performance skills are the key! With a soundtrack recorded largely in collaboration with top international artists, and different special effects for every song, this game is guaranteed to get your body moving and your blood pumping!",
+        "short": "\"Rhythm Party\" is a rhythm action game developed exclusively for Kinect on Xbox LIVE Arcade! Brought to you by the \"Dance Masters\" development team, it transforms your entire body into a controller. No need for choreography anymore. You're the choreographer and the dancer! When your body appears at the center of the screen, just dance!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

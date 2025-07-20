@@ -1,0 +1,39 @@
+{
+    "id": "4B4D0800",
+    "title": {
+        "full": "Saints Row Gat Out of Hell",
+        "reduced": "Saints Row Gat Out of Hell"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "High Voltage",
+    "publisher": "Deep Silver",
+    "release_date": "2015-01-20",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Russian.  After the space faring antics of Saints Row IV, many fans asked what we could do next... the answer? Shoot The Devil in the face. Play as either Johnny Gat or Kinzie Kensington as you tear apart Hell in a quest to save the leader of the Saints’ soul. Historical icons, old friends, older enemies, a talking gun, a full length musical number, and a whole lot of other shenanigans all await you in the open world standalone expansion playground that is Saints Row: Gat Out Of Hell.    Key features: • Play as Johnny Gat or Kinzie Kensington – For the first time ever, play as the fan favorites Johnny Gat and Kinzie Kensington, alone or in 2-player online co-op.  • An Open World from Hell – Wage war against the Prince of Darkness through-out the 5 unique districts of hell any way you want: rescue allies, pick a fight with nightmarish Arch-Dukes, rob Satan’s soul processing plants... dozens of options await you in an all new city unlike any that’s been seen in Saints Row before. • New Supernatural Powers –The acclaimed super powers of Saints Row 4 are back with a hellish twist - Soar through the air on fallen angel’s wings, summon devilish imps to attack your foes, and surround yourself in a divine aura that forces all to worship you.  • Outrageous Weapons – Put the 7 deadly sins to good use with an arsenal of underworld themed arms: fire exploding frogs at enemies, shoot swarms of locusts, and even deal destruction from afterlife’s most comfortable (and lethal) armchair. • Kill Dex – We promise you can do it this time. Pinky swear.",
+        "short": "After the antics of Saints Row IV, many asked what we could do next...the answer? Shoot The Devil in the face. Play as either Johnny Gat or Kinzie Kensington as you tear apart Hell in a quest to save the Bosses’ soul. Historical icons, old friends, older enemies, a talking gun, a full length musical number & a whole lot more shenanigans await you in this open-world standalone expansion playground."
+    },
+    "media": [
+        {
+            "media_id": "77CC9074",
+            "title": "Saints Row: Gat out of Hell",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d0800/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d0800/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d0800/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d0800/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d0800/1033/screenlg1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

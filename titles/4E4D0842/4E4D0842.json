@@ -1,0 +1,71 @@
+{
+    "id": "4E4D0842",
+    "title": {
+        "full": "NARUTO SHIPPUDEN Ultimate Ninja STORM Generations",
+        "reduced": "STORM Generations"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting"
+    ],
+    "developer": "CyberConnect2 Co., Ltd.",
+    "publisher": "NAMCO BANDAI Games America Inc.",
+    "release_date": "2012-02-23",
+    "user_rating": "4.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB.) NARUTO SHIPPUDEN™: Ultimate Ninja® STORM Generations is the latest rendition in the smash hit series of games. The title will power the series into the future by revolutionizing online play and ramping up the number of playable and support characters far beyond any NARUTO game in the wildly popular franchise. Players will compete in a variety of online battle modes, including personalized tournaments, with their favorite NARUTO characters, including Naruto and Sasuke. NARUTO fans have been waiting to see more of Zabuza and Haku since the launch of the original Manga, and now they will have their chance! These are just a few of the many new ninja in the game and fans will be entertained with over 65 minutes of new NARUTO anime footage.",
+        "short": "(Online Interactions Not Rated by the ESRB.) It’s the ninja battle of the generations! NARUTO SHIPPUDEN™: Ultimate Ninja® STORM Generations is the latest rendition in the smash hit series of games. All your favorite NARUTO ninja defy time to clash in the largest ninja war ever! With more than 70 playable characters and over 65 minutes of new NARUTO anime footage, NARUTO SHIPPUDEN™: Ultimate Ninja® STORM Generations is the ultimate NARUTO SHIPPUDEN game!"
+    },
+    "media": [
+        {
+            "media_id": "38C12502",
+            "title": "Naruto Shippuden: Ultimate Ninja Storm Generations",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "05438F06",
+            "title": "Naruto Shippuden: Ultimate Ninja Storm Generations",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "4716CC63",
+            "title": "Naruto Shippuuden: Narutimate Storm Generation",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0842/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

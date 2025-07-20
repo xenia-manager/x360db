@@ -1,0 +1,48 @@
+{
+    "id": "484507D5",
+    "title": {
+        "full": "Rugby League Live 2",
+        "reduced": "Rugby League Live 2"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Big Ant Studios",
+    "publisher": "Home Entertainment Suppliers Pty Ltd",
+    "release_date": "2799-12-30",
+    "user_rating": "0.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting \"See Game Manual\"  * 100+ Leagues & Teams: NRL, Super League, Cooperative Championships, NSW & QLD cups, Toyota Cup, Rep teams, Australian, England and New Zealand Internationals.  * Dynamic Tackling System: Fend and break tackle your way past multiple defenders.  * Create, Customise and Share: Players and teams in Footy Factory. Double-Barrelled Experts: Commentary from Andrew Voss and Phil ‘Gus’ Gould.  * 34 High Detail Stadia: From Australia, New Zealand and the UK.  * 10-Year Career Mode: Sign sponsors, hire top flight coaching staff, negotiate player contracts and set player training programs & intensity to build the ultimate team.  * Competitive or Co-operative: Multiplayer matches with up to 8 players (4 aside) online.  * Experience System: Earn badges and experience both online and off to rise to the top of the leaderboards.  * Tactical Passing: Perform defensive or attacking passes to best exploit your opponents  * Spectacular High Ball Catching: Soar high to catch or tap the ball to team mates. ",
+        "short": "Rugby League Live 2 features: 100+ Leagues & Teams, Dynamic Tackling System, Create, Customise and Share players and teams, Expert commentary from Andrew Voss and Phil Gould, 34 High Detail Stadia, 10-Year Career Mode, Competitive or Co-operative game play, Experience System, Tactical Passing,  Spectacular High Ball Catching and much much more."
+    },
+    "media": [
+        {
+            "media_id": "70D13A70",
+            "title": "Rugby League Live 2",
+            "edition": "Original, Game of the Year Edition",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d5/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d5/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/484507d5/RLL2%20Manual%20Digital%20English%20(2).pdf"
+        ]
+    }
+}

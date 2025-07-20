@@ -1,0 +1,40 @@
+{
+    "id": "58410B49",
+    "title": {
+        "full": "SkyDrift",
+        "reduced": "SkyDrift"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Digital Reality ",
+    "publisher": "NAMCO BANDAI Games",
+    "release_date": "2011-09-07",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Get closer than ever before to the world of adrenaline pumping sky-racing where everybody can test and master their flying and combat skills against the deadliest opponents! Admire amazingly detailed terrains based on the most spectacular and exotic locations all over the planet. Unlock state-of-the-art planes tuned to the max and personalize them with unique racing skins. Practice by racing in modes like Survival or Speed Race and then be the first on the single and multiplayer challenges where possibilities are limited only by your own imagination. Have endless fun racing and flying in a light, exhilarating style and remember: If you can’t overtake them, shoot them down!",
+        "short": "SkyDrift is an action-driven arcade racing game where possibilities are limited by your imagination."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b49/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b49/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b49/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b49/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b49/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b49/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b49/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b49/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b49/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b49/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b49/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b49/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b49/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

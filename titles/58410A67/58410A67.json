@@ -1,0 +1,38 @@
+{
+    "id": "58410A67",
+    "title": {
+        "full": "Dust An Elysian Tail",
+        "reduced": "Dust An Elysian Tail"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer"
+    ],
+    "developer": "Humble Hearts LLC",
+    "publisher": "Microsoft Studios",
+    "release_date": "2799-12-30",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Immerse yourself in a gorgeous hand-painted world on a search for your true identity. As the mysterious warrior, Dust, you must master the ancient Blade of Ahrah to battle dozens of enemies with an intuitive combat system, take on a variety of quests, discover powerful upgrades throughout the massive, open world, and uncover the story of an ancient civilization on the brink of extinction as you fight to uncover your own past. ",
+        "short": "Immerse yourself in a gorgeous hand-painted world on a search for your true identity. As the mysterious warrior, Dust, you must master the ancient Blade of Ahrah to battle dozens of enemies with an intuitive combat system, take on a variety of quests, discover powerful upgrades throughout the massive, open world, and uncover the story of an ancient civilization on the brink of extinction as you fight to uncover your own past. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a67/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a67/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a67/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a67/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a67/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a67/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a67/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a67/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a67/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a67/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

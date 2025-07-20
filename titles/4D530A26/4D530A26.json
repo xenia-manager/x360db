@@ -1,0 +1,66 @@
+{
+    "id": "4D530A26",
+    "title": {
+        "full": "Gears of War Judgment",
+        "reduced": "Gears of War Judgment"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Epic Games, Inc",
+    "publisher": "Microsoft Studios",
+    "release_date": "2013-03-19",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on the Demand version supports English, French, Spanish, Chinese, Korean, Japanese, Polish, and Czech. In the immediate aftermath of Emergence Day, the fate of the world rests on the shoulders of young COG lieutenant Damon Baird and his team - Kilo Squad. As the world of Sera is destroyed around them, Kilo must rise up, break the rules and take the fight to a horrifying new enemy in this blockbuster prequel to one of the most celebrated franchises in gaming history. ",
+        "short": "In the immediate aftermath of Emergence Day, the fate of the world rests on the shoulders of young COG lieutenant Damon Baird and his team - Kilo Squad."
+    },
+    "media": [
+        {
+            "media_id": "7DE8C9FE",
+            "title": "Gears of War: Judgment",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "4AF734C4",
+            "title": "Gears of War: Judgment",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "3528321A",
+            "title": "Gears of War: Judgment",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "250B2C78",
+            "title": "Gears of War: Judgment",
+            "edition": "Bundle Copy",
+            "region": "Europe"
+        },
+        {
+            "media_id": "540C7CD0",
+            "title": "Gears of War: Judgment",
+            "edition": "Limitierte Erstauflage",
+            "region": "Germany"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a26/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a26/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a26/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a26/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a26/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a26/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a26/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a26/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

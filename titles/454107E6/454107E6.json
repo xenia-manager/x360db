@@ -1,0 +1,82 @@
+{
+    "id": "454107E6",
+    "title": {
+        "full": "2006 FIFA World Cup",
+        "reduced": "2006 FIFA World Cup"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "release_date": "2008-01-01",
+    "user_rating": "2.75",
+    "description": {
+        "full": "Play with your heroes and take part in the 2006 FIFA World Cup™.  Lead your nation from the qualification rounds all the way to the FIFA World Cup Finals in Germany. You'll experience a full range of emotions along the way - from the elation of beating rival nations to the despair of having your FIFA World Cup dreams shattered in a crucial penalty shootout. This is your ticket to all the pageantry and passion of the greatest show on Earth.",
+        "short": "Play with your heroes and take part in the 2006 FIFA World Cup™.  Lead your nation from the qualification rounds all the way to the FIFA World Cup Finals in Germany. You'll experience a full range of emotions along the way - from the elation of beating rival nations to the despair of having your FIFA World Cup dreams shattered in a crucial penalty shootout. This is your ticket to all the pageantry and passion of the greatest show on Earth."
+    },
+    "media": [
+        {
+            "media_id": "3198DCE4",
+            "title": "FIFA World Cup Germany 2006",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "2F576731",
+            "title": "FIFA World Cup Germany 2006",
+            "edition": "Original",
+            "region": "Korea"
+        },
+        {
+            "media_id": "72D2D637",
+            "title": "FIFA World Cup Germany 2006",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "768084D2",
+            "title": "FIFA World Cup Germany 2006",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "0D864D9C",
+            "title": "FIFA World Cup Germany 2006",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e6/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

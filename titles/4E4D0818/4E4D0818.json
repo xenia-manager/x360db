@@ -1,0 +1,35 @@
+{
+    "id": "4E4D0818",
+    "title": {
+        "full": "THE IDOLMSTER 2",
+        "reduced": "THE IDOLMSTER 2"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "NAMCO BANDAI Games Inc.",
+    "publisher": "NAMCO BANDAI Games Inc.",
+    "release_date": "2010-07-08",
+    "user_rating": null,
+    "description": {
+        "full": "“Haruka Amami, seventeen years old! We want to become the Ultimate Idol.” The game place you in the role of a producer and the aim is to produce the “Ultimate Idol Group.” Teamwork between members of the group and building secret bond with the leader is especially important. As a producer, gain fans through successful performances and promotions to level your idol up in ranks. Spring 2010, brand new 765 Productions in action.",
+        "short": "“Haruka Amami, seventeen years old! We want to become the Ultimate Idol.” The game place you in the role of a producer and the aim is to produce the “Ultimate Idol Group.” Teamwork between members of the group and building secret bond with the leader is especially important. As a producer, gain fans through successful performances and promotions to level your idol up in ranks. Spring 2010, brand new 765 Productions in action."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0818/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0818/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0818/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0818/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4E4D0817",
+                "title": "THE IDOLMSTER 2"
+            }
+        ],
+        "related": []
+    }
+}

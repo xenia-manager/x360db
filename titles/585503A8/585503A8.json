@@ -1,0 +1,35 @@
+{
+    "id": "585503A8",
+    "title": {
+        "full": "Runic",
+        "reduced": "Runic"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "ExecutiveIguanaStudios",
+    "publisher": "ExecutiveIguanaStudios",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Runic is an exciting puzzle game unlike any other. The player has the choice of approaching puzzles from differing dynamic angles to achieve the final goal.  Runic features a vast array of levels as well as the oppurtunity to co-operatively play through with a friend. Or for those of you with a competitive side there is a head to head multiplayer mode as well.",
+        "short": "Runic is an exciting puzzle game unlike any other. The player has the choice of approaching puzzles from differing dynamic angles to achieve the final goal.  Runic features a vast array of levels as well as the oppurtunity to co-operatively play through with a friend. Or for those of you with a competitive side there is a head to head multiplayer mode as well."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585503a8/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585503A8_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585503a8/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585503A8_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503A8_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503A8_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503A8_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

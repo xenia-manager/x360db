@@ -1,0 +1,51 @@
+{
+    "id": "464F07D8",
+    "title": {
+        "full": "Naughty Bear",
+        "reduced": "Naughty Bear"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Artificial Mind & Movement",
+    "publisher": "505 Games",
+    "release_date": "2010-08-09",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  When the Bears on Perfection Island throw a party and don’t invite Naughty Bear, the adorable creatures will pay with their lives.  Scorned for the last time, Naughty Bear finally seeks to exact his revenge. Scare the stuffing out of your victims as Naughty Bear (a lovable sociopathic teddy bear who unleashes his wrath on the ill-fated bears of Perfection Island) and stab, shoot and bludgeon every cute and fluffy bear that crosses your path. ",
+        "short": "Players will take on the role of Naughty Bear a bear driven to seek vengeance after the other bears don't invite him to the big birthday party. Scorned for the last time, Naughty Bear becomes hell bent on manipulating and terrorizing the blissful bears inhabiting the Island of Perfection."
+    },
+    "media": [
+        {
+            "media_id": "5730E627",
+            "title": "Naughty Bear",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "11D21D75",
+            "title": "Naughty Bear: Gold Edition",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d8/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

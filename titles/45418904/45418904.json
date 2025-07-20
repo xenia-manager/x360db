@@ -1,0 +1,36 @@
+{
+    "id": "45418904",
+    "title": {
+        "full": "Official Demo",
+        "reduced": "Official Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Racing & Flying"
+    ],
+    "developer": "Criterion Games",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-10-26",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Experience the intensity of Cops versus Racers for the connected generation with one Hot Pursuit and one Race event that challenges each player to set the best times amongst their friends. These times are tracked via the groundbreaking Need for Speed Autolog, a new in-game technology that dynamically recommends personalised gameplay to players based on what their friends have been playing. Play the demo and you’ll receive 500 Cop Bounty and 500 Racer Bounty in the full game. Be sure to  play the full game with the same EA Account you used to play the demo.",
+        "short": "In this demo of Need For Speed Hot Pursuit, players will be able to experience the intensity of Cops versus Racers for the connected generation with one Hot Pursuit and one Race event that challenges each player to set the best race and chase times amongst their friends through the ground breaking Autolog. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418904/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418904/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418904/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418904/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "45410903",
+                "title": "Need for Speed™ Hot Pursuit"
+            }
+        ],
+        "related": []
+    }
+}

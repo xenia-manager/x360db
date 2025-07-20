@@ -1,0 +1,48 @@
+{
+    "id": "373407D7",
+    "title": {
+        "full": "Kung Fu Panda Showdown of Legendary Legends",
+        "reduced": "Kung Fu Panda"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Vicious Cycle Software",
+    "publisher": "Little Orbit",
+    "release_date": "2015-11-17",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese. It is an age of Kung Fu heroes, warriors, and best of all, LEGENDARY LEGENDS! Face-off  alongside or against Po, Tigress, Monkey, Tai Lung, Master Shifu, and all of your favorite Kung Fu Panda characters in the Showdown of Legendary Legends. Up to four players compete in iconic locations throughout the Valley of Peace and beyond. Compete in an epic Tournament where all Kung Fu warriors contend for honor and glory. Who will reign on top as the mightiest warrior in the land? Will it be a mighty hero or a cunning villain?  Game Features: ▪ Fight in an action-packed Kung Fu competition set in the Kung Fu Panda universe – a showdown where all fighters must use their unique skills to compete for honor and glory ▪ Unique fighting styles – every character in the game has special attacks, unique moves and an Awesome Attack",
+        "short": "Join Po, Tigress, Monkey, Tai Lung, Master Shifu, and all of your favorite Kung Fu Panda characters as  they   compete in the thrilling Showdown of Legendary Legends. Up to four players can face-off in iconic locations throughout the Valley of Peace and beyond. Compete in an epic Tournament where all Kung Fu warriors contend for honor and glory."
+    },
+    "media": [
+        {
+            "media_id": "4624508C",
+            "title": "DreamWorks Kung Fu Panda: Showdown of Legendary Legends",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

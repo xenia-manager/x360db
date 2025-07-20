@@ -1,0 +1,35 @@
+{
+    "id": "58550B9B",
+    "title": {
+        "full": "Edgeland",
+        "reduced": "Edgeland"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Take Five",
+    "publisher": "Take Five",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. \"Edgeland: Trials of a lost circle\" is a fast-paced, quick reflex platform game where you have to travel through the dangerous Edgeland to get back home to Circlia before it all goes square-shaped.",
+        "short": "\"Edgeland: Trials of a lost circle\" is a fast-paced, quick reflex platform game where you have to travel through the dangerous Edgeland to get back home to Circlia before it all goes square-shaped."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550b9b00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B9B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b9b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B9B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B9B_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B9B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B9B_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

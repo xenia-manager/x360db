@@ -1,0 +1,35 @@
+{
+    "id": "58550E3E",
+    "title": {
+        "full": "CastleMiner Warfare",
+        "reduced": "CastleMiner Warfare"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "DigitalDNA Games",
+    "publisher": "DigitalDNA Games",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Build and fight with your avatar against 15 of your friends and enemies in the PVP sequel of the best selling CastleMiner series.  Customize your character with a set of un-lockable weapons, kill streaks and perks similar to Call of Duty MW3, in levels that you can fully build, destroy or share online, similar to Minecraft. Complete with fluid physics such as flowing water, and spreading fire.",
+        "short": "Build and fight with your avatar against 15 of your friends and enemies in the PVP sequel of the best selling CastleMiner series.  Customize your character with a set of un-lockable weapons, kill streaks and perks similar to Call of Duty MW3, in levels that you can fully build, destroy or share online, similar to Minecraft. Complete with fluid physics such as flowing water, and spreading fire."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550e3e00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E3E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e3e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E3E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E3E_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E3E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E3E_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

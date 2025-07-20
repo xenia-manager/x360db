@@ -1,0 +1,59 @@
+{
+    "id": "53510823",
+    "title": {
+        "full": "Rise of the Tomb Raider",
+        "reduced": "Rise of the Tomb Raider"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Nixxes",
+    "publisher": "Square Enix",
+    "release_date": "2015-11-10",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Featuring epic, high-octane action moments set in the most beautifully hostile environments on earth, Rise of the Tomb Raider delivers a cinematic survival action adventure where you will join Lara Croft on her first tomb raiding expedition.  Explore Awe-Inspiring Deadly Tombs - Huge ancient spaces littered with deadly traps, solve dramatic environmental puzzles, and decipher ancient texts to reveal crypts as you take on a world filled with secrets to discover. Woman vs. Wild - Conquer a world fiercely protecting its secrets, endure perilous conditions and unstable landscapes, face dangerous wildlife that act as guardians to ancient tombs, and explore huge interactive environments. Guerrilla Combat - Use the environment to your advantage, scale trees and dive underwater to avoid or takedown enemies, configure Lara's gear, weapons, and ammo to suit your play style, craft explosives on the fly to sow chaos, and wield Lara’s signature combat bows and climbing axe.",
+        "short": "Featuring epic, high-octane action moments set in the most beautifully hostile environments on earth, Rise of the Tomb Raider delivers a cinematic survival action adventure where you will join Lara Croft on her first tomb raiding expedition. "
+    },
+    "media": [
+        {
+            "media_id": "0A657B25",
+            "title": "Rise of the Tomb Raider",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "2427ED57",
+            "title": "Rise of the Tomb Raider",
+            "edition": "Original",
+            "region": "Brazil"
+        },
+        {
+            "media_id": "68A2BDCD",
+            "title": "Rise of the Tomb Raider",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "66412E43",
+            "title": "Rise of the Tomb Raider",
+            "edition": "Original",
+            "region": "Russia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510823/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510823/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510823/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510823/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510823/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510823/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510823/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

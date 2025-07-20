@@ -1,0 +1,35 @@
+{
+    "id": "58550415",
+    "title": {
+        "full": "Bible Navigator X HCSB",
+        "reduced": "Bible Navigator X HCSB"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "LifeWay Digital",
+    "publisher": "LifeWay Digital",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=1/3, Mature Content=1/3. Bible Navigator X: HCSB is the first application on the XBOX 360 that allows the user to read the entire Bible from their 360.  Featuring easy navigation, bookmarks, and search tools, Bible Naviagtor X presents the HCSB translation in a great way to read scripture.  Various settings allow you to customize the reading experience with different themes, font sizes, and a scalable viewing area.",
+        "short": "Bible Navigator X: HCSB is the first application on the XBOX 360 that allows the user to read the entire Bible from their 360.  Featuring easy navigation, bookmarks, and search tools, Bible Naviagtor X presents the HCSB translation in a great way to read scripture.  Various settings allow you to customize the reading experience with different themes, font sizes, and a scalable viewing area."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855041500000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550415_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550415/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550415_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550415_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550415_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550415_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

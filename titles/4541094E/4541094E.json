@@ -1,0 +1,53 @@
+{
+    "id": "4541094E",
+    "title": {
+        "full": "NCAA Football 12",
+        "reduced": "NCAA Football 12"
+    },
+    "genre": [
+        "Independent & Music Videos",
+        "Music and Short Videos",
+        "Sports",
+        "Sports & Recreation",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "Electronic Arts - Tiburon",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2011-07-12",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English.  NCAA Football 12 takes the journey of the college athlete to the next level of depth and authenticity. Experience the pride and pageantry of gameday Saturday like never before as you go from high school superstar to top college player to head coach in Road to Glory and Dynasty modes. With an enhanced in-game presentation, new traditions, and an all-new collision system, make an impact by leading your team to the National Championship with NCAA Football 12. ",
+        "short": "Experience the pageantry of gameday Saturday as you go from high school superstar to top college player to head coach in NCAA Football 12. With an enhanced in-game presentation, new traditions, and an all-new tackling system, make an impact with NCAA Football 12.  "
+    },
+    "media": [
+        {
+            "media_id": "18798DCB",
+            "title": "NCAA Football 12",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094e/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094e/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094e/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094e/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094e/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094e/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

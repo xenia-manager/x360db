@@ -1,0 +1,35 @@
+{
+    "id": "5855098D",
+    "title": {
+        "full": "Mega Shooter 11",
+        "reduced": "Mega Shooter 11"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "infiniteplay",
+    "publisher": "infiniteplay",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=1/3, Mature Content=1/3. Mega Shooter 11™ is an extremely authentic, retro side-scrolling space-shooter, ala the best 8 and 16-bit space shooters. It features topnotch old-school graphics, a heart-thumping soundtrack, and intelligent game play. Spread over four huge bases with branching pathways, the game features tons of upgrades, hidden levels, enemies, and excessive amounts of replay value.",
+        "short": "Mega Shooter 11™ is an extremely authentic, retro side-scrolling space-shooter, ala the best 8 and 16-bit space shooters. It features topnotch old-school graphics, a heart-thumping soundtrack, and intelligent game play. Spread over four huge bases with branching pathways, the game features tons of upgrades, hidden levels, enemies, and excessive amounts of replay value."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855098d/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855098D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855098d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855098D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855098D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855098D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855098D_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

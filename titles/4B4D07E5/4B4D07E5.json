@@ -1,0 +1,48 @@
+{
+    "id": "4B4D07E5",
+    "title": {
+        "full": "Winter Stars",
+        "reduced": "Winter Stars"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "49Games",
+    "publisher": "Deep Silver",
+    "release_date": "2011-11-25",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". This game requires a Kinect™ Sensor. Winter Stars is a breath of fresh air for the winter sports genre, enabling sports fans of all ages and abilities to compete with one another or against virtual opponents in no less than eleven disciplines: snowmobile, bobsled, downhill skiing, figure skating, biathlon, freeride skiing, snowboard cross, ski flying, speed skating short-track, and for the first time: curling  and paraskiing.",
+        "short": "Bringing the fun & challenge of 11 winter sports right to your home!  Be it in single player or with multiplayer fun, Winter Stars has something for everyone! "
+    },
+    "media": [
+        {
+            "media_id": "1282A873",
+            "title": "Winter Stars",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e5/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e5/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4b4d07e5/WS_XBOX_360_MNL_US_lowRES%20-%20GonD.pdf"
+        ]
+    }
+}

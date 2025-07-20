@@ -1,0 +1,56 @@
+{
+    "id": "4541093D",
+    "title": {
+        "full": "Mass Effect 2 JP",
+        "reduced": "Mass Effect 2 JP"
+    },
+    "genre": [
+        "Role Playing",
+        "Shooter"
+    ],
+    "developer": "BioWare",
+    "publisher": "Electronic Arts",
+    "release_date": "2011-01-13",
+    "user_rating": null,
+    "description": {
+        "full": "Across the galaxy, entire human colonies are vanishing. As Commander Shepard, you will recruit an elite team of the galaxy’s most dangerous and skilled experts, and lead them on an assault into the most dangerous area of the galaxy - from which you might not return. Download new equipment and missions to continue your adventure even after the main story is complete. They say the mission is suicide. Prove them wrong.",
+        "short": "Across the galaxy, entire human colonies are vanishing. As Commander Shepard, you will recruit an elite team of the galaxy’s most dangerous and skilled experts, and lead them on an assault into the most dangerous area of the galaxy - from which you might not return."
+    },
+    "media": [
+        {
+            "media_id": "5730B21E",
+            "title": "Mass Effect 2 (Disc 1)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "3B191C56",
+            "title": "Mass Effect 2 (Disc 2)",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093d/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454108CE",
+                "title": "Mass Effect 2"
+            }
+        ],
+        "related": []
+    }
+}

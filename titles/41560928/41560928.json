@@ -1,0 +1,41 @@
+{
+    "id": "41560928",
+    "title": {
+        "full": "Destiny The Taken King - Digital Collectors Edition",
+        "reduced": "Collectors Edition"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Bungie",
+    "publisher": "Activision",
+    "release_date": "2015-09-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Digital Collector's Edition offers four Destiny adventures, including an expansive cache of special digital items to aid you on your adventure.  Includes:  • Destiny: The Taken King  • Destiny  • Expansion I  • Expansion II  • Level 25 Character Boost  • Three Exotic Guardian Class items featuring XP bonuses, three class-specific emotes, and three armor shaders to customize every Guardian class.  • Early Access Weapons Pack and SUROS Arsenal Pack • April Activities Update: New Challenges and Rewards   NOTE: This content must only be downloaded via this bundle app after purchase of the Digital Collector's Edition bundle. Do not purchase any content individually from the Xbox Store or you will be charged again for the content and will not receive any refund. If you already own one of the items, you will not receive a refund or discount for that content by purchasing this bundle.  **Early access to Weapons Pack and SUROS Arsenal Pack available starting 09.15.15. Both may also be attained through gameplay starting on 01.01.16. Subject to availability.  30 GB available hard drive storage required as of 09.15.  Storage requirements may increase.  After 09.15, visit www.destinythegame.com/size-requirements for current storage requirements. Various aspects of Xbox 360 Destiny Game require subscription to Xbox Live, sold separately. Activision may modify or discontinue online services without notice.  Users are responsible for broadband access and user fees. See www.destinythegame.com for further details.  Using the software constitutes acceptance of the Destiny Software License Agreement available at http://support.activision.com/license and the Terms of Service and Privacy Policy available at www.bungie.net/eula.",
+        "short": "The Digital Collector’s Edition includes Destiny, The Taken King, Expansion I: The Dark Below, Expansion II: House of Wolves, and extra digital content."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560928/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560928/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560928/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560928/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560928/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560928/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560928/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560928/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560928/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "415608F8",
+                "title": "Destiny"
+            }
+        ],
+        "related": []
+    }
+}

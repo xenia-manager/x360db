@@ -1,0 +1,36 @@
+{
+    "id": "45418975",
+    "title": {
+        "full": "Battlefield 3 Beta",
+        "reduced": "Battlefield 3 Beta"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "DICE",
+    "publisher": "Electronic Arts",
+    "release_date": "2011-09-27",
+    "user_rating": "4.75",
+    "description": {
+        "full": "Join the Battlefield 3 Open Beta! Grab a few friends and jump into the Operation Métro map in Rush mode. Be sure to check out the integrated Battlelog features and share your thoughts on the Open Beta at battlelog.battlefield.com /The BF3 team at DICE",
+        "short": "Join the Battlefield 3 Open Beta! Grab a few friends and jump into the Operation Métro map in Rush mode. Be sure to check out the integrated Battlelog features and share your thoughts on the Open Beta at battlelog.battlefield.com /The BF3 team at DICE"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418975/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418975/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418975/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418975/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "45410950",
+                "title": "Battlefield 3™"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "58410B40",
+    "title": {
+        "full": "Dungeon Twister",
+        "reduced": "Dungeon Twister"
+    },
+    "genre": [
+        "Card & Board"
+    ],
+    "developer": "Hydravision Entertainment",
+    "publisher": "Evolved Games",
+    "release_date": "2010-11-01",
+    "user_rating": null,
+    "description": {
+        "full": "Two teams of adventurers with supernatural powers are locked up in the same dungeon. Only one team can walk out. Will it be yours? Make the dungeon's rooms rotate to help you advance... or prevent your opponent's progress. Would you rather fight or flee? Discover the adaptation of a famous turn-based strategy board game. Play alone and confront other players on Xbox LIVE.",
+        "short": "Two teams of adventurers with super-powers are trapped in a dungeon. Only one can walk out. Apply your strategy, rotate the rooms and become the dungeon master."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b40/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b40/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b40/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b40/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b40/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b40/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b40/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b40/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b40/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b40/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b40/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b40/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b40/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58410A6F",
+    "title": {
+        "full": "DeathSpank",
+        "reduced": "DeathSpank"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "Hothead Games",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2010-07-19",
+    "user_rating": "4.00",
+    "description": {
+        "full": "For uncounted years the wanderer DeathSpank has been a Dispenser of Justice, a Vanquisher of Evil, and a Hero to the Downtrodden. Throughout his adventures DeathSpank has searched for a powerful artifact called….The Artifact. Forged by unknown hands for unknown purposes some unknown time in the past, The Artifact is now within DeathSpank’s reach. What is The Artifact? What evil tyrant seeks to steal it and how are he and DeathSpank… related? This product supports the following languages: In-game speech: English; On-screen text: English.  There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Join DeathSpank, hero to the downtrodden, in the greatest adventure of all time! Explore enchanted lands, defeat tyrants and recover The Artifact."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6f/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

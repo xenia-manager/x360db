@@ -1,0 +1,44 @@
+{
+    "id": "443607D5",
+    "title": {
+        "full": "The Wolf Among Us",
+        "reduced": "The Wolf Among Us"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Telltale Games",
+    "publisher": "Telltale Games",
+    "release_date": "2014-11-04",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Based on the award-winning Fables comic book series by Bill Willingham (published by DC Comics' Vertigo imprint), The Wolf Among Us is a dark, often brutally violent, and mature take on the characters and creatures of fairytale and legend. A five episode series from the creators of the 2012 Game of the Year: The Walking Dead, the player will experience what it's like to be Bigby Wolf (THE Big Bad Wolf), Sheriff of Fabletown.  ",
+        "short": "Based on the award-winning Fables comic book series by Bill Willingham (published by DC Comics' Vertigo imprint), The Wolf Among Us is a dark, often brutally violent, and mature take on the characters and creatures of fairytale and legend. A five episode series from the creators of the 2012 Game of the Year: The Walking Dead, the player will experience what it's like to be Bigby Wolf (THE Big Bad Wolf), Sheriff of Fabletown.  "
+    },
+    "media": [
+        {
+            "media_id": "41D5897D",
+            "title": "The Wolf Among Us: A Telltale Games Series",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d5/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

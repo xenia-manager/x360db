@@ -1,0 +1,47 @@
+{
+    "id": "41560904",
+    "title": {
+        "full": "TRANSFORMERS Rise of the Dark Spark",
+        "reduced": "TRANSFORMERS RotDS"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Edge of Reality",
+    "publisher": "Activision",
+    "release_date": "2014-06-24",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Span time and space as your favorite TRANSFORMERS characters from both the movie, TRANSFORMERS: Age of Extinction, and Cybertron universes! • Includes Over 40 playable characters from two different universes! • Change Form Anytime: Effortlessly switch between robot and vehicle form! • Beyond the Movie: Weave your way through Earth and Cybertron universes in an unforgettable battle to secure the Dark Spark. • Epic Multiplayer Battles: Expanded four-player co-op online escalation mode with new upgradeable defenses and challenging Power Foes! • New Unlock System: Leveling system spans campaign and escalation, allowing players to unlock rewards that will aid progression in both modes!",
+        "short": "Explore two unique worlds as your favorite TRANSFORMERS characters from the movie, TRANSFORMERS: Age of Extinction, and Cybertron universes in a battle to secure the Dark Spark!"
+    },
+    "media": [
+        {
+            "media_id": "50D83F2D",
+            "title": "Transformers: Rise of the Dark Spark",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560904/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560904/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560904/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560904/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560904/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560904/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560904/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560904/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560904/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560904/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560904/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560904/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

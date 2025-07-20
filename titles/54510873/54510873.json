@@ -1,0 +1,43 @@
+{
+    "id": "54510873",
+    "title": {
+        "full": "The Penguins of Madagascar Dr Blowhole Returns Again",
+        "reduced": "The Penguins of Madagascar"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Kinect"
+    ],
+    "developer": "Griptonite Games",
+    "publisher": "THQ inc.",
+    "release_date": "2011-09-13",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Never Swim Alone!  Dr. Blowhole is back and out to conquer the world. He is using the Penguins to achieve that goal – whether they realize it or not. It’s up to Skipper, Kowalski, Rico, Private and you – the new recruit - to get to Dr. Blowhole’s Lair and stop his dastardly schemes. Team up with Julien, Maurice, Mort and Marlene to battle Dr. Blowhole in, under and around the zoo.  It’s an amazing adventure for all to discover treasure, friendship, Snow Cones and Peanut Butter Winkies!  Play in an Xbox 360 adventure designed exclusively for the Kinect.",
+        "short": "Dr. Blowhole is back and out to conquer the world. He is using the Penguins to achieve that goal – whether they realize it or not. It’s up to Skipper, Kowalski, Rico, Private and you – the new recruit - to get to Dr. Blowhole’s Lair and stop his dastardly schemes. Team up with Julien, Maurice, Mort and Marlene to battle Dr. Blowhole in, under and around the zoo."
+    },
+    "media": [
+        {
+            "media_id": "6EE8C231",
+            "title": "DreamWorks The Penguins of Madagascar: Dr. Blowhole Returns: Again!",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510873/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510873/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510873/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510873/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510873/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510873/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510873/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510873/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

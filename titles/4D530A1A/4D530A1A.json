@@ -1,0 +1,75 @@
+{
+    "id": "4D530A1A",
+    "title": {
+        "full": "Fable The Journey",
+        "reduced": "Fable The Journey"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Kinect"
+    ],
+    "developer": "Lionhead Studios",
+    "publisher": "Microsoft Studios",
+    "release_date": "2012-10-09",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Czech, Danish, Dutch, Finnish, Hungarian, Norwegian, Polish, Portuguese, Russian, Swedish, Japanese, Korean, Chinese.  This game requires a Kinect™ Sensor.  Built from the ground up for Kinect for Xbox 360, Fable: The Journey is a whole new way to experience the deep storyline, heart-pounding action, and picturesque world of Albion that fans have come to know and love in the beloved Fable franchise.  Wield magic as a deadly weapon as you defend yourself and your trusty steed in combat against dangerous enemies, engage in hair-raising chases, solve perplexing puzzles, and interact with humorous characters in this action-packed adventure journey to becoming a hero. Voice command support only available in English language and US, Canada, UK, Ireland, Australia and New Zealand locales.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".",
+        "short": "Built from the ground up for Kinect for Xbox 360, Fable: The Journey is a whole new way to experience the deep storyline, heart-pounding action, and picturesque world of Albion that fans have come to know and love in the beloved Fable franchise."
+    },
+    "media": [
+        {
+            "media_id": "49E54438",
+            "title": "Fable: The Journey",
+            "edition": "Original",
+            "region": "Europe, Asia"
+        },
+        {
+            "media_id": "459ECF00",
+            "title": "Fable: The Journey",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "322B870D",
+            "title": "Fable: The Journey",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "5E2FABB9",
+            "title": "Fable: The Journey",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "6B0E711B",
+            "title": "Fable: The Journey",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a1a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a1a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a1a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a1a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a1a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a1a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a1a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a1a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a1a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a1a/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a1a/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a1a/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a1a/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a1a/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a1a/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a1a/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

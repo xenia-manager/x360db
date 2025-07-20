@@ -1,0 +1,35 @@
+{
+    "id": "58550EA8",
+    "title": {
+        "full": "Scarlet the Zombie Slayer",
+        "reduced": "Scarlet the Zombie Slayer"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Chris Antoni",
+    "publisher": "Chris Antoni",
+    "release_date": null,
+    "user_rating": "2.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=2/3, Mature Content=3/3. Forced to cut off her own hand in order to survive, Scarlet must endure an Apocalyptic world full of mutants, zombies, and enormous monstrosities. \"God of War\" meets \"The Walking Dead.\"",
+        "short": "Forced to cut off her own hand in order to survive, Scarlet must endure an Apocalyptic world full of mutants, zombies, and enormous monstrosities. \"God of War\" meets \"The Walking Dead.\""
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550ea8/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550EA8_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550ea8/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550EA8_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EA8_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EA8_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EA8_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

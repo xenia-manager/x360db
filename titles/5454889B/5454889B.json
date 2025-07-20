@@ -1,0 +1,35 @@
+{
+    "id": "5454889B",
+    "title": {
+        "full": "NBA 2K12 Demo",
+        "reduced": "NBA 2K12 Demo"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Visual Concepts Entertainment",
+    "publisher": "2K Sports",
+    "release_date": "2011-09-20",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The NBA 2K franchise is back and bigger than ever delivering more action than any NBA game to date.  Check out some of this year’s improvements such as Total Shot Stick Control & NEW Post Play in the highly anticipated NBA 2K12 demo featuring a re-match of the NBA 2011 Finals, Heat vs. Mavericks.  In the full version, fans will be treated to several other groundbreaking game innovations including the opportunity to finally END THE DEBATE as to who are the best teams and players of all time with the NEW NBA’s Greatest mode featuring Michael Jordan, Magic Johnson, Larry Bird and more.",
+        "short": "The NBA 2K franchise is back & bigger than ever, delivering more action than any NBA game to date. This highly anticipated NBA 2K12 demo features a re-match of the 2011 NBA Finals, Heat vs. Mavericks. In the full version, fans can finally END THE DEBATE as to who the best teams and players of all time are with the NEW NBA’s Greatest mode featuring Michael Jordan, Magic Johnson, Larry Bird & more."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454889b/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454889b/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454889b/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454889b/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "54540894",
+                "title": "NBA 2K12"
+            }
+        ],
+        "related": []
+    }
+}

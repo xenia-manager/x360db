@@ -1,0 +1,44 @@
+{
+    "id": "415607E0",
+    "title": {
+        "full": "Pimp My Ride",
+        "reduced": "Pimp My Ride"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Racing & Flying"
+    ],
+    "developer": "Eutechnyx",
+    "publisher": "Activision",
+    "release_date": "2008-01-01",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Pimp rides all over Pimp City! Featuring Xzibit.",
+        "short": "Pimp rides all over Pimp City! Featuring Xzibit."
+    },
+    "media": [
+        {
+            "media_id": "2641EDA1",
+            "title": "MTV Pimp My Ride",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "1B17FCD8",
+            "title": "MTV Pimp My Ride",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e0/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "425687FF",
+    "title": {
+        "full": "SplitSecond Multiplayer Demo",
+        "reduced": "SplitSecond Multiplayer Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Racing & Flying"
+    ],
+    "developer": "BlackRock Studios",
+    "publisher": "Disney Interactive Studios",
+    "release_date": "2010-11-02",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Get a taste of Split/Second in this brand new action-packed multiplayer demo. Race online against 7 other players in the Dockyard, or go head-to-head against a friend on the Expressway track in split/screen mode. You can also race the Expressway on your own for a thrilling single-player experience.  Four of the best cars in the game are provided for you to try out, so you can experience the speed and cinematic action at a breakneck pace. Remember, Split/Second reactions are required to emerge victorious!",
+        "short": "(Online Interactions Not Rated by the ESRB) Race online against 7 other players or go head-to-head in split/screen mode!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425687ff/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425687ff/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425687ff/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425687ff/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "425607E7",
+                "title": "Split/Second"
+            }
+        ],
+        "related": []
+    }
+}

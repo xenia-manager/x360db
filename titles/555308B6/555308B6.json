@@ -1,0 +1,95 @@
+{
+    "id": "555308B6",
+    "title": {
+        "full": "Tom Clancys Splinter Cell Blacklist",
+        "reduced": "Tom Clancys Splinter Cell Blacklist"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2013-08-20",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Unleash the power or the most lethal agent to ever exist. You are Sam Fisher, and you've been given the ultimate freedom to protect innocents against a series of global terror attacks known as Blacklist - the freedom to use limitless force, to break every law, and to  become the globe's deadliest operative. If you succeed, the President of the United States  will deny you exist. If you fail, millions will die. Multiplayer and online features are no longer available for this product.",
+        "short": "Unleash the power or the most lethal agent to ever exist. You are Sam Fisher, and you've been given the ultimate freedom to protect innocents against a series of global terror attacks known as Blacklist - the freedom to use limitless force, to break every law, and to  become the globe's deadliest operative. If you succeed, the President of the United States will deny you exist. If you fail, millions will die. "
+    },
+    "media": [
+        {
+            "media_id": "1B9619A8",
+            "title": "Tom Clancy's Splinter Cell: Blacklist (Disc 1)",
+            "edition": "Original",
+            "region": "Poland"
+        },
+        {
+            "media_id": "6C84B2D6",
+            "title": "Tom Clancy's Splinter Cell: Blacklist (Disc 1)",
+            "edition": "Original, Signature Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "316B9CCC",
+            "title": "Tom Clancy's Splinter Cell: Blacklist (Disc 1)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "625024E9",
+            "title": "Tom Clancy's Splinter Cell: Blacklist (Disc 1)",
+            "edition": "Upper Echelon Edition",
+            "region": "Russia"
+        },
+        {
+            "media_id": "054F5A57",
+            "title": "Tom Clancy's Splinter Cell: Blacklist (Disc 1) (Campaign Part 1 & Multiplayer)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "00E61621",
+            "title": "Tom Clancy's Splinter Cell: Blacklist (Disc 2)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "551BE733",
+            "title": "Tom Clancy's Splinter Cell: Blacklist (Disc 2)",
+            "edition": "Original, Signature Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "51F636A8",
+            "title": "Tom Clancy's Splinter Cell: Blacklist (Disc 2)",
+            "edition": "Upper Echelon Edition",
+            "region": "Russia"
+        },
+        {
+            "media_id": "371D33A2",
+            "title": "Tom Clancy's Splinter Cell: Blacklist (Disc 2)",
+            "edition": "Original",
+            "region": "Poland"
+        },
+        {
+            "media_id": "5E86F600",
+            "title": "Tom Clancy's Splinter Cell: Blacklist (Disc 2) (Campaign Part 2 & HD Texture Pack)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b6/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

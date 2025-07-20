@@ -1,0 +1,54 @@
+{
+    "id": "535507D1",
+    "title": {
+        "full": "Operation Darkness",
+        "reduced": "Operation Darkness"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "SUCCESS",
+    "publisher": "Success",
+    "release_date": "2010-05-18",
+    "user_rating": null,
+    "description": {
+        "full": "In 1939, the world was filled with wars... This is the masterpiece of horror strategy. Semi real time battle system provides the reality of actual battle. All features in WW2 like scorching desert, severe cold snowfield, violent street fighting and existing army weapons are very realistic too.  As a member of British secret special command \"Blood Pack\", fight and complete special missions! Battle, plot, tragedy, failure... overcome dramatic events to reveal enemy's conspiracy, and grab the peace and victory!",
+        "short": "In 1939, the world was filled with wars... This is the masterpiece of horror strategy. Semi real time battle system provides the reality of actual battle. All features in WW2 like scorching desert, severe cold snowfield, violent street fighting and existing army weapons are very realistic too.  As a member of British secret special command \"Blood Pack\", fight and complete special missions! Battle, plot, tragedy, failure... overcome dramatic events to reveal enemy's conspiracy, and grab the peace"
+    },
+    "media": [
+        {
+            "media_id": "4D9B1036",
+            "title": "Operation Darkness",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1041/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1041/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1041/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1041/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1041/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d1/1041/screenlg16.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

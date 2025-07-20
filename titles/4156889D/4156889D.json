@@ -1,0 +1,35 @@
+{
+    "id": "4156889D",
+    "title": {
+        "full": "First Strike",
+        "reduced": "First Strike"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Treyarch",
+    "publisher": "Activision",
+    "release_date": "2010-10-05",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Welcome to First Strike MP!",
+        "short": "Welcome to First Strike MP!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156889d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156889d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156889d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156889d/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "41560855",
+                "title": "Call of Duty®: Black Ops"
+            }
+        ],
+        "related": []
+    }
+}

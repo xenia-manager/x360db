@@ -1,0 +1,35 @@
+{
+    "id": "5855072D",
+    "title": {
+        "full": "radiangames Crossfire 2",
+        "reduced": "radiangames Crossfire 2"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "radiangames",
+    "publisher": "radiangames",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Crossfire 2 is the sequel to the \"Best Arcade Shooter of 2010\".  All new mega-enemies, a massive upgrade system, multiple difficulty levels, and online scoreboards make Crossfire 2 even more amazing than the original.  NOTE: Online scoreboards require an Xbox Live Gold account.  Crossfire 2 is the sixth game in the highly-rated Radiangames series.",
+        "short": "Crossfire 2 is the sequel to the \"Best Arcade Shooter of 2010\".  All new mega-enemies, a massive upgrade system, multiple difficulty levels, and online scoreboards make Crossfire 2 even more amazing than the original.  NOTE: Online scoreboards require an Xbox Live Gold account.  Crossfire 2 is the sixth game in the highly-rated Radiangames series."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855072d/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855072D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855072d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855072D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855072D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855072D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855072D_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

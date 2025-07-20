@@ -1,0 +1,65 @@
+{
+    "id": "45410811",
+    "title": {
+        "full": "UEFA CL 2006-2007",
+        "reduced": "UEFA CL 2006-2007"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "release_date": "2008-01-01",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Collect & Trade your way to Champions League glory! UEFA Champions League 2006-2007 enables you to experience football on the Ultimate Stage of Elite European Club football. Guide your favourite club to glory through the official tournament, or create your own Ultimate Team and challenge other gamers from around the world.",
+        "short": "Collect & Trade your way to Champions League glory! UEFA Champions League 2006-2007 enables you to experience football on the Ultimate Stage of Elite European Club football. Guide your favourite club to glory through the official tournament, or create your own Ultimate Team and challenge other gamers from around the world."
+    },
+    "media": [
+        {
+            "media_id": "497141ED",
+            "title": "UEFA Champions League 2006-2007",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "357B48B5",
+            "title": "UEFA Champions League 2006-2007",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "45428AD0",
+            "title": "UEFA Champions League 2006-2007",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "5150B196",
+            "title": "UEFA Champions League 2006-2007",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410811/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410811/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410811/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410811/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410811/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410811/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410811/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410811/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410811/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410811/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410811/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410811/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410811/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

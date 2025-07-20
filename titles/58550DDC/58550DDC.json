@@ -1,0 +1,35 @@
+{
+    "id": "58550DDC",
+    "title": {
+        "full": "Slay Those Pixels",
+        "reduced": "Slay Those Pixels"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "CrappyPixels",
+    "publisher": "CrappyPixels",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Slay Those Pixels is a singleplayer 2D Action Adventure Platformer with small elements of character development.  You can choose to play as either a Warrior or a Wizard. In three different worlds, you will slay enemies, level up, find treasure, and face challenging bosses!",
+        "short": "Slay Those Pixels is a singleplayer 2D Action Adventure Platformer with small elements of character development.  You can choose to play as either a Warrior or a Wizard. In three different worlds, you will slay enemies, level up, find treasure, and face challenging bosses!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550ddc/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550DDC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550ddc/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550DDC_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DDC_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DDC_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DDC_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

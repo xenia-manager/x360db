@@ -1,0 +1,52 @@
+{
+    "id": "58410A20",
+    "title": {
+        "full": "Comic Jumper",
+        "reduced": "Comic Jumper"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer"
+    ],
+    "developer": "Twisted Pixel Games, LLC",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-08-10",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Here we are, it’s impulse buy time.  You already know how awesome \"Comic Jumper\" is going to be from that sweet demo, but maybe you need more.  How about a free premium dashboard theme?  Free gamerpics?  Free avatar accessories?  Yes. Tons of unlockables and bonuses?  How about a few new \"Splosion Man\" levels for good measure?  \"Comic Jumper\" comes from Twisted Pixel Games, creators of the award-winning \"Splosion Man\" and \"The Maw\". There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "After his comic book fails, Captain Smiley gets bought out by Twisted Pixel Games and is sent to do work-for-hire, leaping into other comic books to fix their problems.  Comic Jumper is the latest creation of the minds behind the award-winning Splosion Man and The Maw. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a20/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

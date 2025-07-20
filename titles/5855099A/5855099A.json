@@ -1,0 +1,35 @@
+{
+    "id": "5855099A",
+    "title": {
+        "full": "Shock and Awe",
+        "reduced": "Shock and Awe"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "DeRail Games",
+    "publisher": "DeRail Games",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. Come get some! If you want to paralyze your enemy, then it is all about SHOCK AND AWE! SHOCK them with your firepower, AWE them with your awesomeness! Even better, bring your friends’ awesomeness too. In this twin-stick shooter you can play with four of your friends; each being able to choose between four dead cool characters with unique strengths and weapons.",
+        "short": "Come get some! If you want to paralyze your enemy, then it is all about SHOCK AND AWE! SHOCK them with your firepower, AWE them with your awesomeness! Even better, bring your friends’ awesomeness too. In this twin-stick shooter you can play with four of your friends; each being able to choose between four dead cool characters with unique strengths and weapons."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855099a00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855099A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855099a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855099A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855099A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855099A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855099A_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550186",
+    "title": {
+        "full": "Find Teddy",
+        "reduced": "Find Teddy"
+    },
+    "genre": [
+        "Family"
+    ],
+    "developer": "Stephen M Bennett",
+    "publisher": "Stephen M Bennett",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. A puzzle game for young children.  Find the Teddy that matches the clues and then make your own Teddy.",
+        "short": "A puzzle game for young children.  Find the Teddy that matches the clues and then make your own Teddy."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550186/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550186_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550186/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550186_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550186_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550186_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550186_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

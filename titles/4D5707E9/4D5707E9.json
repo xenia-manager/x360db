@@ -1,0 +1,42 @@
+{
+    "id": "4D5707E9",
+    "title": {
+        "full": "Mortal Kombat vs DCU",
+        "reduced": "Mortal Kombat vs DCU"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Midway Amusement Games, LLC",
+    "publisher": "Midway Home Entertainment Inc.",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "For the first time ever Mortal Kombat Warriors battle with DC Universe Super Heroes in Mortal Kombat vs. DC Universe.  (Online Interactions Not Rated by the ESRB)",
+        "short": "For the first time ever Mortal Kombat Warriors battle with DC Universe Super Heroes in Mortal Kombat vs. DC Universe."
+    },
+    "media": [
+        {
+            "media_id": "6153914C",
+            "title": "Mortal Kombat vs. DC Universe",
+            "edition": "Original",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707e9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707e9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707e9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707e9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707e9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707e9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707e9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707e9/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

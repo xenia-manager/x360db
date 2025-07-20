@@ -1,0 +1,50 @@
+{
+    "id": "505407D2",
+    "title": {
+        "full": "タイムリープ",
+        "reduced": "タイムリープ"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "プロトタイプ",
+    "publisher": "株式会社プロトタイプ",
+    "release_date": "2008-01-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "【重要】ゲームオンデマンドに関する重要事項が本文の最後に記載されています。必ずお読みください。  尾道市の市街を挟んで、瀬戸内海に浮かぶ島。 主人公はここで生まれ育った。 小さい頃に両親と別れ、 この神社で同じような境遇のみんなと家族同然に過ごしてきた。 そして、今年も夏がやってきた。 いつも以上に楽しく毎日を過ごしていた。 ある朝、境内に一人の少女が倒れていることを発見する。  ────その少女とは、  ■ このゲームの取扱説明書をダウンロードするには、http://marketplace.xbox.com/ でゲームを探し、[取扱説明書] を選択してください。■払い戻しはできません。詳しくは http://www.xbox.com/live/accounts/ をご覧ください。 ",
+        "short": "尾道市の市街を挟んで、瀬戸内海に浮かぶ島。 主人公はここで生まれ育った。 小さい頃に両親と別れ、 この神社で同じような境遇のみんなと家族同然に過ごしてきた。 そして、今年も夏がやってきた。 いつも以上に楽しく毎日を過ごしていた。 ある朝、境内に一人の少女が倒れていることを発見する。  ────その少女とは、"
+    },
+    "media": [
+        {
+            "media_id": "6E2480A6",
+            "title": "Time Leap",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d2/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d2/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d2/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d2/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d2/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d2/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

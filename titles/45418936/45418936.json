@@ -1,0 +1,41 @@
+{
+    "id": "45418936",
+    "title": {
+        "full": "Dragon Age II Demo",
+        "reduced": "Dragon Age II Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "BioWare",
+    "publisher": "Electronic Arts",
+    "release_date": "2081-03-08",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Download the highly anticipated Action/RPG Dragon Age II right now! Engage in action-packed and immersive gameplay with dynamic new combat mechanics that allow you to think like a general and fight like a Spartan! A whole realm awaits your discovery, rendered in stunning detail with updated graphics and a new visual style. Go deeper into the world of Dragon Age with an entirely new cinematic experience that grabs you from the very beginning in an adventure that shapes itself around every decision you make. With the entire world on the brink of war, you are the only one who can hold it all together. The legend of your rise to power begins now.",
+        "short": "Download the highly anticipated Action RPG Dragon Age II right now! Engage in action-packed and immersive gameplay with dynamic new combat mechanics that allow you to think like a general and fight like a Spartan! With the entire world on the brink of war, only you can hold it all together. The legend of your rise to power begins now. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418936/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418936/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418936/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418936/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418936/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418936/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418936/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418936/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4541090B",
+                "title": "Dragon Age™ 2"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": "4F4707D4",
+    "title": {
+        "full": "Everyone Sing",
+        "reduced": "Everyone Sing"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "Gusto Games Limited",
+    "publisher": "OG International Ltd / O-Games, Inc",
+    "release_date": "2012-06-22",
+    "user_rating": null,
+    "description": {
+        "full": "Everyone Sing is the ULTIMATE party game where everyone can sing! Sing to 35 hit tracks featuring top artists like Nicki Minaj, Jessie J, The Wanted, Michael Bublé, Sugababes, Pussycat Dolls and loads more! Sing with or against friends or sing together in your own group! Multiple party modes supporting up to 8 players including the unique Know Your Song, Pass the Bomb & Tug of War! Multiple ways to play making Everyone Sing the ultimate party game! ",
+        "short": "Everyone Sing is the ULTIMATE party game where everyone can sing! Sing to 35 hit tracks featuring top artists like Nicki Minaj, Jessie J, The Wanted, Michael Bublé, Sugababes, Pussycat Dolls and loads more! Sing with or against friends or sing together in your own group!"
+    },
+    "media": [
+        {
+            "media_id": "64E726E1",
+            "title": "Everyone Sing",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024f4707d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024f4707d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024f4707d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024f4707d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024f4707d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024f4707d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024f4707d4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024f4707d4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024f4707d4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024f4707d4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024f4707d4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024f4707d4/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

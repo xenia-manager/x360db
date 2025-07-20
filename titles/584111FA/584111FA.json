@@ -1,0 +1,37 @@
+{
+    "id": "584111FA",
+    "title": {
+        "full": "The Simpsons Arcade Game",
+        "reduced": "The Simpsons Arcade Game"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Backbone Entertainment",
+    "publisher": "Konami Digital Entertainment",
+    "release_date": "2013-12-31",
+    "user_rating": "3.75",
+    "description": {
+        "full": "It’s time to celebrate the return of the classic The Simpsons™ Arcade Game!  Play through 8 levels of original arcade gameplay and join up to three of your friends in a journey to help the Simpsons on their quest to save Maggie!   • ONLINE ACTION:  1-4 player multiplayer action online or local.   • 4 MODES:  Relive 4 of your favorite game modes from the original Arcade classic!  • BONUS CONTENT: Play through new unlockable content that is sure to bring you back to 1991! ",
+        "short": "Play through 8 levels of original arcade gameplay and join up to three of your friends in a journey to help the Simpsons on their quest to save Maggie! Chase down Smithers and Mr. Burns as you battle through classic Springfield locations in this memorable blast from the past! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fa/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fa/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fa/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fa/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fa/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fa/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fa/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fa/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fa/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fa/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

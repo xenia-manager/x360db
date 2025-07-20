@@ -1,0 +1,43 @@
+{
+    "id": "4B4F07FA",
+    "title": {
+        "full": "DW Strikeforce",
+        "reduced": "DW Strikeforce"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "KOEI Co., Ltd.",
+    "publisher": "KOEI Co., Ltd.",
+    "release_date": "2010-01-22",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Create your own \"strikeforce\" and embark on a quest to conquer Ancient China in this team-based Tactical Action epic.  Fight as a unit with up to four players, or battle it out as a single-player with AI-controlled team mates. Communicate with friends using voice chat to coordinate assaults on heavily-armed fortresses and colossal beasts.   Storm the battlefield with heart-pounding \"air\" fighting techniques, and startling \"Fury\" transformations. Play as your favorite warriors, including the newly-added Meng Huo. Even trade characters online.   Do you and your friends have what it takes to rule the land? Prove your mettle with this white knuckle, high-flying adventure!",
+        "short": "Create your own \"strikeforce\" and embark on a quest to conquer Ancient China in this team-based Tactical Action epic.  Fight as a unit with up to four players, or battle it out as a single-player with AI-controlled team mates. Communicate with friends using voice chat to coordinate assaults on heavily-armed fortresses and colossal beasts.   Storm the battlefield with heart-pounding \"air\" fighting techniques, and startling \"Fury\" transformations. Play as your favorite warriors, including the…"
+    },
+    "media": [
+        {
+            "media_id": "5BCE4171",
+            "title": "Dynasty Warriors: Strikeforce",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "3F781D53",
+            "title": "Dynasty Warriors: Strikeforce",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07fa/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07fa/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07fa/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07fa/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

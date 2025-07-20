@@ -1,0 +1,35 @@
+{
+    "id": "585508AC",
+    "title": {
+        "full": "Paint Ball - Splashes of Fun",
+        "reduced": "Paint Ball - Splashes of Fun"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "CandelaCreations",
+    "publisher": "CandelaCreations",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Shoot paint balls at your opponent and make a splash. Take fun to the next level across roads, parks, rail roads and so on. Stealth, blobs, turrets, teleport and cars make this a fun splashing adventure. May the best player win!",
+        "short": "Shoot paint balls at your opponent and make a splash. Take fun to the next level across roads, parks, rail roads and so on. Stealth, blobs, turrets, teleport and cars make this a fun splashing adventure. May the best player win!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585508ac00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508AC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508ac/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508AC_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508AC_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508AC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508AC_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

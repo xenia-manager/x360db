@@ -1,0 +1,44 @@
+{
+    "id": "4D4B07D9",
+    "title": {
+        "full": "Worms The Revolution Collection",
+        "reduced": "Worms The Revolution Collection"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Team 17",
+    "publisher": "Mastertronic Group Ltd.",
+    "release_date": "2013-03-01",
+    "user_rating": null,
+    "description": {
+        "full": "The war rages on with Worms Revolution, the latest game in the best-selling, turn-based strategy series. Classic 2D gameplay meets fantastic new features such as physics objects, dynamic water, classes and all-new weapons! Now enjoy Worms Revolution and all three DLC packs and as an added extra bonus play Worms 2: Armageddon and all five DLC packs!",
+        "short": "The war rages on with Worms Revolution, the latest game in the best-selling, turn-based strategy series. Classic 2D gameplay meets fantastic new features such as physics objects, dynamic water, classes and all-new weapons! Now enjoy Worms Revolution and all three DLC packs and as an added extra bonus play Worms 2: Armageddon and all five DLC packs!"
+    },
+    "media": [
+        {
+            "media_id": "37EB5060",
+            "title": "Worms: The Revolution Collection",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d9/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

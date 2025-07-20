@@ -1,0 +1,55 @@
+{
+    "id": "4B4E085C",
+    "title": {
+        "full": "METAL GEAR SOLID V GROUND ZEROES",
+        "reduced": "METAL GEAR SOLID V GROUND ZEROES"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Konami Digital Entertainment",
+    "publisher": "Konami Digital Entertainment",
+    "release_date": "2014-03-18",
+    "user_rating": "3.75",
+    "description": {
+        "full": "[Important Notification]  The online services of the Xbox 360 version of METAL GEAR SOLID V: GROUND ZEROES will be terminated by May 31, 2022 at 06:00 UTC. The main game can still be played offline after the online service ends.  The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese, Russian, Japanese. World-renowned Kojima Productions showcases the latest masterpiece in the METAL GEAR SOLID franchise with METAL GEAR SOLID V: GROUND ZEROES. METAL GEAR SOLID V: GROUND ZEROES is the first segment of the ‘Metal Gear Solid V Experience’ and prologue to the larger second segment, METAL GEAR SOLID V: THE PHANTOM PAIN launching thereafter. MGSV: GROUND ZEROES gives gamers the opportunity to get a taste of the world-class production’s unparalleled visual presentation and gameplay before the release of the main game. It also provides an opportunity for those who have never played a Kojima Productions game, and veterans alike, to gain familiarity with the radical new game design and unparalleled style of presentation. Kojima Productions once again raises the bar with the FOX Engine offering incredible graphic fidelity and the introduction of open world game design in the Metal Gear Solid universe. This is the experience that core gamers have been waiting for. For a limited time, purchase of this game grants the user access to “Mother Base Staff” content in the forthcoming METAL GEAR SOLID V: THE PHANTOM PAIN.",
+        "short": "World-renowned Kojima Productions showcases the latest masterpiece in the METAL GEAR SOLID franchise with METAL GEAR SOLID V: GROUND ZEROES.  METAL GEAR SOLID V: GROUND ZEROES is the first segment of the ‘Metal Gear Solid V Experience’ and prologue to the larger second segment, METAL GEAR SOLID V: THE PHANTOM PAIN launching thereafter."
+    },
+    "media": [
+        {
+            "media_id": "085097D1",
+            "title": "Metal Gear Solid V: Ground Zeroes",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "15DE3E7A",
+            "title": "Metal Gear Solid V: Ground Zeroes",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e085c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e085c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e085c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e085c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e085c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e085c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e085c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e085c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e085c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e085c/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e085c/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e085c/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e085c/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e085c/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

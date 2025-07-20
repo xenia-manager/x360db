@@ -1,0 +1,39 @@
+{
+    "id": "58411297",
+    "title": {
+        "full": "Monaco Whats Yours is Mine",
+        "reduced": "Monaco Whats Yours is Mine"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Other"
+    ],
+    "developer": "Pocketwatch Games",
+    "publisher": "Humble Games",
+    "release_date": "2013-05-10",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Assemble a crack team of thieves and execute the perfect crime.  Sneak, steal, and run for your lives in single player or with up to four friends in local or online co-op.  Find out why it won the 2010 IGF Grand Prize and has been described by Rev3Games' Anthony Carboni as \"quite possible the best co-op ever.\"",
+        "short": "Monaco: What's Yours Is Mine is a game about heists.  Assemble a crack team of thieves and execute the perfect crime.  Play as The Locksmith, The Lookout, The Pickpocket, The Cleaner, The Mole, The Gentleman, The Hacker, or The Redhead.  Infiltrate with smoke bombs and wrenches or wreak havoc with shotguns and C4.  Monaco supports single player robbery, same screen co-op party play, and online crime sprees.  One last heist and you can retire in style. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411297/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411297/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411297/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411297/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411297/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411297/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411297/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411297/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411297/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411297/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411297/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

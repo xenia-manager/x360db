@@ -1,0 +1,43 @@
+{
+    "id": "543807D9",
+    "title": {
+        "full": "Max Payne",
+        "reduced": "Max Payne"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics",
+        "Shooter"
+    ],
+    "developer": "Remedy Entertainment",
+    "publisher": "Rockstar Games",
+    "release_date": "2021-11-10",
+    "user_rating": null,
+    "description": {
+        "full": "Max Payne is a man with nothing to lose. A fugitive, undercover cop framed for murder, he is now hunted by cops—and the mob. With his back against the wall, Max is fighting a battle he cannot hope to win.Prepare for a new breed of deep-action game. Prepare for Payne …  Developed by Remedy Entertainment and Neo for the Xbox, and produced by 3D Realms, Max Payne is a relentless, story-driven game about a man on the edge. Help him fight for justice, while uncovering plot-twists and twisted thugs in the gritty bowels of New York during the century's worst blizzard.",
+        "short": "Max Payne is a man with nothing to lose. A fugitive, undercover cop framed for murder, he is now hunted by cops—and the mob. With his back against the wall, Max is fighting a battle he cannot hope to win.Prepare for a new breed of deep-action game. Prepare for Payne …"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d9/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d9/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d9/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d9/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

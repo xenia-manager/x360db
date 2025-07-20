@@ -1,0 +1,64 @@
+{
+    "id": "4D53082D",
+    "title": {
+        "full": "Gears of War 2",
+        "reduced": "Gears of War 2"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Epic Games, Inc.",
+    "publisher": "Microsoft Game Studios",
+    "release_date": "2008-11-07",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Russian, Japanese, Korean, Chinese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Winter approaches. War rages on.  Entire cities are sinking, swallowed by a new threat from below. Soon humanity will have nothing left to defend. Only one option remains: an all-out attack on the Locust Horde.  • HD Gaming’s New Standard Innovative controls and unmatched intensity made Gears of War® one of the best-selling Xbox 360® games ever. Breakthrough advances in Unreal® Engine 3 raise the bar again.  • A Blockbuster Experience Use enemies as shields, fight chainsaw duels, and discover new monsters, weapons, and vehicles in an emotional campaign of loss and retribution.  • Explosive Xbox LIVE® Play The most visceral online shooter gets even better with a new party system, more co-op modes, and TrueSkill(TM) matchmaking. (Online Interactions Not Rated by the ESRB)",
+        "short": "Winter approaches. War rages on.  Entire cities are sinking, swallowed by a new threat from below. Soon humanity will have nothing left to defend. Only one option remains: an all-out attack on the Locust Horde.  • HD Gaming’s New Standard Innovative controls and unmatched intensity made Gears of War® one of the best-selling Xbox 360® games ever. Breakthrough advances in Unreal® Engine 3 raise the bar again.  • A Blockbuster Experience Use enemies as shields, fight chainsaw duels, and dis…"
+    },
+    "media": [
+        {
+            "media_id": "63AF211E",
+            "title": "Gears of War 2",
+            "edition": "Limited Edition, Gears of War Triple Pack",
+            "region": "USA"
+        },
+        {
+            "media_id": "33FCE762",
+            "title": "Gears of War 2",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "51D281BE",
+            "title": "Gears of War 2",
+            "edition": "Original, Limited Edition, Promo, Game of the Year Edition",
+            "region": "Europe, Australia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53082d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53082d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53082d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53082d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53082d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53082d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53082d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53082d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53082d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53082d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53082d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53082d/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53082d/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53082d/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53082d/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53082d/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4D53082D/6f6c864f-128a-4fbc-ba41-4e3b36dd4668.PDF"
+        ]
+    }
+}

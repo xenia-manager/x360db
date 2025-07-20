@@ -1,0 +1,43 @@
+{
+    "id": "415608D8",
+    "title": {
+        "full": "007 Legends",
+        "reduced": "007 Legends"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Eurocom",
+    "publisher": "Activision",
+    "release_date": "2012-10-16",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Gamers and Bond aficionados alike will become James Bond, reliving the world-famous spy’s most iconic and intense undercover missions from throughout the entire Bond film franchise. Employ Bond’s full arsenal of gadgets and weaponry to face notorious villains and their brutal henchmen, perform impressive stunts, and of course, mingle with gorgeous Bond women.",
+        "short": "Gamers and Bond aficionados alike will become James Bond, reliving the world-famous spy’s most iconic and intense undercover missions from throughout the entire Bond film franchise. Employ Bond’s full arsenal of gadgets and weaponry to face notorious villains and their brutal henchmen, perform impressive stunts, and of course, mingle with gorgeous Bond women."
+    },
+    "media": [
+        {
+            "media_id": "5B1FDAF8",
+            "title": "007 Legends",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "2B6BBF16",
+            "title": "007 Legends",
+            "edition": "Original",
+            "region": "Russia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d8/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

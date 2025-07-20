@@ -1,0 +1,47 @@
+{
+    "id": "454109B6",
+    "title": {
+        "full": "NCAA Football 14",
+        "reduced": "NCAA Football 14"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Tiburon",
+    "publisher": "EA SPORTS",
+    "release_date": "2013-07-09",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English.  “Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.”  NCAA® Football 14 unlocks the unpredictability and innovation of the college game. The new physics-driven animation system and a completely re-engineered spread and read option game influence the outcome of every moment allowing you to stay true to your team. ",
+        "short": "NCAA® Football 14 unlocks the unpredictability and innovation of the college game. The new physics-driven animation system and a completely re-engineered spread and read option game influence the outcome of every moment allowing you to stay true to your team. "
+    },
+    "media": [
+        {
+            "media_id": "25ACE521",
+            "title": "NCAA Football 14",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109b6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109b6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109b6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109b6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109b6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109b6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109b6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109b6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109b6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109b6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109b6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109b6/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109b6/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

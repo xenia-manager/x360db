@@ -1,0 +1,48 @@
+{
+    "id": "5A4907D1",
+    "title": {
+        "full": "Rambo The Video Game",
+        "reduced": "Rambo The Video Game"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Teyon",
+    "publisher": "Reef Entertainment",
+    "release_date": "2014-02-21",
+    "user_rating": "0.00",
+    "description": {
+        "full": "John J. Rambo is a special forces war hero that won a Congressional Medal of Honour in the Vietnam War.  Rambo was a member of Baker Team and the star trainee of Col. Samuel Trautman.  Col. Trautman gave the best description of Rambo himself:   ‘…you're dealing with an expert in guerrilla warfare, with a man who's the best, with guns, with knives, with his bare hands. A man who's been trained to ignore pain, ignore weather, to live off the land, to eat things that would make a billy goat puke. In Vietnam his job was to dispose of enemy personnel. To kill! Period! Win by attrition. Well Rambo was the best’   The actions Rambo took and the sights he saw during the Vietnam war haunt his every step when he returns to U.S soil.  Now seen as a drifter, an outsider and a killer he arrives in the town of Hope, Washington and is harassed by local Sheriff Will Teasle and thrown in jail.   Using skills hardened through years of war Rambo escapes the police into the surrounding mountains, the escape escalates into a chaotic and destructive incident that eventually leads Col. Trautman to intervene and attempt to save the Town of Hope from Rambo and Rambo from his inner demons….   Over the subsequent years Rambo and Trautman find their careers and lives intertwined in covert missions and explosive action behind enemy lines in Vietnam and Afghanistan.   RAMBO ® THE VIDEO GAME will put players in Rambo’s combat boots and take them on an action-packed journey through the iconic action-sequences and story-arcs of motion-picture classics FIRST BLOOD ™, RAMBO: FIRST BLOOD PART II ™ & RAMBO III ™.   ",
+        "short": "John J. Rambo is a special forces war hero that won a Congressional Medal of Honour in the Vietnam War.  Rambo was a member of Baker Team and the star trainee of Col. Samuel Trautman.   RAMBO ® THE VIDEO GAME will put players in Rambo’s combat boots and take them on an action-packed journey through the iconic action-sequences and story-arcs of motion-picture classics FIRST BLOOD ™, RAMBO: FIRST BLOOD PART II ™ & RAMBO III ™.  "
+    },
+    "media": [
+        {
+            "media_id": "117ABC85",
+            "title": "Rambo: The Video Game",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4907d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4907d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4907d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4907d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4907d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4907d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4907d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4907d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4907d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4907d1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4907d1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4907d1/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/5a4907d1/ManualEngV6.pdf"
+        ]
+    }
+}

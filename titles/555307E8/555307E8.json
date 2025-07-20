@@ -1,0 +1,53 @@
+{
+    "id": "555307E8",
+    "title": {
+        "full": "Open Season",
+        "reduced": "Open Season"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family"
+    ],
+    "developer": "Ubisoft - Montreal Studio",
+    "publisher": "UbiSoft",
+    "release_date": "2006-09-16",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Play it wild! Play as Boog and Elliot in this outrageous game based on the new movie Open Season™. Team up with all your favorite characters to put Timberline Forest back under nature's control!",
+        "short": "Play it wild! Play as Boog and Elliot in this outrageous game based on the new movie Open Season™. Team up with all your favorite characters to put Timberline Forest back under nature's control!"
+    },
+    "media": [
+        {
+            "media_id": "2AE61897",
+            "title": "Open Season",
+            "edition": "Original, ESA Foundation Holiday Bundle",
+            "region": "USA"
+        },
+        {
+            "media_id": "0BC9672B",
+            "title": "Open Season",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307e8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307e8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307e8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307e8/1033/tile.png",
+        "gallery": [
+            "http://mktplassets.xbox.com/NR/rdonlyres/4E2A332D-A305-4B2A-ABFC-0C94B3B94D9D/0/simopenseason001.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/D1E3B334-F4F2-4EED-B24C-D07A4FCCA3A9/0/simopenseason002.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/EF8D1CAD-C5BB-4131-AE15-0951F2B76A52/0/simopenseason003.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307e8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307e8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307e8/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/f8/1e/f81eaa17-a397-486b-8d74-29a048d76275.PDF?v=1#OpenSeason-enUS."
+        ]
+    }
+}

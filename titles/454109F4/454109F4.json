@@ -1,0 +1,54 @@
+{
+    "id": "454109F4",
+    "title": {
+        "full": "EA SPORTS FIFA 17",
+        "reduced": "EA SPORTS FIFA 17"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "release_date": "2016-09-27",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Danish, Dutch, Norwegian, Polish, Portuguese, Russian, Swedish, Japanese.  Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  Get FIFA 17 Standard Edition on Xbox One or Xbox 360! Standard Edition includes: Base Game and one FIFA Ultimate Team Legends player on-loan for 3 matches.  FIFA 17 transforms the way you play, compete, and emotionally connect with the game.   FIFA 17 immerses you in authentic football experiences while introducing you to football players full of depth and emotion, and taking you to brand new worlds accessible only in the game. Complete innovation in the way players think and move, physically interact with opponents, and execute in attack lets you own every moment on the pitch.",
+        "short": "Get FIFA 17 Standard Edition on Xbox One or Xbox 360! Standard Edition includes: Base Game and one FIFA Ultimate Team Legends player on-loan for 3 matches.  FIFA 17 transforms the way you play, compete, and emotionally connect with the game. "
+    },
+    "media": [
+        {
+            "media_id": "71D5AD72",
+            "title": "FIFA 17",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "53D1A62D",
+            "title": "FIFA 17",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "4368ED0B",
+            "title": "FIFA 17",
+            "edition": "Original",
+            "region": "Brazil"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f4/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

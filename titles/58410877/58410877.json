@@ -1,0 +1,43 @@
+{
+    "id": "58410877",
+    "title": {
+        "full": "PAC-MAN Championship Edition",
+        "reduced": "Pac-Man CE"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "BANDAI NAMCO Entertainment Inc.",
+    "publisher": "BANDAI NAMCO Entertainment Inc.",
+    "release_date": "2009-12-23",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Purchase the full version of Pac-Man Championship Edition. With new and unique gameplay features, including six game modes, a time limit, constantly evolving mazes, and enhanced graphics and sound! Practice hard and play well to experience increased gameplay speed! Experience the evolution of Pac-Man! There are no refunds for this item. For more information, see www.xbox.com/Live/accounts.",
+        "short": "An enhanced version of the classic video game, PAC-MAN, with unique gameplay features!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410877/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410877/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410877/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410877/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410877/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410877/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410877/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410877/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410877/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410877/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410877/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410877/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410877/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410877/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410877/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410877/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

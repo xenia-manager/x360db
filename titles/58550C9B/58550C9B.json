@@ -1,0 +1,35 @@
+{
+    "id": "58550C9B",
+    "title": {
+        "full": "Arcadecraft",
+        "reduced": "Arcadecraft"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "firebase",
+    "publisher": "firebase",
+    "release_date": null,
+    "user_rating": "4.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Enter the exciting world of Arcade ownership! Play through the start of the 1980's arcade revolution by buying and placing video games for your customers to play! Customize your arcade to increase its popularity! Modify machine parameters, manage your finances, capitalize on newly released games, but beware of the events and pitfalls that could bankrupt you!",
+        "short": "Enter the exciting world of Arcade ownership! Play through the start of the 1980's arcade revolution by buying and placing video games for your customers to play! Customize your arcade to increase its popularity! Modify machine parameters, manage your finances, capitalize on newly released games, but beware of the events and pitfalls that could bankrupt you!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550c9b/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C9B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c9b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C9B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C9B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C9B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C9B_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

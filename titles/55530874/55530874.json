@@ -1,0 +1,45 @@
+{
+    "id": "55530874",
+    "title": {
+        "full": "Call of Juarez The Cartel",
+        "reduced": "Call of Juarez Cartel"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Techland",
+    "publisher": "Techland Publishing",
+    "release_date": "2011-07-19",
+    "user_rating": "3.75",
+    "description": {
+        "full": "When a Mexican drug cartel bombs a U.S. law enforcement agency, the U.S. government puts together a special task force to bring them down.  As you fight to dismantle the Cartel and unfurl the mystery of the bombing, you’ll embark on an epic, bloody road trip from the streets of Los Angeles to Ciudad Juarez.  Protect your witness and put an end to the Cartel by any means necessary in this modern day Western shooter.",
+        "short": "When a Mexican drug cartel bombs a U.S. law enforcement agency, the U.S. government puts together a special task force to bring them down..."
+    },
+    "media": [
+        {
+            "media_id": "27E1CD2F",
+            "title": "Call of Juarez: The Cartel",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530874/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530874/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530874/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530874/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530874/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530874/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530874/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530874/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530874/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530874/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530874/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

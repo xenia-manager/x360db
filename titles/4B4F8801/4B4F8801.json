@@ -1,0 +1,35 @@
+{
+    "id": "4B4F8801",
+    "title": {
+        "full": "Fist of the North Star Kens Rage",
+        "reduced": "Fist of the North Star"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "TECMO KOEI GAMES CO., LTD.",
+    "publisher": "TECMO KOEI AMERICA Corporation",
+    "release_date": "2010-11-02",
+    "user_rating": "3.50",
+    "description": {
+        "full": "\"Fist of the North Star\", the standard-bearer for martial arts manga, is reborn in the modern era as an all-new video game. ",
+        "short": "\"Fist of the North Star\", the standard-bearer for martial arts manga, is reborn in the modern era as an all-new video game. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f8801/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f8801/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f8801/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f8801/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4B4F07FE",
+                "title": "Fist of the North Star "
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "454189A7",
+    "title": {
+        "full": "Dead Space  3 Demo",
+        "reduced": "Dead Space  3 Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Kinect"
+    ],
+    "developer": "Visceral",
+    "publisher": "Electronic Arts",
+    "release_date": "2013-01-22",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Dead Space 3 brings Isaac Clarke and merciless soldier John Carver on a journey across space to discover the source of the Necromorph outbreak. Crash-landed on the frozen planet of Tau Volantis, Isaac must comb the harsh environment for raw materials and scavenged parts. He will then put his engineering skills to the ultimate test to create and customize weapons and survival tools. The ice planet holds the key to ending the Necromorph plague forever, but first Isaac must overcome avalanches, treacherous ice-climbs, and the violent wilderness. Facing deadlier evolved enemies and the brutal elements, Isaac can choose to team up, not only for his own survival, but for that of mankind’s. Play together with a friend or go it alone as Isaac Clarke using the seamless new drop in, drop out co-op functionality. Each mode offers unique story elements and gameplay.   ",
+        "short": "Dead Space 3 brings Isaac Clarke and merciless soldier John Carver on a journey across space to discover the source of the Necromorph plague and uncover the secrets that lay within Tau Volantis.  Play alone as Isaac Clarke or with a friend as John Carver in seamless drop in, drop out co-op mode.     "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189a7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189a7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189a7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189a7/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4541099D",
+                "title": "Dead Space™ 3"
+            }
+        ],
+        "related": []
+    }
+}

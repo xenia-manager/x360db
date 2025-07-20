@@ -1,0 +1,46 @@
+{
+    "id": "555308B3",
+    "title": {
+        "full": "Just Dance Disney Party",
+        "reduced": "JD Disney Party"
+    },
+    "genre": [
+        "Kinect",
+        "Music"
+    ],
+    "developer": "Land Ho!",
+    "publisher": "Ubisoft Entertainment",
+    "release_date": "2012-10-23",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor.  For the first time, Just Dance® in collaboration with Disney are bringing their universe and their know-how to create the perfect dance game for the whole family. Just Dance®: Disney Party is the game that makes you dance like a star of beloved Disney Movie Classics and Disney Channel’s hottest TV shows. Enter an interactive world inspired by Disney and enjoy a great selection of some of your favorite Disney songs with fun dances and kid-friendly gameplay. Everybody can Just Dance—children of all ages, family, and friends!",
+        "short": "Just Dance® and Disney are working in collaboration to create the greatest dance game for the whole Family – Just Dance : Disney Party on the Kinect™ for Xbox 360®. Dance like a star to 25 songs from both the beloved classic Disney Movies and Disney Channel’s hottest shows. With an amazing selection of family favorite songs, fun dances and kid-friendly gameplay, children of all ages can Just Dance along with family and friends!  "
+    },
+    "media": [
+        {
+            "media_id": "18A65CAC",
+            "title": "Just Dance: Disney Party",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b3/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/555308b3/PPS_JDDP_X360_MANUAL_UK_HR_jumpto_CMYK.pdf"
+        ]
+    }
+}

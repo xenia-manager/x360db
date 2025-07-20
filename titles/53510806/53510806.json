@@ -1,0 +1,63 @@
+{
+    "id": "53510806",
+    "title": {
+        "full": "FINAL FANTASY XIII-2",
+        "reduced": "FINAL FANTASY XIII-2"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "release_date": "2011-12-15",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  The unfolding drama of FINAL FANTASY XIII, released in 2010 and selling six million copies worldwide, continues in FINAL FANTASY XIII-2. Explore a richly developed world featuring both new and familiar faces, and an exciting and highly developed strategic battle system.  In this ongoing saga, the future is about to change...",
+        "short": "The 2010 release FINAL FANTASY XIII now has a direct sequel! Join Lightning and company as a new battle begins!"
+    },
+    "media": [
+        {
+            "media_id": "02E81F15",
+            "title": "Final Fantasy XIII-2",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "7803DADA",
+            "title": "Final Fantasy XIII-2",
+            "edition": "Collector's Edition",
+            "region": "USA"
+        },
+        {
+            "media_id": "31405081",
+            "title": "Final Fantasy XIII-2",
+            "edition": "Final Fantasy XIII-2: Digital Contents Selection",
+            "region": "Japan"
+        },
+        {
+            "media_id": "3E52AD3E",
+            "title": "Final Fantasy XIII-2: Additional Content Selection",
+            "edition": "Final Fantasy XIII-2: Digital Contents Selection",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510806/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510806/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510806/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510806/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510806/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510806/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510806/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510806/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510806/1041/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/53510806/FFXIII-2_XB_MAN_UK_OD.pdf"
+        ]
+    }
+}

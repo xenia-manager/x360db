@@ -1,0 +1,52 @@
+{
+    "id": "4D4A07E8",
+    "title": {
+        "full": "NBA Baller Beats",
+        "reduced": "NBA Baller Beats"
+    },
+    "genre": [
+        "Kinect",
+        "Sports & Recreation"
+    ],
+    "developer": "HB-Studios",
+    "publisher": "Majesco Entertainment",
+    "release_date": "2012-09-11",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English and does not include a basketball..  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor.  NBA Baller Beats is the first ever motion-based sports video game that requires you to actively play using a real basketball.  The music is your guide as you aspire to perform like a pro and practice your ball-handling skills while building stamina you’ll need for the court – all while having the fun of playing a video game. ",
+        "short": "NBA Baller Beats is the first ever motion-based sports video game that requires you to actively play using a real basketball.  The music is your guide as you aspire to perform like a pro and practice your ball-handling skills while building stamina you’ll need for the court – all while having the fun of playing a video game. "
+    },
+    "media": [
+        {
+            "media_id": "32392245",
+            "title": "NBA Baller Beats",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e8/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e8/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e8/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e8/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4d4a07e8/NBABB%20360k%20MANUAL-EN.pdf"
+        ]
+    }
+}

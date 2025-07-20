@@ -1,0 +1,30 @@
+{
+    "id": "584114C2",
+    "title": {
+        "full": "Titanfall 2 Standard Edition",
+        "reduced": "Titanfall 2 Standard Edition"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Respawn",
+    "publisher": "Electronic Arts",
+    "release_date": "2016-09-16",
+    "user_rating": null,
+    "description": {
+        "full": "From Respawn Entertainment comes Titanfall® 2.   Featuring the debut of a singleplayer campaign and a deeper multiplayer experience, Titanfall® 2 delivers more of the innovative, fast, fluid gameplay fans expect from the series.",
+        "short": "From Respawn Entertainment comes Titanfall® 2.   Featuring the debut of a singleplayer campaign and a deeper multiplayer experience, Titanfall® 2 delivers more of the innovative, fast, fluid gameplay fans expect from the series."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114c2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114c2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114c2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114c2/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

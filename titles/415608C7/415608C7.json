@@ -1,0 +1,45 @@
+{
+    "id": "415608C7",
+    "title": {
+        "full": "Cabelas Adventure Camp",
+        "reduced": "Adventure Camp"
+    },
+    "genre": [
+        "Family",
+        "Kinect"
+    ],
+    "developer": "Cauldron",
+    "publisher": "Activision",
+    "release_date": "2012-09-04",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor  Summer camp meets the ultimate theme park experience in this exciting game for the great outdoors. Cabela’s Adventure Camp is a captivating, wild ride that’s perfect for the whole family, young and old! The game includes fast paced, exciting outdoor activities that send you straight to summer camp, even in the middle of winter! You’ll feel the warmth of the summer sun and excitement in the air as you compete in many exciting camp related mini-games that include Thrill Hill Biking, Wild River Kayaking, Full Throttle Wave Riding and more. Interactive Griefing allows idle players to grief others by knocking down trees and rocks creating in game obstacles that will add hilarious shenanigans to the mix. The brisk gameplay and fantastic variety keep everyone animated, excited and having fun!",
+        "short": "Summer camp meets the ultimate theme park experience in this exciting game for the great outdoors. Cabela’s Adventure Camp is a captivating, wild ride that’s perfect for the whole family, young and old! The game includes fast paced, exciting outdoor activities that send you straight to summer camp, even in the middle of winter!"
+    },
+    "media": [
+        {
+            "media_id": "12F25C3B",
+            "title": "Cabela's Adventure Camp",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c7/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/415608c7/6002XK-226_CampCabelas_Manual%20Digital.pdf"
+        ]
+    }
+}

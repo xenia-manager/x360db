@@ -1,0 +1,35 @@
+{
+    "id": "58550CCF",
+    "title": {
+        "full": "Battle High 2",
+        "reduced": "Battle High 2"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Mattrified",
+    "publisher": "Mattrified",
+    "release_date": null,
+    "user_rating": "4.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=1/3, Mature Content=2/3. Sequel to Battle High:  Elemental Revolt, this thrilling fighter introduces 5 new characters, new music and stages, new challenges, and awesome voice-acting!  Play as one of 12 fierce students (and one secretive faculty member) as they face-off in the tough halls of San Bruno High for the Elementally Advanced and discover the secret behind the mysterious illness stripping students of their powers!",
+        "short": "Sequel to Battle High:  Elemental Revolt, this thrilling fighter introduces 5 new characters, new music and stages, new challenges, and awesome voice-acting!  Play as one of 12 fierce students (and one secretive faculty member) as they face-off in the tough halls of San Bruno High for the Elementally Advanced and discover the secret behind the mysterious illness stripping students of their powers!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550ccf/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CCF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550ccf/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CCF_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CCF_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CCF_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CCF_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

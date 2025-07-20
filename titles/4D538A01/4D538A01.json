@@ -1,0 +1,35 @@
+{
+    "id": "4D538A01",
+    "title": {
+        "full": "Shipwreck Demo",
+        "reduced": "Shipwreck Demo"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Epic Games, Inc",
+    "publisher": "Microsoft Studios",
+    "release_date": "2011-12-20",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Experience Metacritic’s top-rated shooter of 2011! The demo features the mission ‘Shipwreck,’ a thrilling introduction to the spectacular 10-hour campaign.",
+        "short": "Shipwreck Demo"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": null,
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/boxartlg.jpg",
+        "icon": null,
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D5308AB",
+                "title": "Gears of War 3"
+            }
+        ],
+        "related": []
+    }
+}

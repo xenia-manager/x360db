@@ -1,0 +1,60 @@
+{
+    "id": "4E4D0821",
+    "title": {
+        "full": "Knights Contract",
+        "reduced": "Knights Contract"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Game Republic, Inc.",
+    "publisher": "NAMCO BANDAI Games America Inc.",
+    "release_date": "2011-02-22",
+    "user_rating": "4.50",
+    "description": {
+        "full": "KNIGHT BY DAY – EXECUTIONER BY NIGHT  Take a journey through a medieval world of swordsmen and magic, where witches have been hunted and brutally exterminated. Follow the twisted tale of Heinrich, an immortal executioner, and Gretchen, a resurrected witch. Once the victim of Heinrich’s blade by order of the evil Dr. Faust, Gretchen now has him by her side and the two must work together to rid the land of the supernatural foes who are cursing its people with the Black Death.  Sword & sorcery – Use Heinrich’s razor sharp scythe and Gretchen’s explosive witchcraft  A guardian knight – Protect Gretchen against unspeakable evil while teaming up to survive  Medieval lore – Explore Europe during a time of dark magic, despair and wide-spread panic",
+        "short": "KNIGHT BY DAY – EXECUTIONER BY NIGHT  Take a journey through a medieval world of swordsmen and magic, where witches have been hunted and brutally exterminated. Follow the twisted tale of Heinrich, an immortal executioner, and Gretchen, a resurrected witch. Once the victim of Heinrich’s blade by order of the evil Dr. Faust, Gretchen now has him by her side and the two must work together to rid the land of the supernatural foes who are cursing its people with the black spell of death."
+    },
+    "media": [
+        {
+            "media_id": "6FE5CF63",
+            "title": "Knights Contract",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "203895BC",
+            "title": "Knights Contract",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "0D4248FC",
+            "title": "Knights Contract",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0821/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0821/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0821/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0821/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0821/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0821/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0821/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0821/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0821/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0821/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0821/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0821/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0821/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0821/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

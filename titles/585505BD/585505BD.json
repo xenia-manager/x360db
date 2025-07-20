@@ -1,0 +1,35 @@
+{
+    "id": "585505BD",
+    "title": {
+        "full": "Bubble Buster",
+        "reduced": "Bubble Buster"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Mouse88",
+    "publisher": "Mouse88",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Bubble Buster is an addictive bubble breaker style game. Slide bubbles along the horizontal and vertical axis to get groups of the same color and make them explode. This game includes three different game modes (Level Mode, Time Trial and Biggest Bust) and includes a highscore table for each mode along with six awards to be earned throughout the game.",
+        "short": "Bubble Buster is an addictive bubble breaker style game. Slide bubbles along the horizontal and vertical axis to get groups of the same color and make them explode. This game includes three different game modes (Level Mode, Time Trial and Biggest Bust) and includes a highscore table for each mode along with six awards to be earned throughout the game."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585505bd00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505BD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505bd/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505BD_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505BD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505BD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505BD_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

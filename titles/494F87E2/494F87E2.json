@@ -1,0 +1,47 @@
+{
+    "id": "494F87E2",
+    "title": {
+        "full": "El Shaddai  ASCENSION OF THE METATRON",
+        "reduced": "El Shaddai"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting"
+    ],
+    "developer": "Ignition Entertainment Ltd.",
+    "publisher": "Ignition Entertainment Ltd.",
+    "release_date": "2011-04-28",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Humanity’s future rests in your capable hands in El Shaddai ASCENSION OF THE METATRON, an innovative new action-adventure epic that casts the player in the role of a brave warrior named Enoch. He has been tasked by Heaven to recapture the fallen angels that are wreaking havoc on human civilization, and must ascend a maddening, otherworldly tower and defeat unimaginable horrors along the way. Combining breathtaking visual artistry, a variety of exciting and unique gameplay styles, and a timeless story line inspired by ancient Biblical apocrypha, El Shaddai delivers an experience truly unlike anything that came before it. ",
+        "short": "El Shaddai is an innovative new action-adventure epic that casts the player in the role of a brave warrior who must traverse stunningly surreal landscapes, battle unimaginable foes, and uncover ancient mysteries in order to restore balance between Heaven and Earth."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f87e2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f87e2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f87e2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f87e2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f87e2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f87e2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f87e2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f87e2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f87e2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f87e2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f87e2/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f87e2/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f87e2/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f87e2/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "494F07D1",
+                "title": "El Shaddai"
+            }
+        ],
+        "related": []
+    }
+}

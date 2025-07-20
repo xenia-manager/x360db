@@ -1,0 +1,35 @@
+{
+    "id": "5855059C",
+    "title": {
+        "full": "radiangames Crossfire",
+        "reduced": "radiangames Crossfire"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "radiangames",
+    "publisher": "radiangames",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. radiangames Crossfire is an innovative and visually stunning shooter for one or two players.  Use your short-range warp drive to get behind the invaders from space and blow them away.  radiangames Crossfire is the second game in the radiangames series.",
+        "short": "radiangames Crossfire is an innovative and visually stunning shooter for one or two players.  Use your short-range warp drive to get behind the invaders from space and blow them away.  radiangames Crossfire is the second game in the radiangames series."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855059c/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855059C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855059c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855059C_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855059C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855059C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855059C_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

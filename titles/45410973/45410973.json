@@ -1,0 +1,35 @@
+{
+    "id": "45410973",
+    "title": {
+        "full": "FIFA 12 Early Release",
+        "reduced": "FIFA 12 Early Release"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2011-09-23",
+    "user_rating": null,
+    "description": {
+        "full": "Winner of 20 “Best Sports Game of E3” awards, including the prestigious E3 Game Critics award, FIFA 12 brings to the pitch the game-changing new Player Impact Engine. Add to this the Revolutionary gameplay innovations including Precision Dribbling, Tactical Defending and ProPlayer Inteligence making FIFA 12 deeper and more engaging.",
+        "short": "Winner of 20 “Best Sports Game of E3” awards, including the prestigious E3 Game Critics award, FIFA 12 brings to the pitch the game-changing new Player Impact Engine. Add to this the Revolutionary gameplay innovations including Precision Dribbling, Tactical Defending and ProPlayer Inteligence making FIFA 12 deeper and more engaging."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410973/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410973/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410973/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410973/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "45410967",
+                "title": "FIFA 12"
+            }
+        ],
+        "related": []
+    }
+}

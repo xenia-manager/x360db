@@ -1,0 +1,39 @@
+{
+    "id": "4B4D87F3",
+    "title": {
+        "full": "Risen 2 Dark Waters Demo",
+        "reduced": "Risen 2 Dark Waters Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "Wizarbox",
+    "publisher": "Deep Silver",
+    "release_date": "2012-09-07",
+    "user_rating": null,
+    "description": {
+        "full": "Download this demo now.",
+        "short": "Download this demo now."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d87f3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d87f3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d87f3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d87f3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d87f3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d87f3/1033/screenlg2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4B4D07E6",
+                "title": "Risen 2™: Dark Waters "
+            }
+        ],
+        "related": []
+    }
+}

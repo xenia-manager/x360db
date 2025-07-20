@@ -1,0 +1,35 @@
+{
+    "id": "585505AD",
+    "title": {
+        "full": "Spaceship Game for Kids",
+        "reduced": "Spaceship Game for Kids"
+    },
+    "genre": [
+        "Family"
+    ],
+    "developer": "PurpleGames",
+    "publisher": "PurpleGames",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Kids love spaceships! If your kid is old enough to hold a controller they are old enough to play this game. Young children will love learning to use the controller in a failure-free environment. Older children will find rewards for exploring planets and galaxies.",
+        "short": "Kids love spaceships! If your kid is old enough to hold a controller they are old enough to play this game. Young children will love learning to use the controller in a failure-free environment. Older children will find rewards for exploring planets and galaxies."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585505ad00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505AD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505ad/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505AD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505AD_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505AD_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505AD_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

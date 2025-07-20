@@ -1,0 +1,83 @@
+{
+    "id": "4E4D085C",
+    "title": {
+        "full": "NARUTO SHIPPUDEN Ultimate Ninja STORM 3",
+        "reduced": "NARUTO STORM 3"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting"
+    ],
+    "developer": "CyberConnect2 Co., Ltd.",
+    "publisher": "NAMCO BANDAI Games America Inc.",
+    "release_date": "2013-03-05",
+    "user_rating": "5.00",
+    "description": {
+        "full": "NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 3 unleashes a tornado of electrifying ninja action and adventure along with 80+ playable characters, advanced online modes and enhanced fighting mechanics. In story mode, players will be thrown into a series of thrilling adventures as they delve into the Fourth Great Ninja War. For the first time in Ultimate Ninja STORM history, players will be able to relive the most exciting series of the NARUTO SHIPPUDEN anime. Experience new one-versus-many action stages to test players’ ninja skills, while epic fights will be punctuated with cinematic boss battles ranging from nefarious villains to massive beasts. Players will also be able to battle against the world through extensive multiplayer modes. ",
+        "short": "NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 3 delivers electrifying ninja action & adventure, 80+ playable characters, advanced online modes & enhanced fighting mechanics. In story mode, players will be thrown into a series of thrilling adventures.  Players will be able to relive the most exciting series along with epic fights & cinematic boss battles. Players will also be able to battle against the world through extensive multiplayer modes."
+    },
+    "media": [
+        {
+            "media_id": "46C97154",
+            "title": "Naruto Shippuden: Ultimate Ninja Storm 3",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "2874E04D",
+            "title": "Naruto Shippuden: Ultimate Ninja Storm 3",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "2576927D",
+            "title": "Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "26D3C99F",
+            "title": "Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "379C3D05",
+            "title": "Naruto Shippuuden: Narutimate Storm 3",
+            "edition": "Original",
+            "region": "Japan, Korea"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085c/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

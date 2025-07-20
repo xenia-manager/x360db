@@ -1,0 +1,36 @@
+{
+    "id": "5752881C",
+    "title": {
+        "full": "Sesame Street Once Upon a Monster Demo",
+        "reduced": "Once Upon a Demo"
+    },
+    "genre": [
+        "Family",
+        "Kinect"
+    ],
+    "developer": "Double Fine Productions",
+    "publisher": "WB Games Inc.",
+    "release_date": "2011-09-27",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Jump into a storybook adventure with the Sesame Street: Once Upon a Monster demo.   From innovative game developer Double Fine Productions comes a storybook adventure of whimsical discovery and outrageous fun, featuring popular Sesame Street characters and quirky, new monsters!   This Controller-free gaming experience is full of life lessons, like building friendships, sharing and conquering fears.  Perfect for kids, and fun for the entire family!  Drop-in/drop-out co-op is ideal for parent/child or sibling play.  Join the fun!  Full game coming October 2011 exclusively on Kinect™ for Xbox 360®.",
+        "short": "Jump into a storybook adventure with the Sesame Street: Once Upon a Monster demo.   From innovative game developer Double Fine Productions comes a storybook adventure of whimsical discovery and outrageous fun, featuring popular Sesame Street characters and quirky, new monsters!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752881c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752881c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752881c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752881c/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5752080C",
+                "title": "Sesame Street: Once Upon a Monster"
+            }
+        ],
+        "related": []
+    }
+}

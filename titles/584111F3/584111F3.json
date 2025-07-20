@@ -1,0 +1,37 @@
+{
+    "id": "584111F3",
+    "title": {
+        "full": "Double Fine Happy Action Theater",
+        "reduced": "Double Fine Happy Action Theater"
+    },
+    "genre": [
+        "Family",
+        "Kinect"
+    ],
+    "developer": "Double Fine Productions",
+    "publisher": "Microsoft Game Studios",
+    "release_date": "2012-02-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Are you annoyed at how little magic you are able to shoot from your fingers? Have you ever tried to get grandma to do the worm, but all she would do is just stand there? Have you ever noticed how your living room doesn’t have any hot lava in it? And who designed this living room anyway?! It doesn’t even have any buildings to smash! Well, Double Fine Happy Action Theater can solve all of these problems and more! You will also be able to clone yourself or hang out in a plate of jelly if you want. And when you’re done with that, maybe you will want to feed some pigeons or have a snowball fight. There are 18 amazing ways that Double Fine Action Theater will enhance your life! And up to 5 of your friends’ lives too! (ages 2 to 102)",
+        "short": "Are you annoyed at how little magic you are able to shoot from your fingers? Have you ever tried to get grandma to do the worm, but all she would do is just stand there? Have you ever noticed how your living room doesn’t have any hot lava in it? Or that it doesn’t even have any buildings to smash?! Well, Double Fine Happy Action Theater can solve all of these problems and more! There are 18 amazing activities that will enhance your life! And up to 5 of your friends’ lives too! (ages 2 to 102)"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f3/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

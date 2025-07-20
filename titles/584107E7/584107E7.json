@@ -1,0 +1,37 @@
+{
+    "id": "584107E7",
+    "title": {
+        "full": "Cloning Clyde",
+        "reduced": "Cloning Clyde"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer"
+    ],
+    "developer": "NinjaBee in Association With J. Kenworthy Games",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-05-18",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Single Player, Xbox Live Multiplayer 1-4, Local Multiplayer 1-4, HD (High Definition) Dear Clyde, Did you get your twenty bucks yet? Because I was thinking that if you did, you could buy this really cool game and still have money left over for one of those sweet Killer Kenn action figures. That would be great, because I could sure use your help. Just a thought. Rock on dude, Clyde. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Help Clyde and hundreds of his clone mutations do whatever it takes - fight, fly, even explode - to escape the clutches of the nefarious Dupliclone, Inc."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e7/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

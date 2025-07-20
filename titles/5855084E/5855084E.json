@@ -1,0 +1,35 @@
+{
+    "id": "5855084E",
+    "title": {
+        "full": "PowerSpinners",
+        "reduced": "PowerSpinners"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Salvador Lopez",
+    "publisher": "Salvador Lopez",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=3/3, Mature Content=0/3. PowerSpinners is a really fast paced classic-style sports game. Test your skills against the AI (100 difficulty levels) or random opponents from around the world!",
+        "short": "PowerSpinners is a really fast paced classic-style sports game. Test your skills against the AI (100 difficulty levels) or random opponents from around the world!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855084e/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855084E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855084e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855084E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855084E_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855084E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855084E_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

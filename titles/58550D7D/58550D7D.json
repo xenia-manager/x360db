@@ -1,0 +1,35 @@
+{
+    "id": "58550D7D",
+    "title": {
+        "full": "A Light Start",
+        "reduced": "A Light Start"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "SelfTitledGames",
+    "publisher": "SelfTitledGames",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. In \"A Light Start\" you take control of your own crawler and must collect energy for your queen crawler, so that she can remove the darkness and light the world. Dig your way through the world and avoid the dangers of the dark. \"A Light Start\" features procedurally generated levels and a level editor to allow you to create and play your own levels.",
+        "short": "In \"A Light Start\" you take control of your own crawler and must collect energy for your queen crawler, so that she can remove the darkness and light the world. Dig your way through the world and avoid the dangers of the dark. \"A Light Start\" features procedurally generated levels and a level editor to allow you to create and play your own levels."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550d7d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D7D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d7d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D7D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D7D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D7D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D7D_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

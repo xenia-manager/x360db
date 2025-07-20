@@ -1,0 +1,41 @@
+{
+    "id": "58411223",
+    "title": {
+        "full": "Marvel vs Capcom Origins",
+        "reduced": "Marvel vs Capcom Origins"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Iron Galaxy",
+    "publisher": "Capcom U.S.A., Inc.",
+    "release_date": "2012-09-26",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The heroes of Marvel are back on the fighting ground, ready to do battle with Capcom’s greatest legends, and with each other. In Marvel vs. Capcom: Origins, you get two classic 90s Marvel arcade games for the price of one! Both Marvel Super Heroes and Marvel vs. Capcom play like their original arcade versions – with fast-paced, over-the-top fighting action – but now feature upgraded HD visuals and customizable appearances, online play, replay-saving and spectator mode, and a dynamic challenge system that earns points for unlockable goodies. Fight like a hero, play like a legend!",
+        "short": "The heroes of Marvel are back on the fighting ground, ready to do battle with Capcom’s greatest legends, and with each other. In Marvel vs. Capcom: Origins, you get two classic 90s Marvel arcade games for the price of one! Both Marvel Super Heroes and Marvel vs. Capcom retain their original fast-paced, over-the-top fighting action, and now feature upgraded HD visuals, online play, replay-saving, spectator mode, and a dynamic challenge system. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411223/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411223/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411223/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411223/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411223/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411223/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411223/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411223/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411223/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411223/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411223/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411223/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411223/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411223/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": "573687DE",
+    "title": {
+        "full": "WRC 4",
+        "reduced": "WRC 4"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Milestone Srl",
+    "publisher": "Bigben Interactive",
+    "release_date": "2013-10-16",
+    "user_rating": null,
+    "description": {
+        "full": "Try out the 2013 FIA WORLD RALLY CHAMPIONSHIP season in this demo version of WRC 4! From dawn to dusk, experience a full day of the Rally d'Italia Sardegna playing as Sébastien Ogier in his Volkswagen Polo R WRC. Get ready at the Service Park, drive along the dusty roads of Sardinia, take control of your car and win the rally!",
+        "short": "Try out the 2013 FIA WORLD RALLY CHAMPIONSHIP season in this demo version of WRC 4! From dawn to dusk, experience a full day of the Rally d'Italia Sardegna playing as Sébastien Ogier in his Volkswagen Polo R WRC. Get ready at the Service Park, drive along the dusty roads of Sardinia, take control of your car and win the rally!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573687de/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573687de/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573687de/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573687de/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573687de/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573687de/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573687de/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573687de/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573687de/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573687de/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "573607DD",
+                "title": "WRC 4"
+            }
+        ],
+        "related": []
+    }
+}

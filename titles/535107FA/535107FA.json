@@ -1,0 +1,87 @@
+{
+    "id": "535107FA",
+    "title": {
+        "full": "DEUS EX HUMAN REVOLUTION",
+        "reduced": "DEUS EX HUMAN REVOLUTION"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "EIDOS-MONTREAL",
+    "publisher": "SQUARE ENIX",
+    "release_date": "2010-08-23",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports  English.  In DEUS EX : HUMAN REVOLUTION, you play Adam Jensen, a security specialist, handpicked to oversee the defense of one of America’s most experimental biotechnology firms. But when a black ops team uses a plan you designed to break in and kill the scientists you were hired to protect, everything you thought you knew about your job changes. At a time when scientific advancements are routinely turning athletes, soldiers and spies into super-enhanced beings, someone is working very hard to ensure mankind’s evolution follows a particular path, and you need to discover why - the decisions you take and the choices you make, will be the only things that can change it.  Featured in more than 50 “Best of 2011” videogame lists,  Machinima.com- 95/100 “absolutely fantastic”,  Eurogamer.net- 9/10 \"When you finish, you just want to play it again\",  Xbox World Magazine- 9.4/10 “It's a great shooter, a great stealth game, a great RPG”,  Edge-online.com– 9/10 “Remarkable and unique”,  Official Xbox Magazine- “Deliriously addictive”,  IGN.com- 9/10,  1UP.com- A.",
+        "short": "In DEUS EX : HUMAN REVOLUTION, you play Adam Jensen, a security specialist, handpicked to oversee the defense of one of America’s most experimental biotechnology firms. But when a black ops team uses a plan you designed to break in and kill the scientists you were hired to protect, everything you thought you knew about your job changes. At a time when scientific advancements are routinely turning athletes, soldiers and spies into super-enhanced beings, someone is working very hard to ensure man…"
+    },
+    "media": [
+        {
+            "media_id": "54A6645F",
+            "title": "Deus Ex: Human Revolution",
+            "edition": "Original",
+            "region": "Spain"
+        },
+        {
+            "media_id": "35C44DE0",
+            "title": "Deus Ex: Human Revolution",
+            "edition": "Original, Classics, Augmented Edition, Nordic Edition, Ultimate Stealth Triple Pack",
+            "region": "World"
+        },
+        {
+            "media_id": "2B1C79E5",
+            "title": "Deus Ex: Human Revolution",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "1B58A4E1",
+            "title": "Deus Ex: Human Revolution",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "51CD3D7B",
+            "title": "Deus Ex: Human Revolution",
+            "edition": "Original",
+            "region": "Italy"
+        },
+        {
+            "media_id": "7BBEB936",
+            "title": "Deus Ex: Human Revolution: Director's Cut (Disc 1)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "7C4137BE",
+            "title": "Deus Ex: Human Revolution: Director's Cut (Disc 2)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107fa/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107fa/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107fa/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107fa/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107fa/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107fa/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107fa/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107fa/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107fa/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107fa/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107fa/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107fa/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107fa/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107fa/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/535107fa/DeusExHumanRevolution_Manual_EN_Revised.pdf"
+        ]
+    }
+}

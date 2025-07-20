@@ -1,0 +1,39 @@
+{
+    "id": "58411409",
+    "title": {
+        "full": "Foul Play",
+        "reduced": "Foul Play"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Mediatonic",
+    "publisher": "Sold Out Sales & Marketing Ltd.",
+    "release_date": "2013-09-18",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Play as the daemon hunter Baron Dashforth in a side-scrolling brawler set ENTIRELY on a theater stage.  Perform shattering takedowns and reversals! Electrify spectators with linked attacks, have a friend join as sidekick Scampwick and use every stage-trick you know to bring the house down!  Play out the most spectacular  moments of the Baron’s life; improbable beasts, astonishing villainy and, at the heart of it all, the mysterious Foul Play.",
+        "short": "Play as the daemon hunter Baron Dashforth in a side-scrolling brawler set ENTIRELY on a theater stage.  Perform shattering takedowns and reversals! Electrify spectators with linked attacks, have a friend join as sidekick Scampwick and use every stage-trick you know to bring the house down!  Play out the most spectacular  moments of the Baron’s life; improbable beasts, astonishing villainy and, at the heart of it all, the mysterious Foul Play."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411409/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411409/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411409/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411409/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411409/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411409/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411409/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411409/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411409/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411409/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411409/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411409/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

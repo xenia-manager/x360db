@@ -1,0 +1,42 @@
+{
+    "id": "584112CE",
+    "title": {
+        "full": "Super Time Force",
+        "reduced": "Super Time Force"
+    },
+    "genre": [
+        "Platformer",
+        "Shooter"
+    ],
+    "developer": "Capy",
+    "publisher": "Microsoft Studios",
+    "release_date": "2014-05-14",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Super Time Force is an action-packed platformer with a time-travelling twist!  You’re in control of time itself, bending and stretching it to your advantage on the battlefield. Rewind time and choose when to jump back into the action, teaming-up with your past selves in a unique single-player co-op experience! Take control of up to 16 unique characters, and battle across 6 different time periods, from the long-ago past to the far-away future.",
+        "short": "Super Time Force is an action-packed platformer with a time-travelling twist!  You’re in control of time itself, bending and stretching it to your advantage on the battlefield. Rewind time and choose when to jump back into the action, teaming-up with your past selves in a unique single-player co-op experience! Take control of up to 16 unique characters, and battle across 6 different time periods, from the long-ago past to the far-away future."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ce/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ce/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ce/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ce/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ce/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ce/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ce/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ce/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ce/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ce/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ce/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ce/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ce/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ce/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

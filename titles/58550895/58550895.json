@@ -1,0 +1,35 @@
+{
+    "id": "58550895",
+    "title": {
+        "full": "9 Ball Pool Champion",
+        "reduced": "9 Ball Pool Champion"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Maximinus",
+    "publisher": "Maximinus",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Classic 9 Ball pool, with 4 player party mode, and cooperative play against the computer. Featuring multi rebound Cheat-O-Laser for insane trickshots!",
+        "short": "Classic 9 Ball pool, with 4 player party mode, and cooperative play against the computer. Featuring multi rebound Cheat-O-Laser for insane trickshots!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550895/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550895_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550895/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550895_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550895_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550895_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550895_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

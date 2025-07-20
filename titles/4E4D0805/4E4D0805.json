@@ -1,0 +1,63 @@
+{
+    "id": "4E4D0805",
+    "title": {
+        "full": "Tales of Vesperia",
+        "reduced": "Tales of Vesperia"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "NAMCO BANDAI Games Inc.",
+    "publisher": "Namco",
+    "release_date": "2009-06-26",
+    "user_rating": "4.75",
+    "description": {
+        "full": "\"Tales of Vesperia\" is the latest installment in the worldwide multi-million selling Tales RPG series. Experience sharp, beautiful graphics in HD, captivating voiced events and real-time, action-packed battles featuring all new enhanced systems such as \"Fatal Strikes\" and \"Burst Artes.\"",
+        "short": "\"Tales of Vesperia\" is the latest installment in the worldwide multi-million selling Tales RPG series. Experience sharp, beautiful graphics in HD, captivating voiced events and real-time, action-packed battles featuring all new enhanced systems such as \"Fatal Strikes\" and \"Burst Artes.\""
+    },
+    "media": [
+        {
+            "media_id": "624415D4",
+            "title": "Tales of Vesperia",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0805/2057/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4E4D07E9",
+                "title": "Tales of Vesperia"
+            }
+        ],
+        "related": []
+    }
+}

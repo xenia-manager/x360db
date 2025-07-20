@@ -1,0 +1,35 @@
+{
+    "id": "58550E6A",
+    "title": {
+        "full": "Fat Dragons",
+        "reduced": "Fat Dragons"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Nostatic Software",
+    "publisher": "Nostatic Software",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Flap your wings to fly your dragon and do battle against enemy dragons across a variety of environments. Fly among the trees in a lush jungle. Fight within the ruins of an ancient city. Dodge the molten fireballs that rain down from an erupting volcano. Avoid rain storms and lightning strikes amidst the clouds.",
+        "short": "Flap your wings to fly your dragon and do battle against enemy dragons across a variety of environments. Fly among the trees in a lush jungle. Fight within the ruins of an ancient city. Dodge the molten fireballs that rain down from an erupting volcano. Avoid rain storms and lightning strikes amidst the clouds."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550e6a00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E6A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e6a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E6A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E6A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E6A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E6A_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

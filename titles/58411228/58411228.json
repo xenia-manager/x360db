@@ -1,0 +1,38 @@
+{
+    "id": "58411228",
+    "title": {
+        "full": "Mark of the Ninja",
+        "reduced": "Mark of the Ninja"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Klei",
+    "publisher": "Microsoft Studios",
+    "release_date": "2012-09-07",
+    "user_rating": "4.00",
+    "description": {
+        "full": "A ninja is powerful yet fragile. Quick but deliberate. Mark of the Ninja is a stealth platformer that puts you in control of a Ninja who's clan is in danger of extinction. Observe your enemies from the darkness, manipulate them with simple yet versatile tools, and experience what it is to be a Ninja.   From the award-winning studio that brought you Shank, Mark of the Ninja is a game about finesse, manipulation, and sacrifice.",
+        "short": "A ninja is powerful yet fragile. Quick but deliberate. Mark of the Ninja is a stealth platformer that puts you in control of a Ninja who's clan is in danger of extinction. Observe your enemies from the darkness, manipulate them with simple yet versatile tools, and experience what it is to be a Ninja.   From the award-winning studio that brought you Shank, Mark of the Ninja is a game about finesse, manipulation, and sacrifice."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

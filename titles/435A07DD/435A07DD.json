@@ -1,0 +1,37 @@
+{
+    "id": "435A07DD",
+    "title": {
+        "full": "Akai Katana Disc Xbox 360",
+        "reduced": "Akai Katana Disc Xbox 360"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Developer String",
+    "publisher": "Publisher String",
+    "release_date": "2011-05-26",
+    "user_rating": null,
+    "description": {
+        "full": "Please download this content",
+        "short": "Please download this content"
+    },
+    "media": [
+        {
+            "media_id": "3BA10CD3",
+            "title": "Akai Katana Shin",
+            "edition": "Original, Cave Shooting Collection",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dd/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

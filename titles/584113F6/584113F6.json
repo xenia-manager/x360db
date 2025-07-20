@@ -1,0 +1,40 @@
+{
+    "id": "584113F6",
+    "title": {
+        "full": "Doodle Jump for Kinect",
+        "reduced": "Doodle Jump for Kinect"
+    },
+    "genre": [
+        "Kinect",
+        "Platformer"
+    ],
+    "developer": "Smoking Gun Interactive / Lima Sky",
+    "publisher": "D3Publisher of America, Inc.",
+    "release_date": "2013-06-28",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Doodle Jump, the most addictive mobile platformer ever, comes to Xbox LIVE Arcade with amazing new Kinect-only features.  Guide Doodle the Doodler on a journey up, up, up, bouncing from platform to platform, past monsters, black holes and other obstacles.  Players step left and right to move, point to blast nose balls at baddies, flap their arms to fly and more with other unique gesture controls.  Doodle Jump for Kinect introduces 3 all-new worlds, treacherous bosses, and unique power-ups.  Get off your couch and get your friends and family together to see who can score the most points and collect the most stars.",
+        "short": "Doodle Jump, the most addictive mobile platformer ever, comes to Xbox LIVE Arcade with amazing new Kinect-only features.  Guide Doodle the Doodler on a journey up, up, up, bouncing from platform to platform, past monsters, black holes and other obstacles.  Players step left and right to move, point to blast nose balls at baddies, flap their arms to fly and more with other unique gesture controls.  Doodle Jump for Kinect introduces 3 all-new worlds, treacherous bosses, and unique power-ups."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f6/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

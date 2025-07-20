@@ -1,0 +1,35 @@
+{
+    "id": "58550C41",
+    "title": {
+        "full": "Ball Track Builder",
+        "reduced": "Ball Track Builder"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Coimbra79",
+    "publisher": "Coimbra79",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Build a track in realtime and let the ball hits the barrel. 45 levels 5 game mode A vey new game type 80G",
+        "short": "Build a track in realtime and let the ball hits the barrel. 45 levels 5 game mode A vey new game type 80G"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550c4100000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C41_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c41/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C41_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C41_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C41_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C41_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

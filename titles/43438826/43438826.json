@@ -1,0 +1,35 @@
+{
+    "id": "43438826",
+    "title": {
+        "full": "MHF - 無料ダウンロード",
+        "reduced": "MHF - 無料ダウンロード"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": null,
+    "publisher": null,
+    "release_date": "2012-10-17",
+    "user_rating": null,
+    "description": {
+        "full": "『モンスターハンター フロンティア オンライン』(MHF)を無料で体験しよう！ このプログラムからご利用コードを入手することで、ゲームオンデマンド版のMHFを無料でダウンロードできます。このプログラム単体でMHFを遊ぶことはできませんので、ご注意ください。",
+        "short": "『モンスターハンター フロンティア オンライン』(MHF)を無料で体験しよう！ このプログラムからご利用コードを入手することで、ゲームオンデマンド版のMHFを無料でダウンロードできます。このプログラム単体でMHFを遊ぶことはできませんので、ご注意ください。"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243438826/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243438826/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243438826/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243438826/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "434307FD",
+                "title": "モンスターハンター フロンティアＺ"
+            }
+        ],
+        "related": []
+    }
+}

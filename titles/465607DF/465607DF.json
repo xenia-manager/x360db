@@ -1,0 +1,42 @@
+{
+    "id": "465607DF",
+    "title": {
+        "full": "Bullet Soul",
+        "reduced": "Bullet Soul"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "株式会社5pb.",
+    "publisher": "株式会社5pb.",
+    "release_date": "2011-04-07",
+    "user_rating": "4.00",
+    "description": {
+        "full": "[NOTE] There is some important information for “Games on Demand” in the last paragraph. Please read it carefully. This is a brand new shooting game. The players must work on the continuous attacks to survive. Through having the atmosphere of shoot 'em up games at the early stage, the game will definitely surprise and impress the players. The charming characters created by Akio Watanabe together with the sound effects arranged by “RESONATOR” (jointed by Kenji Ito and Kohta Takahashi)  also contributes greatly to this exciting game. You can download the game manual by visiting http://marketplace.xbox.com/, searching “Bullet Soul” and clicking “See Game Manual”. The game is non-refundable. Please visit http://www.xbox.com/live/accounts/ if there’s any further information needed.   ",
+        "short": "攻めて活路を見い出すアグレッシブなプレイスタイルの完全新作オリジナルシューティングゲームです。古き良き時代のゲームのテイストも盛り込み、懐かしさと斬新さを両立。渡辺明夫氏の手による魅力的なキャラクターと、イトケンこと伊藤賢治氏＆高橋コウタ氏のユニット”RESONATOR”のサウンドが、ゲームを熱く盛り上げます！！"
+    },
+    "media": [
+        {
+            "media_id": "14F6E8B9",
+            "title": "Bullet Soul",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607df/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607df/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607df/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607df/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "465607F7",
+                "title": "Bullet Soul"
+            }
+        ],
+        "related": []
+    }
+}

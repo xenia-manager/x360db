@@ -1,0 +1,44 @@
+{
+    "id": "4C5307DE",
+    "title": {
+        "full": "Get Fit With Mel B",
+        "reduced": "Get Fit With Mel B"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Lightning Fish Games",
+    "publisher": "Black Bean Games",
+    "release_date": "2010-10-04",
+    "user_rating": null,
+    "description": {
+        "full": "Get ready for a Hollywood style training with Mel B! With her energy and Fitness First's expertise you will enter a new era of wellness. Create your own profile, choose your objectives and start training. 200 fitness and aerobics exercises and support for 4 different accessories will guarantee a wide range of workouts.",
+        "short": "Get ready for a Hollywood style training with Mel B! With her energy and Fitness First's expertise you will enter a new era of wellness."
+    },
+    "media": [
+        {
+            "media_id": "7FCF3497",
+            "title": "Get Fit with Mel B: See the Difference",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307de/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307de/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307de/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307de/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307de/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307de/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307de/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307de/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307de/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307de/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "id": "565507D4",
+    "title": {
+        "full": "The Bourne Conspiracy",
+        "reduced": "The Bourne Conspiracy"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "High Moon Studios LLC",
+    "publisher": "Vivendi Universal Games",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "An intense, fast-paced, authentic Bourne experience.  Become the perfect weapon.",
+        "short": "An intense, fast-paced, authentic Bourne experience.  Become the perfect weapon."
+    },
+    "media": [
+        {
+            "media_id": "36BCBAA4",
+            "title": "Robert Ludlum's The Bourne Conspiracy",
+            "edition": "Original, Promo",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "4DE6B22E",
+            "title": "Robert Ludlum's The Bourne Conspiracy",
+            "edition": "Original",
+            "region": "Russia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507d4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507d4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507d4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507d4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507d4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507d4/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

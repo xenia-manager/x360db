@@ -1,0 +1,35 @@
+{
+    "id": "4D5389B9",
+    "title": {
+        "full": "Gears of War 3 Beta",
+        "reduced": "Gears of War 3 Beta"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Epic Games, Inc",
+    "publisher": "Microsoft Studios",
+    "release_date": "2011-03-04",
+    "user_rating": null,
+    "description": {
+        "full": "Help test Gears of War 3’s multiplayer mode and infrastructure in preparation for the retail release September 20, 2011.",
+        "short": "Help test Gears of War 3’s multiplayer mode and infrastructure in preparation for the retail release September 20, 2011."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389b9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389b9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389b9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389b9/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D5308AB",
+                "title": "Gears of War 3"
+            }
+        ],
+        "related": []
+    }
+}

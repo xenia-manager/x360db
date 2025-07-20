@@ -1,0 +1,34 @@
+{
+    "id": "58550CED",
+    "title": {
+        "full": "Uproar",
+        "reduced": "Uproar"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "dirtysteve",
+    "publisher": "dirtysteve",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=2/3. Uproar! is a side-scrolling beat-em up, switching from the traditional 2d graphics, to modern polygonal graphics, adding depth and realism. The player takes control of a man trying to restore order during a chaotic city-wide riot. Facing off against gangs and armed thugs, the player must restore order in the only way they understand, with a good beatdown!",
+        "short": "Uproar! is a side-scrolling beat-em up, switching from the traditional 2d graphics, to modern polygonal graphics, adding depth and realism. The player takes control of a man trying to restore order during a chaotic city-wide riot. Facing off against gangs and armed thugs, the player must restore order in the only way they understand, with a good beatdown!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550ced00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CED_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550ced/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CED_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CED_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CED_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

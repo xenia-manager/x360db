@@ -1,0 +1,36 @@
+{
+    "id": "55538870",
+    "title": {
+        "full": "Your Shape Fitness Evolved - Demolette",
+        "reduced": "Your Shape Fitness Evolved - Demolette"
+    },
+    "genre": [
+        "Kinect",
+        "Sports & Recreation"
+    ],
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "release_date": "2010-11-04",
+    "user_rating": null,
+    "description": {
+        "full": "With Kinect for Xbox 360 and Your Shape™ Fitness Evolved, you can experience the most advanced fitness technology your way. It will help you work up a sweat with the most advanced fitness technology available. You'll be able to personalize your workout, challenge your friends, and share your progress online while achieving real results. And they're all designed by fitness experts to provide precise and effective real-time feedback.",
+        "short": "With Kinect for Xbox 360 and Your Shape™ Fitness Evolved, you can experience the most advanced fitness technology your way. It will help you work up a sweat with the most advanced fitness technology available. You'll be able to personalize your workout, challenge your friends, and share your progress online while achieving real results. And they're all designed by fitness experts to provide precise and effective real-time feedback."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538870/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538870/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538870/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538870/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5553084F",
+                "title": "Your Shape™ : Fitness Evolved"
+            }
+        ],
+        "related": []
+    }
+}

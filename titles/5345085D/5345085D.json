@@ -1,0 +1,50 @@
+{
+    "id": "5345085D",
+    "title": {
+        "full": "Sonic  All-Stars Racing Transformed",
+        "reduced": "Sonic  All-Stars Racing Transformed"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Sumo Digital",
+    "publisher": "Sega",
+    "release_date": "2012-11-15",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Sonic and the All-Stars cast line up on the starting grid once again to battle for supremacy in the ultimate race. It’s not just racing, it’s racing transformed!  Fully Transformable vehicles which change from car to plane to boat mid race, each with their own unique gameplay.  Over 20 legendary All-Stars each with their own transformable vehicle.   A multitude of modes including Grand Prix, Battle Arenas and the incredible World Tour.  Unleash ingenious weaponry and your character’s All-Star move to beat the opposition.  Race up to ten players online, or challenge your friends in four player split screen.   16 dynamic tracks which challenge you on land, water and air.   Take to the track and challenge your friends as your X360 avatar with its exclusive transformable vehicle. ",
+        "short": "Sonic and the All-Stars cast line up on the starting grid once again to battle for supremacy in the ultimate race. Compete across land, water and air in incredible transforming vehicles that change from cars to boats to planes mid-race.  It’s not just racing, it’s racing transformed!"
+    },
+    "media": [
+        {
+            "media_id": "1A24E92E",
+            "title": "Sonic & All-Stars Racing Transformed",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085d/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085d/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085d/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085d/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085d/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

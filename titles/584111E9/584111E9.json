@@ -1,0 +1,46 @@
+{
+    "id": "584111E9",
+    "title": {
+        "full": "Zumas Revenge",
+        "reduced": "Zumas Revenge"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Puzzle & Trivia"
+    ],
+    "developer": "PopCap Games",
+    "publisher": "PopCap Games",
+    "release_date": "2012-07-11",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Experience new levels of ball-blasting action!  Leap in and conquer 69 levels of Adventure mode. Discover four new Spirit Animals (at least one of them is a monkey!) and harness their abilities to power up your game. Dive in to the high-stakes Iron Frog mode: 10 levels, one frog. Can you make it out alive? Battle all 8 tiki bosses in the fast-paced Boss Rush. Enter the Weekly Challenge and compete for high score on a new level every week.",
+        "short": "This game was made by PopCap with love. Download the free trial and see for yourself."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg14.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

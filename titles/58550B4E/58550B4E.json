@@ -1,0 +1,35 @@
+{
+    "id": "58550B4E",
+    "title": {
+        "full": "Miner Of Duty",
+        "reduced": "Miner Of Duty"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Daniel Cary",
+    "publisher": "Daniel Cary",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=1/3. Miner of Duty is a block-building FPS.  The game includes 5 multiplayer game modes: Team Deathmatch, FFA, Fort Wars, Search & Mine, and Custom Maps. Also, Swarm Mode, a zombie-survival game mode, is playable as an offline game mode. Custom Map mode allows you to design a map and play it with others. You are able to customize your character's looks and your weapon classes with an array of weapons.",
+        "short": "Miner of Duty is a block-building FPS.  The game includes 5 multiplayer game modes: Team Deathmatch, FFA, Fort Wars, Search & Mine, and Custom Maps. Also, Swarm Mode, a zombie-survival game mode, is playable as an offline game mode. Custom Map mode allows you to design a map and play it with others. You are able to customize your character's looks and your weapon classes with an array of weapons."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550b4e00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B4E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b4e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B4E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B4E_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B4E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B4E_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

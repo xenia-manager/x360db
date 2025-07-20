@@ -1,0 +1,35 @@
+{
+    "id": "585506AE",
+    "title": {
+        "full": "Avatar Pumpkin Smash",
+        "reduced": "Avatar Pumpkin Smash"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Strange Games",
+    "publisher": "Strange Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. Get your Avatar into the autumn spirit and have a smashing good time too! Ghoulishly throw pumpkins at other Avatars to score the most points within the time limit. Play in teams or everyone for themselves. Each map can be played during the day or at night if you dare. You are even treated to power ups. Play against computer controlled fiends or play online against friends or enemies.",
+        "short": "Get your Avatar into the autumn spirit and have a smashing good time too! Ghoulishly throw pumpkins at other Avatars to score the most points within the time limit. Play in teams or everyone for themselves. Each map can be played during the day or at night if you dare. You are even treated to power ups. Play against computer controlled fiends or play online against friends or enemies."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585506ae/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506AE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506ae/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506AE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506AE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506AE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506AE_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

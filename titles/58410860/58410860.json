@@ -1,0 +1,36 @@
+{
+    "id": "58410860",
+    "title": {
+        "full": "Magic The Gathering",
+        "reduced": "Magic The Gathering"
+    },
+    "genre": [
+        "Card & Board",
+        "Strategy & Simulation"
+    ],
+    "developer": "Wizards of the Coast / Stainless Games",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-08-09",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Magic: The Gathering — Duels of the Planeswalkers brings the world’s premier trading card game to your living room! Play single and multiplayer campaign modes, test your skills with unique challenges, and engage online opponents via Xbox LIVE. With multiple game modes, an interactive tutorial, leaderboards, and achievements, Duels of the Planeswalkers has something for everyone!  Check out www.duelsoftheplaneswalkers.com for additional game details and promotions! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Magic: The Gathering — Duels of the Planeswalkers brings the world’s premier trading card game to your living room! Play single and multiplayer campaign modes, test your skills with unique challenges, and engage online opponents via Xbox LIVE. With multiple game modes, an interactive tutorial, leaderboards, and achievements, Duels of the Planeswalkers has something for everyone!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

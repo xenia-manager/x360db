@@ -1,0 +1,43 @@
+{
+    "id": "4D530A47",
+    "title": {
+        "full": "Kinect Nat Geo TV",
+        "reduced": "Kinect Nat Geo TV"
+    },
+    "genre": [],
+    "developer": "Relentless Software",
+    "publisher": "Microsoft Studios",
+    "release_date": "2012-09-18",
+    "user_rating": null,
+    "description": {
+        "full": "With “Kinect Nat Geo TV”, your family can explore the rugged beauty of the American wilderness with Casey Anderson, host of Nat Geo’s “America the Wild,” in season one, or travel the world searching for the planet’s most interesting reptiles with Brady Barr, host of Nat Geo’s “Dangerous Encounters” in season two. Develop naturalist skills, learn about the environment and get to know your favorite wild animals and reptiles.  Each 30-minute TV episode includes:  • Visual cues on the screen to highlight the interactive “sidetrack” activities for viewers to jump in and explore with the host.  • “Go WILD” role-play games where families discover the natural world together as “Kinect Nat Geo TV” turns living rooms into forests and transforms kids into animals or reptiles.  • Access to archived episodes of Nat Geo WILD TV programs through Kinect.",
+        "short": "With “Kinect Nat Geo TV”, your family can explore the rugged beauty of the American wilderness with Casey Anderson, host of Nat Geo’s “America the Wild,” in season one, or travel the world searching for the planet’s most interesting reptiles with Brady Barr, host of Nat Geo’s “Dangerous Encounters” in season two. Develop naturalist skills, learn about the environment and get to know your favorite wild animals and reptiles. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a47/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a47/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a47/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a47/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a47/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a47/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a47/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a47/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a47/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a47/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a47/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a47/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a47/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D5309CD",
+                "title": "Kinect Nat Geo TV"
+            }
+        ],
+        "related": []
+    }
+}

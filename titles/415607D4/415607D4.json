@@ -1,0 +1,43 @@
+{
+    "id": "415607D4",
+    "title": {
+        "full": "American Wasteland",
+        "reduced": "American Wasteland"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Sports & Recreation"
+    ],
+    "developer": "Neversoft Entertainment",
+    "publisher": "Activision",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "American Wasteland",
+        "short": "American Wasteland"
+    },
+    "media": [
+        {
+            "media_id": "41923924",
+            "title": "Tony Hawk's American Wasteland",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d4/7177/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d4/7177/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

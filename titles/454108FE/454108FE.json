@@ -1,0 +1,48 @@
+{
+    "id": "454108FE",
+    "title": {
+        "full": "Madden NFL 11",
+        "reduced": "Madden NFL 11"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts - Tiburon",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2010-07-04",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Madden NFL 11 redefines the way you experience the game of football. Simpler: from 350 plays down to 1, the all-new GameFlow system puts you in the helmet of an NFL quarterback, to execute an authentic, situational game plan, one play at a time. Quicker: with 60-minute game times reduced to 30, spend more time on the field and less in the playbook. Same drama, half the time. Deeper: Madden NFL 11 is feature-rich, with improved animations and control options, enhanced online functionality, and new broadcast and audio presentation featuring the most exciting play-by-play voice in sports, Gus Johnson.  Madden NFL 11 – Simpler. Quicker. Deeper.",
+        "short": "Madden NFL 11 redefines the way you experience the game of football. Simpler: from 350 plays down to 1, the all-new GameFlow system puts you in the helmet of an NFL quarterback, to execute an authentic, situational game plan, one play at a time. Quicker: with 60-minute game times reduced to 30, spend more time on the field and less in the playbook. Same drama, half the time. Deeper: Madden NFL 11 is feature-rich, with improved animations and control options, enhanced online functionality, and n…"
+    },
+    "media": [
+        {
+            "media_id": "680634EA",
+            "title": "Madden NFL 11",
+            "edition": "Original",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108fe/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108fe/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108fe/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108fe/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108fe/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108fe/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108fe/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108fe/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108fe/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108fe/7177/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108fe/7177/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108fe/7177/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108fe/7177/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108fe/7177/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

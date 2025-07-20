@@ -1,0 +1,40 @@
+{
+    "id": "454109BF",
+    "title": {
+        "full": "NHL14 - Early Access",
+        "reduced": "NHL14 - Early Access"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA SPORTS™ ",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2013-09-10",
+    "user_rating": null,
+    "description": {
+        "full": "Unlock the highest level of hockey aggression, speed and skill. NHL® 14 brings together the best technology from EA SPORTS™ to deliver the most authentic hockey experience ever. Deliver hits with the cutting-edge NHL® Collision Physics, built from FIFA’s revolutionary Player Impact Engine. Drop the gloves with the new Enforcer Engine, powered by EA SPORTS™ Fight Night technology. Dangle defenders with new One-Touch Dekes and experience a new level of speed and control with the second season of critically-acclaimed True Performance Skating. Huge hits, real fights, and unbelievable speed and skill. This is NHL® hockey at its greatest, powered by a generation of EA SPORTS™ innovation.",
+        "short": "Feel every check with NHL® Collision Physics. Drop the gloves with the Enforcer Engine. Dangle defenders using new One-Touch Dekes and True Performance Skating. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109bf/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109bf/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109bf/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109bf/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109bf/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109bf/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109bf/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109bf/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454109BE",
+                "title": "NHL®14"
+            }
+        ],
+        "related": []
+    }
+}

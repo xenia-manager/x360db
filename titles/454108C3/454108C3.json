@@ -1,0 +1,41 @@
+{
+    "id": "454108C3",
+    "title": {
+        "full": "NCAA Basketball 10",
+        "reduced": "NCAA Basketball 10"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts™ Canada",
+    "publisher": "Electronic Arts™",
+    "release_date": "2009-10-28",
+    "user_rating": "4.00",
+    "description": {
+        "full": "With NCAA® Basketball 10 you can enjoy ultimate control over your team’s style of play, including real Motion Offensive Systems including the Dribble Drive, Princeton and Flex to name a few. See the game like never before, with authentic broadcasting presentations from the all-star announcing crews of Dick Vitale, Brad Nessler, and Erin Andrews of ESPN, and Gus Johnson and Bill Raftery of CBS Sports. From the broadcast table to the hardwood - it’s all there in NCAA® Basketball 10.  Some multi-player functionalities may no longer be supported.",
+        "short": "With NCAA® Basketball 10 you can enjoy ultimate control over your team’s style of play, including real Motion Offensive Systems including the Dribble Drive, Princeton and Flex to name a few.  From the broadcast table to the hardwood - it’s all there in NCAA® Basketball 10.  Some multi-player functionalities may no longer be supported."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c3/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c3/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c3/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c3/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

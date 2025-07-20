@@ -1,0 +1,35 @@
+{
+    "id": "585501AC",
+    "title": {
+        "full": "Pirate Cubes",
+        "reduced": "Pirate Cubes"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Conti Games",
+    "publisher": "Conti Games",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=1/3, Mature Content=1/3. Welcome to world of Pirate Cubes. Choose from 10 different characters each with their own unique special move. Simple for all levels of skill yet extremely fun to play, especially against your friends or family. You will love the charm of Pirate Cubes.",
+        "short": "Welcome to world of Pirate Cubes. Choose from 10 different characters each with their own unique special move. Simple for all levels of skill yet extremely fun to play, especially against your friends or family. You will love the charm of Pirate Cubes."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585501ac00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585501AC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585501ac/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585501AC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501AC_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501AC_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501AC_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

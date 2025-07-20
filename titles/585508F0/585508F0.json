@@ -1,0 +1,35 @@
+{
+    "id": "585508F0",
+    "title": {
+        "full": "Fawnix",
+        "reduced": "Fawnix"
+    },
+    "genre": [
+        "Educational"
+    ],
+    "developer": "EPITFOG",
+    "publisher": "EPITFOG",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Make the connection between written English and spoken English! Help engineer John Penman puzzle together English sounds and construct them correctly in their written forms. Master the fundamentals of reading through an engaging, immersive and addictive learning environment. Young gamers can team up with parents/older sibling. Reading is truly a decoding process. Crack the English alphabetic code!",
+        "short": "Make the connection between written English and spoken English! Help engineer John Penman puzzle together English sounds and construct them correctly in their written forms. Master the fundamentals of reading through an engaging, immersive and addictive learning environment. Young gamers can team up with parents/older sibling. Reading is truly a decoding process. Crack the English alphabetic code!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585508f000000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508F0_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508f0/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508F0_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508F0_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508F0_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508F0_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

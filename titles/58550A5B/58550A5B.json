@@ -1,0 +1,35 @@
+{
+    "id": "58550A5B",
+    "title": {
+        "full": "Perfect Shooting Training Camp",
+        "reduced": "Perfect Shooting Training Camp"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "rafaro",
+    "publisher": "rafaro",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. this game will test your aiming skills.",
+        "short": "this game will test your aiming skills."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550a5b00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A5B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a5b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A5B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A5B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A5B_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A5B_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

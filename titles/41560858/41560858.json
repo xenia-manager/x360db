@@ -1,0 +1,37 @@
+{
+    "id": "41560858",
+    "title": {
+        "full": "Madagascar Kartz",
+        "reduced": "Madagascar Kartz"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Sidhe",
+    "publisher": "Activision",
+    "release_date": "2009-09-28",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Your favorite Madagascar characters are back – revved up and ready to race! Play as Alex, Marty, Gloria, Melman, the wacky King Julien, the crafty penguins and more. Experience wild kartz action including incredible jumps, outlandish flips and radical rolls on amazing tracks from the world of Madagascar. Get even with the competition with plenty of power boosts, mines and missiles. Take on your friends in head to head multiplayer and put your racing skills to the test. Buckle up, strap in and get your animal instincts in high gear!",
+        "short": "Your favorite Madagascar characters are back – revved up and ready to race! Play as Alex, Marty, Gloria, Melman, the wacky King Julien, the crafty penguins and more. Experience wild kartz action including incredible jumps, outlandish flips and radical rolls on amazing tracks from the world of Madagascar. Get even with the competition with plenty of power boosts, mines and missiles. Take on your friends in head to head multiplayer and put your racing skills to the test. Buckle up, strap in and g…"
+    },
+    "media": [
+        {
+            "media_id": "31E70497",
+            "title": "DreamWorks Madagascar Kartz",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560858/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560858/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560858/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560858/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

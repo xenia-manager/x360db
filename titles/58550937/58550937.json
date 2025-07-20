@@ -1,0 +1,35 @@
+{
+    "id": "58550937",
+    "title": {
+        "full": "VideoWars",
+        "reduced": "VideoWars"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Baaad Dad",
+    "publisher": "Baaad Dad",
+    "release_date": null,
+    "user_rating": "4.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. VideoWars is Arcade Real-Time Strategy - it's fast-paced and easy to pick up and play so you can get right into the battle.  It's got smart units that you don't have to micromanage.  And it's got lots and lots of nuclear combat, with all of the style of the arcade classics.  Try awesome arcade strategy today, with VideoWars!",
+        "short": "VideoWars is Arcade Real-Time Strategy - it's fast-paced and easy to pick up and play so you can get right into the battle.  It's got smart units that you don't have to micromanage.  And it's got lots and lots of nuclear combat, with all of the style of the arcade classics.  Try awesome arcade strategy today, with VideoWars!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550937/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550937_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550937/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550937_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550937_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550937_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550937_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "54548893",
+    "title": {
+        "full": "Duke Nukem Forever Demo",
+        "reduced": "Duke Nukem Forever Demo"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Gearbox Software",
+    "publisher": "2K Games",
+    "release_date": "2011-06-03",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Babes, bullets, bombs, and more babes- Duke Nukem Forever is the game you’ve been waiting 12 long years to play, and now it’s finally here. Blow up the alien bastards, interact with Duke’s world, woo the ladies, drive Duke’s monster truck, boost up your ego, and much much more. Download now, and Come Get Some!",
+        "short": "Babes, bullets, bombs, and more babes- Duke Nukem Forever is the game you’ve been waiting 12 long years to play, and now it’s finally here. Blow up the alien bastards, interact with Duke’s world, woo the ladies, drive Duke’s monster truck, boost up your ego, and much much more. Download now, and Come Get Some!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254548893/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254548893/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254548893/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254548893/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5454084E",
+                "title": "Duke Nukem Forever"
+            }
+        ],
+        "related": []
+    }
+}

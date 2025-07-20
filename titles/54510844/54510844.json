@@ -1,0 +1,62 @@
+{
+    "id": "54510844",
+    "title": {
+        "full": "SmackDown vs RAW 2010",
+        "reduced": "SmackDown vs RAW 2010"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Sports & Recreation"
+    ],
+    "developer": "YUKE'S CO., LTD.",
+    "publisher": "THQ, INC.",
+    "release_date": "2009-09-04",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Unleash the creativity of the WWE Universe with WWE SmackDown vs. RAW 2010.  Create Superstars that are more realistic than ever with the enhanced Create  A Superstar mode featuring 3D parts and an all new paint tool to create  original tattoos, logos and designs. Tell your Superstar's story using the  WWE Story Designer. Choose Superstars, cutscenes, match-ups and camera  angles. Your script, your rules. Upload all of your creations and download  created stories, Superstars and more from the WWE Community Creations. Test  your skills in the redesigned Royal Rumble match or progress through one of  the new Road to WrestleMania storylines. WWE SmackDown vs. RAW 2010 – It's  Your World Now.",
+        "short": "Unleash the creativity of the WWE Universe with WWE SmackDown vs. RAW 2010.  Create Superstars that are more realistic than ever with the enhanced Create  A Superstar mode featuring 3D parts and an all new paint tool to create  original tattoos, logos and designs. Tell your Superstar's story using the  WWE Story Designer. Choose Superstars, cutscenes, match-ups and camera  angles. Your script, your rules. Upload all of your creations and download  created stories, Superstars and more from…"
+    },
+    "media": [
+        {
+            "media_id": "799A8361",
+            "title": "WWE SmackDown vs. Raw 2010",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "518DE415",
+            "title": "WWE SmackDown vs. Raw 2010",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/7177/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/7177/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/7177/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/7177/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/7177/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/7177/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510844/7177/screenlg16.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

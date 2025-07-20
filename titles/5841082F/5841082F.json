@@ -1,0 +1,42 @@
+{
+    "id": "5841082F",
+    "title": {
+        "full": "Band of Bugs",
+        "reduced": "Band of Bugs"
+    },
+    "genre": [
+        "Avatar",
+        "Strategy & Simulation"
+    ],
+    "developer": "NinjaBee",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-05-31",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Single Player, Xbox LIVE Multiplayer 2-8, 5.1 Surround Sound, HD (High Definition). Play as your Avatar and fight against bugs, spiders, even up to seven of your friends in Spider Hunter mode. Band of Bugs is a fast playing, accessible, tactics strategy game that puts YOU in the game! Gameplay is deep enough for established fans of the tactics genre, but friendly enough to appeal to casual gamers as well. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Band of Bugs is a fast-paced tactics and strategy game designed specifically for Xbox LIVE Arcade."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841082f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841082f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841082f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841082f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841082f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841082f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841082f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841082f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841082f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841082f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841082f/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841082f/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841082f/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841082f/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

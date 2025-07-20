@@ -1,0 +1,35 @@
+{
+    "id": "58550D7B",
+    "title": {
+        "full": "Dawn Of The Fred",
+        "reduced": "Dawn Of The Fred"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Sticky DPad Games",
+    "publisher": "Sticky DPad Games",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. Ever wanted to kill zombies with a Piranha launcher? Well now you can! Take on waves of the undead using some of the most ludicrous and over-the-top weapons zombies have ever seen! With over 70+ weapons in your arsenal, 5 playable characters, 2 different maps and local co-op, you're never short of ways to kill zombies with Dawn Of The Fred!",
+        "short": "Ever wanted to kill zombies with a Piranha launcher? Well now you can! Take on waves of the undead using some of the most ludicrous and over-the-top weapons zombies have ever seen! With over 70+ weapons in your arsenal, 5 playable characters, 2 different maps and local co-op, you're never short of ways to kill zombies with Dawn Of The Fred!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550d7b00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D7B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d7b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D7B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D7B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D7B_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D7B_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

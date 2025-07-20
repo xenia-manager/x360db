@@ -1,0 +1,34 @@
+{
+    "id": "58550306",
+    "title": {
+        "full": "Fireworks Screensaver",
+        "reduced": "Fireworks Screensaver"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "lutas",
+    "publisher": "lutas",
+    "release_date": null,
+    "user_rating": "2.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. A beautiful fireworks display right on your TV! Featuring multiple backdrops and automatic and manual modes for only 80 points!",
+        "short": "A beautiful fireworks display right on your TV! Featuring multiple backdrops and automatic and manual modes for only 80 points!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550306/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550306_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550306/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550306_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550306_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550306_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

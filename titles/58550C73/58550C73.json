@@ -1,0 +1,35 @@
+{
+    "id": "58550C73",
+    "title": {
+        "full": "Battle Sub",
+        "reduced": "Battle Sub"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Redtalon",
+    "publisher": "Redtalon",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Never played a good submarine game?  Ever thought 2D shooters are boring?  They don't have to be!  Battle Sub combines colourful artwork and compelling gameplay to create a unique experience in underwater combat.  Quests are the corner stone of this game, propelling the player forward in the story line as they help defend each ocean against the empire.",
+        "short": "Never played a good submarine game?  Ever thought 2D shooters are boring?  They don't have to be!  Battle Sub combines colourful artwork and compelling gameplay to create a unique experience in underwater combat.  Quests are the corner stone of this game, propelling the player forward in the story line as they help defend each ocean against the empire."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550c7300000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C73_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c73/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C73_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C73_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C73_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C73_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

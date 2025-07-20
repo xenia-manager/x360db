@@ -1,0 +1,40 @@
+{
+    "id": "58410840",
+    "title": {
+        "full": "Carcassonne",
+        "reduced": "Carcassonne"
+    },
+    "genre": [
+        "Card & Board",
+        "Strategy & Simulation"
+    ],
+    "developer": "Sierra Online",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-01-04",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Single Player, Xbox LIVE Multiplayer 2-5, Local Multiplayer 1-4, HD (High Definition). Buy Carcassonne today and become a master of medieval strategy.  Own a fully featured version of the board game classic and fulfill the need for challenge any time you want, or play socially, with up to five players on Xbox LIVE, or up to four players on just one Xbox 360.  Multiple levels of difficulty offer a challenging experience for players of all ages and levels of experience. There are no refunds for this item. For more information, see www.xbox.com/Live/accounts.",
+        "short": "The medieval countryside thrives as you and your opponents create towns, roads and farms. Optimize your score by laying claim to the largest towns, longest roads, and biggest farms. Be strategic and alert so that someone else doesn't poach your property. The game ends when the last tile is placed.  Carcasonne is a simple to learn, difficult to master game. Players take turns to place a randomly drawn tile against tiles already in place. Tiles have some combination of city, farmland or road imp…"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410840/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410840/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a02/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410840/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410840/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410840/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410840/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410840/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410840/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410840/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410840/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410840/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

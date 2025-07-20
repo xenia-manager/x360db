@@ -1,0 +1,49 @@
+{
+    "id": "4D530A95",
+    "title": {
+        "full": "Zoo Tycoon",
+        "reduced": "Zoo Tycoon"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Frontier Developments plc",
+    "publisher": "Microsoft Studios",
+    "release_date": "2013-11-19",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Danish, Dutch, Polish, Portuguese, Russian, Swedish.  Let your imagination run wild with Zoo Tycoon on Xbox 360! Build your dream zoo from over 60 visually stunning animals and a large, detailed selection of environments, then manage and maintain your creation with intuitive, easy-to-use controls designed for Zoo Tycoon fans of all ages. Whether you’re designing the ultimate zoo experience for your guests or getting up close and personal with the animals you love, the gates are open – the only thing missing is you!",
+        "short": "Let your imagination run wild with Zoo Tycoon on Xbox 360! Build your dream zoo, choosing from over 60 visually stunning animals and a large, detailed selection of environments. With intuitive, easy-to-use controls, this zoo simulation will charm Zoo Tycoon lovers of all ages."
+    },
+    "media": [
+        {
+            "media_id": "1A2949F7",
+            "title": "Zoo Tycoon",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a95/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a95/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a95/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a95/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a95/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a95/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a95/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a95/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a95/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a95/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a95/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a95/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a95/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a95/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a95/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

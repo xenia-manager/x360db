@@ -1,0 +1,35 @@
+{
+    "id": "585508E9",
+    "title": {
+        "full": "Aliens VS Aliens",
+        "reduced": "Aliens VS Aliens"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Fun Factory Entertainment",
+    "publisher": "Fun Factory Entertainment",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. In a distant galaxy, an alien race is at war with itself. Take command of a squad of alien 'tracker' units in an attempt to thwart the plan to invade earth, in this turn-based game of strategic warfare. With multiple weapons and dozens of unit and weapon upgrades, do you have what it takes to defeat a foe with vastly superior numbers?!",
+        "short": "In a distant galaxy, an alien race is at war with itself. Take command of a squad of alien 'tracker' units in an attempt to thwart the plan to invade earth, in this turn-based game of strategic warfare. With multiple weapons and dozens of unit and weapon upgrades, do you have what it takes to defeat a foe with vastly superior numbers?!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585508e900000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508E9_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508e9/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508E9_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508E9_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508E9_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508E9_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

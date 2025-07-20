@@ -1,0 +1,46 @@
+{
+    "id": "505407D5",
+    "title": {
+        "full": "智代アフター",
+        "reduced": "智代アフター"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "PROTOTYPE",
+    "publisher": "PROTOTYPE",
+    "release_date": "2010-07-22",
+    "user_rating": null,
+    "description": {
+        "full": "【重要】ゲームオンデマンドに関する重要事項が本文の最後に記載されています。必ずお読みください。  町外れの廃品回収屋に就職した朋也（主人公）は、 一人暮らしを始め、恋人の智代と蜜月の日々を送っていた。 そこへ、智代の弟 鷹文が父親の隠し子 とも を連れてくる。 ともは母親に置き去りにされており、 やむなく朋也と智代が保護することになった。 さらに夏休みを目前にして、鷹文の昔の彼女、河南子も 家を飛び出してやってきた。 朋也、智代、とも、鷹文、河南子。 この５人で過ごす、最初で最後の夏休みが始まる。  ■ このゲームの取扱説明書をダウンロードするには、http://marketplace.xbox.com/ でゲームを探し、[取扱説明書] を選択してください。■払い戻しはできません。詳しくは http://www.xbox.com/live/accounts/ をご覧ください。",
+        "short": "町外れの廃品回収屋に就職した朋也（主人公）は、 一人暮らしを始め、恋人の智代と蜜月の日々を送っていた。 そこへ、智代の弟 鷹文が父親の隠し子 とも を連れてくる。 ともは母親に置き去りにされており、 やむなく朋也と智代が保護することになった。 さらに夏休みを目前にして、鷹文の昔の彼女、河南子も 家を飛び出してやってきた。 朋也、智代、とも、鷹文、河南子。 この５人で過ごす、最初で最後の夏休みが始まる。 "
+    },
+    "media": [
+        {
+            "media_id": "64EA95A4",
+            "title": "Tomoyo After: It's a Wonderful Life: CS Edition",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d5/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d5/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d5/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d5/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d5/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d5/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d5/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d5/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d5/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d5/1041/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

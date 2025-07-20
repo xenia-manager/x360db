@@ -1,0 +1,54 @@
+{
+    "id": "434307DE",
+    "title": {
+        "full": "LOST PLANET COLONIES",
+        "reduced": "LOST PLANET COLONIES"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "CAPCOM",
+    "publisher": "CAPCOM Co., Ltd.",
+    "release_date": "2010-01-18",
+    "user_rating": "4.00",
+    "description": {
+        "full": "This game supports English, French, Italian, German, Spanish, and Korean. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". LOST PLANET has been enhanced with new maps and gameplay modes. Re-visit the great online action! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "LOST PLANET has been enhanced with new maps and gameplay modes. Re-visit the great online action!"
+    },
+    "media": [
+        {
+            "media_id": "49EFD8DE",
+            "title": "Lost Planet: Extreme Condition: Colonies Edition",
+            "edition": "Original, Classics, Platinum Hits, Triple Pack",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307de/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

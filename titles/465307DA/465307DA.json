@@ -1,0 +1,60 @@
+{
+    "id": "465307DA",
+    "title": {
+        "full": "AC for Answer",
+        "reduced": "AC for Answer"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "FromSoftware,Inc.",
+    "publisher": "FromSoftware, Inc.",
+    "release_date": "2010-04-10",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Combat 1000 meter tall war machines in the newest installment of the Armored Core series.",
+        "short": "Combat 1000 meter tall war machines in the newest installment of the Armored Core series."
+    },
+    "media": [
+        {
+            "media_id": "70EAE4AC",
+            "title": "Armored Core: For Answer",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "08198E0A",
+            "title": "Armored Core: For Answer",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "4CAD08E0",
+            "title": "Armored Core: For Answer",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307da/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307da/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307da/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307da/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307da/7177/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307da/7177/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307da/7177/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307da/7177/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307da/7177/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307da/7177/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307da/7177/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307da/7177/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307da/7177/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307da/7177/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

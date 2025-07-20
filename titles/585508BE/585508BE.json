@@ -1,0 +1,35 @@
+{
+    "id": "585508BE",
+    "title": {
+        "full": "Fluffy Operation Overkill",
+        "reduced": "Fluffy Operation Overkill"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "SO SO DEV Games",
+    "publisher": "SO SO DEV Games",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. A virus. Mad animals. And a squirrel in a hazard suit. Fluffy: Operation Overkill is run and gun gameplay at its finest with powerful weapons, devastating special attacks, physics powered violence, epic boss fights and a rewarding skill kill highscore system. Oh yeah, and it has got zombies. Get ready for a rollercoaster ride into hell!",
+        "short": "A virus. Mad animals. And a squirrel in a hazard suit. Fluffy: Operation Overkill is run and gun gameplay at its finest with powerful weapons, devastating special attacks, physics powered violence, epic boss fights and a rewarding skill kill highscore system. Oh yeah, and it has got zombies. Get ready for a rollercoaster ride into hell!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585508be00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508BE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508be/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508BE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508BE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508BE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508BE_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

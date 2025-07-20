@@ -1,0 +1,35 @@
+{
+    "id": "585500FC",
+    "title": {
+        "full": "Word Soup",
+        "reduced": "Word Soup"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Fuzzy Bug Interactive",
+    "publisher": "Fuzzy Bug Interactive",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. This word game is easy to play and maddeningly addictive. Join the blocks to make words of three or more letters. Blocks can be joined horizontally, vertically and diagonally.  When a word is made, the blocks used disappear and the blocks above collapse.  Every move creates new combinations.",
+        "short": "This word game is easy to play and maddeningly addictive. Join the blocks to make words of three or more letters. Blocks can be joined horizontally, vertically and diagonally.  When a word is made, the blocks used disappear and the blocks above collapse.  Every move creates new combinations."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585500fc00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585500FC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585500fc/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585500FC_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585500FC_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585500FC_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585500FC_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

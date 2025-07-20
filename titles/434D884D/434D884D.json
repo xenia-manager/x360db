@@ -1,0 +1,44 @@
+{
+    "id": "434D884D",
+    "title": {
+        "full": "F1 RACE STARS  Demo",
+        "reduced": "F1 RACE STARS  Demo"
+    },
+    "genre": [
+        "Family",
+        "Racing & Flying",
+        "Sports & Recreation"
+    ],
+    "developer": "Codemasters Birmingham",
+    "publisher": "Codemasters Software Company Limited",
+    "release_date": "2012-11-06",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Download the F1 RACE STARS™ demo now! Speed through a castle, power down the autobahn, and dash through the forest in a two lap race in Germany! Use awesome power-ups, take on jumps and discover shortcuts as you sprint for the chequered flag ahead of your favourite FORMULA ONE™ stars.   F1 RACE STARS – get fast to the fun!",
+        "short": "Download the F1 RACE STARS™ demo now! Speed through a castle, power down the autobahn, and use awesome power-ups in a two lap race in Germany. F1 RACE STARS – get fast to the fun! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d884d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d884d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d884d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d884d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d884d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d884d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d884d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d884d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d884d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d884d/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "434D0849",
+                "title": "F1 RACE STARS™"
+            }
+        ],
+        "related": []
+    }
+}

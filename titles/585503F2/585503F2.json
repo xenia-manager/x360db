@@ -1,0 +1,33 @@
+{
+    "id": "585503F2",
+    "title": {
+        "full": "Switchboard",
+        "reduced": "Switchboard"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Second Mouse Games",
+    "publisher": "Second Mouse Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Switchboard, at heart, is a board game. At times it will feel like a puzzle or strategy game, and occasionally maybe even like a card game, but its genesis comes from attempting to answer this question: What can you do in a digital board game that you can’t do in a tabletop game?   Switchboard challenges you to see boards and shapes in a new way.",
+        "short": "Switchboard, at heart, is a board game. At times it will feel like a puzzle or strategy game, and occasionally maybe even like a card game, but its genesis comes from attempting to answer this question: What can you do in a digital board game that you can’t do in a tabletop game?   Switchboard challenges you to see boards and shapes in a new way."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585503f2/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585503F2_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585503f2/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585503F2_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503F2_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

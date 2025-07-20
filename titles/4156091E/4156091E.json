@@ -1,0 +1,43 @@
+{
+    "id": "4156091E",
+    "title": {
+        "full": "Teenage Mutant Ninja Turtles Mutants in Manhattan",
+        "reduced": "TMNT MiM"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "PlatinumGames",
+    "publisher": "Activision",
+    "release_date": "2016-05-24",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Battle alongside your brothers through the sewers, subways, and streets of NYC to take down Shredder and Krang's evil organization, Foot by Foot. Unleash custom combat skills and powerful team combos to save Manhattan from the overwhelming dark forces growing in the shadows.  • Assemble your team in 4-player online co-op mode!  • Fight fan-favorite enemies like Bebop and Rocksteady!  • Visually stunning, fast-paced combat true to PlatinumGames’ signature style. • Gritty comic-inspired art style turns a new chapter in TMNT history!  • Original story penned by IDW Comic’s TMNT author, Tom Waltz. • Fight fan-favorite enemies like Bebop and Rocksteady!  • Experience the game in a whole new way when you challenge your team in 4 player online co-op mode!  • Gritty comic-inspired art style turns a new chapter in TMNT history!  • Packed with visually stunning, fast-paced combat true to PlatinumGames’ signature style. • Original story penned by IDW Comic’s TMNT author, Tom Waltz.",
+        "short": "Battle alongside your brothers through the sewers, subways and streets of NYC to take down Shredder and Krang's evil organization. Unleash custom combat skills and powerful team combos to save Manhattan. • Fight fan-favorite enemies like Bebop and Rocksteady!  • 4-player online co-op mode! • PlatinumGames’ signature fast-paced combat!"
+    },
+    "media": [
+        {
+            "media_id": "4EF57F51",
+            "title": "Teenage Mutant Ninja Turtles: Mutants in Manhattan",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091e/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

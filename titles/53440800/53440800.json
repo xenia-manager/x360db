@@ -1,0 +1,43 @@
+{
+    "id": "53440800",
+    "title": {
+        "full": "Metro 2033J",
+        "reduced": "Metro 2033J"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "4A-Games",
+    "publisher": "THQ",
+    "release_date": "2010-04-14",
+    "user_rating": null,
+    "description": {
+        "full": "Set in the shattered subway of a post apocalyptic Moscow, Metro 2033 is a story of intensive underground survival were the fate of mankind rests in your hands",
+        "short": "Set in the shattered subway of a post apocalyptic Moscow, Metro 2033 is a story of intensive underground survival were the fate of mankind rests in your hands"
+    },
+    "media": [
+        {
+            "media_id": "422D3A29",
+            "title": "Metro 2033",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": null,
+        "banner": null,
+        "boxart": null,
+        "icon": null,
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "54510842",
+                "title": "Metro 2033"
+            }
+        ],
+        "related": []
+    }
+}

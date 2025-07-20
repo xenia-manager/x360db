@@ -1,0 +1,48 @@
+{
+    "id": "42560803",
+    "title": {
+        "full": "Disney Universe",
+        "reduced": "Disney Universe"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Eurocom",
+    "publisher": "Disney Interactive Studios",
+    "release_date": "2011-09-26",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Disney Universe is an off-the-wall non-stop action adventure where Disney worlds and characters mix up for the first time.  Suit up in iconic costumes and face challenges in legendary Disney worlds.  Defeat enemies, collect coins and powerups, unlock new costumes and explore with friends as you battle in a mix-up of worlds inspired by numerous Disney and Disney•Pixar films",
+        "short": "Disney Universe is an off-the-wall non-stop action adventure where Disney worlds and characters mix up for the first time.  Suit up in iconic costumes and face challenges in legendary Disney worlds.  Defeat enemies, collect coins and powerups, unlock new costumes and explore with friends as you battle in a mix-up of worlds inspired by numerous Disney and Disney•Pixar films"
+    },
+    "media": [
+        {
+            "media_id": "7C3BACC1",
+            "title": "Disney Universe",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "45FC98E6",
+            "title": "Disney Universe",
+            "edition": "Original",
+            "region": "Russia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560803/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560803/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560803/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560803/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560803/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560803/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560803/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560803/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

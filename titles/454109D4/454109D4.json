@@ -1,0 +1,68 @@
+{
+    "id": "454109D4",
+    "title": {
+        "full": "EA SPORTS 2014 FIFA World Cup Brazil",
+        "reduced": "EA SPORTS 2014 FIFA World Cup Brazil"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts Inc",
+    "release_date": "2014-04-15",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French and Spanish.  Experience all the Fun, Excitement, and Drama of Football’s Greatest Event. Multiple improvements and innovations to the award-winning gameplay of FIFA 14, plus 100 new animations, make EA SPORTS™ 2014 FIFA World Cup Brazil™ the most accessible, fun, and exciting EA SPORTS FIFA title on Xbox 360. Bring to life the world’s greatest tournament by choosing from 203 National Teams in the deepest set of modes ever in a tournament title from EA SPORTS. Immerse yourself in the FIFA World Cup™ as you play in authentic Brazilian stadiums, and recognize the support of newly rendered crowds created to replicate the passion and pageantry of the 2014 FIFA World Cup Brazil™.",
+        "short": "Experience all the Fun, Excitement, and Drama of Football’s Greatest Event. Multiple improvements and innovations to the award-winning gameplay of FIFA 14, plus 100 new animations, make EA SPORTS™ 2014 FIFA World Cup Brazil™ the most accessible, fun, and exciting EA SPORTS FIFA title on Xbox 360."
+    },
+    "media": [
+        {
+            "media_id": "0BA1F196",
+            "title": "2014 FIFA World Cup Brazil",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "5D31A745",
+            "title": "2014 FIFA World Cup Brazil",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "12BDAEFA",
+            "title": "2014 FIFA World Cup Brazil",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "290A9ADA",
+            "title": "2014 FIFA World Cup Brazil",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "553FCC9A",
+            "title": "Copa do Mundo da FIFA Brasil 2014",
+            "edition": "Original",
+            "region": "Brazil"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d4/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

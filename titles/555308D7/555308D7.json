@@ -1,0 +1,48 @@
+{
+    "id": "555308D7",
+    "title": {
+        "full": "Just Dance 2018",
+        "reduced": "Just Dance 2018"
+    },
+    "genre": [
+        "Family",
+        "Music"
+    ],
+    "developer": "Ubisoft Paris",
+    "publisher": "Ubisoft",
+    "release_date": "2017-09-18",
+    "user_rating": null,
+    "description": {
+        "full": "Just Dance 2018 is coming back on October 26th 2017 with over 40 tracks at launch.  From the hottest hits to family favorites, dance to 40 new tracks, including: • Shape of You - Ed Sheeran • Despacito - Luis Fonsi & Daddy Yankee • 24K Magic - Bruno Mars • John Wayne - Lady Gaga • Waka Waka - Shakira • Naughty Girl - Beyoncé • Rockabye - Clean Bandit Ft. Sean Paul & Anne-Marie ...and many more!",
+        "short": "Just Dance 2018 is coming back this fall on October 26th 2017 with over 40 tracks at launch!"
+    },
+    "media": [
+        {
+            "media_id": "12A4965B",
+            "title": "Just Dance 2018",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "30170CD9",
+            "title": "Just Dance 2018",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d7/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

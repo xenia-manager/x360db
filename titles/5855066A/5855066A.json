@@ -1,0 +1,35 @@
+{
+    "id": "5855066A",
+    "title": {
+        "full": "Nuclear Wasteland",
+        "reduced": "Nuclear Wasteland"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Sick Kreation",
+    "publisher": "Sick Kreation",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=1/3. Take on wave after wave of Mutants! By 2030 nuclear waste has mutated many locals, who have taken over a military base; and its your job to clean them up!  Unlock Assault Rifles, a Submachine Gun, a Shotgun, Health depot's and Ammunition bunkers to help get the job done! 80 point FPS with all the doors blown off!",
+        "short": "Take on wave after wave of Mutants! By 2030 nuclear waste has mutated many locals, who have taken over a military base; and its your job to clean them up!  Unlock Assault Rifles, a Submachine Gun, a Shotgun, Health depot's and Ammunition bunkers to help get the job done! 80 point FPS with all the doors blown off!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855066a/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855066A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855066a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855066A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855066A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855066A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855066A_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

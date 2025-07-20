@@ -1,0 +1,35 @@
+{
+    "id": "393387D8",
+    "title": {
+        "full": "Sonic  All-Stars Racing Transformed Demo",
+        "reduced": "SART Demo"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Sumo Digital",
+    "publisher": "Sega",
+    "release_date": "2012-11-16",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Download the demo today to play Sonic & All-Stars Racing Transformed  Sonic and the All-Stars cast line up on the starting grid once again to battle for supremacy in the ultimate race. It’s not just racing, it’s racing transformed!  Fully Transformable vehicles which change from car to plane to boat mid race, each with their own unique gameplay.  Over 20 legendary All-Stars each with their own transformable vehicle.  A multitude of modes including Grand Prix, Battle Arenas and the incredible World Tour.  Unleash ingenious weaponry and your character’s All-Star move to beat the opposition.  20 dynamic tracks which challenge you on land, water and air.  Race up to ten players online, or challenge your friends in four player split screen. ",
+        "short": "Download the demo today to play Sonic & All-Stars Racing Transformed"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802393387d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802393387d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802393387d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802393387d8/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5345085D",
+                "title": "Sonic & All-Stars Racing Transformed"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "45410937",
+    "title": {
+        "full": "Madden NFL 12",
+        "reduced": "Madden NFL 12"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Tiburon ",
+    "publisher": "Electronic Arts",
+    "release_date": "2011-08-30",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English.  Madden NFL 12 continues the rich tradition of the storied franchise by bringing fans closer to the NFL than ever before. Featuring all 32 teams, stadiums, and your favorite players, Madden NFL 12 is True to the Game. Whether battling your rivals on the couch or online, leading your favorite team to the Super Bowl in Franchise mode, or building the ultimate dream team in Madden Ultimate Team, Madden NFL 12 is True to the NFL, True to the Franchise, True to the Game.",
+        "short": "Madden NFL 12 continues the rich tradition of the storied franchise by bringing fans closer to the NFL than ever before. Featuring all 32 teams, stadiums, and your favorite players in the league, Madden NFL 12 is True to the Game. "
+    },
+    "media": [
+        {
+            "media_id": "5FF6562C",
+            "title": "Madden NFL 12",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410937/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410937/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410937/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410937/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410937/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410937/1033/screenlg2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

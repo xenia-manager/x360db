@@ -1,0 +1,35 @@
+{
+    "id": "4343883E",
+    "title": {
+        "full": "MHF-Ｇ - 無料ダウンロード",
+        "reduced": "MHF-Ｇ - 無料ダウンロード"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": null,
+    "publisher": null,
+    "release_date": "2014-07-23",
+    "user_rating": null,
+    "description": {
+        "full": "『モンスターハンター フロンティアＧ』(MHF-Ｇ)を無料で体験しよう！このプログラムからご利用コードを入手することで、ゲームオンデマンド版のMHF-Ｇを無料でダウンロードできます。このプログラム単体でMHF-Ｇを遊ぶことはできませんので、ご注意ください。",
+        "short": "『モンスターハンター フロンティアＧ』(MHF-Ｇ)を無料で体験しよう！このプログラムからご利用コードを入手することで、ゲームオンデマンド版のMHF-Ｇを無料でダウンロードできます。このプログラム単体でMHF-Ｇを遊ぶことはできませんので、ご注意ください。"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343883e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343883e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343883e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343883e/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "434307FD",
+                "title": "モンスターハンター フロンティアＺ"
+            }
+        ],
+        "related": []
+    }
+}

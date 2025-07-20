@@ -1,0 +1,59 @@
+{
+    "id": "434D0845",
+    "title": {
+        "full": "DiRT Showdown",
+        "reduced": "DiRT Showdown"
+    },
+    "genre": [
+        "Racing & Flying",
+        "Sports & Recreation"
+    ],
+    "developer": "Codemasters Racing",
+    "publisher": "Codemasters Software Company Limited",
+    "release_date": "2012-05-24",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish. (Online Interactions Not Rated by the ESRB)  Race, crash and hoon your way  through a world tour of motorised mayhem in DiRT Showdown! Hyper-energised events and social gameplay combine in this turbo-injected shot of driving delirium.   Use boost to race past rivals, unleash your inner hoonigan in free-roaming stunt parks and see gaming’s most advanced damage engine pushed to its limits in demolition derby events.  DiRT Showdown is Codemasters’ most connected game ever - split-screen multiplayer, 8 player online racing, on and offline quick-fire party games, Showdown challenges and YouTube integration all come as standard.  Get your ticket for this stunning new world of accessible action-sports racing.",
+        "short": "Race, crash and hoon your way around the world in DiRT Showdown! Hyper-energised events and social gameplay combine in this turbo-injected shot of dive in and drive delirium. Use boost to race past rivals, smash your way through demolition derbies and unleash your inner hoonigan in freestyle stunt parks."
+    },
+    "media": [
+        {
+            "media_id": "16E89B5E",
+            "title": "DiRT Showdown",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "4D773E28",
+            "title": "DiRT Showdown",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0845/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0845/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0845/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0845/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0845/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0845/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0845/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0845/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0845/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0845/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0845/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0845/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0845/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0845/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0845/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0845/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/434d0845/DiRT_SHOWDOWN_360_Manual_UK.pdf"
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "id": "4B4E0809",
+    "title": {
+        "full": "Castlevania Lords of Shadow",
+        "reduced": "Castlevania LoS"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Mercury Steam Entertainment",
+    "publisher": "Konami Digital Entertainment",
+    "release_date": "2010-10-05",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Castlevania: Lords of Shadow™ Left as a foundling at the gates of the Brotherhood of Light convent they named him Gabriel and raised him as their own. Over the years he developed an unprecedented mastery of the fighting arts. Prone to dark moods he was deeply affected by the death of his one true love, Marie. He has now embarked on a quest at the request of the Elders of the Brotherhood to discover why the World is in chaos and within him lies a burning desire for revenge on those who took his beloved.",
+        "short": "Castlevania: Lords of Shadow™ Left as a foundling at the gates of the Brotherhood of Light convent they named him Gabriel and raised him as their own. Over the years he developed an unprecedented mastery of the fighting arts. Prone to dark moods he was deeply affected by the death of his one true love, Marie. He has now embarked on a quest at the request of the Elders of the Brotherhood to discover why the World is in chaos and within him lies a burning desire for revenge on those who took hi…"
+    },
+    "media": [
+        {
+            "media_id": "698BEC17",
+            "title": "Castlevania: Lords of Shadow (Disc 1)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "2730C4A7",
+            "title": "Castlevania: Lords of Shadow (Disc 1)",
+            "edition": "Original, Castlevania: Lords of Shadow Collection",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "69A46155",
+            "title": "Castlevania: Lords of Shadow (Disc 2)",
+            "edition": "Original, Castlevania: Lords of Shadow Collection",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "75974616",
+            "title": "Castlevania: Lords of Shadow (Disc 2)",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0809/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0809/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0809/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0809/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0809/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0809/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0809/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0809/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0809/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0809/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0809/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0809/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

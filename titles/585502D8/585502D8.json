@@ -1,0 +1,35 @@
+{
+    "id": "585502D8",
+    "title": {
+        "full": "Avatar Golf",
+        "reduced": "Avatar Golf"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Barkers Crest Studio",
+    "publisher": "Barkers Crest Studio",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Hit the links as your Avatar in style.  Features: Play as your Avatar, create and share courses over Xbox Live, 8 player online matches, unlockable titles, player statistics, course records, weather conditions and much more! With 9 uniquely themed 18-hole courses you'll have a blast playing Avatar Golf.  Avatar Golf is for gamers of all ages and skill levels.",
+        "short": "Hit the links as your Avatar in style.  Features: Play as your Avatar, create and share courses over Xbox Live, 8 player online matches, unlockable titles, player statistics, course records, weather conditions and much more! With 9 uniquely themed 18-hole courses you'll have a blast playing Avatar Golf.  Avatar Golf is for gamers of all ages and skill levels."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585502d800000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585502D8_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585502d8/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585502D8_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585502D8_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585502D8_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585502D8_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

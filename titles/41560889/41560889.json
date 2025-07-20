@@ -1,0 +1,39 @@
+{
+    "id": "41560889",
+    "title": {
+        "full": "Rapala Pro Bass",
+        "reduced": "Rapala Pro Bass"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Fun Labs",
+    "publisher": "Activision",
+    "release_date": "2010-08-07",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Rapala® Pro Bass Fishing brings you into the world of professional bass tournaments with hair-raising angling action. Launch your bass boat onto seven of North America’s top freshwater lakes, pull in the heaviest catch and blow away your competition at the final weigh-in. Arm yourself with real Rapala® lures and cast it, crank it and catch it across 20+ tournament events. Do you have what it takes to fish against the pros?",
+        "short": "Rapala® Pro Bass Fishing brings you into the world of professional bass tournaments with hair-raising angling action. Launch your bass boat onto seven of North America’s top freshwater lakes, pull in the heaviest catch and blow away your competition at the final weigh-in. Arm yourself with real Rapala® lures and cast it, crank it and catch it across 20+ tournament events. Do you have what it takes to fish against the pros?"
+    },
+    "media": [
+        {
+            "media_id": "5D067A36",
+            "title": "Rapala Pro Bass Fishing",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560889/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560889/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560889/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560889/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/41560889/RapalaProBassFishing_Manuals_EN_Revised.pdf"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": "415608AB",
+    "title": {
+        "full": "Skylanders Spyros Adventure",
+        "reduced": "Skylanders Spyros Adventure"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer"
+    ],
+    "developer": "XPEC",
+    "publisher": "Activision",
+    "release_date": "2011-10-16",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Bring your Skylanders to life!  For Generations, the Skylanders have used their magical powers and weapons to protect Skylands. But now, an evil tyrant has frozen them and banished them to Earth. Only you can put them on the Portal of Power™ and bring them to life to save Skylands forever.",
+        "short": "Bring your Skylanders to life!  For Generations, the Skylanders have used their magical powers and weapons to protect Skylands. But now, an evil tyrant has frozen them and banished them to Earth. Only you can put them on the Portal of Power™ and bring them to life to save Skylands forever."
+    },
+    "media": [
+        {
+            "media_id": "0D31DE7E",
+            "title": "Skylanders: Spyro's Adventure",
+            "edition": "Not for Resale",
+            "region": "Russia"
+        },
+        {
+            "media_id": "53CE7B97",
+            "title": "Skylanders: Spyro's Adventure",
+            "edition": "Starter Pack",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ab/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ab/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ab/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ab/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

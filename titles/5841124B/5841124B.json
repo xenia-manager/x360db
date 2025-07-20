@@ -1,0 +1,38 @@
+{
+    "id": "5841124B",
+    "title": {
+        "full": "The Expendables 2 Videogame",
+        "reduced": "The Expendables 2 Videogame"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Zootfly",
+    "publisher": "Ubisoft",
+    "release_date": "2012-08-17",
+    "user_rating": "3.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Four Expendables (Barney, Gunnar, Caesar and Yin-Yang) are hired to rescue an extremely valuable, kidnapped Chinese billionaire. It's all business, until all hell breaks loose and the explosive mix of testosterone and kerosene detonates in a massive fireball that never lets up as the relentless action concludes where the new movie begins.  The Expendables videogame is a way for fans to experience all of their favorite explosive moments, as their favorite stars, in 4-Player Co-op action.",
+        "short": "Four Expendables are hired to rescue an extremely valuable, kidnapped Chinese billionaire. It's all business, until all hell breaks loose and the explosive mix of testosterone and kerosene detonates in a massive fireball that never lets up as the action concludes where the new movie begins.  The Expendables videogame is a way for fans to experience all of their favorite explosive moments, as their favorite stars, in 4-Player Co-op action."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124b/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124b/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124b/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124b/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124b/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124b/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124b/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124b/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124b/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124b/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124b/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

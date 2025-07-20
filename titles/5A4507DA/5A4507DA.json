@@ -1,0 +1,65 @@
+{
+    "id": "5A4507DA",
+    "title": {
+        "full": "Two Worlds II",
+        "reduced": "Two Worlds II"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Reality Pump/TopWare",
+    "publisher": "TopWare Interactive AG",
+    "release_date": "2014-06-20",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish, Polish, Russian.  \"Two Worlds II\" explores the next chapter in the history of Antaloor. The hero must investigate his mysterious roots, discovering surprising twists and turns in his adventure. A perfect mix of story, atmosphere, and technology promises a fascinating new RPG experience.",
+        "short": "\"Two Worlds II\" explores the next chapter in the history of Antaloor. The hero must investigate his mysterious roots, discovering surprising twists and turns in his adventure. A perfect mix of story, atmosphere, and technology promises a fascinating new RPG experience."
+    },
+    "media": [
+        {
+            "media_id": "2A437344",
+            "title": "Two Worlds II",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "7F34802A",
+            "title": "Two Worlds II",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "1CF61D9C",
+            "title": "Two Worlds II",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "22148EE4",
+            "title": "Two Worlds II: Game of the Year Edition",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4507da/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4507da/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4507da/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4507da/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4507da/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4507da/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4507da/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4507da/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4507da/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4507da/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a4507da/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/5a4507da/TwoWorldsII_Manual_EN_Revised.pdf"
+        ]
+    }
+}

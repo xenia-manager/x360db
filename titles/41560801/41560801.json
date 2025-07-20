@@ -1,0 +1,37 @@
+{
+    "id": "41560801",
+    "title": {
+        "full": "Hot Wheels Beat That",
+        "reduced": "Hot Wheels Beat That"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Eutechnyx",
+    "publisher": "Activision",
+    "release_date": "2008-01-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Burning hot racing action!",
+        "short": "Burning hot racing action!"
+    },
+    "media": [
+        {
+            "media_id": "55C1D787",
+            "title": "Hot Wheels: Beat That!",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560801/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560801/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560801/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560801/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

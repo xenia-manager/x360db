@@ -1,0 +1,39 @@
+{
+    "id": "524C07D8",
+    "title": {
+        "full": "Winter Sports 2010",
+        "reduced": "Winter Sports 2010"
+    },
+    "genre": [
+        "Family",
+        "Sports & Recreation",
+        "Strategy & Simulation"
+    ],
+    "developer": "49Games GmbH",
+    "publisher": "RTL Games GmbH",
+    "release_date": "2009-10-08",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Winter Sports 2010 - The Great Tournament  Guaranteed exciting and diverse game-playing for hours on end!  The latest installment in the popular Winter Sports series has, for the first time ever, been released with next-gen graphics. Snowboard Cross, Ski Flying, Downhill Skiing, Freeride Skiing, Shorttrack, Figure Skating, Bobsled, and Biathlon - test your limits in these demanding winter sports. Play in either single-player or multi-player mode; either offline or online in splitscreen. Compete with up to three other friends for the number one spot in the championship and pit yourselves against each other until a winner finally emerges.  Winter Sports 2010 is just as challenging between competitions. Collect vital experience points in the story-driven career mode, improve your skills and upgrade your character’s equipment. The path to becoming the world’s best lies ahead of you, but getting there is entirely up to you!",
+        "short": "Winter Sports 2010 - The Great Tournament  Guaranteed exciting and diverse game-playing for hours on end!  The latest installment in the popular Winter Sports series has, for the first time ever, been released with next-gen graphics. Snowboard Cross, Ski Flying, Downhill Skiing, Freeride Skiing, Shorttrack, Figure Skating, Bobsled, and Biathlon - test your limits in these demanding winter sports. Play in either single-player or multi-player mode; either offline or online in splitscreen. Com…"
+    },
+    "media": [
+        {
+            "media_id": "4BDFF019",
+            "title": "Winter Sports 2010: The Great Tournament",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07d8/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "58410990",
+    "title": {
+        "full": "EXIT 2",
+        "reduced": "EXIT2"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "TAITO CORPORATION",
+    "publisher": "TAITO Corporation",
+    "release_date": "2010-01-05",
+    "user_rating": "3.25",
+    "description": {
+        "full": "The sequel to Exit, the definitive escape puzzler! Escape danger all over the world! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Control  Mr. ESC the escape artist as he rescues people all over the world and helps them escape before time runs out. \"Macho\" and \"Dog\" join the four companions from the previous game, and over 10 new challenges have been added. This massive game consists of 240 stages with other stages available for download. Compete for the fastest clear time and aim to become the world's top escape artist!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410990/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410990/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410990/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410990/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410990/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410990/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410990/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410990/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410990/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410990/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410990/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410990/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410990/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410990/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

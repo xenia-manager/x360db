@@ -1,0 +1,41 @@
+{
+    "id": "58410A82",
+    "title": {
+        "full": "Fire Pro Wrestling",
+        "reduced": "Fire Pro Wrestling"
+    },
+    "genre": [
+        "Fighting",
+        "Sports & Recreation"
+    ],
+    "developer": "SPIKE CHUNSOFT Co., Ltd.",
+    "publisher": "Microsoft Studios",
+    "release_date": "2799-12-30",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Your Avatar, in a game of pro-wrestling. Fire Pro Wrestling is a dream come true game that lets your Xbox 360 Avatar fight like a real wrestler. Grow your Avatar, collect moves, costume, fight your friends offline and online, you'll have plenty to do before rising to your wrestling stardom.",
+        "short": "Your Avatar, in a game of pro-wrestling. Fire Pro Wrestling is a dream come true game that lets your Xbox 360 Avatar fight like a real wrestler. Grow your Avatar, collect moves, costume, fight your friends offline and online, you'll have plenty to do before rising to your wrestling stardom."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a82/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a82/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a82/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a82/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a82/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a82/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a82/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a82/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a82/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a82/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a82/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a82/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a82/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

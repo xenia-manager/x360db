@@ -1,0 +1,35 @@
+{
+    "id": "4343882D",
+    "title": {
+        "full": "Resident Evil 6 Game Demo",
+        "reduced": "Game Demo"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "CAPCOM CO., LTD.",
+    "publisher": "CAPCOM CO., LTD.",
+    "release_date": "2012-07-03",
+    "user_rating": null,
+    "description": {
+        "full": " (Online Interactions Not Rated by the ESRB)  The latest installment of the Resident Evil franchise is here!   A deadly bioterrorist attack in China has Leon Kennedy, Chris Redfield, and Jake Muller all fighting for their lives. Their separate paths become interconnected through various twists of fate. What outcome awaits our three protagonists?  Play a portion of all three characters' campaigns in this demo for Resident Evil 6.  You can also play online with a friend if you have an Xbox LIVE Gold Membership.",
+        "short": "(Online Interactions Not Rated by the ESRB)  The latest installment of the Resident Evil franchise is here. This demo kicks off the story for Resident Evil 6!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343882d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343882d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343882d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343882d/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "43430819",
+                "title": "RESIDENT EVIL 6"
+            }
+        ],
+        "related": []
+    }
+}

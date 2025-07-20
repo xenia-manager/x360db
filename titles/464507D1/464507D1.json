@@ -1,0 +1,50 @@
+{
+    "id": "464507D1",
+    "title": {
+        "full": "Blood Bowl",
+        "reduced": "Blood Bowl"
+    },
+    "genre": [
+        "Sports & Recreation",
+        "Strategy & Simulation"
+    ],
+    "developer": "Cyanide studio",
+    "publisher": "SouthPeak Interactive",
+    "release_date": "2010-01-26",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Blood Bowl is the video game adaptation of Games Workshop's famous board game. A brutal team sport unfolding in a parallel fantasy world based on Warhammer and American football, Blood Bowl invites you to form a team of players from such races as Orcs, Wood Elves, Humans, Dwarfs and many other fantasy creatures, and launch into battle in the bloodiest of arenas. All of the strategies and play of the original game have been faithfully reproduced. The single-player experience allows the player to manage a team throughout an entire season of Blood Bowl through the Old World. The team will evolve over the course of victories and experience gained. Manage your popularity and your sponsors, the purchase and sale of players, as well as their aging, retirement and even death! In multiplayer, throw down a challenge to other Blood Bowl players from all around the World  through Xbox LIVE, and climb the official ranking ladder!",
+        "short": "Blood Bowl is the video game adaptation of Games Workshop's famous board game. A brutal team sport unfolding in a parallel fantasy world based on Warhammer and American football, Blood Bowl invites you to form a team of players from such races as Orcs, Wood Elves, Humans, Dwarfs and many other fantasy creatures, and launch into battle in the bloodiest of arenas. All of the strategies and play of the original game have been faithfully reproduced. The single-player experience allows the player …"
+    },
+    "media": [
+        {
+            "media_id": "0D4A9873",
+            "title": "Blood Bowl",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "3FCC9210",
+            "title": "Blood Bowl",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d1/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

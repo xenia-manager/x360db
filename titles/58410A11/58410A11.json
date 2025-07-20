@@ -1,0 +1,40 @@
+{
+    "id": "58410A11",
+    "title": {
+        "full": "Unbound Saga",
+        "reduced": "Unbound Saga"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting"
+    ],
+    "developer": "Vogster Entertainment",
+    "publisher": "Xbox LIVE Arcade",
+    "release_date": "2010-10-26",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Unlock the full version of Unbound Saga to enjoy all 10 issues of madcap brawling adventure!  Guide Rick and Lori through dozens upon dozens of environments filled with realtime physics, destructible objects, fearsome foes, and wicked bosses.  Unlock a huge variety of super-skills and power moves on your journey through the wild comic world of Toxopolis!  Break off a weapon and RAGE OFF THE PAGE!",
+        "short": "Unbound Saga is a 3D side-scrolling brawler set in a satirical comic book universe, where enemies are drawn onto the screen and madcap battles travel from panel to panel through a twisted, post-apocalyptic landscape – break off a weapon and RAGE OFF THE PAGE!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a11/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a11/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a11/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a11/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a11/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a11/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a11/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a11/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a11/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a11/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a11/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a11/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

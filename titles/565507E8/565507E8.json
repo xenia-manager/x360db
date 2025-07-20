@@ -1,0 +1,44 @@
+{
+    "id": "565507E8",
+    "title": {
+        "full": "FEAR Files",
+        "reduced": "FEAR Files"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "TimeGate Studios, Inc.",
+    "publisher": "Vivendi Universal Games",
+    "release_date": "2008-01-01",
+    "user_rating": "4.50",
+    "description": {
+        "full": "From the critically acclaimed first person shooter First Encounter Assault Recon comes F.E.A.R. Files, the complete stand alone expansion pack series combining both F.E.A.R.:  Extraction Point and the brand new F.E.A.R.:  Perseus Mandate.  Extraction Point picks up right where F.E.A.R. ended.  Stranded in Auburn after the Origin Facility explosion your only goal is to escape, but it won’t be easy.  Replica forces are hunting you and powerful supernatural entities are wreaking havoc on anything and everything that crosses their path.  In Perseus Mandate you are part of a second F.E.A.R. team sent in to secure evidence of Armacham Technology Corporation’s wrong doing, but you aren’t the only person who wants this information. A shadowy group of mercenaries are determined to steal Armacham’s research, the Replica forces continue to eliminate anyone involved in the Perseus Project, ATC will stop at nothing to protect their secrets, and you are caught in the cross fire.",
+        "short": "From the critically acclaimed first person shooter First Encounter Assault Recon comes F.E.A.R. Files, the complete stand alone expansion pack series combining both F.E.A.R.:  Extraction Point and the brand new F.E.A.R.:  Perseus Mandate.  Extraction Point picks up right where F.E.A.R. ended.  Stranded in Auburn after the Origin Facility explosion your only goal is to escape, but it won’t be easy.  Replica forces are hunting you and powerful supernatural entities are wreaking havoc on anything a"
+    },
+    "media": [
+        {
+            "media_id": "471C0077",
+            "title": "F.E.A.R. Files",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "280FEF75",
+            "title": "F.E.A.R. Files",
+            "edition": "Original",
+            "region": "Germany"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507e8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507e8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507e8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507e8/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

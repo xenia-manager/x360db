@@ -1,0 +1,35 @@
+{
+    "id": "58550D14",
+    "title": {
+        "full": "Naoki Tales",
+        "reduced": "Naoki Tales"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Msi/Gtr/Jms",
+    "publisher": "Msi/Gtr/Jms",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Naoki Tales is an arcade adventure game in the style of Super Mario Bros. or The Great Giana Sisters.  When Naoki returned home from a vacation his girlfriend was taken by an evil spirit.  Travel through more than 35 levels, facing various creatures and traps in your quest to save her! Full version: -Over 35 Levels -High Score Table -Continue Support -Update Free",
+        "short": "Naoki Tales is an arcade adventure game in the style of Super Mario Bros. or The Great Giana Sisters.  When Naoki returned home from a vacation his girlfriend was taken by an evil spirit.  Travel through more than 35 levels, facing various creatures and traps in your quest to save her! Full version: -Over 35 Levels -High Score Table -Continue Support -Update Free"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550d14/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D14_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d14/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D14_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D14_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D14_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D14_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

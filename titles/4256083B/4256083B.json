@@ -1,0 +1,31 @@
+{
+    "id": "4256083B",
+    "title": {
+        "full": "Star Wars Republic Commando",
+        "reduced": "Star Wars Republic Commando"
+    },
+    "genre": [
+        "Classics",
+        "Shooter"
+    ],
+    "developer": "LucasArts",
+    "publisher": "LucasArts",
+    "release_date": "2018-04-26",
+    "user_rating": null,
+    "description": {
+        "full": "Chaos has erupted throughout the galaxy.  As leader of an elite squad of Republic Commandos, your mission is to infiltrate, dominate, and ultimately, annihilate the enemy.  Your squad will follow your orders and your lead, working together as a team - instinctively, intelligently, instantly.  You are their leader.  They are your weapon.",
+        "short": "The Squad is your weapon"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083b/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083b/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083b/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083b/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

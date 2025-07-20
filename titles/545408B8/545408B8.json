@@ -1,0 +1,50 @@
+{
+    "id": "545408B8",
+    "title": {
+        "full": "Grand Theft Auto San Andreas",
+        "reduced": "Grand Theft Auto San Andreas"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "release_date": "2014-10-27",
+    "user_rating": "4.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, and Spanish  Five years ago, Carl Johnson escaped from the pressures of life in Los Santos, San Andreas, a city tearing itself apart with gang trouble, drugs and corruption. Where filmstars and millionaires do their best to avoid the dealers and gangbangers.  Now, it’s the early 90’s. Carl’s got to go home. His mother has been murdered, his family has fallen apart and his childhood friends are all heading towards disaster. On his return to the neighborhood, a couple of corrupt cops frame him for homicide. CJ is forced on a journey that takes him across the entire state of San Andreas, to save his family and to take control of the streets.  You must accept the software license terms available at rockstargames.com/eula; online account terms at rockstargames.com/socialclub. Non-transferable access to special features such as exclusive/unlockable/downloadable/online content, services, or functions, such as multiplayer services or bonus content, may require single-use serial code, additional fee, and/or online account registration (13+). Access to special features may require internet connection, may not be available to all users or at all times, and may, upon 30 days notice, be terminated, modified, or offered under different terms. Violation of EULA, Code of Conduct, or other policies may result in restriction or termination of access to game or online account. For customer & tech support visit rockstargames.com/support. For information about online services, fees, restrictions, or software license terms that may apply to this game, please visit  www.rockstargames.com .   Certain limits apply to purchase, use, and redemption. See EULA www.rockstargames.com/eula and Terms of Service www.rockstargames.com/legal for details.  © 2004 Rockstar Games, Inc. Rockstar Games, Rockstar North, the R* logo, Grand Theft Auto and the Grand Theft Auto logo are trademarks and/or registered trademarks of Take-Two Interactive Software, Inc.",
+        "short": "Five years ago, Carl Johnson escaped from the pressures of life in Los Santos, San Andreas, a city tearing itself apart with gang trouble, drugs and corruption. Now, it’s the early 90’s. Carl’s got to go home, but his family has fallen apart and his childhood friends are heading towards disaster. To make matters worse, he's just been framed for homicide. CJ is forced on a journey that takes him across the entire state of San Andreas, to save his family and to take control of the streets."
+    },
+    "media": [
+        {
+            "media_id": "001DBCA6",
+            "title": "Grand Theft Auto: San Andreas",
+            "edition": "Platinum Hits",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b8/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b8/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b8/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/545408b8/GTASA_Xbox360_Manual_V11.pdf"
+        ]
+    }
+}

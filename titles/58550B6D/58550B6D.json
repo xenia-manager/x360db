@@ -1,0 +1,35 @@
+{
+    "id": "58550B6D",
+    "title": {
+        "full": "Massteroid",
+        "reduced": "Massteroid"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Jasonal",
+    "publisher": "Jasonal",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Steer an asteroid through space, collecting as much space junk as possible.  Try to get as big as possible before crashing into Earth for mass destruction!  There are multiple modes of play to try out.",
+        "short": "Steer an asteroid through space, collecting as much space junk as possible.  Try to get as big as possible before crashing into Earth for mass destruction!  There are multiple modes of play to try out."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550b6d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B6D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b6d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B6D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B6D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B6D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B6D_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

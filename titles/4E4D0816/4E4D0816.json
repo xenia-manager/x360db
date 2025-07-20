@@ -1,0 +1,60 @@
+{
+    "id": "4E4D0816",
+    "title": {
+        "full": "Majin and the Forsaken Kingdom",
+        "reduced": "Majin and the Forsaken Kingdom"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Game Republic",
+    "publisher": "BANDAI NAMCO Entertainment Inc.",
+    "release_date": "2011-01-20",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Get a glimpse into the world of Majin and the Forsaken Kingdom™.  A hundred years ago the Q’umarkaj kingdom, a once thriving society, was engulfed by a dark force that nearly eradicated all of its inhabitants.  Tepeu, a cunning young thief, finds himself drawn to this forsaken kingdom where he encounters and befriends Majin, a mysterious monster-like being with incredible strength.  Together they set out to uncover the Majin’s forgotten past and the secrets that lie within the ancient land.  Traveling through majestic lands, use your wits as well as Majin’s growing abilities to defeat sinister creatures and overcome any challenge that lies in your path.",
+        "short": "Get a glimpse into the world of Majin and the Forsaken Kingdom™.  Play as Tepeu, a cunning young thief, as he forges an alliance with a giant monster, the Majin, to restore life back into a fallen empire.  Traveling through majestic lands, use your wits as well as Majin’s growing abilities to defeat sinister creatures and overcome any challenge that lies in your path."
+    },
+    "media": [
+        {
+            "media_id": "76FDB642",
+            "title": "Majin and the Forsaken Kingdom",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "67BD87EF",
+            "title": "Majin and the Forsaken Kingdom",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "13F0200B",
+            "title": "Majin to Ushinawareta Oukoku",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0816/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0816/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0816/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0816/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0816/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0816/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0816/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0816/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0816/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0816/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0816/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0816/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0816/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0816/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

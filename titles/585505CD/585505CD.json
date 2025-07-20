@@ -1,0 +1,35 @@
+{
+    "id": "585505CD",
+    "title": {
+        "full": "PLATFORMANCE  Castle Pain",
+        "reduced": "PLATFORMANCE  Castle Pain"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Magiko Gaming",
+    "publisher": "Magiko Gaming",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=1/3. Can you save the princess ? Will you get to the end of Castle Pain (and brag about it with your scoreboard) ?  As an heavily armored knight you must succeed in various challenging platform goodness: Slalom between bird droppings, avoid giant fireballs, flee from the ghost, escape a giant octopus, brave blood thirsty bats and much more... Let the quest begin!",
+        "short": "Can you save the princess ? Will you get to the end of Castle Pain (and brag about it with your scoreboard) ?  As an heavily armored knight you must succeed in various challenging platform goodness: Slalom between bird droppings, avoid giant fireballs, flee from the ghost, escape a giant octopus, brave blood thirsty bats and much more... Let the quest begin!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585505cd/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505CD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505cd/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505CD_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505CD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505CD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505CD_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

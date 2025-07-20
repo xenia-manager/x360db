@@ -1,0 +1,46 @@
+{
+    "id": "555388C8",
+    "title": {
+        "full": "Rayman Legends - Demo",
+        "reduced": "Rayman Legends - Demo"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2013-08-14",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Download an exclusive demo for free! Join the Heroes of Rayman Legends - up to 4 players in co-op – in their adventure through three amazing and colorful universes : Teensies in trouble, Toad Story and Castle Rock musical map. See if you have what it takes to become a Platforming Legend! In Teensies in troubles and Toad Story, discover one map and its “invasion” version. In these “invasion” maps, where enemies and surroundings have nothing to do with the original map, your challenging mission will consist in saving the Teensies before the clock runs out! In Castle Rock, jump to the beat of a drum, punch to the bass line, even zip-line during a guitar sustain to our version of “Black Betty”.  ",
+        "short": "Download an exclusive demo for free! Join the Heroes of Rayman Legends - up to 4 players in co-op – in their adventure through three amazing and colorful universes : Teensies in trouble, Toad Story and Castle Rock musical map. See if you have what it takes to become a Platforming Legend!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388c8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388c8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388c8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388c8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388c8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388c8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388c8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388c8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388c8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388c8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388c8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388c8/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388c8/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388c8/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "555308C3",
+                "title": "Rayman® Legends"
+            }
+        ],
+        "related": []
+    }
+}

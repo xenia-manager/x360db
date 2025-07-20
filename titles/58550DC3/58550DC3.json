@@ -1,0 +1,34 @@
+{
+    "id": "58550DC3",
+    "title": {
+        "full": "The Plat Master",
+        "reduced": "The Plat Master"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "James Dinsmore",
+    "publisher": "James Dinsmore",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. The Plat Master is a platformer in which you, the player, create your own platforms to complete the level. There are 50 challenging floors for you to climb.",
+        "short": "The Plat Master is a platformer in which you, the player, create your own platforms to complete the level. There are 50 challenging floors for you to climb."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550dc3/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550DC3_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550dc3/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550DC3_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DC3_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DC3_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

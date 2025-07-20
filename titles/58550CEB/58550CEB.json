@@ -1,0 +1,35 @@
+{
+    "id": "58550CEB",
+    "title": {
+        "full": "Retro Arcade Adventure Remade",
+        "reduced": "Retro Arcade Adventure Remade"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "SIACTRO",
+    "publisher": "SIACTRO",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. Retro styled Hack and Slash action with a fire breathing variety of Power Ups and huge bosses. Includes two Minigames.",
+        "short": "Retro styled Hack and Slash action with a fire breathing variety of Power Ups and huge bosses. Includes two Minigames."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550ceb/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CEB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550ceb/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CEB_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CEB_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CEB_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CEB_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

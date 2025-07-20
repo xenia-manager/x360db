@@ -1,0 +1,53 @@
+{
+    "id": "535107F1",
+    "title": {
+        "full": "Mindjack",
+        "reduced": "Mindjack"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "feel plus",
+    "publisher": "square-enix",
+    "release_date": "2011-01-27",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Mindjack takes place in a near-future world of advanced technology and schemed conspiracies. This Action-Shooter uses Mind Hack, a system allowing to take over the bodies of others.",
+        "short": "Mind Hack Shooter"
+    },
+    "media": [
+        {
+            "media_id": "771C88A4",
+            "title": "Mindjack",
+            "edition": "Original",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f1/1033/boxartlg.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.535107f1/icon/0/8000",
+        "gallery": [
+            "http://mktplassets.xbox.com/NR/rdonlyres/3F4412FF-1228-4E80-80E1-B51B2A539573/0/simMindJack00.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f1/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f1/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f1/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f1/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f1/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f1/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f1/1033/screenlg14.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

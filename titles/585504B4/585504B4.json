@@ -1,0 +1,35 @@
+{
+    "id": "585504B4",
+    "title": {
+        "full": "3D Infinity",
+        "reduced": "3D Infinity"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "SmileBoom",
+    "publisher": "SmileBoom",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Amazing 3D shooting game!  Feel the hot ride of the spinning action! How far can you catch up this intense camera work and the speed that keeps accelerating? You can experience the overwhelming pop-up 3D images by putting red-blue glasses on or playing on 3D television.  Otherwise, you can still enjoy it in 2D version.",
+        "short": "Amazing 3D shooting game!  Feel the hot ride of the spinning action! How far can you catch up this intense camera work and the speed that keeps accelerating? You can experience the overwhelming pop-up 3D images by putting red-blue glasses on or playing on 3D television.  Otherwise, you can still enjoy it in 2D version."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585504b400000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585504B4_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585504b4/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585504B4_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504B4_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504B4_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504B4_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

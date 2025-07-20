@@ -1,0 +1,91 @@
+{
+    "id": "4156081C",
+    "title": {
+        "full": "Call of Duty World at War",
+        "reduced": "Call of Duty WaW"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Treyarch",
+    "publisher": "Activision",
+    "release_date": "2008-11-11",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English.  Call of Duty: World at War  Experience the intensity and brutality of war like never before. Unleash the power of the flamethrower, flame tanks, and other lethal weaponry while battling through the most harrowing campaigns in the Pacific and Europe. For the first time ever in Call of Duty, play Co-Op with up to 4 players on Xbox LIVE. In Multiplayer, compete on Xbox LIVE to complete challenges, gain experience, level up, and unlock perks to take out your opponents.",
+        "short": "Call of Duty: World at War  Experience the intensity and brutality of war like never before. Unleash the power of the flamethrower, flame tanks, and other lethal weaponry while battling through the most harrowing campaigns in the Pacific and Europe. For the first time ever in Call of Duty, play Co-Op with up to 4 players on Xbox LIVE. In Multiplayer, compete on Xbox LIVE to complete challenges, gain experience, level up, and unlock perks to take out your opponents."
+    },
+    "media": [
+        {
+            "media_id": "7D5A42BD",
+            "title": "Call of Duty: World at War",
+            "edition": "Original",
+            "region": "Spain"
+        },
+        {
+            "media_id": "17723718",
+            "title": "Call of Duty: World at War",
+            "edition": "Original, Platinum Hits, The War Collection",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "5E610E5B",
+            "title": "Call of Duty: World at War",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "72183067",
+            "title": "Call of Duty: World at War",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "60AA2D38",
+            "title": "Call of Duty: World at War",
+            "edition": "Original",
+            "region": "Italy"
+        },
+        {
+            "media_id": "3EC1CAA7",
+            "title": "Call of Duty: World At War",
+            "edition": "Original",
+            "region": "Korea"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081c/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4156081c/22216d0d-ec10-4d34-9ced-4c1f2244927c.PDF"
+        ]
+    }
+}

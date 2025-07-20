@@ -1,0 +1,44 @@
+{
+    "id": "5841125C",
+    "title": {
+        "full": "Kinect Party - Base Game",
+        "reduced": "Kinect Party - Base Game"
+    },
+    "genre": [
+        "Family",
+        "Independent & Music Videos",
+        "Kinect",
+        "Music and Short Videos",
+        "Xbox 360 Exclusives",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "Double Fine Productions",
+    "publisher": "Microsoft Studios",
+    "release_date": "2012-12-18",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Transform your living room into the ultimate Kinect Party!  Immerse yourself and up to 5 friends in this augmented reality playground as Kinect Party presents 36 mind-bending channels - each overflowing with outrageously unique, motion-controlled fun.  Wield nunchucks, grow fairy wings, dodge hot lava, harness electricity, dig for treasure, launch fireworks, become a fire breathing dragon and more! ",
+        "short": "Transform your living room into the ultimate Kinect Party!  Wield nunchucks, grow fairy wings, dodge hot lava, harness electricity, dig for treasure, launch fireworks, become a fire breathing dragon and more!  "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

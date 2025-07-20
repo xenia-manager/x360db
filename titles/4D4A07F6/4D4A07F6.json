@@ -1,0 +1,50 @@
+{
+    "id": "4D4A07F6",
+    "title": {
+        "full": "Zumba Kids",
+        "reduced": "Zumba Kids"
+    },
+    "genre": [
+        "Kinect",
+        "Music",
+        "Other"
+    ],
+    "developer": "Zoe Mode",
+    "publisher": "Majesco Entertainment",
+    "release_date": "2013-11-19",
+    "user_rating": "3.25",
+    "description": {
+        "full": "The Games on Demand version supports English.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor. Jump in and have a blast with Zumba® Kids, the ultimate dance-fitness party that gets kids moving together with fun, high-energy rhythms across 20 international dance styles. Feel the beat with 30 rockin’ tracks including hits from Justin Bieber and Willow Smith, and express yourself in creative mini games that mix up the fun. Unlock cool rewards, customize the game to fit your personal style and party with friends in multiplayer mode!",
+        "short": "Jump in and have a blast with Zumba® Kids, the ultimate dance-fitness party that gets kids and family moving together with fun, high-energy rhythms across 20 different dance styles. Feel the beat with 30 rockin’ tracks including hits from Justin Bieber and Willow Smith, express yourself in creative mini games and earn cool rewards as you mix up the fun!"
+    },
+    "media": [
+        {
+            "media_id": "157272FC",
+            "title": "Zumba Kids",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f6/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4d4a07f6/ZumbaK_360_ManualENG.pdf"
+        ]
+    }
+}

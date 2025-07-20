@@ -1,0 +1,45 @@
+{
+    "id": "55530801",
+    "title": {
+        "full": "Beowulf",
+        "reduced": "Beowulf"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Platformer"
+    ],
+    "developer": "UBISOFT",
+    "publisher": "UbiSoft",
+    "release_date": "2008-01-01",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Play Beowulf, an epic hero tormented by desire for power and glory. A slayer and a king - torn between the nobility and brutality within him. You are Beowulf, legendary Norse warrior with the strength of 30 men. Arrogant, self-serving, and lustful for gold and glory, you journey to Denmark to destroy a bloodthirsty beast wreaking havoc on a frigid land. But evil persists, and you succumb to its lure of even greater fame, quietly maneuvering to claim the Danish throne. As King, you must face the consequences of ambition, even as war descends on the realm. Lead your thanes into battle, slay the Titans of a dying age, and crush the enemies that threaten to annihilate both your kingdom and your people. Only then, when you look Destiny in the eye, will you know what kind of hero you truly are…",
+        "short": "Play Beowulf, an epic hero tormented by desire for power and glory. A slayer and a king - torn between the nobility and brutality within him. You are Beowulf, legendary Norse warrior with the strength of 30 men. Arrogant, self-serving, and lustful for gold and glory, you journey to Denmark to destroy a bloodthirsty beast wreaking havoc on a frigid land. But evil persists, and you succumb to its lure of even greater fame, quietly maneuvering to claim the Danish throne. As King, you must face the "
+    },
+    "media": [
+        {
+            "media_id": "6D8F3B55",
+            "title": "Beowulf: The Game",
+            "edition": "Original, Promo",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530801/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530801/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530801/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530801/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530801/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530801/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530801/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530801/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530801/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

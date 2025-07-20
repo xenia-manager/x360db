@@ -1,0 +1,76 @@
+{
+    "id": "535107E4",
+    "title": {
+        "full": "FINAL FANTASY XIII",
+        "reduced": "FINAL FANTASY XIII"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "release_date": "2010-07-19",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Thirteen days of fates intertwined reveal a truth beyond reckoning. Do you have the courage to face your destiny?",
+        "short": "Thirteen days of fates intertwined reveal a truth beyond reckoning. Do you have the courage to face your destiny?"
+    },
+    "media": [
+        {
+            "media_id": "4DA06395",
+            "title": "Final Fantasy XIII (Disc 1)",
+            "edition": "Ultimate Hits International",
+            "region": "Japan"
+        },
+        {
+            "media_id": "602A3E5A",
+            "title": "Final Fantasy XIII (Disc 1)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "40E764B6",
+            "title": "Final Fantasy XIII (Disc 2)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "2BA829F2",
+            "title": "Final Fantasy XIII (Disc 2)",
+            "edition": "Ultimate Hits International",
+            "region": "Japan"
+        },
+        {
+            "media_id": "0FE8E2F9",
+            "title": "Final Fantasy XIII (Disc 3)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "4AE9DE4D",
+            "title": "Final Fantasy XIII (Disc 3)",
+            "edition": "Ultimate Hits International",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107e4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107e4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107e4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107e4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107e4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107e4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107e4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107e4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107e4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107e4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107e4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107e4/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

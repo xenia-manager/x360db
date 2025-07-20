@@ -1,0 +1,42 @@
+{
+    "id": "57520844",
+    "title": {
+        "full": "LEGO The Hobbit",
+        "reduced": "LEGO The Hobbit"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family"
+    ],
+    "developer": "Traveller's Tales",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "release_date": "2014-04-08",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Danish, Dutch, Polish, Russian, Portuguese  The interactive game of LEGO The Hobbit allows gamers to play along with their favorite scenes from the films, and follows the Hobbit Bilbo Baggins as he is recruited by the Wizard Gandalf to aid Thorin Oakenshield and his Company of Dwarves.",
+        "short": "The interactive game of LEGO The Hobbit allows gamers to play along with their favorite scenes from the films."
+    },
+    "media": [
+        {
+            "media_id": "1F6A1D13",
+            "title": "LEGO The Hobbit",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520844/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520844/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520844/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520844/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520844/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520844/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520844/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

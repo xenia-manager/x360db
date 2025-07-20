@@ -1,0 +1,35 @@
+{
+    "id": "585507BC",
+    "title": {
+        "full": "Ninja Stole My Bike",
+        "reduced": "Ninja Stole My Bike"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Fourth Dimensional Gaming",
+    "publisher": "Fourth Dimensional Gaming",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=3/3. Ninjas keep stealing your bike.  Do you have what it takes to get it back?  Find out in this fast paced reflex game.  Full version includes all levels and global scoreboards.",
+        "short": "Ninjas keep stealing your bike.  Do you have what it takes to get it back?  Find out in this fast paced reflex game.  Full version includes all levels and global scoreboards."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585507bc00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585507BC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585507bc/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585507BC_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507BC_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507BC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507BC_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": "415608F2",
+    "title": {
+        "full": "Call of Duty Black Ops II",
+        "reduced": "COD Black Ops II"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Treyarch",
+    "publisher": "Activision",
+    "release_date": "2012-12-19",
+    "user_rating": null,
+    "description": {
+        "full": "Pushing the boundaries of what fans have come to expect from the record-setting entertainment franchise, Call of Duty®: Black Ops II propels players into a near future, 21st Century Cold War, where technology and weapons have converged to create a new generation of warfare. Pre-order today.",
+        "short": "Pushing the boundaries of what fans have come to expect from the record-setting entertainment franchise, Call of Duty®: Black Ops II propels players into a near future, 21st Century Cold War, where technology and weapons have converged to create a new generation of warfare. Pre-order today."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f2/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "415608C3",
+                "title": "Call of Duty Black Ops II"
+            }
+        ],
+        "related": []
+    }
+}

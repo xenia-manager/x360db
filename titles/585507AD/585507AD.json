@@ -1,0 +1,35 @@
+{
+    "id": "585507AD",
+    "title": {
+        "full": "Avatar Ragdolls",
+        "reduced": "Avatar Ragdolls"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Running Pixel",
+    "publisher": "Running Pixel",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Give your avatar the ride of its life with this rag-doll physics based game. Play alone or with up to 3 other friends. See your avatar fall, explode, rebounce or climb up to the victory.",
+        "short": "Give your avatar the ride of its life with this rag-doll physics based game. Play alone or with up to 3 other friends. See your avatar fall, explode, rebounce or climb up to the victory."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585507ad/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585507AD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585507ad/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585507AD_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507AD_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507AD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507AD_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

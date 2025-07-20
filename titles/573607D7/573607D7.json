@@ -1,0 +1,40 @@
+{
+    "id": "573607D7",
+    "title": {
+        "full": "My Body Coach 3",
+        "reduced": "My Body Coach 3"
+    },
+    "genre": [
+        "Kinect"
+    ],
+    "developer": "Kylotonn Entertainment",
+    "publisher": "Bigben Interactive",
+    "release_date": "2013-07-30",
+    "user_rating": "3.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish. This game requires a Kinect™ Sensor. Slimming, fitness and relaxation: your well-being coach in your own home! - Create and record your own fitness sessions or let yourself be guided by a personalised coaching programme. - Your movements are corrected in real time with Kinect™. - New: relaxation and stretching!",
+        "short": "Slimming, fitness and relaxation: your well-being coach in your own home! - Create and record your own fitness sessions or let yourself be guided by a personalised coaching programme. - Your movements are corrected in real time with Kinect™. - New: relaxation and stretching!"
+    },
+    "media": [
+        {
+            "media_id": "476B7DFD",
+            "title": "My Body Coach 3: Complete Coaching",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d7/1033/screenlg2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550B77",
+    "title": {
+        "full": "Pro Basketball Shooter",
+        "reduced": "Pro Basketball Shooter"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Juan Alberto Munoz",
+    "publisher": "Juan Alberto Munoz",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. First person basketball! Enter the arena for a 3-point shootout, or try the arcade cabinet for frantic 2-point hoops. Play against the clock for a place in the global scoreboards, or against a friend in split screen mode. Featuring realistic physics, smooth 3D visuals, compelling audio, and intuitive gameplay for all kinds of players.",
+        "short": "First person basketball! Enter the arena for a 3-point shootout, or try the arcade cabinet for frantic 2-point hoops. Play against the clock for a place in the global scoreboards, or against a friend in split screen mode. Featuring realistic physics, smooth 3D visuals, compelling audio, and intuitive gameplay for all kinds of players."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550b7700000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B77_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b77/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B77_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B77_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B77_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B77_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

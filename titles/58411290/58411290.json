@@ -1,0 +1,37 @@
+{
+    "id": "58411290",
+    "title": {
+        "full": "Worms Revolution",
+        "reduced": "Worms Revolution"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Team17 Digital Ltd.",
+    "publisher": "Team17 Digital Ltd.",
+    "release_date": "2012-10-10",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Worms™ Revolution sticks an exploding sheep under worm-on-worm conflict and blasts it squarely into the 21st century. With 32 single player missions, 20 single player puzzles, online or local multiplayer for up to 4 players, 3 multiplayer modes, customisation, worm classes and dynamic water! • 32 single player campaign missions and 20 puzzle missions to exercise your brain. • Fight to the death across 4 unique environments. • Experience local or online battles with up to 4 players. Choose from 3 different game modes: Deathmatch, Forts or Classic mode.  • 4 different classes of worm: Soldier, Scout, Scientist and Heavy.  • Customise your worms using a variety of hats, glasses, moustaches, gravestones, victory dances, soundbanks and trinkets! • New dynamic water and physics objects • New weapons • Award winning writer Dean Wilkinson provides the script, which is hilariously brought to life by the accomplished Matt Berry as unseen narrator, Don Keystone, a wildlife documentary maker. ",
+        "short": "Worms™ Revolution sticks an exploding sheep under worm-on-worm conflict and blasts it squarely into the 21st century. With 32 single player missions, 20 single player puzzles, online or local multiplayer for up to 4 players, 3 multiplayer modes, customisation, worm classes and dynamic water!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411290/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411290/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411290/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411290/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411290/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411290/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411290/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411290/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411290/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411290/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

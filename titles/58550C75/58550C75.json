@@ -1,0 +1,35 @@
+{
+    "id": "58550C75",
+    "title": {
+        "full": "Avatar Karting 2",
+        "reduced": "Avatar Karting 2"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Juan Alberto Munoz",
+    "publisher": "Juan Alberto Munoz",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. The hit racer of 2011 returns in full shape, with new karts, new tracks, and a major overhaul in all areas. Pedal to the metal!",
+        "short": "The hit racer of 2011 returns in full shape, with new karts, new tracks, and a major overhaul in all areas. Pedal to the metal!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550c75/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C75_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c75/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C75_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C75_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C75_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C75_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

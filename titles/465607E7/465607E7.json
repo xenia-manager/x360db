@@ -1,0 +1,50 @@
+{
+    "id": "465607E7",
+    "title": {
+        "full": "マブラヴ オルタネイティヴ",
+        "reduced": "マブラヴ オルタネイティヴ"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "5pb.",
+    "publisher": "5pb.",
+    "release_date": "2011-10-27",
+    "user_rating": null,
+    "description": {
+        "full": "――それは、語られなかった他なる結末。 とてもちいさな とてもおおきな とてもたいせつな あいとゆうきのおとぎばなし――  2001年10月22日――平和な日本で暮らしていたはずの白銀武は、突然見知らぬ世界で目覚めた。 そこは、数十年に渡る地球外起源種「BETA」との戦争によって、人類滅亡の危機に瀕した「並行世界」――軍事が全てに優先する最前線国家「日本」だった。 世界間を移動した原因もわからないまま、現実に翻弄され続けていた武もいつしかその運命を受け入れ、人類救済計画に関わる国連軍衛士として、愛する者達と共に戦い続ける。  だが、国家間の利害問題を克服できなかった人類は、地球放棄計画を選択してしまうのだった。  そして3年後、深い眠りから目覚めた武は、以前暮らした「元の世界」にあるはずの、自分の部屋にいる事に気付く。  全ては夢だったのだろうか……？　「元の世界」への帰還を期待する武に容赦のない現実が追い討ちをかける。 カレンダーの日付は2001年10月22日。部屋の外に広がる瓦礫の荒野――武は再び、突然「並行世界」に放り出されたあの日に戻っていたのだ！  世界間の移動に続く、時間逆行。人智を越えた怪現象に戸惑う武だったが、失望を振り払い、決意を胸に廃墟を行く。  「未来の出来事」を知る者として歴史に関与し、悲劇的な「結末」を自らの手で変える――朧気な人類敗北の記憶と、理由のわからない喪失感が、武にそう決意させるのだった。  果たして武は、人類を勝利に導くことができるのであろうか！？",
+        "short": "――それは、語られなかった他なる結末。 とてもちいさな とてもおおきな とてもたいせつな あいとゆうきのおとぎばなし――"
+    },
+    "media": [
+        {
+            "media_id": "79707CD9",
+            "title": "Muv-Luv Alternative",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e7/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e7/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e7/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e7/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e7/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e7/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e7/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e7/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e7/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e7/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e7/1041/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "465607F0",
+                "title": "Muv-luv Alternative Total Eclipse Disc Xbox360"
+            }
+        ],
+        "related": []
+    }
+}

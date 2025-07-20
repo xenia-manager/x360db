@@ -1,0 +1,39 @@
+{
+    "id": "58410B6C",
+    "title": {
+        "full": "Kung Fu Strike The Warriors Rise",
+        "reduced": "Kung Fu Strike"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "QOOCsoft",
+    "publisher": "7Sixty",
+    "release_date": "2012-06-12",
+    "user_rating": "3.75",
+    "description": {
+        "full": "In Kung Fu Strike: The Warrior’s Rise, ancient China is being ripped apart by three warring forces, the Tian Empire, the invading forces of Shaa seeking to overthrow the Empire’s King, and a rebel uprising with their own agenda. Playing as martial arts master General Loh, you’re thrown into the middle of this bitter war armed only with your deadliest weapon: your fists. Fight your way through waves of enemies and towering bosses with lethal attacks, learn new skills to take down even the toughest opponent and see if you have what it takes to complete the frantic challenge modes. If going it alone is too much, then team up with a friend in co-op mode or show off your killer moves in the Versus Mode.",
+        "short": "Taking its inspiration from ancient Chinese tales of revenge and retribution then adding a dash of over-the-top martial arts movies and old school arcade fun, Kung Fu Strike is a fast-paced beat-‘em-up where the player can seamlessly blend powerful punches, high kicks and perfectly timed blocks to pull off combos that devastate hordes of enemies!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6c/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6c/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6c/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

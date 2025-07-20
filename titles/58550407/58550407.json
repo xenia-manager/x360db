@@ -1,0 +1,35 @@
+{
+    "id": "58550407",
+    "title": {
+        "full": "Space Pirates from Tomorrow",
+        "reduced": "Space Pirates from Tomorrow"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "MStar Games",
+    "publisher": "MStar Games",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=2/3. Struggle your way to the top - or bottom - of the pile as you blast your way around the galaxy in this HUGE, no-holds-barred 3D space romp! Thousands of star systems in which to fight, trade and race, and an infinite number of challenging missions.  Can YOU compete?",
+        "short": "Struggle your way to the top - or bottom - of the pile as you blast your way around the galaxy in this HUGE, no-holds-barred 3D space romp! Thousands of star systems in which to fight, trade and race, and an infinite number of challenging missions.  Can YOU compete?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855040700000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550407_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550407/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550407_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550407_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550407_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550407_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": "584109B0",
+    "title": {
+        "full": "BUBBLE BOBBLE Neo",
+        "reduced": "BUBBLE BOBBLE Neo"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "TAITO CORPORATION",
+    "publisher": "TAITO Corporation",
+    "release_date": "2010-01-18",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) The action game classic Bubble Bobble returns as an XBLA game! Encase your enemies in bubbles with the bubble-spitting dragon Bub! Enjoy a full-on recreation of the arcade version of the original game in Classic Mode (100 rounds), as well as various new features such as offline co-op play for up to 4 players in Arrange Mode  (100 rounds) and competitive play in VS Mode. Learn the various techniques of the game and clear all the rounds! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "(Online Interactions Not Rated by the ESRB) The action game classic Bubble Bobble returns as an Xbox LIVE Arcade game! Encase your enemies in bubbles with the bubble-spitting dragon Bub!Enjoy a full-on recreation of the arcade version of the original game in Classic Mode (100 rounds), as well as various new features such as offline co-op play for up to 4 players in Arrange Mode (100 rounds) and competitive play in VS Mode. Learn the various techniques of the game and clear all the rounds!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b0/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

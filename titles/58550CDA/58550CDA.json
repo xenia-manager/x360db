@@ -1,0 +1,35 @@
+{
+    "id": "58550CDA",
+    "title": {
+        "full": "Zombie Block Planet",
+        "reduced": "Zombie Block Planet"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Josep Monzonis",
+    "publisher": "Josep Monzonis",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. Zombie Block Planet is an survival horror game in a block based environment.  Enter a world of creation, construction, exploration, adventure and survival. Fight off the zombie madness. Blast the zombies before they eat your brains! Explore and battle enemies to earn coins, build amazing worlds and save them.",
+        "short": "Zombie Block Planet is an survival horror game in a block based environment.  Enter a world of creation, construction, exploration, adventure and survival. Fight off the zombie madness. Blast the zombies before they eat your brains! Explore and battle enemies to earn coins, build amazing worlds and save them."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550cda00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CDA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550cda/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CDA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CDA_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CDA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CDA_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

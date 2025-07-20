@@ -1,0 +1,35 @@
+{
+    "id": "58550A8D",
+    "title": {
+        "full": "Nuage",
+        "reduced": "Nuage"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Six String Games",
+    "publisher": "Six String Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Enter a state of calm relaxation with Nuage, a no stress game where you collect clouds and rain drops to rain on the environment and bring it to life, all while listening to the well known unsigned relaxation musician, Paul Collier. Play with headphones for an even better experience.",
+        "short": "Enter a state of calm relaxation with Nuage, a no stress game where you collect clouds and rain drops to rain on the environment and bring it to life, all while listening to the well known unsigned relaxation musician, Paul Collier. Play with headphones for an even better experience."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550a8d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A8D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a8d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A8D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A8D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A8D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A8D_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

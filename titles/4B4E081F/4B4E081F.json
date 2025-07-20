@@ -1,0 +1,46 @@
+{
+    "id": "4B4E081F",
+    "title": {
+        "full": "NeverDead",
+        "reduced": "NeverDead"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Rebellion",
+    "publisher": "Konami Digital Entertainment, Inc.",
+    "release_date": "2012-01-31",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".(Online Interactions Not Rated by the ESRB) 500 years ago, Bryce and his wife challenged the demon king, and lost. Losing the love of his life, rendered immortal by the demon king, he now has no chance of winning and has no purpose in life. Now, he's a pathetic demon hunter. There is no need for him to eat, but he hunts weak demons to support his daily drinking habits.   He's immortal but not invincible! Let the enemy cut your flesh to strike back with a deadly blow. No death, no rules. The battle of the immortal hero, Bryce, begins now.",
+        "short": "He is immortal but not invincible! Death is nonexistent and there are no rules. The battle of Bryce, begins now."
+    },
+    "media": [
+        {
+            "media_id": "5D5CA48B",
+            "title": "NeverDead",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e081f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e081f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e081f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e081f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e081f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e081f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e081f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e081f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e081f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e081f/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4b4e081f/0/ND_GonD_SKU_UK.pdf"
+        ]
+    }
+}

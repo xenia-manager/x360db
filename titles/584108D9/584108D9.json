@@ -1,0 +1,52 @@
+{
+    "id": "584108D9",
+    "title": {
+        "full": "TiQal",
+        "reduced": "TiQal"
+    },
+    "genre": [
+        "Educational",
+        "Puzzle & Trivia"
+    ],
+    "developer": "Slapdash Games",
+    "publisher": "Microsoft Studios",
+    "release_date": "2009-12-18",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Single Player, Xbox LIVE Multiplayer 2, Local Multiplayer 2, HD (High Definition). Unlock the full version of TiQal to enjoy all 120 levels of block-busting challenge, plus achievements, 14 unique powerups, and more! Adventure by yourself, or join a friend on Xbox LIVE to team up in multiplayer Co-Op mode. Do you have the skill to complete your quest and save TiQal village from doom? There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "The village of TiQal is in trouble! You have been sent to ask the gods for help, but many obstacles stand in your way. Destroy these enemy blocks by using your magical Dropper to make squares of the same color. Multiple squares make larger matches and unleash amazing powerups. With sumptuous graphics inspired by ancient Mayan culture, a pulse-pounding soundtrack, and addictive gameplay, TiQal is a quest of skill, courage, and fun!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108d9/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "id": "584108B7",
+    "title": {
+        "full": "Castle Crashers",
+        "reduced": "Castle Crashers"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "The Behemoth",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-06-23",
+    "user_rating": "4.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Local Multiplayer 2-4, Xbox LIVE Multiplayer 2-4, HD (High Definition). Unlock the full version of Castle Crashers and start your journey into a world of magic and mystery! Battle your way across frozen tundra’s, deadly lava fields, and rival kingdoms in search of your kidnapped princess in this epic adventure.  Eliminate your enemies with over 20 unlockable characters, 40 weapons to customize your hero with, and an arsenal of combos and magical attacks to choose from.  Adventure together like never before - up to 4 can team up on the same console or over Xbox LIVE! This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "(Online Interactions Not Rated by the ESRB) Purchase the full version of Castle Crashers today and unleash the fury of the most exhilarating 2D adventure of its time. Featuring a four-player online adventure and a one-of-a-kind experience that takes you into a world of mind-boggling magic and mystery. Castle Crashers delivers unique hi-res illustrated visuals like nothing you’ve seen before!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b7/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

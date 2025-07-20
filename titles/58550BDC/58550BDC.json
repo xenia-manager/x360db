@@ -1,0 +1,35 @@
+{
+    "id": "58550BDC",
+    "title": {
+        "full": "Brimstone - An Action RPG",
+        "reduced": "Brimstone - An Action RPG"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Punchbag Entertainment",
+    "publisher": "Punchbag Entertainment",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. Brimstone is a top-down, Hack'n'Slash Role Playing Game for up to 8 players. Procedurally generated dungeons, a huge variety of monsters and endless variations of loot ensure that no two sessions will ever be the same! Download the free trial now to try it for yourself!",
+        "short": "Brimstone is a top-down, Hack'n'Slash Role Playing Game for up to 8 players. Procedurally generated dungeons, a huge variety of monsters and endless variations of loot ensure that no two sessions will ever be the same! Download the free trial now to try it for yourself!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550bdc/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550BDC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550bdc/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550BDC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BDC_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BDC_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BDC_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "id": "434607D1",
+    "title": {
+        "full": "FEAR 2 - JP",
+        "reduced": "FEAR 2 - JP"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Monolith Productions, Inc.",
+    "publisher": "Cyberfront",
+    "release_date": "2009-09-09",
+    "user_rating": null,
+    "description": {
+        "full": "What starts off as a routine mission to locate a corrupt executive turns into a non-stop struggle to survive as Sgt. Michael Becket comes face to face with Alma, a vengeful force growing ever more powerful.",
+        "short": "What starts off as a routine mission to locate a corrupt executive turns into a non-stop struggle to survive as Sgt. Michael Becket comes face to face with Alma, a vengeful force growing ever more powerful."
+    },
+    "media": [
+        {
+            "media_id": "49FE9693",
+            "title": "F.E.A.R. 2: Project Origin",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d1/1041/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "575207D3",
+                "title": "FEAR 2"
+            }
+        ],
+        "related": []
+    }
+}

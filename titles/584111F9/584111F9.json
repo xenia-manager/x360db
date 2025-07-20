@@ -1,0 +1,41 @@
+{
+    "id": "584111F9",
+    "title": {
+        "full": "Frogger Hyper Arcade Edition",
+        "reduced": "Frogger Hyper Arcade Edition"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Zombie Studios",
+    "publisher": "Konami Digital Entertainment",
+    "release_date": "2012-05-01",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Frogger’s coin-op thrills are back and better than ever! Jump into the action with classic and brand-new game modes that expand on Frogger's classic run-and-dodge gameplay. Customize your game board with different skins, from the modern neon style of HYPER ARCADE to the 8-bit sprites from Castlevania and even CONTRA! Throw down against friends or the CPU in up to 4 player matches to find out who's really the top frog!",
+        "short": "Frogger’s coin-op thrills are back and better than ever! Jump into the action with classic and brand-new game modes that expand on Frogger's classic run-and-dodge gameplay. Customize your game board with different skins, from the modern neon style of HYPER ARCADE to the 8-bit sprites from Castlevania and even CONTRA! Throw down against friends or the CPU in up to 4 player matches to find out who's really the top frog!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f9/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f9/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f9/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f9/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

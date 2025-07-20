@@ -1,0 +1,45 @@
+{
+    "id": "4D5707DF",
+    "title": {
+        "full": "TNA iMPACT",
+        "reduced": "TNA iMPACT"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Midway Los Angeles",
+    "publisher": "Midway Home Entertainment Inc.",
+    "release_date": "2008-01-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "TNA iMPACT!™ is the exclusive Total Nonstop Action wrestling game based on the top-rated weekly television show, TNA iMPACT!™  Choose the wrestling style, custom move set and clothing to construct the ultimate champion.  TNA iMPACT!™ drenches the player in moves and match types that allow amazing acrobatic and aerial feats along with the bone-jarring crush of hard-hitting impacts.  The game also features top wrestling talent such as Kurt Angle, Jeff Jarrett, Rhino, Samoa Joe, AJ Styles, Sting, Christian Cage, Abyss and more to deliver all of the excitement and action of the television show!",
+        "short": "TNA iMPACT!™ is the exclusive Total Nonstop Action wrestling game based on the top-rated weekly television show, TNA iMPACT!™  Choose the wrestling style, custom move set and clothing to construct the ultimate champion.  TNA iMPACT!™ drenches the player in moves and match types that allow amazing acrobatic and aerial feats along with the bone-jarring crush of hard-hitting impacts.  The game also features top wrestling talent such as Kurt Angle, Jeff Jarrett, Rhino, Samoa Joe, AJ Styles, Sting, C"
+    },
+    "media": [
+        {
+            "media_id": "37AE817A",
+            "title": "TNA Impact! Total Nonstop Action Wrestling",
+            "edition": "Original, Bundled with Bonus Discs",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707df/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707df/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707df/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707df/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707df/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707df/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707df/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707df/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707df/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707df/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707df/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "id": "484507D4",
+    "title": {
+        "full": "Jonah Lomu Rugby Challenge",
+        "reduced": "Jonah Lomu Rugby Challenge"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Sidhe",
+    "publisher": "Home Entertainment Suppliers Pty Ltd",
+    "release_date": "2011-09-08",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, Spanish.  * Experience the emotion and adrenaline of world class rugby union from club rugby through to international competition.  * The only game featuring exclusively the All Blacks & Wallabies.  Game also includes USA Eagles, Super Rugby teams, ITM Cup, Aviva Premiership, TOP 14 Orange, RaboDirect PRO12, and more.  * Create and customise players, teams, and competitions.  * Featuring Rugby Legend Jonah Lomu.  * Multiple game modes including Tutorial Mode, Quick Match, Competition Mode, or the multi-year Career Mode.  * Online multiplayer including 4 vs 4 head to head play and leaderboard competition.  * Broadcast style presentation with ingame commentary from Grant Nisbett and Justin Marshall.",
+        "short": "* The only game featuring exclusively the All Blacks & Wallabies.  Game also includes USA Eagles, Super Rugby teams, ITM Cup, Aviva Premiership, TOP 14 Orange, RaboDirect PRO12, and more.  * Create and customise players, teams, and competitions.  * Featuring Rugby Legend Jonah Lomu.  * Multiple game modes including Tutorial Mode, Quick Match, Competition Mode, or the multi-year Career Mode.  * Online multiplayer including 4 vs 4 head to head play and leaderboard competition."
+    },
+    "media": [
+        {
+            "media_id": "55B16637",
+            "title": "Rugby Challenge",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "4DC4A4BF",
+            "title": "Rugby Challenge",
+            "edition": "Original",
+            "region": "Australia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d4/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/484507d4/RugbyChallenge_Manuals_EN.pdf"
+        ]
+    }
+}

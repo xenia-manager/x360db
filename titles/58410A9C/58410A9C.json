@@ -1,0 +1,31 @@
+{
+    "id": "58410A9C",
+    "title": {
+        "full": "MicroBot",
+        "reduced": "MicroBot"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Naked Sky Entertainment",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-12-29",
+    "user_rating": "4.00",
+    "description": {
+        "full": "MicroHexon Research thought they had revolutionized medical technology when they invented the MicroBot, a microscopic robot specifically designed to assist the immune system in fighting a variety of health ailments. Unfortunately, due to a disastrous malfunction, their technology is now working in tandem with the viruses and bacteria and attempting to take over the host body. Now it is up to you to stop the biotechnical infestation before it’s too late. Pilot a prototype cutting-edge MicroBot that has the capability to be customized and upgraded mid-mission in order to cure the infected host. Improve your weaponry, movement, defensive options and special attacks using data fragments harvested from eradicated enemies.  Travel through blood, bone, breath and brain as you track down and eradicate the cause of the infection. But are you the ultimate cure…or the disease? ",
+        "short": "Pilot a prototype cutting-edge MicroBot that has the capability to be customized and upgraded mid-mission in order to cure the infected host. Improve your weaponry, movement, defensive options and special attacks using data fragments harvested from eradicated enemies.  Travel through blood, bone, breath and brain as you track down and eradicate the cause of the infection. But are you the ultimate cure…or the disease? "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9c/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

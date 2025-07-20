@@ -1,0 +1,49 @@
+{
+    "id": "41560905",
+    "title": {
+        "full": "The Amazing Spider-Man 2",
+        "reduced": "The Amazing Spider-Man 2"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Beenox",
+    "publisher": "Activision",
+    "release_date": "2014-04-29",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese.  The Amazing Spider-Man 2 takes place outside the events of the 2nd film in a unique story where Spider-Man discovers a larger threat to NYC that has turned the underworld upside down. Villains from the film and classic Marvel characters are woven together in a twisted web of adrenaline-fueled, web-slinging action that puts players on a collision course with an evil far beyond Spider-Man’s reckoning. • Play as Peter Parker for the first time ever in The Amazing Spider-Man game series. • Battle all-new villains from both the movie and Spider-Man universes. • New web-swing mechanic includes expanded web-shooter capabilities and chemical properties that allow you to freeze and blow up items on impact. • Explore a more expansive Manhattan cityscape than the previous Amazing Spider-Man. •  New “Hero or Menace” system rewards you for acting as Spider-Man by stopping crime and saving citizens. • New abilities and expanded fast-paced, acrobatic combat moves bring players up close and personal.",
+        "short": "Amazing Spider-Man 2 takes place outside the events of the 2nd film in a unique story where Spider-Man discovers a larger threat to NYC that has turned the underworld upside down. Villains from the film and classic Marvel characters are woven together in a twisted web of adrenaline-fueled, web-slinging action that puts players on a collision course with an evil far beyond Spider-Man’s reckoning."
+    },
+    "media": [
+        {
+            "media_id": "7D232667",
+            "title": "The Amazing Spider-Man 2",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "65642734",
+            "title": "The Amazing Spider-Man 2",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560905/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560905/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560905/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560905/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560905/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560905/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560905/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560905/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560905/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

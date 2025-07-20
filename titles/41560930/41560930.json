@@ -1,0 +1,54 @@
+{
+    "id": "41560930",
+    "title": {
+        "full": "Skylanders Imaginators",
+        "reduced": "Skylanders Imaginators"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Toys For Bob",
+    "publisher": "Activision",
+    "release_date": "2016-10-13",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Kaos has discovered the ancient power of Mind Magic and is using it to create an unstoppable army of Doomlanders! Eon is calling upon all Portal Masters and Skylands' greatest mystic warriors, the Senseis, to stop Kaos and regain control of the Mind Magic. Now, you must use the power of your imagination to create your own Skylanders to battle in the ultimate adventure alongside the almighty Senseis to save Skylands.  -Embark on an Epic New Adventure  -Use the Imaginite Creation Crystals to Create Your Own Skylanders  -Sensei Skylanders are the Ultimate Masters of the Almighty Sky-Chi Powers   -Battle to Save Skylands with the Sensei and Imaginator Skylanders  -Use 10 Different Battle Class Types to Defeat Kaos and his Minions  -Play With Friends in COOP and Head-to-Head Racing  -Conquer All-New Side quests & Mini-games",
+        "short": "Portal Masters, use the power of your imagination to create your own Skylanders and battle in the ultimate adventure alongside the almighty Senseis to save Skylands."
+    },
+    "media": [
+        {
+            "media_id": "4FE99C2D",
+            "title": "Skylanders: Imaginators",
+            "edition": "",
+            "region": "Europe"
+        },
+        {
+            "media_id": "2C277630",
+            "title": "Skylanders: Imaginators",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560930/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560930/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560930/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560930/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560930/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560930/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560930/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560930/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560930/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560930/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560930/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560930/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560930/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560930/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

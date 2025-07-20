@@ -1,0 +1,37 @@
+{
+    "id": "454108E2",
+    "title": {
+        "full": "The Sims 3",
+        "reduced": "The Sims 3"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Edge of Reality",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-10-26",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Create Sims with unique personalities, fulfill their desires, and guide their lives in a living town. Unleash Karma Powers to help your Sims \"get lucky,\" bless them with a \"giant jackpot\" of money, or curse others with an \"epic fail\". Complete Challenges to unlock more objects, powers, and town building upgrades. Design and build your Sims’ dream home. Share your houses, Sims, and more with others and download from other creators for your own game!  ",
+        "short": "Create Sims with unique personalities, fulfill their desires, and guide their lives in a living town. Unleash Karma Powers to help your Sims \"get lucky,\" bless them with a \"giant jackpot\" of money, or curse others with an \"epic fail\". Complete Challenges to unlock more objects, powers, and town building upgrades. Design and build your Sims’ dream home. Share your houses, Sims, and more with others and download from other creators for your own game!  "
+    },
+    "media": [
+        {
+            "media_id": "21CDDF46",
+            "title": "The Sims 3",
+            "edition": "Original, Classics",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e2/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

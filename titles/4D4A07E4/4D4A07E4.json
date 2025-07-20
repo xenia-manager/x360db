@@ -1,0 +1,52 @@
+{
+    "id": "4D4A07E4",
+    "title": {
+        "full": "Alvin and The Chipmunks Chipwrecked",
+        "reduced": "Alvin and The Chipmunks Chipwrecked"
+    },
+    "genre": [
+        "Family",
+        "Kinect"
+    ],
+    "developer": "Behaviour Interactive Inc.",
+    "publisher": "Majesco Entertainment",
+    "release_date": "2011-10-10",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English.   Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor.  Dance along with Alvin and The Chipmunks in this motion-based experience that lets you perform for the crowd as one of your favorite Chipmunks or sassy Chipettes. Dance to classic Chipmunk hits as you play in environments right from the big screen. Unleash your ‘Munk Power’ to perform ultra-cool dance moves while following an entertaining story based on the movie.   Get the party started in this electrifying musical adventure!",
+        "short": "Dance along with Alvin and The Chipmunks in this motion-based experience that lets you perform for the crowd as one of your favorite Chipmunks or sassy Chipettes. Dance to classic Chipmunk hits as you play in environments right from the film.  Unleash your ‘Munk Power’ to perform ultra-cool dance moves while following an exciting story based on the movie."
+    },
+    "media": [
+        {
+            "media_id": "6DD4EC06",
+            "title": "Alvin and the Chipmunks: Chipwrecked",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e4/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e4/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e4/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07e4/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4d4a07e4/ALVINCW%20360%20MANUAL-EN.pdf"
+        ]
+    }
+}

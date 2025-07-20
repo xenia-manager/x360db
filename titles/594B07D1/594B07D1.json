@@ -1,0 +1,43 @@
+{
+    "id": "594B07D1",
+    "title": {
+        "full": "WRESTLE KINGDOM",
+        "reduced": "WRESTLE KINGDOM"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "YUKE'S Co.,Ltd.",
+    "publisher": "YUKE’S Co., Ltd.",
+    "release_date": "2008-01-01",
+    "user_rating": "0.00",
+    "description": {
+        "full": "The ultimate professional wrestling game by Yuke's.",
+        "short": "The ultimate professional wrestling game by Yuke's."
+    },
+    "media": [
+        {
+            "media_id": "62A577F9",
+            "title": "Wrestle Kingdom",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594b07d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594b07d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594b07d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594b07d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594b07d1/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594b07d1/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594b07d1/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594b07d1/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594b07d1/1041/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

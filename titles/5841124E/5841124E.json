@@ -1,0 +1,41 @@
+{
+    "id": "5841124E",
+    "title": {
+        "full": "JOJOS BIZARRE ADVENTURE HD Ver",
+        "reduced": "JOJOS BIZARRE ADVENTURE HD Ver"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "CAPCOM CO., LTD.",
+    "publisher": "CAPCOM CO., LTD.",
+    "release_date": "2012-08-22",
+    "user_rating": "3.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) The legendary JoJo's Bizarre Adventure is now in HD with network support! This is the kind of quality JoJo fans have been raving about!",
+        "short": "JoJo's Bizarre Adventure is now in HD with network support!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124e/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124e/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124e/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124e/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124e/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": "535007ED",
+    "title": {
+        "full": "Phantom Breaker",
+        "reduced": "Phantom Breaker"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "MAGES.",
+    "publisher": "7Sixty",
+    "release_date": "2012-04-24",
+    "user_rating": "4.75",
+    "description": {
+        "full": "Can you compete in the ultimate fighting tournament? Choose from 14 deadly combatants – each with their own unique storylines - before entering a secretive fighting competition held in the shadowy underworld of Japan. Select either a quick fighting style to pull off super-fast combos or a hard style to toughen up your chosen brawler. Then, through well-timed attacks and blocks, charge your Overdrive bar before unleashing it to devastate your opponent with lightning fast blows. When you’ve earned your stripes in the single-player, take the battle online to compete with other fierce competitors.",
+        "short": "Choose from 14 deadly combatants – each with their own unique storylines - before entering a secretive fighting competition held in the shadowy underworld of Japan. Through well-timed attacks and blocks, charge your Overdrive bar before unleashing it to devastate your opponent with lightning fast blows. Can you survive the ultimate fighting tournament?"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007ed/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007ed/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007ed/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007ed/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007ed/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007ed/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007ed/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007ed/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007ed/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007ed/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007ed/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007ed/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007ed/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007ed/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007ed/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007ed/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

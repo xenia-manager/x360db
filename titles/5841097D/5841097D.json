@@ -1,0 +1,37 @@
+{
+    "id": "5841097D",
+    "title": {
+        "full": "Sam & Max Save the World (2009)",
+        "reduced": "Sam & Max Save the World"
+    },
+    "genre": [
+        "Classics",
+        "Puzzle & Trivia"
+    ],
+    "developer": "Telltale Games",
+    "publisher": "Microsoft Studios",
+    "release_date": "2009-12-03",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Telltale Games put the concept of episodic gaming to the test with Sam & Max Season  One, six episodes that released approximately once a month on PC between October 2006  and April 2007. The full season came to Xbox 360 in 2009 with the name Sam & Max Save  the World. In 2018, when Telltale went through liquidation, four of the studio’s original  employees formed Skunkape Games and acquired the rights to Telltale’s Sam & Max  games. We’re in the process of remastering all three seasons, but we didn’t want the  originals to be lost to time. Want to know what playing these episodes was like on Xbox in  2009? Here they are, in their original form!",
+        "short": "Telltale Games released Sam & Max Save the World, the first of three seasons of episodic Sam & Max games, on Xbox 360 in 2009. When Telltale shut down in 2018, four of the studio’s original employees formed Skunkape Games and acquired the rights to Telltale’s Sam & Max games. We’re in the process of remastering all of them, but we don’t want the originals to be lost to time. Want to know what playing these episodes was like on Xbox back in the day? Here they are, in their original form!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841097d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841097d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841097d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841097d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841097d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841097d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841097d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841097d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841097d/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

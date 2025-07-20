@@ -1,0 +1,35 @@
+{
+    "id": "5855057C",
+    "title": {
+        "full": "Fluidityk",
+        "reduced": "Fluidityk"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "Distorted Kids",
+    "publisher": "Distorted Kids",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Fluidityk is a unique next-gen music visualizer: it uses realistic fluid dynamics (fire, smoke, oil and water) reacting to your own music for a beautiful and artistic result! Fluidityk's high resolution fluid simulation uses 100% of the Xbox360's processing power and works with music from your hard drive library or streamed from a Windows PC using Windows Media Player.",
+        "short": "Fluidityk is a unique next-gen music visualizer: it uses realistic fluid dynamics (fire, smoke, oil and water) reacting to your own music for a beautiful and artistic result! Fluidityk's high resolution fluid simulation uses 100% of the Xbox360's processing power and works with music from your hard drive library or streamed from a Windows PC using Windows Media Player."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855057c00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855057C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855057c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855057C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855057C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855057C_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855057C_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

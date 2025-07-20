@@ -1,0 +1,50 @@
+{
+    "id": "555307D7",
+    "title": {
+        "full": "TCs SC Double Agent",
+        "reduced": "TCs SC Double Agent"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2010-07-23",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Splinter Cell Double Agent is a Stealth-Action game where you play as Sam Fisher, a secret NSA agent, infiltrating a terrorist cell to destroy it from within. Face the gut-wrenching dilemmas of a Double Agent's life, do whatever it takes to complete your mission, and get out alive.  Play Online Multiplayer, as a Spy or a Mercenary, to experience either the chilling tension of infiltrating and hacking unseen or the brutal power of hunting and eliminating intruders. Use acrobatic moves against high-tech gear and drones in an instant and addictive 3 vs. 3 game mode. Cooperate with two teammates, improve and challenge yourself against advanced AI bots in the exclusive “Coop Challenges” mode. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Splinter Cell Double Agent is a Stealth-Action game where you play as Sam Fisher, a secret NSA agent, infiltrating a terrorist cell to destroy it from within. Face the gut-wrenching dilemmas of a Double Agent's life, do whatever it takes to complete your mission, and get out alive.  Play Online Multiplayer, as a Spy or a Mercenary, to experience either the chilling tension of infiltrating and hacking unseen or the brutal power of hunting and eliminating intruders. Use acrobatic moves against h…"
+    },
+    "media": [
+        {
+            "media_id": "7701DD68",
+            "title": "Tom Clancy's Splinter Cell: Double Agent",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "3FA11EB0",
+            "title": "Tom Clancy's Splinter Cell: Double Agent",
+            "edition": "Original, Double Pack: Classics, Limited Collector's Edition",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d7/1033/boxartlg.jpg",
+        "icon": null,
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d7/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/555307d7/4f4309c4-733e-4495-a8ac-2374bbdcfc90.PDF"
+        ]
+    }
+}

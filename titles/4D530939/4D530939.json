@@ -1,0 +1,35 @@
+{
+    "id": "4D530939",
+    "title": {
+        "full": "Halo 3",
+        "reduced": "Halo 3"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Bungie Studios",
+    "publisher": "Microsoft Game Studios",
+    "release_date": "2010-07-03",
+    "user_rating": null,
+    "description": {
+        "full": "Halo 3 is the third game in the Halo Trilogy and will provide the thrilling conclusion to the events begun in Halo: Combat Evolved. Halo 3 will pick up where Halo 2 left off. The Master Chief is returning to Earth to finish the fight.",
+        "short": "Halo 3 is the third game in the Halo Trilogy and will provide the thrilling conclusion to the events begun in Halo: Combat Evolved. Halo 3 will pick up where Halo 2 left off. The Master Chief is returning to Earth to finish the fight."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530939/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530939/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530939/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530939/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D5307E6",
+                "title": "Halo 3"
+            }
+        ],
+        "related": []
+    }
+}

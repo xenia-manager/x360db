@@ -1,0 +1,42 @@
+{
+    "id": "58411247",
+    "title": {
+        "full": "Jet Set Radio",
+        "reduced": "Jet Set Radio"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer"
+    ],
+    "developer": "Blit",
+    "publisher": "SEGA",
+    "release_date": "2012-09-19",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Tag, grind, and trick to the beat in SEGA’s hit game Jet Set Radio!  Fight for control of Tokyo-to, mark your turf with graffiti, tag walls, billboards, and even rival gang members! Perform tricks and flips on magnetically driven in-line skates, but watch out for the local police force!  Now on Xbox Live Arcade, Jet Set Radio is part of Sega’s Heritage Collection series and now features lush HD visuals, developer interviews, and amazing fan-created graffiti.",
+        "short": "Tag, grind, and trick to the beat in SEGA’s hit game Jet Set Radio!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411247/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411247/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411247/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411247/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411247/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411247/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411247/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411247/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411247/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411247/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411247/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411247/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411247/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411247/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

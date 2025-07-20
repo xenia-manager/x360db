@@ -1,0 +1,48 @@
+{
+    "id": "415608EC",
+    "title": {
+        "full": "Deadpool",
+        "reduced": "Deadpool"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "High Moon",
+    "publisher": "Activision",
+    "release_date": "2013-06-25",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  There are a few important things I need to say before you crack into my insanely sweet game. (Oof. Here we go again.) I'm a mercenary with an accelerated healing factor. I've been described as unstable, which is just plain coo-coo. (Wait, do sane people say coo-coo?) I'm gonna battle for the safety of humans and mutants. (And even mumans.) Be prepared for just about anything. (Holla!)  • I made sure to capture all my good sides, so I made my game a third-person action-shooter. (Yep, you get to look at my heinie.)  • Keep a look out cuz some of my X-Men pals (Whoa, what pals?!) are making an appearance. (Hope you don't mind picking hair out of your tacos.)  • I'm really good at killing, so I made it a blast stringing together combos, and totally eviscerating my enemies. (Ev-is-cer-a-ting!)  • I brought my skills and a buttload of my favorite things. Katanas (check), guns (bang!) explosives (boom), duct tape (quack) and of course, yours truly - ME! (Checkmate!)",
+        "short": "There are a few important things I need to say before you crack into my insanely sweet game. (Oof. Here we go again.) I'm a mercenary with an accelerated healing factor. I've been described as unstable, which is just plain coo-coo. (Wait, do sane people say coo-coo?) I'm gonna battle for the safety of humans and mutants. (And even mumans.) Be prepared for just about anything. (Holla!)"
+    },
+    "media": [
+        {
+            "media_id": "28D1E78A",
+            "title": "Deadpool",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ec/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ec/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ec/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ec/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ec/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ec/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ec/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ec/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ec/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ec/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ec/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ec/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/415608ec/1/DP_X360_MG_Digital_USA.pdf"
+        ]
+    }
+}

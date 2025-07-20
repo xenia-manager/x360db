@@ -1,0 +1,35 @@
+{
+    "id": "58550326",
+    "title": {
+        "full": "Elfland Reloaded Vol 1",
+        "reduced": "Elfland Reloaded Vol 1"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Bog Turtle Games LLC",
+    "publisher": "Bog Turtle Games LLC",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. In Elfland Reloaded, you take on the role of Elfie or Elfita to try and save the elf village from threatening trolls. On your quest, you will encounter helpful turtles, aggressive birds, bouncing springs, purple elf-eaters, and other assorted creatures. In the first volume, your journey will take you into Gorgimer's Castle where you will have to overcome bats, puzzles, and Gorgimer's pet.",
+        "short": "In Elfland Reloaded, you take on the role of Elfie or Elfita to try and save the elf village from threatening trolls. On your quest, you will encounter helpful turtles, aggressive birds, bouncing springs, purple elf-eaters, and other assorted creatures. In the first volume, your journey will take you into Gorgimer's Castle where you will have to overcome bats, puzzles, and Gorgimer's pet."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550326/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550326_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550326/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550326_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550326_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550326_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550326_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

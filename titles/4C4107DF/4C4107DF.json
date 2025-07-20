@@ -1,0 +1,59 @@
+{
+    "id": "4C4107DF",
+    "title": {
+        "full": "LEGO Indiana Jones",
+        "reduced": "LEGO Indiana Jones"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics",
+        "Family"
+    ],
+    "developer": "Traveller's Tales (UK), Ltd.",
+    "publisher": "LucasArts",
+    "release_date": "2008-06-02",
+    "user_rating": "4.00",
+    "description": {
+        "full": "This game supports English, French, Italian, German, and Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". LEGO Indiana Jones: The Original Adventures takes the fun and creative construction of LEGO and combines it with the wits, daring and non-stop action from the original cinematic adventures that enthralled audiences everywhere (Indiana Jones and the Raiders of the Lost Ark, Indiana Jones and the Temple of Doom and Indiana Jones and the Last Crusade). With a unique tongue-in-cheek take on the original adventures, LEGO Indiana Jones follows the escapades of Dr. Jones through the jungles of South America to the mountaintops of India. Fans can build, battle and brawl their way through their favourite cinematic moments, from Indy’s entanglements with snakes to his dashing boulder run. Additionally, players can also mix and match the body parts of more than 60 playable characters to create new heroes in more than 18 different levels that mirror the classic films. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "LEGO Indiana Jones: The Original Adventures takes the fun and creative construction of LEGO and combines it with the wits, daring and non-stop action from the original cinematic adventures that enthralled audiences everywhere (Indiana Jones and the Raiders of the Lost Ark, Indiana Jones and the Temple of Doom and Indiana Jones and the Last Crusade). With a unique tongue-in-cheek take on the original adventures, LEGO Indiana Jones follows the escapades of Dr. Jones through the jungles of South Am"
+    },
+    "media": [
+        {
+            "media_id": "6AAA7C85",
+            "title": "LEGO Indiana Jones: The Original Adventures",
+            "edition": "Platinum Hits, Bundled with Xbox 360",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "35723E20",
+            "title": "LEGO Indiana Jones: The Original Adventures",
+            "edition": "Original, Bundled with Xbox 360",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107df/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107df/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107df/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107df/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107df/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107df/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107df/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107df/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107df/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107df/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107df/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107df/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107df/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107df/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107df/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4c4107df/f5265c05-24e1-4ac5-aa7e-0bd022a8b378.PDF"
+        ]
+    }
+}

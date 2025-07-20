@@ -1,0 +1,35 @@
+{
+    "id": "5855015B",
+    "title": {
+        "full": "Constrictor",
+        "reduced": "Constrictor"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "A Jolly Corpse",
+    "publisher": "A Jolly Corpse",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. A contest of size for up to four players, Constrictor pits a variety of lengthy creatures against themselves, to settle once and for all whom is the longest. Eat pellets to grow in size, and consume powerups to gain special abilities. Devour your friends in Predator mode, escape from them in Wraith mode, or play ball with them in Sport mode - but above all, don't hit your tail!",
+        "short": "A contest of size for up to four players, Constrictor pits a variety of lengthy creatures against themselves, to settle once and for all whom is the longest. Eat pellets to grow in size, and consume powerups to gain special abilities. Devour your friends in Predator mode, escape from them in Wraith mode, or play ball with them in Sport mode - but above all, don't hit your tail!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855015b/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855015B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855015b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855015B_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855015B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855015B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855015B_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

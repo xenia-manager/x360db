@@ -1,0 +1,60 @@
+{
+    "id": "4A3007D3",
+    "title": {
+        "full": "PRO EVOLUTION SOCCER 2018",
+        "reduced": "PRO EVOLUTION SOCCER 2018"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Konami Digital Entertainment Co., Ltd.",
+    "publisher": "Konami Digital Entertainment",
+    "release_date": "2017-09-12",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, Spanish and French.  ‘Where Legends Are Made' encapsulates the return of PES, with new features, modes and an unparalleled gameplay experience.  No part of PES 2018 has been left untouched, giving you new ways to play with a number of gameplay improvements, Random Select Mode, and a complete presentation overhaul with lifelike player models, new menus and real player images.",
+        "short": "‘Where Legends Are Made' encapsulates the return of PES, with an unparalleled gameplay experience. "
+    },
+    "media": [
+        {
+            "media_id": "0304E06C",
+            "title": "PES 2018: Pro Evolution Soccer",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "1CB7BE36",
+            "title": "PES 2018: Pro Evolution Soccer",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "16E63D47",
+            "title": "PES 2018: Pro Evolution Soccer",
+            "edition": "Original",
+            "region": "Brazil"
+        },
+        {
+            "media_id": "72143E43",
+            "title": "PES 2018: Pro Evolution Soccer",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a3007d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a3007d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a3007d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a3007d3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a3007d3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a3007d3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a3007d3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a3007d3/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": "415688F4",
+    "title": {
+        "full": "Cabelas DH 2013 Demo",
+        "reduced": "Cabelas DH 2013 Demo"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Cauldron",
+    "publisher": "Activision",
+    "release_date": "2012-12-19",
+    "user_rating": "3.00",
+    "description": {
+        "full": "In Cabela's Dangerous Hunts 2013 you get Deadlier Predators, Deadlier Hunts:  Smarter and Deadlier Predators: - The new Prowler animal AI engine simulates pack social hierarchies, coordinates complex group tactics and takes advantage of the surroundings to set up deadly ambushes.  New Maneater Co-op Mode: - Two players can join together to take on wave after wave of increasingly deadly beasts in the all-new split screen Maneater mode.  Master Your Fear: - Armed with the new Top Shot Fearmaster controller, control your heart rate to increase your accuracy, deal more damage, or slow down time to line up the perfect kill shot.  Can you hold your own against the most vicious beasts the animal kingdom has to offer?  Find out in Cabela’s Dangerous Hunts 2013!",
+        "short": "In Cabela's Dangerous Hunts 2013 you get Deadlier Predators, Deadlier Hunts.  Can you hold your own against the most vicious beasts the animal kingdom has to offer?  Find out in Cabela’s Dangerous Hunts 2013!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415688f4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415688f4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415688f4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415688f4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415688f4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415688f4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415688f4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415688f4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415688f4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415688f4/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "415608DB",
+                "title": "Cabela's Dangerous Hunts 2013"
+            }
+        ],
+        "related": []
+    }
+}

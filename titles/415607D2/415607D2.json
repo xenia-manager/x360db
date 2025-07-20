@@ -1,0 +1,56 @@
+{
+    "id": "415607D2",
+    "title": {
+        "full": "QUAKE 4",
+        "reduced": "QUAKE 4"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "id Software",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2012-06-19",
+    "user_rating": "3.75",
+    "description": {
+        "full": "In a desperate war for Earth’s survival, against an unrelenting alien enemy, the only way to defeat them is to become one of them. Armed with advanced weaponry and vehicles and aided by an elite squad of marines, you take the battle to the heart of the Strogg home planet and become Earth’s only hope for victory.",
+        "short": "In a desperate war for Earth’s survival against an unrelenting alien enemy, the only way to defeat them is to become one of them."
+    },
+    "media": [
+        {
+            "media_id": "4C27792A",
+            "title": "Quake 4",
+            "edition": "Rerelease",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "769DD767",
+            "title": "Quake 4",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "51EB8DB8",
+            "title": "Quake 4 (Bonus Disc)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d2/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

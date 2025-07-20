@@ -1,0 +1,35 @@
+{
+    "id": "465687EA",
+    "title": {
+        "full": "Bullet Soul Demo",
+        "reduced": "Bullet Soul Demo"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "株式会社5pb.",
+    "publisher": "株式会社5pb.",
+    "release_date": "2011-04-13",
+    "user_rating": null,
+    "description": {
+        "full": "Please download this content",
+        "short": "Please download this content"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687ea/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687ea/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687ea/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687ea/1041/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "465607F7",
+                "title": "Bullet Soul"
+            }
+        ],
+        "related": []
+    }
+}

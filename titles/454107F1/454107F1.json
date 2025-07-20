@@ -1,0 +1,59 @@
+{
+    "id": "454107F1",
+    "title": {
+        "full": "NBA LIVE 07",
+        "reduced": "NBA LIVE 07"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts Canada",
+    "publisher": "Electronic Arts",
+    "release_date": "2008-01-01",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Game modes include Play Now, Season, All-Star Weekend and the Dynasty Mode™",
+        "short": "Game modes include Play Now, Season, All-Star Weekend and the Dynasty Mode™"
+    },
+    "media": [
+        {
+            "media_id": "52CA38DA",
+            "title": "NBA Live 07",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "1933A131",
+            "title": "NBA Live 07",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "03908045",
+            "title": "NBA Live 07",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f1/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f1/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

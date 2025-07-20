@@ -1,0 +1,35 @@
+{
+    "id": "585507BA",
+    "title": {
+        "full": "Ninja360",
+        "reduced": "Ninja360"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "DoeraiGames",
+    "publisher": "DoeraiGames",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Long ago, The 84-year-old ninja stealth \"Gigi\"is a friend of the people as ordered by the generals, Broke into the house and fraud Akudaikan took the gold coin acquired by evil, Sprinkle rose went to the task of the masses. Well, that'll do! Listen, the trap-loaded mechanism. Gigi will be able to do the missions? Now, go!",
+        "short": "Long ago, The 84-year-old ninja stealth \"Gigi\"is a friend of the people as ordered by the generals, Broke into the house and fraud Akudaikan took the gold coin acquired by evil, Sprinkle rose went to the task of the masses. Well, that'll do! Listen, the trap-loaded mechanism. Gigi will be able to do the missions? Now, go!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585507ba/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585507BA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585507ba/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585507BA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507BA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507BA_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507BA_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

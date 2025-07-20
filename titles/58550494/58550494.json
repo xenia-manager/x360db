@@ -1,0 +1,35 @@
+{
+    "id": "58550494",
+    "title": {
+        "full": "Avalon_Legend",
+        "reduced": "Avalon_Legend"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Kangsanagi",
+    "publisher": "Kangsanagi",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. - “Combine and Control two characters simultaneously in a post-apocalyptic abstraction of the King Arthur Legend with a haunting metaphorical overtone.” -  As Arthur the Exiled in a post-apocalyptic world, harness the powers of 4 different robotic companions, known as the “Knights of the Round” over 2 different modes, in a unique \"Single-Player Co-operative\" experience.",
+        "short": "- “Combine and Control two characters simultaneously in a post-apocalyptic abstraction of the King Arthur Legend with a haunting metaphorical overtone.” -  As Arthur the Exiled in a post-apocalyptic world, harness the powers of 4 different robotic companions, known as the “Knights of the Round” over 2 different modes, in a unique \"Single-Player Co-operative\" experience."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550494/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550494_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550494/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550494_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550494_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550494_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550494_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

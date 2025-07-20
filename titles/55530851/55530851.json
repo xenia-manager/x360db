@@ -1,0 +1,57 @@
+{
+    "id": "55530851",
+    "title": {
+        "full": "Michael Jackson The Experience",
+        "reduced": "Michael Jackson The Experience"
+    },
+    "genre": [
+        "Kinect",
+        "Music",
+        "Strategy & Simulation"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2011-04-12",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Music Downloads Not Rated by the ESRB). The Games on Demand version supports  English, French, Italian, German, Spanish, Polish.  Michael Jackson The Experience is the ultimate dance game the world has been waiting for featuring an innovative, interactive experience for Kinect that enables players to step into the shoes of Michael Jackson and become the star of the show. Here’s your chance to perform some of Michael’s most memorable moves in unique music video inspired-settings. The unparalleled tracklist features many of MJ’s biggest hits including Billie Jean, Beat It, Smooth Criminal and many more. ",
+        "short": "Michael Jackson The Experience is the ultimate dance game featuring an innovative, interactive experience for Kinect that enables players to step into the shoes of Michael Jackson and become the star of the show. Here’s your chance to perform some of Michael’s most memorable moves in unique music video inspired-settings. The unparalleled tracklist features many of MJ’s biggest hits including Billie Jean, Beat It, Smooth Criminal and many more."
+    },
+    "media": [
+        {
+            "media_id": "7E956E6D",
+            "title": "Michael Jackson: The Experience",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "6C4ADF3C",
+            "title": "Michael Jackson: The Experience",
+            "edition": "Original, Limited Edition",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530851/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530851/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530851/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530851/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530851/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530851/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530851/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530851/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530851/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530851/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530851/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530851/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530851/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530851/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530851/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

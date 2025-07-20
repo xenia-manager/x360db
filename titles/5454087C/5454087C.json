@@ -1,0 +1,56 @@
+{
+    "id": "5454087C",
+    "title": {
+        "full": "Borderlands 2",
+        "reduced": "Borderlands 2"
+    },
+    "genre": [
+        "Role Playing",
+        "Shooter"
+    ],
+    "developer": "Gearbox Software",
+    "publisher": "2K Games",
+    "release_date": "2012-09-18",
+    "user_rating": "4.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) The Games on Demand version supports English, French, Italian, German, Spanish, Japanese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". A new era of shoot and loot is about to begin. Play as one of four new vault hunters facing off against a massive new world of creatures, psychos and the evil mastermind, Handsome Jack.  Make new friends, arm them with a bazillion weapons and fight alongside them in 4 player co-op or split-screen on a relentless quest for revenge and redemption across the undiscovered and unpredictable living planet.",
+        "short": "(Online Interactions Not Rated by the ESRB) A new era of shoot and loot is about to begin. Play as one of four new vault hunters facing off against a massive new world of creatures, psychos and the evil mastermind, Handsome Jack.  Make new friends, arm them with a bazillion weapons and fight alongside them in 4 player co-op or split-screen on a relentless quest for revenge and redemption across the undiscovered and unpredictable living planet."
+    },
+    "media": [
+        {
+            "media_id": "00A8D174",
+            "title": "Borderlands 2",
+            "edition": "Original, Game of the Year Edition, Borderlands Triple Pack, 2K Rogues and Outlaws Collection, Borderlands 2 + Dishonored Bundle",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087c/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/5454087c/BL2_360_MANUAL_ENG.pdf"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "494707E2",
+    "title": {
+        "full": "My Horse And Me 2",
+        "reduced": "My Horse And Me 2"
+    },
+    "genre": [
+        "Family",
+        "Sports & Recreation"
+    ],
+    "developer": "TATE INTERACTIVE SP. Z O.O.",
+    "publisher": "Atari",
+    "release_date": "2008-01-01",
+    "user_rating": "2.75",
+    "description": {
+        "full": "Horse riding game",
+        "short": "Horse riding game"
+    },
+    "media": [
+        {
+            "media_id": "34D94361",
+            "title": "My Horse & Me 2",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707e2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707e2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707e2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707e2/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

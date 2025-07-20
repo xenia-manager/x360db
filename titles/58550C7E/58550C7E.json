@@ -1,0 +1,35 @@
+{
+    "id": "58550C7E",
+    "title": {
+        "full": "Tank Attack 2D",
+        "reduced": "Tank Attack 2D"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Giles C",
+    "publisher": "Giles C",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Tank Attack 2D is a top down 2D shooter where the player must drive their tank and kill as many enemy tanks as possible. Take advantage of power ups that spawn such as rapid fire, a four-way laser attack, plasma ball rounds that can bounce of the game boundaries and kill multiple enemies and smart bombs. Watch out for the mega boss tanks!",
+        "short": "Tank Attack 2D is a top down 2D shooter where the player must drive their tank and kill as many enemy tanks as possible. Take advantage of power ups that spawn such as rapid fire, a four-way laser attack, plasma ball rounds that can bounce of the game boundaries and kill multiple enemies and smart bombs. Watch out for the mega boss tanks!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550c7e/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C7E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c7e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C7E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C7E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C7E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C7E_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

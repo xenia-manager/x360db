@@ -1,0 +1,35 @@
+{
+    "id": "58550D6A",
+    "title": {
+        "full": "Gem Chaser II",
+        "reduced": "Gem Chaser II"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "karl90",
+    "publisher": "karl90",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Gem Chaser’s back and his quest for precious gems continues. Collect the coloured gems that match your colour - then change your colour to collect the other., Simple - but amazingly Challenging - Now with Warp tunnels, Gravity  switches and Mirror levels. With 70 new and even more challenging levels to beat.",
+        "short": "Gem Chaser’s back and his quest for precious gems continues. Collect the coloured gems that match your colour - then change your colour to collect the other., Simple - but amazingly Challenging - Now with Warp tunnels, Gravity  switches and Mirror levels. With 70 new and even more challenging levels to beat."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550d6a00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D6A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d6a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D6A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D6A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D6A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D6A_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

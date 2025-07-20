@@ -1,0 +1,35 @@
+{
+    "id": "4541895F",
+    "title": {
+        "full": "Madden NFL 12 Demo",
+        "reduced": "Madden NFL 12 Demo"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Tiburon ",
+    "publisher": "Electronic Arts",
+    "release_date": "2011-08-09",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Madden NFL 12 continues the rich tradition of the storied franchise by bringing fans closer to the NFL than ever before. Featuring all 32 teams, stadiums, and all your favorite players in the league, Madden NFL 12 is True to the Game.",
+        "short": "Madden NFL 12 continues the rich tradition of the storied franchise by bringing fans closer to the NFL than ever before. Featuring all 32 teams, stadiums, and all your favorite players in the league, Madden NFL 12 is True to the Game."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541895f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541895f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541895f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541895f/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "45410937",
+                "title": "Madden NFL 12"
+            }
+        ],
+        "related": []
+    }
+}

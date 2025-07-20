@@ -1,0 +1,35 @@
+{
+    "id": "58550A15",
+    "title": {
+        "full": "North Pole Zombie Massacre",
+        "reduced": "North Pole Zombie Massacre"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Ghere Game Studios",
+    "publisher": "Ghere Game Studios",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=3/3. You are Santa Clause.  Zombies have invaded the North Pole.  The kids are counting on you to gather all of the presents that the zombies have scattered all over the North Pole, and return them to the sleigh.  Only then can you deliver them and save the holidays!  Enjoy endless random levels of holiday cheer.",
+        "short": "You are Santa Clause.  Zombies have invaded the North Pole.  The kids are counting on you to gather all of the presents that the zombies have scattered all over the North Pole, and return them to the sleigh.  Only then can you deliver them and save the holidays!  Enjoy endless random levels of holiday cheer."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550a15/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A15_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a15/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A15_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A15_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A15_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A15_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": "45410962",
+    "title": {
+        "full": "The Sims 3 Pets",
+        "reduced": "The Sims 3 Pets"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Edge of Reality",
+    "publisher": "Electronic Arts",
+    "release_date": "2011-10-18",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Create pets, from loyal dogs to daring kitties and determine their looks and personality traits. Then embark on adventures with your Sims and their pets, like uncovering relics and solving mysteries. With control of your pets, you can enjoy whole new ways to enrich or mess with your Sims’ lives!",
+        "short": "Create pets, from loyal dogs to daring kitties and determine their looks and personality traits. Then embark on adventures with your Sims and their pets, like uncovering relics and solving mysteries. With control of your pets, you can enjoy whole new ways to enrich or mess with your Sims’ lives!"
+    },
+    "media": [
+        {
+            "media_id": "3B64A8BF",
+            "title": "The Sims 3: Pets",
+            "edition": "Original, Limited Edition",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410962/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410962/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410962/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410962/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410962/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410962/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410962/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410962/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410962/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410962/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454108E2",
+                "title": "The Sims 3"
+            }
+        ],
+        "related": []
+    }
+}

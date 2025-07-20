@@ -1,0 +1,41 @@
+{
+    "id": "494F07E8",
+    "title": {
+        "full": "National Geographic Challenge",
+        "reduced": "National Geographic Challenge"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Gusto Games",
+    "publisher": "Ignition Games",
+    "release_date": "2011-10-25",
+    "user_rating": null,
+    "description": {
+        "full": "Satisfy your curiosity and uncover the secrets of the most mysterious places on the planet. National Geographic Challenge! encourages you to explore the planet through its history and geography, providing a journey through the ages and an inside look at the extraordinary extent of mankind’s achievements. Players exploring the world will appreciate approximately 60 minutes of HD video and high quality images straight from National Geographic’s award-winning photographers and video crews.  Play single or multiplayer (up to four players) in the quest to claim territories on the in-game globe by answering questions correctly while using various tactics to foil opponents. With over 4,000 questions, there’s a lot to compete over. And if that’s not enough, you can challenge on through several puzzle games, like Puzzle Battle, Jigsaw Puzzles and Squares. Additionally, use of your own avatar is supported.  National Geographic Challenge! is fun for the whole family - in English, French and Spanish! ",
+        "short": "National Geographic Challenge! encourages you to explore the planet through its history and geography, providing a journey through the ages and an inside look at the extraordinary extent of mankind’s achievements. "
+    },
+    "media": [
+        {
+            "media_id": "6C7AEB10",
+            "title": "National Geographic: Challenge!",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f07e8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f07e8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f07e8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f07e8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f07e8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f07e8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494f07e8/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

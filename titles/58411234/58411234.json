@@ -1,0 +1,38 @@
+{
+    "id": "58411234",
+    "title": {
+        "full": "SINE MORA",
+        "reduced": "SINE MORA"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Digital Reality & Grasshopper Manufacture",
+    "publisher": "Nordic Games",
+    "release_date": "2012-03-21",
+    "user_rating": "3.75",
+    "description": {
+        "full": "SINE MORA is a horizontal shoot'em up that provides a unique take on challenge, where time is the ultimate factor. Mixing classic shooter sensibilities with contemporary presentation, SINE MORA is a gorgeous shmup that offers a Story Mode that weaves an over-the-top tale and an Arcade Mode that provides deep, satisfying gameplay to challenge fans of the genre. With many ways to manipulate time, SINE MORA features over 60 weapon combinations to complete each beatifully-crafted stage that form fits to the player's skills with scaling difficulty. Soundtrack composed by Akira Yamaoka and featuring boss designs by Mahiro Maeda.",
+        "short": "SINE MORA is a horizontal shoot'em up that provides a unique take on challenge, where time is the ultimate factor. Mixing classic shooter sensibilities with contemporary presentation, SINE MORA is a gorgeous shmup that offers a Story Mode that weaves an over-the-top tale and an Arcade Mode that provides deep, satisfying gameplay to challenge fans of the genre."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411234/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411234/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411234/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411234/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411234/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411234/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411234/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411234/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411234/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411234/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

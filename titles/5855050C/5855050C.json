@@ -1,0 +1,35 @@
+{
+    "id": "5855050C",
+    "title": {
+        "full": "Doppelganger",
+        "reduced": "Doppelganger"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "PumpkinGames",
+    "publisher": "PumpkinGames",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Doppelganger is an adrenaline filled 2d side scrolling shooter.  Save the astronauts from the evil alien invaders!  Play 2 worlds simultaneously in a test of dexterity and courage!!!",
+        "short": "Doppelganger is an adrenaline filled 2d side scrolling shooter.  Save the astronauts from the evil alien invaders!  Play 2 worlds simultaneously in a test of dexterity and courage!!!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855050c00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855050C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855050c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855050C_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855050C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855050C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855050C_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

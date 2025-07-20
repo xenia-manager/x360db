@@ -1,0 +1,69 @@
+{
+    "id": "454108C0",
+    "title": {
+        "full": "Dragon Age Origins",
+        "reduced": "Dragon Age Origins"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "BioWare",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-08-10",
+    "user_rating": "4.50",
+    "description": {
+        "full": "From the makers of Mass Effect comes the dark fantasy epic: You are a Grey Warden, one of the last of a legendary order of guardians. With the return of mankind's ancient foe and the kingdom engulfed in civil war, you have been chosen by fate to unite the shattered lands and slay the archdemon once and for all. (1) Immerse yourself in a shattered world on the brink of annihilation; (2) Experience complex moral decisions that have game-changing consequences; (3) Sculpt your hero in your own image or fantasy; (4) Engage in bone-crushing, visceral combat against massive and terrifying creatures",
+        "short": "From the makers of Mass Effect comes the dark fantasy epic: You are a Grey Warden, one of the last of a legendary order of guardians. With the return of mankind's ancient foe and the kingdom engulfed in civil war, you have been chosen by fate to unite the shattered lands and slay the archdemon once and for all. (1) Immerse yourself in a shattered world on the brink of annihilation; (2) Experience complex moral decisions that have game-changing consequences; (3) Sculpt your hero in your own imag…"
+    },
+    "media": [
+        {
+            "media_id": "26111665",
+            "title": "Dragon Age: Nachalo",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "57EF80D8",
+            "title": "Dragon Age: Origins",
+            "edition": "Original, Ultimate Edition (Disc 1)",
+            "region": "Germany"
+        },
+        {
+            "media_id": "186A1115",
+            "title": "Dragon Age: Origins",
+            "edition": "Original, Ultimate Edition (Disc 1)",
+            "region": "World"
+        },
+        {
+            "media_id": "2E6F7560",
+            "title": "Dragon Age: Origins: Awakening",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c0/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c0/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c0/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c0/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c0/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c0/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c0/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/454108c0/25f24f1c-a487-465b-a578-a7c9afdfc877.PDF"
+        ]
+    }
+}

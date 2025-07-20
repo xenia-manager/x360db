@@ -1,0 +1,45 @@
+{
+    "id": "545108AE",
+    "title": {
+        "full": "Jeopardy",
+        "reduced": "Jeopardy"
+    },
+    "genre": [
+        "Family",
+        "Puzzle & Trivia"
+    ],
+    "developer": "Pipeworks",
+    "publisher": "THQ Inc.",
+    "release_date": "2012-10-16",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  (Online Interactions Not Rated by the ESRB) Join Alex Trebeck and play as a contestant on “America’s Favorite Quiz Show!®” Test your trivia knowledge to make it to Final Jeopardy and the coveted Winner’s Circle!",
+        "short": "Join Alex Trebeck and play as a contestant on “America’s Favorite Quiz Show!®” Test your trivia knowledge to make it to Final Jeopardy and the coveted Winner’s Circle!"
+    },
+    "media": [
+        {
+            "media_id": "31F82B05",
+            "title": "Jeopardy!",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108ae/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108ae/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108ae/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108ae/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108ae/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108ae/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108ae/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108ae/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/545108ae/Jeopardy%20on%20Demand%20Manual.pdf.pdf"
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "id": "454109F8",
+    "title": {
+        "full": "FIFA 18",
+        "reduced": "FIFA 18"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "release_date": "2017-09-29",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Get FIFA 18 now! Featuring the latest kits, clubs, and player squads from top leagues around the world.  Conditions and restrictions apply.  See https://www.easports.com/fifa/game-and-offer-disclaimers for details.",
+        "short": "FIFA 18 launches with the latest kits, clubs, and player squads from top leagues around the world."
+    },
+    "media": [
+        {
+            "media_id": "61BABFDD",
+            "title": "FIFA 18",
+            "edition": "Original",
+            "region": "Brazil"
+        },
+        {
+            "media_id": "46F7EA3B",
+            "title": "FIFA 18: Legacy Edition",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "5B8AFB9F",
+            "title": "FIFA 18: Legacy Edition",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "34DBA6A8",
+            "title": "FIFA 18: Legacy Edition",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f8/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

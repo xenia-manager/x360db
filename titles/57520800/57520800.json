@@ -1,0 +1,56 @@
+{
+    "id": "57520800",
+    "title": {
+        "full": "FEAR 3",
+        "reduced": "FEAR 3"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Day 1 Studios",
+    "publisher": "WB Games Inc.",
+    "release_date": "2011-05-24",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Alma is expecting and a new level of terror grows as you and your cannibal brother battle through a hellish nightmare.  Fight together or die alone on a deadly mission to confront Alma and discover if blood runs deeper than F.E.A.R.  Players can take on the role of Point Man, a genetically enhanced soldier with superhuman reflexes and the ability to manipulate time, or the undead spirit of his brother Paxton Fettel, a paranormal entity who possesses incredible psychic powers.",
+        "short": "Alma is expecting and a new level of terror grows as you and your cannibal brother battle through a hellish nightmare.  Fight together or die alone on a deadly mission to confront Alma and discover if blood runs deeper than F.E.A.R."
+    },
+    "media": [
+        {
+            "media_id": "33B7133F",
+            "title": "F.E.A.R. 3",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "63EBCF64",
+            "title": "F.E.A.R. 3",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "7ADE697D",
+            "title": "F.E.A.R. 3",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520800/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520800/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520800/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520800/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520800/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520800/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520800/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520800/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520800/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520800/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

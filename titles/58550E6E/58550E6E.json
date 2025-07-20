@@ -1,0 +1,32 @@
+{
+    "id": "58550E6E",
+    "title": {
+        "full": "Controller Buster",
+        "reduced": "Controller Buster"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Wintergolem",
+    "publisher": "Wintergolem",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Race against the clock or your friend to get the highest score you can. How well do you know your controller?",
+        "short": "Race against the clock or your friend to get the highest score you can. How well do you know your controller?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550e6e/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E6E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e6e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E6E_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

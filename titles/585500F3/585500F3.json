@@ -1,0 +1,35 @@
+{
+    "id": "585500F3",
+    "title": {
+        "full": "Culture",
+        "reduced": "Culture"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "XNA Prod 001",
+    "publisher": "XNA Prod 001",
+    "release_date": null,
+    "user_rating": null,
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Thwart off evil weeds as they dry to suck the last bit of water from your planet, paint by numbers to reveal hidden treasures and use logic and a careful eye to create new and undiscovered species of flowers.",
+        "short": "Thwart off evil weeds as they dry to suck the last bit of water from your planet, paint by numbers to reveal hidden treasures and use logic and a careful eye to create new and undiscovered species of flowers."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585500f3/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585500F3_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585500f3/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585500F3_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585500F3_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585500F3_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585500F3_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

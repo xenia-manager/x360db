@@ -1,0 +1,35 @@
+{
+    "id": "58550A7B",
+    "title": {
+        "full": "Space Pirates Adventures",
+        "reduced": "Space Pirates Adventures"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Team Shuriken",
+    "publisher": "Team Shuriken",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=2/3, Mature Content=3/3. Can you save the space pirates from doom in this funny comic book adventure ?",
+        "short": "Can you save the space pirates from doom in this funny comic book adventure ?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550a7b00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A7B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a7b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A7B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A7B_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A7B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A7B_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

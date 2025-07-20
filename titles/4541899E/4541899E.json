@@ -1,0 +1,35 @@
+{
+    "id": "4541899E",
+    "title": {
+        "full": "NHL 13 Downloadable Demo",
+        "reduced": "NHL 13 Downloadable Demo"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA SPORTS™ ",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2012-08-21",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Featuring the biggest innovation for the franchise in six years, NHL®13 accurately captures the speed, creativity, and strategy of today’s NHL with revolutionary True Performance Skating. Sync up with friends with the real-world of hockey in GM Connected, the first-ever online multiplayer dynasty mode with cooperative and Online Team Play, or relive the greatest moments from today’s NHL in NHL Moments Live. With core gameplay innovation, connected experiences, and the deepest feature set ever, NHL®13 is the definitive hockey experience. ",
+        "short": "Featuring the biggest innovation for the franchise in six years, NHL®13 accurately captures the speed, creativity, and strategy of today’s NHL with revolutionary True Performance Skating."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541899e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541899e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541899e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541899e/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4541099B",
+                "title": "NHL®13"
+            }
+        ],
+        "related": []
+    }
+}

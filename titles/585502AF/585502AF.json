@@ -1,0 +1,34 @@
+{
+    "id": "585502AF",
+    "title": {
+        "full": "Goldens",
+        "reduced": "Goldens"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Mark Westbrook",
+    "publisher": "Mark Westbrook",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Goldens is a match based game whereby up to four players may compete to extract the precious goldens from the volatile mines which erupt from the ground. The object of the game is to have the greatest amount of goldens at the end of a match.",
+        "short": "Goldens is a match based game whereby up to four players may compete to extract the precious goldens from the volatile mines which erupt from the ground. The object of the game is to have the greatest amount of goldens at the end of a match."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585502af00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585502AF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585502af/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585502AF_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585502AF_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585502AF_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

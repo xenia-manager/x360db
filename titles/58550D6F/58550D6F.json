@@ -1,0 +1,35 @@
+{
+    "id": "58550D6F",
+    "title": {
+        "full": "Action Arcade Wrestling 2",
+        "reduced": "Action Arcade Wrestling 2"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Action937",
+    "publisher": "Action937",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=0/3. The sequel to the best-selling XBLI game, AAW2 is a 2.5D retro arcade game. Hundreds of moves, multiple match types, create wrestlers & arenas, up to 10 wrestlers in the ring at once, classic control scheme and so much more.",
+        "short": "The sequel to the best-selling XBLI game, AAW2 is a 2.5D retro arcade game. Hundreds of moves, multiple match types, create wrestlers & arenas, up to 10 wrestlers in the ring at once, classic control scheme and so much more."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550d6f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D6F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d6f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D6F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D6F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D6F_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D6F_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550EAF",
+    "title": {
+        "full": "Crocs World 2",
+        "reduced": "Crocs World 2"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Sprakelsoft",
+    "publisher": "Sprakelsoft",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. \"Croc´s World 2\" is a really nice jump'n'run with 60 incredible levels and many challenging enemies! It features: + 60 incredible levels + Nice HD-graphics + 4 different themes + many challenging enemies + 4 Endbosses Instructions: Jump and run through the levels and dodge all enemies. Collect a helmet to crush stoneblocks. Collect the stonebag to throw stones. 100 diamonds: Extra life!",
+        "short": "\"Croc´s World 2\" is a really nice jump'n'run with 60 incredible levels and many challenging enemies! It features: + 60 incredible levels + Nice HD-graphics + 4 different themes + many challenging enemies + 4 Endbosses Instructions: Jump and run through the levels and dodge all enemies. Collect a helmet to crush stoneblocks. Collect the stonebag to throw stones. 100 diamonds: Extra life!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550eaf00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550EAF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550eaf/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550EAF_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EAF_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EAF_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EAF_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

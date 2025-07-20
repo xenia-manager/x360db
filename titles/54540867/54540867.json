@@ -1,0 +1,64 @@
+{
+    "id": "54540867",
+    "title": {
+        "full": "BioShock 2",
+        "reduced": "BioShock 2"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "2K Marin",
+    "publisher": "2K Games",
+    "release_date": "2010-04-22",
+    "user_rating": null,
+    "description": {
+        "full": "The Games on Demand version supports English and Japanese. In BioShock 2, you step into the boots of the most iconic denizen of Rapture, the Big Daddy, as you explore through the decrepit and beautiful fallen city, chasing an unseen foe in search of answers and your own survival.   The deep multiplayer mode is set during the fall of Rapture, where you assume the role of a combat test subject. The full depth of the BioShock experience is refined and transformed into a unique multiplayer experience that can only be found in Rapture.",
+        "short": " In BioShock 2, you step into the boots of the most iconic denizen of Rapture, the Big Daddy, as you explore through the decrepit and beautiful fallen city, chasing an unseen foe in search of answers and your own survival.   The deep multiplayer mode is set during the fall of Rapture, where you assume the role of a combat test subject. The full depth of the BioShock experience is refined and transformed into a unique multiplayer experience that can only be found in Rapture."
+    },
+    "media": [
+        {
+            "media_id": "7D478618",
+            "title": "BioShock 2",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540867/1041/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "54540861",
+                "title": "BioShock 2"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": "504707D6",
+    "title": {
+        "full": "PopCap Arcade",
+        "reduced": "PopCap Arcade"
+    },
+    "genre": [
+        "Family"
+    ],
+    "developer": "PopCap Games",
+    "publisher": "PopCap Games",
+    "release_date": "2010-05-27",
+    "user_rating": null,
+    "description": {
+        "full": "Get seven best-selling hits for one amazing price in PopCap™ Arcade! You get the gem-swapping Bejeweled® 2, the arcade brick-blaster AstroPop™, the underwater action of Feeding Frenzy™, and the ball-shooting marble-matching insanity of Zuma™. Enjoy the ball-bouncing, peg busting phenomenon Peggle, the underwater action of Feeding Frenzy 2, and the shoot-em-up arcade fun of Heavy Weapon in one fantastic collection.",
+        "short": "Get seven best-selling hits for one amazing price in PopCap™ Arcade! You get the gem-swapping Bejeweled® 2, the arcade brick-blaster AstroPop™, the underwater action of Feeding Frenzy™, and the ball-shooting marble-matching insanity of Zuma™. Enjoy the ball-bouncing, peg busting phenomenon Peggle, the underwater action of Feeding Frenzy 2, and the shoot-em-up arcade fun of Heavy Weapon in one fantastic collection."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d6/1041/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

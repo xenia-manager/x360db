@@ -1,0 +1,35 @@
+{
+    "id": "454189CE",
+    "title": {
+        "full": "EA SPORTS FIFA 14 Kiosk Demo",
+        "reduced": "EA SPORTS FIFA 14 Kiosk Demo"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2013-09-10",
+    "user_rating": null,
+    "description": {
+        "full": "Feel the emotion of scoring great goals in FIFA 14. The game plays the way great soccer matches are contested, with innovations to the award-winning gameplay that inspire fans to build play through midfield, dictating the tempo of a match. Feel the tension as chances are created, and experience the thrill of hitting the back of the net. A new feature called Pure Shot and a brand-new ball physics system will transform shooting, making every shot attempt feel real, and when players connect with the perfect strike, feel exhilarating. FIFA 14 delivers engaging online features and live services that connect fans to the heartbeat of the sport—and to each other—through EA SPORTS Football Club. FIFA 14 is football's social network, where fans connect, compete and share with millions of others around the world.",
+        "short": "Feel the emotion of scoring great goals in FIFA 14. The game plays the way great soccer matches are contested, with innovations to the award-winning gameplay that inspire fans to build  play through midfield, dictating the tempo of a match."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189ce/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189ce/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189ce/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189ce/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454109C3",
+                "title": "FIFA 14"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "id": "434D0819",
+    "title": {
+        "full": "DiRT 2",
+        "reduced": "DiRT 2"
+    },
+    "genre": [
+        "Racing & Flying",
+        "Sports & Recreation",
+        "Strategy & Simulation"
+    ],
+    "developer": "Codemasters Software Company Limited",
+    "publisher": "Codemasters Software Company Limited",
+    "release_date": "2009-09-08",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  (Online Interactions Not Rated by the ESRB) Codemasters' Racing Studio brings you DiRT 2: off-road racing, now with attitude. DiRT 2 combines the excitement and aggression of off-road racing with the style and flair of extreme sports. Tour the world, racing against real-life off-road superstars in eight varied disciplines on tracks ranging from Malaysian jungle sprints to roaring stadium runs in L.A.  Head online for completely customisable 8-player racing across all the game's tracks and race types.",
+        "short": "Codemasters' Racing Studio brings you DiRT 2: off-road racing, now with attitude. DiRT 2 combines the excitement and aggression of off-road racing with the style and flair of extreme sports. Tour the world, racing against real-life off-road superstars in eight varied disciplines on tracks ranging from Malaysian jungle sprints to roaring stadium runs in L.A.  Head online for completely customisable 8-player racing across all the game's tracks and race types."
+    },
+    "media": [
+        {
+            "media_id": "2B669ED7",
+            "title": "DiRT 2",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "623EE41A",
+            "title": "DiRT 2",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/7177/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/7177/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/7177/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/7177/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/7177/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/7177/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/7177/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/7177/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0819/7177/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

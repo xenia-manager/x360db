@@ -1,0 +1,35 @@
+{
+    "id": "5855086D",
+    "title": {
+        "full": "Dragon Forge",
+        "reduced": "Dragon Forge"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Fun Factory Entertainment",
+    "publisher": "Fun Factory Entertainment",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Unleash the deadly force of the dragon! Fight archers with bow and arrow, and mages with powerful magic! Earn upgrades and bring entire castles crashing to the ground! With awesome 3D, Hi-Def graphics, and killer goth-rock soundtrack. Dare you unleash the dragon!",
+        "short": "Unleash the deadly force of the dragon! Fight archers with bow and arrow, and mages with powerful magic! Earn upgrades and bring entire castles crashing to the ground! With awesome 3D, Hi-Def graphics, and killer goth-rock soundtrack. Dare you unleash the dragon!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855086d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855086D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855086d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855086D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855086D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855086D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855086D_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

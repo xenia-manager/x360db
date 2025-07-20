@@ -1,0 +1,35 @@
+{
+    "id": "5855019D",
+    "title": {
+        "full": "Trajectory",
+        "reduced": "Trajectory"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Lauriewsmith",
+    "publisher": "Lauriewsmith",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Fast paced, turn based Strategy game. Defeat your opponent using skill and judgement. Play across 20 unique, colourful levels. Fire bombs at your opponent controling it's trajectory by altering its angle and velocity, taking into account windspeed, wind direction and terrain. Play against a friend or take on Mattlekims A.I. for a real challenge!",
+        "short": "Fast paced, turn based Strategy game. Defeat your opponent using skill and judgement. Play across 20 unique, colourful levels. Fire bombs at your opponent controling it's trajectory by altering its angle and velocity, taking into account windspeed, wind direction and terrain. Play against a friend or take on Mattlekims A.I. for a real challenge!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855019d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855019D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855019d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855019D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855019D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855019D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855019D_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

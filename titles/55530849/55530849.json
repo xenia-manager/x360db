@@ -1,0 +1,44 @@
+{
+    "id": "55530849",
+    "title": {
+        "full": "CSI Fatal Conspiracy",
+        "reduced": "CSI Fatal Conspiracy"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Other"
+    ],
+    "developer": "Telltale Games",
+    "publisher": "Ubisoft",
+    "release_date": "2010-10-28",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   For the first time in the CSI game series, team up with the cast of CSI: Crime Scene InvestigationTM not only to solve some of the most gruesome crimes of Sin City, but also to take down a dangerous drug cartel. Unveil clues in 5 connected cases to bring a powerful drug lord to justice in the most strategic and unpredictable CSI game yet!  Key Features  TAKE DOWN THE QUEEN…  Partner with FBI agent Gene Huntby in 5 connected cases.   UNVEIL A CONSPIRACY…  Be prepared to work with your CSI partners, including the returning Sara Sidle, to solve murder cases and uncover the Fatal Conspiracy behind the crimes you investigate.   FEEL CHILLS RUN DOWN YOUR SPINE…  While exploring crime scenes, analyzing unusual evidence, or following the twists of the story.   PERFORM THE TASKS OF A CSI DETECTIVE…     Collect evidence at the crime scene     Interview a variety of witnesses and suspects     Analyze the evidence with the latest technology",
+        "short": "For the first time in the CSI game series, team up with the cast of CSI: Crime Scene InvestigationTM not only to solve some of the most gruesome crimes of Sin City, but also to take down a dangerous drug cartel. Unveil clues in 5 connected cases to bring a powerful drug lord to justice in the most strategic and unpredictable CSI game yet!  Key Features  TAKE DOWN THE QUEEN…  Partner with FBI agent Gene Huntby in 5 connected cases.   UNVEIL A CONSPIRACY…  Be prepar…"
+    },
+    "media": [
+        {
+            "media_id": "0A5F677C",
+            "title": "CSI: Crime Scene Investigation: Fatal Conspiracy",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530849/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530849/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530849/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530849/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530849/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530849/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530849/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530849/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530849/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

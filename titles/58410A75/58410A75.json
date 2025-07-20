@@ -1,0 +1,44 @@
+{
+    "id": "58410A75",
+    "title": {
+        "full": "Rotastic",
+        "reduced": "Rotastic"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family",
+        "Platformer"
+    ],
+    "developer": "Dancing Dots",
+    "publisher": "Focus Entertainment",
+    "release_date": "2011-09-21",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Rotastic is an addictive 2D arcade game, offering accessible, innovative and original gameplay, as well as a huge dose of fun, without taking itself too seriously. Behind very simple swinging mechanics hides a deep gameplay with numerous possibilities to challenge your reflexes, ingenuity, and skills! Collect items, escape deadly traps, send your opponents flying to their doom, smash bricks, execute aerial acrobatics, burst chickens to dust and feathers, or top the fastest speedruns!  The solo campaign spreading across 7 worlds and nearly 70 levels offers hours of fun, with a wide range of gameplay to value replayability! Pit your skills against your friends and the players from around the world by beating the best scores for every one of each level!  Rotastic offers local battle mode, for up to 4 players to either race for item collecting, or tried-and-true deathmatch. Multiplayer is intense and full of fun! ",
+        "short": "Rotastic is an addictive 2D-arcade game, offering innovative & original gaming experience, and a huge dose of fun! Behind very simple swinging mechanics hides a deep gameplay with numerous possibilities to challenge your reflexes, ingenuity, and skills!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a75/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a75/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a75/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a75/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a75/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a75/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a75/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a75/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a75/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a75/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a75/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a75/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a75/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a75/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a75/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

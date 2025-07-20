@@ -1,0 +1,46 @@
+{
+    "id": "44500801",
+    "title": {
+        "full": "Madagascar 3 The Video Game",
+        "reduced": "Madagascar 3 The Video Game"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Vicious Cycle Software, Inc.",
+    "publisher": "D3Publisher of America, Inc. ",
+    "release_date": "2012-06-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". In Madagascar 3: The Video Game, players of all ages will get to experience the adventures of Alex the Lion, Marty the Zebra, Gloria the Hippo, Melman the Giraffe and all of their friends as they try to find their way home through the perfect cover: a traveling circus. Travel across Europe and promote the circus by completing zany missions and putting on an amazing mini-game based show to take the gang back to the states! ",
+        "short": "In Madagascar 3: The Video Game, players of all ages will get to experience the adventures of Alex the Lion, Marty the Zebra, Gloria the Hippo, Melman the Giraffe and all of their friends as they try to find their way home through the perfect cover: a traveling circus. Travel across Europe and promote the circus by completing zany missions and putting on an amazing mini-game based show to take the gang back to the states! "
+    },
+    "media": [
+        {
+            "media_id": "1457EFAA",
+            "title": "DreamWorks Madagascar 3: The Video Game",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500801/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500801/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500801/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500801/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500801/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500801/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500801/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500801/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500801/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500801/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/44500801/mad_360_MNL_BDY_online_mech_r1_X1A.pdf"
+        ]
+    }
+}

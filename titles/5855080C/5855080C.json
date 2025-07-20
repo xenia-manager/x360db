@@ -1,0 +1,35 @@
+{
+    "id": "5855080C",
+    "title": {
+        "full": "Conquest of the planet earth",
+        "reduced": "Conquest of the planet earth"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Diego Salazar",
+    "publisher": "Diego Salazar",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=2/3. This is a game in 3D.   Where strange creatures want to eliminate the whole humanity.  You must defend at any expense.  Good luck...",
+        "short": "This is a game in 3D.   Where strange creatures want to eliminate the whole humanity.  You must defend at any expense.  Good luck..."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855080c/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855080C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855080c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855080C_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855080C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855080C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855080C_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

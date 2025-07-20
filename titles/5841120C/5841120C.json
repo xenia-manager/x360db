@@ -1,0 +1,38 @@
+{
+    "id": "5841120C",
+    "title": {
+        "full": "Shank2",
+        "reduced": "Shank2"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting"
+    ],
+    "developer": "KLEI",
+    "publisher": "Klei Entertainment",
+    "release_date": "2012-02-21",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The fan-favorite 2D brawler is back in action with Shank™2. Shank is forced on the offensive wielding his trusty arsenal of weapons and combo moves to protect those close to him. Shank™2 raises the bar from the original, creating an amazing comic book visual style and combat system which redefines the 2D side-scrolling brawler. ",
+        "short": "The ex-mob hitman is back in action with Shank™2. With the updated arsenal of weapons and combat system, Shank™2 raises the bar from its original. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841120c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841120c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841120c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841120c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841120c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841120c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841120c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841120c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841120c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841120c/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

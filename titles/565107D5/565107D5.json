@@ -1,0 +1,42 @@
+{
+    "id": "565107D5",
+    "title": {
+        "full": "SBK Superbike World Championship",
+        "reduced": "SBK"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Milestone srl",
+    "publisher": "Maximum Family Games",
+    "release_date": "2012-05-29",
+    "user_rating": "0.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) SBK delivers the most intense two-wheeled racing action in the world. Manage your own team, define bike settings, personalize events and tracks, and prove yourself worthy of competing in the ultimate Superbike World Championship!",
+        "short": "79 riders and 9 prestigious brands of motorbike. Over 50 worldwide races. Compete on the most dangerous tracks ever designed."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d5/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4C5307E5",
+                "title": "SBK Superbike World Championship"
+            }
+        ],
+        "related": []
+    }
+}

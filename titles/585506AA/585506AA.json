@@ -1,0 +1,35 @@
+{
+    "id": "585506AA",
+    "title": {
+        "full": "Oh Noes1",
+        "reduced": "Oh Noes1"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "ExecutiveIguanaStudios",
+    "publisher": "ExecutiveIguanaStudios",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=0/3. Oh Noes!!1 a giant chicken with laser eyes is stomping down upon helpless humanity. Who will save them... certainly not you, you control the chicken. Play this Ultra-Realistic-Laser-Eyed-Chicken Simulation now and stomp down upon humanity like it so richly deserves. Please not this game is EXCESSIVELY VIOLENT and EXCESSIVELY GORY... Oh Wellz...",
+        "short": "Oh Noes!!1 a giant chicken with laser eyes is stomping down upon helpless humanity. Who will save them... certainly not you, you control the chicken. Play this Ultra-Realistic-Laser-Eyed-Chicken Simulation now and stomp down upon humanity like it so richly deserves. Please not this game is EXCESSIVELY VIOLENT and EXCESSIVELY GORY... Oh Wellz..."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585506aa/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506AA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506aa/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506AA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506AA_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506AA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506AA_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

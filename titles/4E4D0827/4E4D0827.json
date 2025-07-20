@@ -1,0 +1,67 @@
+{
+    "id": "4E4D0827",
+    "title": {
+        "full": "Body and Brain Connection",
+        "reduced": "Body and Brain Connection"
+    },
+    "genre": [
+        "Educational",
+        "Family",
+        "Kinect",
+        "Puzzle & Trivia"
+    ],
+    "developer": "BANDAI NAMCO Entertainment Inc.",
+    "publisher": "Namco Bandai Games America, Inc.",
+    "release_date": "2010-09-18",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Korean, Chinese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor.  Introducing a new way to work your brain by using your body!  Recent studies have shown that moving your body works your brain, more than regular brain exercises alone! The collection of exercises found in this game have all been supervised and approved by the renowned Dr. Kawashima, and require simple movements so that everyone can participate!  Have friends and family watch, laugh, and join in on the fun to have a blast during your training!",
+        "short": "Introducing a new way to work your brain by using your body!"
+    },
+    "media": [
+        {
+            "media_id": "0D111AFC",
+            "title": "Body and Brain Connection",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "654E8F62",
+            "title": "Tohoku Daigaku Kawashima Ryuta Kyouju Kanshuu Shidou: Karada de Kotaeru Atarashii Noutore",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0827/1033/screenlg18.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4e4d0827/BodyandBrainConnection_manual_EN_2.pdf"
+        ]
+    }
+}

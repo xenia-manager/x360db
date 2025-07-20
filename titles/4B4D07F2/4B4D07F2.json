@@ -1,0 +1,45 @@
+{
+    "id": "4B4D07F2",
+    "title": {
+        "full": "Dead Island Riptide",
+        "reduced": "Dead Island Riptide"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Techland",
+    "publisher": "Deep Silver",
+    "release_date": "2799-12-30",
+    "user_rating": "4.75",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish, Polish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Dead Island Riptide takes players to the island of Palanai on the Banoi archipelago, infested with bloodthirsty Zombies and only a few remaining Survivors still fighting for their lives.  Introducing new terrifying enemies, deadly weapons, a new playable character and much more, Dead Island Riptide will draw players back into a world that has grown corrupt - with the last rays of hope vanishing in rising tides.",
+        "short": "They thought they had escaped Banoi, but can't wake up from this nightmare. Thrown back into the midst of the Zombie outbreak, the fight for survival continues! "
+    },
+    "media": [
+        {
+            "media_id": "2C62B3EF",
+            "title": "Dead Island: Riptide",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07f2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07f2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07f2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07f2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07f2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07f2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07f2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07f2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07f2/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4b4d07f2/X360%20DI%20Riptide%20Manual%20UK%20+%20INT%20NEU.pdf"
+        ]
+    }
+}

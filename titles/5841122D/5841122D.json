@@ -1,0 +1,36 @@
+{
+    "id": "5841122D",
+    "title": {
+        "full": "Rock Band Blitz",
+        "reduced": "Rock Band Blitz"
+    },
+    "genre": [
+        "Music",
+        "Strategy & Simulation"
+    ],
+    "developer": "Harmonix",
+    "publisher": "Harmonix",
+    "release_date": "2012-08-29",
+    "user_rating": "3.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  Rock Band Blitz brings the excitement of a full band into your hands, transforming classic Rock Band gameplay into an addictive single player controller-based experience – no instruments needed! Compete with your friends on over 20 amazing new tracks, which are also instantly playable in Rock Band 3. Or add your own favorite music: Rock Band Blitz is compatible with the 3,500+ songs in the Rock Band library. With an endless combination of power-ups, instrument multipliers and more, Rock Band Blitz makes every song a replayable rock explosion!  Not compatible with instrument controllers/Rock Band Pro upgrades. Online Interactions and Music Downloads Not Rated by the ESRB.",
+        "short": "(Online Interactions Not Rated by the ESRB)  Rock Band Blitz brings the excitement of a full band into your hands, transforming classic Rock Band gameplay into an addictive, single player controller-based experience! Compete with friends on 20+ new tracks, also instantly playable in Rock Band 3.  Rock Band Blitz is compatible with 3,500+ songs in the Rock Band library. Not compatible with instrument controllers/Rock Band Pro upgrades. Online Interactions/Music Downloads Not Rated by ESRB."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122d/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

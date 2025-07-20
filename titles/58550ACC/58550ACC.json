@@ -1,0 +1,35 @@
+{
+    "id": "58550ACC",
+    "title": {
+        "full": "The Hearts of Men ToD",
+        "reduced": "The Hearts of Men ToD"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "COLTRAN Studios",
+    "publisher": "COLTRAN Studios",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=1/3. Experience the final chapter of \"The Hearts of Men: Throne of Deceit\". Featuring all new gameplay ranging from upgradeable weapons, armor and magic, to an all new control scheme, new AI and pathfinding, new game modes including multiplayer, and a 28 full page comic for story mode, the final release is a great time for any gamer.",
+        "short": "Experience the final chapter of \"The Hearts of Men: Throne of Deceit\". Featuring all new gameplay ranging from upgradeable weapons, armor and magic, to an all new control scheme, new AI and pathfinding, new game modes including multiplayer, and a 28 full page comic for story mode, the final release is a great time for any gamer."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550acc00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550ACC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550acc/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550ACC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550ACC_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550ACC_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550ACC_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

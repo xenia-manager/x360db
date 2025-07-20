@@ -1,0 +1,53 @@
+{
+    "id": "515507D2",
+    "title": {
+        "full": "GINGA FORCE",
+        "reduced": "GINGA FORCE"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Qute Corporation",
+    "publisher": "Qute Corporation",
+    "release_date": "2013-02-14",
+    "user_rating": "0.00",
+    "description": {
+        "full": "The Games on Demand version supports Japanese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  遠い未来、人類が７番目に開拓を始めた惑星“セブンティア”を巡る、大スペクタクルの縦スクロールシューティング。「ギンガフォース」は、魅力溢れるキャラクターと3Dグラフィックスで、シューティングファンのみならず、幅広いプレーヤーに新たな体験をお届けします。 縦スクロールシューティングでありながらも、１回のプレイで終わらせない、継続的なプレイを実現。新機軸のシューティングをお楽しみください。",
+        "short": "遠い未来、人類が７番目に開拓を始めた惑星“セブンティア”を巡る、大スペクタクルの縦スクロールシューティング。「ギンガフォース」は、魅力溢れるキャラクターと3Dグラフィックスで、シューティングファンのみならず、幅広いプレーヤーに新たな体験をお届けします。"
+    },
+    "media": [
+        {
+            "media_id": "534D6FCB",
+            "title": "Ginga Force",
+            "edition": "Original, Wonder Price Edition",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d2/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

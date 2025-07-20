@@ -1,0 +1,34 @@
+{
+    "id": "5855036A",
+    "title": {
+        "full": "Flytrap",
+        "reduced": "Flytrap"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "kiwasabi",
+    "publisher": "kiwasabi",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Flytrap is an arcade-style game where you control an anthropomorphic venus flytrap as it defends baby Flytraps from attacking enemies. Since you're a venus flytrap, you not only need to stop enemies in their tracks with a squirt gun, but also swallow them down with your inhale attack.",
+        "short": "Flytrap is an arcade-style game where you control an anthropomorphic venus flytrap as it defends baby Flytraps from attacking enemies. Since you're a venus flytrap, you not only need to stop enemies in their tracks with a squirt gun, but also swallow them down with your inhale attack."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855036a/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855036A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855036a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855036A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855036A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855036A_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

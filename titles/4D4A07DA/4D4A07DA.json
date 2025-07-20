@@ -1,0 +1,53 @@
+{
+    "id": "4D4A07DA",
+    "title": {
+        "full": "Zumba Fitness",
+        "reduced": "Zumba Fitness"
+    },
+    "genre": [
+        "Kinect",
+        "Music",
+        "Sports & Recreation"
+    ],
+    "developer": "Pipeworks",
+    "publisher": "Majesco Entertainment",
+    "release_date": "2010-11-26",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Join the party with Zumba Fitness®, a one-of-a-kind, dance fitness workout set to sexy, high-energy Latin and international music!  Find your rhythm and let go as Zumba instructor fan favorites Gina Grant, Tanya Beardsley and Zumba’s creator Beto guide you through 30 routines that will work you into a sweat and make you forget you’re even exercising. Featuring exclusive music and choreography, Zumba Fitness® for Kinect lets you see yourself on screen and naturally dance controller-free in an ultra fun interactive fitness party that’s focused on the joy of movement!  Note: An important Zumba Fitness Title Update is now available to enhance the Kinect gameplay experience. Please visit www.zumbafitnessgame.com/titleupdate for additional information.   ",
+        "short": "Get hooked on an exhilarating Dance-Fitness Party!"
+    },
+    "media": [
+        {
+            "media_id": "774923EB",
+            "title": "Zumba Fitness",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "02B67C8C",
+            "title": "Zumba Fitness",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

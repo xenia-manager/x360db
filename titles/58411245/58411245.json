@@ -1,0 +1,39 @@
+{
+    "id": "58411245",
+    "title": {
+        "full": "JAM Live Music Arcade",
+        "reduced": "Jam Live Music Arcade"
+    },
+    "genre": [
+        "Music",
+        "Puzzle & Trivia"
+    ],
+    "developer": "Frima Studio",
+    "publisher": "505 Games",
+    "release_date": "2012-03-28",
+    "user_rating": "3.25",
+    "description": {
+        "full": "(Music Downloads Not Rated by the ESRB).  JAM Live Music Arcade is a robust musical experience of creative freedom. Through your guitar peripheral or controller, take control of all aspects of a song: guitar, bass, drums, vocals, synth and more. Featuring music from Modest Mouse, Fallout Boy, Atmosphere and much more, JAM has over 30 tracks from Rock, Pop, Hip Hop and techno. Be the DJ, producer and band leader in the live music sandbox or take on the arcade challenge.",
+        "short": "JAM Live Music Arcade is a robust musical experience of creative freedom. Through your guitar peripheral or controller, take control of all aspects of a song: guitar, bass, drums, vocals, synth and more. Featuring music from Modest Mouse, Fallout Boy, Atmosphere and much more, JAM has over 30 tracks from Rock, Pop, Hip Hop and techno. Be the DJ, producer and band leader in the live music sandbox or take on the arcade challenge."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411245/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411245/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411245/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411245/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411245/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411245/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411245/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411245/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411245/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411245/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411245/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

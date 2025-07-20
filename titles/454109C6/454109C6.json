@@ -1,0 +1,42 @@
+{
+    "id": "454109C6",
+    "title": {
+        "full": "Need for Speed Rivals",
+        "reduced": "Need for Speed Rivals"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Ghost Games",
+    "publisher": "Electronic Arts",
+    "release_date": "2013-11-19",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Dutch, Polish, Portuguese, Russian, Japanese, and Chinese.  Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  Welcome to Redview County, where a street-racing rivalry between cops and racers never stops as both sides compete in an all-out war featuring the fastest cars, mods and technology in a gritty open road environment.  Play as either a cop or racer, where each side of the law has its own set of high stakes challenges, rewards and consequences. Risk everything in the ultimate high stakes rivalry. ",
+        "short": "Welcome to Redview County, a gritty open road environment where the intensity of the street's ultimate rivalry between cops and racers never stops "
+    },
+    "media": [
+        {
+            "media_id": "603CD4F9",
+            "title": "Need for Speed: Rivals",
+            "edition": "Original, Complete Edition",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c6/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

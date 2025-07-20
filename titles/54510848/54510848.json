@@ -1,0 +1,49 @@
+{
+    "id": "54510848",
+    "title": {
+        "full": "Cars Race-O-Rama",
+        "reduced": "Cars Race-O-Rama"
+    },
+    "genre": [
+        "Family",
+        "Racing & Flying"
+    ],
+    "developer": null,
+    "publisher": "Disney Interactive Studios",
+    "release_date": "2009-10-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Radiator Springs Speedway sure is one glorious site!  Doc is proud of what the good people of Radiator Springs have built here.  And now, it is passed along to the students!  Learn as much as you can from the greats and discover new cities along the way!  Get ready, because your training will gear you up to compete against the toughest racers.  And if you're good enough, you'll be able to compete in the Race-O-Rama Championship!",
+        "short": "Radiator Springs Speedway sure is one glorious site!  Doc is proud of what the good people of Radiator Springs have built here.  And now, it is passed along to the students!  Learn as much as you can from the greats and discover new cities along the way!  Get ready, because your training will gear you up to compete against the toughest racers.  And if you're good enough, you'll be able to compete in the Race-O-Rama Championship!"
+    },
+    "media": [
+        {
+            "media_id": "1B33EA2B",
+            "title": "Disney/Pixar Cars: Race-O-Rama",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510848/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510848/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510848/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510848/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510848/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510848/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510848/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510848/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510848/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510848/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510848/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510848/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/54510848/CarsRaceORama_Manual_EN_Revised.pdf"
+        ]
+    }
+}

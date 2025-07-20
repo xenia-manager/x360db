@@ -1,0 +1,31 @@
+{
+    "id": "42560837",
+    "title": {
+        "full": "Star Wars Battlefront II",
+        "reduced": "Star Wars Battlefront II"
+    },
+    "genre": [
+        "Classics",
+        "Shooter"
+    ],
+    "developer": "Pandemic Studios",
+    "publisher": "LucasArts",
+    "release_date": "2018-04-26",
+    "user_rating": null,
+    "description": {
+        "full": "Fight on the front lines where every weapon and vehicle is yours.  And now for the first time, Star Wars Battlefront II lets you...  Fight as a Jedi - Earn the ability to wield a lightsaber and use Force powers like Yoda, Darth Vader and many other Heroes and Villains.  Battle in Space - Dogfight in X-wings, TIE fighters, Jedi Starfighters and other classic starships, or land your ship on a Star Destroyer and fight it out on foot aboard enemy ships.  Play 16 New Locations - Battle across Star Wars: Episode III environments such as Utapau, Mustafar and the epic space battle above Coruscant.  Engage in Massive Online Battles",
+        "short": "Fight MORE of the greatest Star Wars battles any way you want"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560837/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560837/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560837/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560837/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

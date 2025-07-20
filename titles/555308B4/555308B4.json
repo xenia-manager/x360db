@@ -1,0 +1,48 @@
+{
+    "id": "555308B4",
+    "title": {
+        "full": "Hip-Hop Dance Experience",
+        "reduced": "Hip-Hop Dance Experience"
+    },
+    "genre": [
+        "Kinect"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2013-05-14",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor.  Master over 700 iconic hip hop dance moves from 40 chart-topping hip hop songs, in 6 exciting venues. Grab a friend and challenge each other to a dance. Battle or play cooperatively in 4 different game modes. Finally, a dance game dedicated just to hip hop!",
+        "short": "Master over 700 iconic hip hop dance moves from 40 chart-topping hip hop songs, in 6 exciting venues. Grab a friend and challenge each other to a dance. Battle or play cooperatively in 4 different game modes. Finally, a dance game dedicated just to hip hop!"
+    },
+    "media": [
+        {
+            "media_id": "0CC856D5",
+            "title": "The Hip Hop Dance Experience",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b4/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/555308b4/7/PPS_HIP_HOP_XBOX_360_KINECT_MANUAL_ENG_UK_HR_room22_SPOT.pdf"
+        ]
+    }
+}

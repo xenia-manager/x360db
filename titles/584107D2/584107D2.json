@@ -1,0 +1,39 @@
+{
+    "id": "584107D2",
+    "title": {
+        "full": "Bejeweled 2",
+        "reduced": "Bejeweled 2"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "CTXM",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-01-06",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Single Player, HD (High Definition) Rediscover the puzzle phenomenon that conquered the ‘Net--right here on your Xbox 360 console. Set against a backdrop of striking planetary vistas, this sequel offers more than just colorful jewel swapping… Match four of a kind to earn an explosive Power Gem. Five in a row gets you a Hyper Cube, a special piece that clears all gems of a single color. And don’t forget Time Bombs and a brand-new Endless mode. Discover secret game modes, get hints when you want them, and enjoy mesmerizing music and special effects. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Rediscover the puzzle phenomenon that conquered the ‘Net--right here on your Xbox 360 console. Set against a backdrop of striking planetary vistas, this sequel offers more than just colorful jewel swapping… Match four of a kind to earn an explosive Power"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d2/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d2/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "id": "4541099D",
+    "title": {
+        "full": "Dead Space 3",
+        "reduced": "Dead Space 3"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Kinect"
+    ],
+    "developer": "Visceral",
+    "publisher": "Electronic Arts",
+    "release_date": "2013-02-06",
+    "user_rating": "4.75",
+    "description": {
+        "full": "Dead Space 3 brings Isaac Clarke and merciless soldier John Carver on a journey across space to discover the source of the Necromorph outbreak. Crash-landed on the frozen planet of Tau Volantis, Isaac must comb the harsh environment for raw materials and scavenged parts. He will then put his engineering skills to the ultimate test to create and customize weapons and survival tools. The ice planet holds the key to ending the Necromorph plague, but first Isaac must overcome avalanches, treacherous ice-climbs, and the violent wilderness. Facing evolved enemies and the brutal elements, Isaac can choose to team up, not only for his own survival, but for that of mankind’s. Play together with a friend or alone as Isaac Clarke using the seamless drop in, drop out co-op functionality.  Amplify the action with Kinect and add voice to your arsenal in single player or co-op.  • Play the full campaign in online co-op or single player  • Create custom weapons • Add voice to the action with Kinect",
+        "short": "Dead Space 3 brings Isaac Clarke and merciless soldier John Carver on a journey across space to discover the source of the Necromorph plague and uncover the secrets that lay within Tau Volantis.  Play alone as Isaac Clarke or with a friend as John Carver in seamless drop in, drop out co-op feature. Amplify the action with Kinect and add voice to your arsenal in single player or co-op."
+    },
+    "media": [
+        {
+            "media_id": "4DC6CE0C",
+            "title": "Dead Space 3 (Disc 1)",
+            "edition": "Original, Limited Edition",
+            "region": "Russia"
+        },
+        {
+            "media_id": "0992A619",
+            "title": "Dead Space 3 (Disc 1)",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "7139B889",
+            "title": "Dead Space 3 (Disc 1)",
+            "edition": "Limited Edition",
+            "region": "USA"
+        },
+        {
+            "media_id": "0CC756B7",
+            "title": "Dead Space 3 (Disc 1)",
+            "edition": "Limited Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "6EC17F0B",
+            "title": "Dead Space 3 (Disc 2)",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "30402A21",
+            "title": "Dead Space 3 (Disc 2)",
+            "edition": "Limited Edition",
+            "region": "USA"
+        },
+        {
+            "media_id": "246437A9",
+            "title": "Dead Space 3 (Disc 2)",
+            "edition": "Limited Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "40E3318A",
+            "title": "Dead Space 3 (Disc 2)",
+            "edition": "Original, Limited Edition",
+            "region": "Russia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099d/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

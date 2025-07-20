@@ -1,0 +1,34 @@
+{
+    "id": "5848081F",
+    "title": {
+        "full": "Junk Fu",
+        "reduced": "Junk Fu"
+    },
+    "genre": [
+        "Kinect"
+    ],
+    "developer": "Wahoo Studios",
+    "publisher": "Microsoft Studios",
+    "release_date": "2012-01-30",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Can you master Junk Fu? Or will Junk Fu master you? Chop, kick, and smash junk as it flies off a junkyard conveyor belt. Turn junk into junk food by cranking up your calorie burn! The more you move, the more you burn. The more you burn, the more goodies you earn!  ",
+        "short": "Can you master Junk Fu? Or will Junk Fu master you? Chop, kick, and smash junk as it flies off a junkyard conveyor belt. Turn junk into junk food by cranking up your calorie burn! The more you move, the more you burn. The more you burn, the more goodies you earn!  "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081f/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

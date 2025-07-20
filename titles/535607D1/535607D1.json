@@ -1,0 +1,48 @@
+{
+    "id": "535607D1",
+    "title": {
+        "full": "Great Battles Medieval",
+        "reduced": "Great Battles Medieval"
+    },
+    "genre": [
+        "Other",
+        "Strategy & Simulation"
+    ],
+    "developer": "Slitherine Software",
+    "publisher": "Slitherine Software",
+    "release_date": "2010-04-29",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  ‘These are my battlefields. And I will fight for my men, for my king and for my country’  This is the Hundred Years War. Each man must stand tall. Each man’s mettle will be tested. But amongst all men there are leaders, there are those who will not be cowed. Can you be that leader? In this epic strategy RPG you will lead your army through the greatest of medieval wars and make history live again.  Features:  • Free form quest map that allows players to decide when and where to fight within a historical framework. • More than 20 different units all accurately researched and carefully modeled in amazing detail. • Almost infinite number of equipment combinations. • Specialise your squads with over 100 unique skills. • Play as the English under the Black Prince or the French under Joan of Arc. • Innovative Battle Card system that gives bonuses and penalties in battle. • The most detailed and realistic medieval combat model ever created. • Story movies created from hundreds of hours of the TV channel HISTORY™ library combined with in game engine footage.",
+        "short": "‘These are my battlefields. And I will fight for my men, for my king and for my country’  This is the Hundred Years War. Each man must stand tall. Each man’s mettle will be tested. But amongst all men there are leaders, there are those who will not be cowed. Can you be that leader? In this epic strategy RPG you will lead your army through the greatest of medieval wars and make history live again.  Features:  • Free form quest map that allows players to decide when and where to fight within…"
+    },
+    "media": [
+        {
+            "media_id": "1A32CB6E",
+            "title": "History: Great Battles Medieval",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535607d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535607d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535607d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535607d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535607d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535607d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535607d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535607d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535607d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535607d1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535607d1/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/535607d1/0/GBM_MAN_ENG_(XBOX_LIVE).pdf"
+        ]
+    }
+}

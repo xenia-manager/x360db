@@ -1,0 +1,35 @@
+{
+    "id": "58550905",
+    "title": {
+        "full": "Turtle Casino",
+        "reduced": "Turtle Casino"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "X25 Entertainment",
+    "publisher": "X25 Entertainment",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=3/3. Your Avatar never thought that Blackjack could change his/her life, but now... your Avatar is a Turtle. Help him/her through 40 challenging levels to recover his/her Avatar form (alone or with a friend). Play Blackjack, Roulette and live the most amazing story ever about a casino. Welcome to Turtle Casino!",
+        "short": "Your Avatar never thought that Blackjack could change his/her life, but now... your Avatar is a Turtle. Help him/her through 40 challenging levels to recover his/her Avatar form (alone or with a friend). Play Blackjack, Roulette and live the most amazing story ever about a casino. Welcome to Turtle Casino!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855090500000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550905_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550905/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550905_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550905_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550905_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550905_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

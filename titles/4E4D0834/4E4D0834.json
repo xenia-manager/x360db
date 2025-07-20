@@ -1,0 +1,48 @@
+{
+    "id": "4E4D0834",
+    "title": {
+        "full": "Dynasty Warriors Gundam 3",
+        "reduced": "DW Gundam 3"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "TECMO KOEI GAMES CO., LTD.",
+    "publisher": "NAMCO BANDAI Games America Inc.",
+    "release_date": "2011-05-24",
+    "user_rating": "4.25",
+    "description": {
+        "full": " Experience the giant war machines known as Gundam in this all-new thrasher melee! Firepower! – Choose from over 120 Characters & Mobile Suits from the Gundam universe Multiple Mission Types – Relive historic battles, unlock & collect rare mobile suits & piloting skills Story Mode – Back by fan demand, the popular mode returns with an entirely new campaign New Battle Features – Summon others for help during battle, flash all-new counter strikes & recover health in the heat of intense fighting  Online Co-Op Play – Join forces with friends & complete 15 specially designed co-op play missions New Graphics – Even more realistic & true-to-anime graphics with all new cel-shaded animation                                   ",
+        "short": "Experience the giant war machines known as Gundam in this all-new thrasher melee! Firepower! – Choose from over 120 Characters & Mobile Suits  Multiple Mission Types – Relive historic battles, unlock & collect rare mobile suits New Battle Features – Flash all-new counter strikes & recover health in the heat of intense fighting  Online Co-Op Play – Join forces with friends & complete 15 specially designed co-op missions New Graphics – True-to-anime graphics with all new cel-shaded animation"
+    },
+    "media": [
+        {
+            "media_id": "5C2DB686",
+            "title": "Dynasty Warriors: Gundam 3",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "65C052DE",
+            "title": "Gundam Musou 3",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0834/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0834/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0834/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0834/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0834/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0834/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0834/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0834/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

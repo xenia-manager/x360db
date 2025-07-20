@@ -1,0 +1,41 @@
+{
+    "id": "394807D1",
+    "title": {
+        "full": "Clan of Champions",
+        "reduced": "Clan of Champions"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "ACQUIRE Corp.",
+    "publisher": "NIS America, Inc.",
+    "release_date": "2012-04-24",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Enter an ancient land ruled by clashing steel, where a warrior’s history is etched in their own blood. Players will begin in a city where they can view their character, adjust various statistics, and choose a mission to play online or offline. Combination skills may be executed in battle depending on how the attack buttons are pressed. Weapons and armor that the enemies drop can be picked up and used by the player. Once victorious, players will get money and may purchase various items. ",
+        "short": "Enter an ancient land ruled by clashing steel, where a warrior’s history is etched in their own blood. Players will begin in a city where they can view their character, adjust various statistics, and choose a mission to play online or offline. Combination skills may be executed in battle depending on how the attack buttons are pressed. Weapons and armor that the enemies drop can be picked up and used by the player. Once victorious, players will get money and may purchase various items. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394807d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394807d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394807d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394807d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394807d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394807d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394807d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394807d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394807d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394807d1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394807d1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394807d1/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394807d1/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

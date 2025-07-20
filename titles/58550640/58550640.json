@@ -1,0 +1,35 @@
+{
+    "id": "58550640",
+    "title": {
+        "full": "VEXIS Buckshot Games",
+        "reduced": "VEXIS Buckshot Games"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Buckshot Games",
+    "publisher": "Buckshot Games",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Vexis is an easy-to-learn puzzle game. All you need to do is move the white block into the black block. Simple, right? Good luck beating all 33 of these levels... you'll need it.",
+        "short": "Vexis is an easy-to-learn puzzle game. All you need to do is move the white block into the black block. Simple, right? Good luck beating all 33 of these levels... you'll need it."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550640/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550640_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550640/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550640_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550640_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550640_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550640_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

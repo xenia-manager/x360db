@@ -1,0 +1,42 @@
+{
+    "id": "58410A39",
+    "title": {
+        "full": "Space Channel 5 Part 2",
+        "reduced": "Space Channel 5 Part 2"
+    },
+    "genre": [
+        "Classics",
+        "Family",
+        "Music"
+    ],
+    "developer": "SEGA",
+    "publisher": "SEGA",
+    "release_date": "2011-02-23",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Hey there, SpaceCats – meet Ulala, the grooviest reporter in the galaxy! She’s got attitude, and she’s got moves. Help her get the scoop on an unidentified Dance Troupe that has captured thousands of people and is forcing them to dance! Will you be able to free the hostages, and uncover who’s behind the kidnappings all while bustin’ some groovy moves to sweet beats? ",
+        "short": "Hey there, SpaceCats – meet Ulala, the grooviest reporter in the galaxy! She’s got attitude, and she’s got moves. Help her get the scoop on an unidentified Dance Troupe that has captured thousands of people and is forcing them to dance! Will you be able to free the hostages, and uncover who’s behind the kidnappings all while bustin’ some groovy moves to sweet beats? "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

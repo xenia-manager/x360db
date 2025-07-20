@@ -1,0 +1,60 @@
+{
+    "id": "4E4D084E",
+    "title": {
+        "full": "Dragon Ball Z for Kinect",
+        "reduced": "DBZ for Kinect"
+    },
+    "genre": [
+        "Fighting",
+        "Independent & Music Videos",
+        "Kinect",
+        "Music and Short Videos",
+        "Xbox 360 Exclusives",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "Spike Chunsoft Co., Ltd.",
+    "publisher": "Namco Bandai Games America, Inc.",
+    "release_date": "2012-09-25",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor.  Get ready to enter the Dragon Ball Z universe in an entirely new way.  Featuring iconic characters, famous attacks and epic battles, Dragon Ball Z® for Kinect™ lets you unleash your inner Super Saiyan – with no controller in the way!  Get closer to authentic Dragon Ball Z battles, famous combos & super attacks with Kinect.  Fans will also be treated to 30 minutes of never before seen footage from Bardock saga and an entirely new character.  Dragon Ball Z for Kinect supports QR code functionality, allowing you to hold up special QR codes to unlock content in the game.",
+        "short": "Get ready to enter the Dragon Ball Z universe in an entirely new way.  Featuring iconic characters, famous attacks and epic battles, Dragon Ball Z® for Kinect™ lets you unleash your inner Super Saiyan – with no controller in the way!"
+    },
+    "media": [
+        {
+            "media_id": "31D7559F",
+            "title": "Dragon Ball Z for Kinect",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "320B3C10",
+            "title": "Dragon Ball Z for Kinect",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084e/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084e/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084e/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084e/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4e4d084e/DBZK_X360_GonD_Manual_EN.pdf"
+        ]
+    }
+}

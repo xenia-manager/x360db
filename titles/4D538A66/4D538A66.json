@@ -1,0 +1,42 @@
+{
+    "id": "4D538A66",
+    "title": {
+        "full": "Fable The Journey Kiosk Demo",
+        "reduced": "Fable The Journey Kiosk Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Kinect"
+    ],
+    "developer": "Lionhead Studios",
+    "publisher": "Microsoft Studios",
+    "release_date": "2012-12-31",
+    "user_rating": null,
+    "description": {
+        "full": "Built from the ground up for Kinect for Xbox 360, Fable: The Journey is a whole new way to experience the deep storyline, heart-pounding action, and picturesque world of Albion that fans have come to know and love in the beloved Fable franchise.  Wield magic as a deadly weapon as you defend yourself and your trusty steed in combat against dangerous enemies, engage in hair-raising chases, solve perplexing puzzles, and interact with humorous characters in this action-packed adventure journey to becoming a hero.",
+        "short": "Built from the ground up for Kinect for Xbox 360, Fable: The Journey is a whole new way to experience the deep storyline, heart-pounding action, and picturesque world of Albion that fans have come to know and love in the beloved Fable franchise."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a66/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a66/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a66/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a66/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a66/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a66/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a66/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a66/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a66/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D530A1A",
+                "title": "Fable: The Journey"
+            }
+        ],
+        "related": []
+    }
+}

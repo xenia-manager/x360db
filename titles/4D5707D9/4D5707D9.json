@@ -1,0 +1,47 @@
+{
+    "id": "4D5707D9",
+    "title": {
+        "full": "Hour of Victory",
+        "reduced": "Hour of Victory"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Nfusion Interactive",
+    "publisher": "Midway Home Entertainment Inc.",
+    "release_date": "2008-01-01",
+    "user_rating": "3.00",
+    "description": {
+        "full": "Hour of Victory™, available exclusively for the Xbox 360, allows you to play a key role in cinematic battles from the European and North African theaters of World War II.  Sneak into enemy territory as a covert operative, storm the gates as a British Commando, or snipe enemy troops from afar as an Army Ranger - each character’s unique attributes will be necessary in order to successfully arrive at the Hour of Victory.",
+        "short": "Hour of Victory™, available exclusively for the Xbox 360, allows you to play a key role in cinematic battles from the European and North African theaters of World War II.  Sneak into enemy territory as a covert operative, storm the gates as a British Commando, or snipe enemy troops from afar as an Army Ranger - each character’s unique attributes will be necessary in order to successfully arrive at the Hour of Victory."
+    },
+    "media": [
+        {
+            "media_id": "5A8BFF60",
+            "title": "Hour of Victory",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d9/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d9/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

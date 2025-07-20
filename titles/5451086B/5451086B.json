@@ -1,0 +1,44 @@
+{
+    "id": "5451086B",
+    "title": {
+        "full": "Deepak Chopras Leela",
+        "reduced": "Deepak Chopras Leela"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Curious Pictures",
+    "publisher": "THQ Inc.",
+    "release_date": "2011-11-08",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, German.  Welcome to Deepak Chopra’s Leela™, a groundbreaking interactive experience that brings focus, energy and balance to everyday life. Leela helps us engage the seven chakras or energy centers within each of us. Explore seven movements in Play Mode using natural body gestures to relax the entire body.  Focus on specific areas of the body in Reflect Mode to unwind and develop a “flow state.” Now for the first time ever, users can actually see and measure their breathing using Kinect technology to enhance meditation.  Users can also create and customize personal “mandalas” – artwork that expresses their unique essence – and view it as a meditation map or share it with friends on Facebook. Rebalance and rejuvenate your inner space through play. ",
+        "short": "Deepak Chopra and THQ take you on an interactive journey of mind and body with The Deepak Chopra Project .  Combining meditation techniques with innovative Kinect technology, this one-of-a-kind experience blends relaxation and physical activity to help bring focus, energy and balance to your life."
+    },
+    "media": [
+        {
+            "media_id": "54311F80",
+            "title": "Deepak Chopra's Leela",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451086b/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451086b/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451086b/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451086b/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451086b/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451086b/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451086b/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451086b/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/5451086b/Leela_Xbox360_EN_Manual_Revised.pdf"
+        ]
+    }
+}

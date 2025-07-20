@@ -1,0 +1,35 @@
+{
+    "id": "5855042E",
+    "title": {
+        "full": "Hard 2 Morrow",
+        "reduced": "Hard 2 Morrow"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Twisted Bytes",
+    "publisher": "Twisted Bytes",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=2/3, Mature Content=2/3. You wake up one day to hear a stranger laughing at you, claiming that his reactor tank is bigger than yours. This cannot be happening! Choose your gladiator and prove your superiority in this hardcore, nonstop straight-in-your-face fast-paced 3D multiplayer action trip! Hard2Morrow comes with never-seen-on-indie cutting-edge graphics and an awesome metal driven soundtrack.",
+        "short": "You wake up one day to hear a stranger laughing at you, claiming that his reactor tank is bigger than yours. This cannot be happening! Choose your gladiator and prove your superiority in this hardcore, nonstop straight-in-your-face fast-paced 3D multiplayer action trip! Hard2Morrow comes with never-seen-on-indie cutting-edge graphics and an awesome metal driven soundtrack."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855042e/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855042E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855042e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855042E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855042E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855042E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855042E_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

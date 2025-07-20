@@ -1,0 +1,43 @@
+{
+    "id": "58410B6D",
+    "title": {
+        "full": "Dungeon Defenders",
+        "reduced": "Dungeon Defenders"
+    },
+    "genre": [
+        "Role Playing",
+        "Strategy & Simulation"
+    ],
+    "developer": "Trendy Entertainment",
+    "publisher": "Reverb Communications Inc",
+    "release_date": "2011-10-19",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  An ancient evil has been unleashed on the land of Etheria and it’s up to you to defend it in this online (and offline) action RPG! Create your own hero from one of four distinct classes to summon towers and traps and fight back hordes of enemies! Customize and level your hero by defeating enemies, looting equipment and upgrading your gear and pets. Take your character through multiple difficulty modes and challenge/survival missions to earn more experience & even better treasure. To top it off, you can do all of this with up to 4 friends on the same console or over Xbox LIVE! With the content of a full retail release and graphics powered by Unreal Engine 3, Dungeon Defenders is one of the true AAA downloadable titles available on Xbox LIVE!",
+        "short": "Dungeon Defenders sets up to four players (online or local/splitscreen) on an epic adventure to protect the Eternia Crystals in a hybrid tower defense action RPG! Create heroes from one of four classes and fight across a full campaign and host of survival and challenge modes to defend your castle from pure, unadulterated evil. Customize and level your hero by defeating enemies, looting equipment and upgrading your gear and pets."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6d/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6d/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6d/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6d/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

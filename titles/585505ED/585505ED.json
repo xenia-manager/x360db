@@ -1,0 +1,35 @@
+{
+    "id": "585505ED",
+    "title": {
+        "full": "Satellite Eagle",
+        "reduced": "Satellite Eagle"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "haoken",
+    "publisher": "haoken",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. You must defeat the enemies with the newest machine RTX-18 Eagle. Can you use the new weapon Satellite well to win?  5 stages.",
+        "short": "You must defeat the enemies with the newest machine RTX-18 Eagle. Can you use the new weapon Satellite well to win?  5 stages."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585505ed00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505ED_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505ed/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505ED_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505ED_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505ED_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505ED_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

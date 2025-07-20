@@ -1,0 +1,78 @@
+{
+    "id": "425307D9",
+    "title": {
+        "full": "Brink",
+        "reduced": "Brink"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Splash Damage",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2011-05-10",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English, French, Spanish.  Brink is an immersive first-person shooter that blends single-player, co-op, and multiplayer gameplay into one seamless experience, allowing you to develop your character whether playing alone, with your friends, or against others online. You decide the combat role you want to assume in the world of Brink as you fight to save yourself and mankind’s last refuge. Brink offers a compelling mix of dynamic battlefields, extensive customization options, and an innovative control system that will keep you coming back for more.",
+        "short": "Brink is an immersive first-person shooter that blends single-player, co-op, and multiplayer gameplay into one seamless experience, allowing you to develop your character whether playing alone, with your friends, or against others online."
+    },
+    "media": [
+        {
+            "media_id": "4EBE72B3",
+            "title": "Brink",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "58F0597D",
+            "title": "Brink",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "7CCD725F",
+            "title": "Brink",
+            "edition": "Original",
+            "region": "Europe, Australia"
+        },
+        {
+            "media_id": "23F1A139",
+            "title": "Brink",
+            "edition": "Original",
+            "region": "Asia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307d9/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/425307d9/Brink_Manual_EN_revised.pdf"
+        ]
+    }
+}

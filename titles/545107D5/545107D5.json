@@ -1,0 +1,54 @@
+{
+    "id": "545107D5",
+    "title": {
+        "full": "Juiced 2 HIN",
+        "reduced": "Juiced 2 HIN"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Juice Games",
+    "publisher": "THQ",
+    "release_date": "2010-08-06",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) This game supports English, French, Italian, German, and Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Get into the drift with Juiced 2: HIN - the only place where superstar DJs, smokin' hot models and totally tuned cars come into close contact. Juice up your ride with complete customization and boost your NOS power as you draft, drift, slide, spook and fight for your rightful place on the racing line. Fast-paced, adrenaline-fuelled, pick-up-and-play action lets you enjoy the pure rush of powersliding your way around the globe. Wow the crowd, keep tabs on your opponents and take the crown as the rightful king of drift! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Get into the drift with Juiced 2: HIN - the only place where superstar DJs, smokin' hot models and totally tuned cars come into close contact. Juice up your ride with complete customization and boost your NOS power as you draft, drift, slide, spook and fight for your rightful place on the racing line. Fast-paced, adrenaline-fuelled, pick-up-and-play action lets you enjoy the pure rush of powersliding your way around the globe. Wow the crowd, keep tabs on your opponents and take the crown as the"
+    },
+    "media": [
+        {
+            "media_id": "31593B00",
+            "title": "Juiced 2: Hot Import Nights",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "0A4632A3",
+            "title": "Juiced 2: Hot Import Nights",
+            "edition": "Original",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d5/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d5/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d5/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d5/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

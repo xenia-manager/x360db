@@ -1,0 +1,35 @@
+{
+    "id": "58550E29",
+    "title": {
+        "full": "Proxy Blade Zero",
+        "reduced": "Proxy Blade Zero"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "D6",
+    "publisher": "D6",
+    "release_date": null,
+    "user_rating": "4.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. Proxy Blade Zero is an intense character-action game. Destroy your enemies with devastating combos. Cheat death by mastering the arts of parrying and dodging. You are Fenrir, an advanced prototype fit for melee space combat. It is a time of crisis: King Anima, the leader of an army of rogue machines, is preparing an attack on human colonies. Stop him before it's too late!",
+        "short": "Proxy Blade Zero is an intense character-action game. Destroy your enemies with devastating combos. Cheat death by mastering the arts of parrying and dodging. You are Fenrir, an advanced prototype fit for melee space combat. It is a time of crisis: King Anima, the leader of an army of rogue machines, is preparing an attack on human colonies. Stop him before it's too late!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550e29/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E29_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e29/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E29_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E29_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E29_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E29_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

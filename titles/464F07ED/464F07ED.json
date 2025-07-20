@@ -1,0 +1,52 @@
+{
+    "id": "464F07ED",
+    "title": {
+        "full": "Rugby World Cup 2011",
+        "reduced": "Rugby World Cup 2011"
+    },
+    "genre": [
+        "Independent & Music Videos",
+        "Music and Short Videos",
+        "Sports",
+        "Sports & Recreation",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "H.B. Studios Multimedia Limited",
+    "publisher": "505 Games",
+    "release_date": "2011-08-26",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian.  The official game of Rugby World Cup 2011.  Be right in the centre of the mud, sweat, tears and passion as you take your team from the qualifiers right the way to the final.  Back your team and fight every inch for the right to proudly lift the Webb Ellis trophy!",
+        "short": "The official game of Rugby World Cup 2011.  Be right in the centre of the mud, sweat, tears and passion as you take your team from the qualifiers right the way to the final.  Back your team and fight every inch for the right to proudly lift the Webb Ellis trophy!"
+    },
+    "media": [
+        {
+            "media_id": "49BB1EA8",
+            "title": "Rugby World Cup 2011",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07ed/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07ed/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07ed/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07ed/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07ed/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07ed/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07ed/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07ed/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07ed/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07ed/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07ed/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07ed/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/464f07ed/RugbyWorldCup_Xbox360_EN_Manual_Revised.pdf"
+        ]
+    }
+}

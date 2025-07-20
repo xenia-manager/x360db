@@ -1,0 +1,36 @@
+{
+    "id": "41560931",
+    "title": {
+        "full": "Call of Duty Modern Warfare Bundle",
+        "reduced": "COD MW Bundle"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Infinity Ward",
+    "publisher": "Activision",
+    "release_date": "2016-06-03",
+    "user_rating": "4.25",
+    "description": {
+        "full": "This Bundle includes all 3 games from the Call of Duty®: Modern Warfare® franchise, as well as their respective first DLC packs.   Call of Duty® 4: Modern Warfare®  is the winner of more than 15 perfect score reviews and more than 50 combined Editor's Choice and Game of the Year awards. Its Variety Map Pack comes with four additional maps: \"Broadcast,\" \"Creek,\" \"Chinatown,\" and \"Killhouse.\"   Call of Duty®: Modern Warfare® 2 picks up immediately following the historic events of its predecessor. Its Stimulus Package includes five maps: \"Crash,\" \"Overgrown,\" \"Bailout,\" \"Salvage,\" and \"Storm.\"   Call of Duty®: Modern Warfare® 3 is the third installment and epic finale of the series. Its DLC Collection 1 includes four Maps: \"Liberation,\" \"Piazza,\" \"Overwatch,\" and \"Black Box\" and two Special Ops Missions: \"Black Ice\" and \"Negotiator.\"   © 2007-2012 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, MODERN WARFARE, and CALL OF DUTY MODERN WARFARE are trademarks of Activision Publishing, Inc.",
+        "short": "This Bundle includes all three games as well as each game's first DLC pack; Call of Duty® 4: Modern Warfare® and the Variety Map Pack, Call of Duty®: Modern Warfare® 2 and the Stimulus Package, Call of Duty®: Modern Warfare® 3 and DLC Collection 1. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560931/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560931/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560931/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560931/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560931/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560931/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560931/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560931/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560931/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

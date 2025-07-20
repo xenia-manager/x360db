@@ -1,0 +1,35 @@
+{
+    "id": "58550916",
+    "title": {
+        "full": "Robot Platformer",
+        "reduced": "Robot Platformer"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "cored.dk",
+    "publisher": "cored.dk",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. If you can crawl, run, jump and flap your arms to hover.  -Use your slingshot and jump on the robots.  -Have a heart if low on energy. -Jump on the clouds, dodge the fire and Get to the exit spirals... then you will conquer all 42 levels, single or co-op play.",
+        "short": "If you can crawl, run, jump and flap your arms to hover.  -Use your slingshot and jump on the robots.  -Have a heart if low on energy. -Jump on the clouds, dodge the fire and Get to the exit spirals... then you will conquer all 42 levels, single or co-op play."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550916/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550916_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550916/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550916_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550916_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550916_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550916_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": "545408B6",
+    "title": {
+        "full": "WWE 2K15",
+        "reduced": "WWE 2K15"
+    },
+    "genre": [
+        "Fighting",
+        "Sports & Recreation"
+    ],
+    "developer": "Yukes Games",
+    "publisher": "2K",
+    "release_date": "2014-10-28",
+    "user_rating": "4.50",
+    "description": {
+        "full": "NOTE: All multiplayer servers for WWE 2K15 will be shutdown as of 5/31/2016. After that time, all game functions requiring online servers will no longer function.  The Games on Demand version supports English, French, Italian, German, Spanish. WWE 2K15 ushers in a new era of WWE video games!  The first wrestling game to be featured on Next-Gen platforms, WWE 2K15 will introduce the most authentic WWE gameplay to date, closer than ever to what fans see on WWE TV.  With a host of gameplay advancements and to-be-announced features, WWE 2K15 will bring the atmosphere of WWE to your home!  For the first time ever, play as the iconic Sting, this year’s pre-order launch exclusive!  Feel every blow, hear every impact.  WWE 2K15. Feel It.",
+        "short": "WWE 2K15 will usher in a new era of WWE video games and deliver the gaming experience that fans have sought for generations! With a focus on core gameplay, visual and audio improvements, and new game modes, WWE 2K15 delivers the most authentic and action-packed WWE video game experience to date."
+    },
+    "media": [
+        {
+            "media_id": "77BB6C49",
+            "title": "WWE 2K15",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b6/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

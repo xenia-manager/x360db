@@ -1,0 +1,40 @@
+{
+    "id": "58410B27",
+    "title": {
+        "full": "Warlords",
+        "reduced": "Warlords"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Griptonite",
+    "publisher": "Atari, Inc.",
+    "release_date": "2010-11-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Show no mercy and take no prisoners as you fight to the death for title of the almighty Warlord.  Defend your castle from mischievous minions and ferocious fireballs in this whimsical reinvention of the beloved classic.  In the ultimate battle of speed, strategy and survival, command your troops with shrewdness and skill to capture control points, collect power-ups and destroy the other warring factions! ",
+        "short": "Show no mercy and take no prisoners as you fight to the death for title of the almighty Warlord. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b27/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b27/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b27/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b27/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b27/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b27/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b27/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b27/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b27/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b27/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b27/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b27/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b27/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

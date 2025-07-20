@@ -1,0 +1,35 @@
+{
+    "id": "58550C4E",
+    "title": {
+        "full": "Space Egypt",
+        "reduced": "Space Egypt"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "We Love Hamsters Software",
+    "publisher": "We Love Hamsters Software",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Return to Mars in command of the Curiosity Rover II in a mission to save NASA. Raid the ancient Martian pyramids to gain treasure to shore up the space program's budget in this classic arcade style game. Features high score saving.",
+        "short": "Return to Mars in command of the Curiosity Rover II in a mission to save NASA. Raid the ancient Martian pyramids to gain treasure to shore up the space program's budget in this classic arcade style game. Features high score saving."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550c4e/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C4E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c4e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C4E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C4E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C4E_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C4E_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

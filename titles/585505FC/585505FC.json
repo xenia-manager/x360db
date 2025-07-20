@@ -1,0 +1,35 @@
+{
+    "id": "585505FC",
+    "title": {
+        "full": "Clover A Curious Tale",
+        "reduced": "Clover A Curious Tale"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Binary Tweed",
+    "publisher": "Binary Tweed",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=3/3. Adventure platform puzzle game reminiscent of Maniac Mansion and Fantastic Dizzy. Following an act of foreign aggression that killed his mother, we join Sam solving puzzles to piece together the truth behind a series of ever-more strange events. Features multiple endings, side quest, piano soundtrack and unlockable art gallery.",
+        "short": "Adventure platform puzzle game reminiscent of Maniac Mansion and Fantastic Dizzy. Following an act of foreign aggression that killed his mother, we join Sam solving puzzles to piece together the truth behind a series of ever-more strange events. Features multiple endings, side quest, piano soundtrack and unlockable art gallery."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585505fc/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505FC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505fc/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505FC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505FC_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505FC_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505FC_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

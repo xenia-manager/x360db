@@ -1,0 +1,46 @@
+{
+    "id": "524C07D1",
+    "title": {
+        "full": "Crash Time",
+        "reduced": "Crash Time"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Synetic",
+    "publisher": "RTL Games",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "Daring stunts, spectacular crashes, thrilling criminal cases: All fans of the racing genre will easily fall in love with “Crash Time”. Various exciting cases await the player as part of the Cobra 11 police force. Solving them requires several diverse missions to be successfully completed: Be it helicopter chases, jumps across moving trains, street races during undercover missions or reconnaissance runs in tanks - top-notch entertainment is guaranteed!  Unpredictable missions free from set tracks and opponents who seek their own escape routes thanks to the new intelligence make the racing both dynamic and authentic, and will not only delight racing aficionados. New extensive scenarios complete with highways, country roads and city streets add to the variety and the gaming fun, and no limits are set to the players' exploration of the environments and their secrets.",
+        "short": "Daring stunts, spectacular crashes, thrilling criminal cases: All fans of the racing genre will easily fall in love with “Crash Time”. Various exciting cases await the player as part of the Cobra 11 police force. Solving them requires several diverse missions to be successfully completed: Be it helicopter chases, jumps across moving trains, street races during undercover missions or reconnaissance runs in tanks - top-notch entertainment is guaranteed!  Unpredictable missions free from set tracks"
+    },
+    "media": [
+        {
+            "media_id": "259245EA",
+            "title": "Cobra 11: Crash Time",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07d1/2057/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07d1/2057/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07d1/2057/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07d1/2057/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07d1/2057/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07d1/2057/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07d1/2057/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07d1/2057/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

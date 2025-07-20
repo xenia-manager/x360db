@@ -1,0 +1,42 @@
+{
+    "id": "465687E4",
+    "title": {
+        "full": "車輪の国向日葵の少女 Demo",
+        "reduced": "車輪の国向日葵の少女 Demo"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": null,
+    "publisher": null,
+    "release_date": "2010-10-18",
+    "user_rating": null,
+    "description": {
+        "full": "「車輪の国、向日葵の少女」の体験版です。 贖罪を問われた男が見た、車輪の国の真実とは……。 重厚な世界観を軽妙なタッチで描いた、感動のヒューマンドラマ。",
+        "short": "「車輪の国、向日葵の少女」の体験版です。 贖罪を問われた男が見た、車輪の国の真実とは……。 重厚な世界観を軽妙なタッチで描いた、感動のヒューマンドラマ。"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687e4/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687e4/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687e4/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687e4/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687e4/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687e4/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687e4/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687e4/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687e4/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687e4/1041/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "465607E1",
+                "title": "車輪の国、向日葵の少女"
+            }
+        ],
+        "related": []
+    }
+}

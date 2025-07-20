@@ -1,0 +1,35 @@
+{
+    "id": "5855045F",
+    "title": {
+        "full": "Ava the Firefly",
+        "reduced": "Ava the Firefly"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "dreamwagon",
+    "publisher": "dreamwagon",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Help Ava rescue the fireflies and bring them back to the light. Share your high score over XBox LIVE with other players. Enjoy four rich scenes and see what level you can reach in this dreamy, neon-glowing chase game. Featuring music by \"The Greatest Funeral Ever.\"",
+        "short": "Help Ava rescue the fireflies and bring them back to the light. Share your high score over XBox LIVE with other players. Enjoy four rich scenes and see what level you can reach in this dreamy, neon-glowing chase game. Featuring music by \"The Greatest Funeral Ever.\""
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855045f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855045F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855045f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855045F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855045F_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855045F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855045F_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

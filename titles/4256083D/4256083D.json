@@ -1,0 +1,38 @@
+{
+    "id": "4256083D",
+    "title": {
+        "full": "Armed and Dangerous",
+        "reduced": "Armed  Dangerous"
+    },
+    "genre": [
+        "Classics",
+        "Shooter"
+    ],
+    "developer": "Planet Moon Studios",
+    "publisher": "LucasArts",
+    "release_date": "2019-06-11",
+    "user_rating": null,
+    "description": {
+        "full": "Meet the Lionhearts, a smack-talking rag-tag band of rebels bound on an impossible quest. They're destined for victory in 12,000 bullets or less. If they can make it through an army of psychotic robots and wall-smashing Goliaths, they just might save the world ... If they don't burn it down first.",
+        "short": "Meet the Lionhearts, a smack-talking rag-tag band of rebels bound on an impossible quest."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

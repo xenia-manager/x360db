@@ -1,0 +1,49 @@
+{
+    "id": "5841122F",
+    "title": {
+        "full": "Darkstalkers Resurrection",
+        "reduced": "Darkstalkers Resurrection"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Iron Galaxy Studios",
+    "publisher": "Capcom",
+    "release_date": "2013-03-13",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Darkstalkers Resurrection updates to two games for the price of one - Night Warriors: Darkstalkers Revenge and Darkstalkers 3. These feature classic gameplay and unique characters as well as a host of new features, including a variety of HD visual modes, online play with 8-player lobbies, YouTube replay sharing, improved challenge modes, dynamic awards, and unlockable extras. Embrace the dark!",
+        "short": "Darkstalkers Resurrection updates to two games for the price of one - Night Warriors: Darkstalkers Revenge and Darkstalkers 3. These feature classic gameplay and unique characters as well as a host of new features, including a variety of HD visual modes, online play with 8-player lobbies, YouTube replay sharing, improved challenge modes, dynamic awards, and unlockable extras. Embrace the dark!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122f/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122f/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122f/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122f/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122f/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122f/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841122f/1033/screenlg14.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4343083A",
+                "title": "Darkstalkers Resurrection"
+            }
+        ],
+        "related": []
+    }
+}

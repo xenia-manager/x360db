@@ -1,0 +1,53 @@
+{
+    "id": "464507DC",
+    "title": {
+        "full": "Farming Simulator",
+        "reduced": "Farming Simulator"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Giants Software",
+    "publisher": "Focus Home Interactive",
+    "release_date": "2013-09-05",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Dutch, Hungarian, Polish, Japanese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Welcome to the largest and most exciting farming simulator ever made! Farming Simulator will challenge you to take on the role of a modern day farmer. Animal husbandry, crops, sales… It's up to you to manage and grow your own farm in two huge environments: typical European and American environments. Progress in your career to complete different missions and control more than a hundred farming vehicles!",
+        "short": "Welcome to the largest and most exciting farming simulator ever made! Farming Simulator will challenge you to take on the role of a modern day farmer. Animal husbandry, crops, sales… It's up to you to manage and grow your own farm in two huge environments: typical European and American environments. Progress in your career to complete different missions and control more than a hundred farming vehicles!"
+    },
+    "media": [
+        {
+            "media_id": "2D336B87",
+            "title": "Farming Simulator",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "374462A6",
+            "title": "Farming Simulator",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dc/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507dc/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/464507dc/FS_manuel_360_US.pdf"
+        ]
+    }
+}

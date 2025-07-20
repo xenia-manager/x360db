@@ -1,0 +1,50 @@
+{
+    "id": "534407FC",
+    "title": {
+        "full": "Way of the Samurai 3",
+        "reduced": "Way of the Samurai 3"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "ACQUIRE Corp.",
+    "publisher": "Spike Co.,Ltd. / Gamebridge Ltd.",
+    "release_date": "2010-05-18",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The consequences of your actions will determine your fate. Choose to fight along side good or evil during the tumultuous time of the Sengoku Era and carve your name into history. Take the role of a samurai and choose your own path, blazing a trail of honor, loyalty and respect, or one of villainy, corruption, murder and greed. Become a hero or become infamous, the choice is yours. With over 15 different endings, every action has a reaction and the following consequences open up new paths to explore. Craft your own unique weapons from over 200 different parts, while discovering new skills and stances. Performing different feats rewards the player with Points and a Title, which in turn will unlock new features within the game. Fight honorably in the way of the samurai, live your life as a bandit or strive to uphold the government. These choices encourage multiple plays to unlock all content. You can further enjoy Way of the Samurai with the download contents available through Xbox LIVE.",
+        "short": "The consequences of your actions will determine your fate. Choose to fight along side good or evil during the tumultuous time of the Sengoku Era and carve your name into history. Take the role of a samurai and choose your own path, blazing a trail of honor, loyalty and respect, or one of villainy, corruption, murder and greed. Become a hero or become infamous, the choice is yours. With over 15 different endings, every action has a reaction and the following consequences open up new paths to exp…"
+    },
+    "media": [
+        {
+            "media_id": "515C059F",
+            "title": "Samurai Dou 3",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "32246623",
+            "title": "Way of the Samurai 3",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407fc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407fc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407fc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407fc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407fc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407fc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407fc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407fc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407fc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407fc/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

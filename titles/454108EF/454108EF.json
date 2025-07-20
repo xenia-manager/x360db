@@ -1,0 +1,57 @@
+{
+    "id": "454108EF",
+    "title": {
+        "full": "Bulletstorm",
+        "reduced": "Bulletstorm"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Epic Games / People Can Fly",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-08-09",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish, Russian, Japanese.  Set in a futuristic utopia, an elite peacekeeping force thwarts the rumblings of civil war. But deception within the ranks has caused two members of the most feared unit, Dead Echo, to strike out on their own.   When their latest space piracy venture heads south, Grayson Hunt and Ishi Sato narrowly survive a crash landing on the abandoned paradise planet of Stygia, now stranded they find themselves surrounded by hordes of mutants and flesh eating gangs. Gray and Ishi survive on two objectives; get off the planet alive and exact revenge on the man who sent them there.  Taking the role of Grayson Hunt, players wield an arsenal of over-the-top combat moves and some of the most uniquely innovative weapons ever seen in a first person shooter that all feed into Bulletstorm’s™ distinct ‘skillshot’ system; a combination that produces unprecedented levels of frantic gameplay. Unleash the Bulletstorm™! ",
+        "short": "Taking the role of Grayson Hunt, players wield an arsenal of over-the-top combat moves and some of the most uniquely innovative weapons ever seen in a first person shooter that all feed into Bulletstorm’s™ distinct ‘skillshot’ system; a combination that produces unprecedented levels of frantic gameplay. Unleash the Bulletstorm™!"
+    },
+    "media": [
+        {
+            "media_id": "642A64F6",
+            "title": "Bulletstorm",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "1D93E609",
+            "title": "Bulletstorm",
+            "edition": "Original, Epic Edition",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "7CA2B242",
+            "title": "Bulletstorm",
+            "edition": "Original",
+            "region": "Germany"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ef/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ef/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ef/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ef/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ef/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ef/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ef/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ef/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ef/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ef/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ef/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

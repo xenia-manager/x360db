@@ -1,0 +1,60 @@
+{
+    "id": "454108C5",
+    "title": {
+        "full": "Brütal Legend",
+        "reduced": "Brütal Legend"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Strategy & Simulation"
+    ],
+    "developer": "Double Fine Productions",
+    "publisher": "Double Fine Productions",
+    "release_date": "2009-12-15",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Brütal Legend is an action game from the mind of Tim Schafer. Eddie Riggs, a roadie chosen by the Rock Gods and played by Jack Black, must battle through a heavy metal fantasy world to save humanity and slay demons — using only a broad axe, his guitar Clementine, and an army of metal heads.",
+        "short": "Brütal Legend is an action game from the mind of Tim Schafer. Eddie Riggs, a roadie chosen by the Rock Gods and played by Jack Black, must battle through a heavy metal fantasy world to save humanity and slay demons — using only a broad axe, his guitar Clementine, and an army of metal heads."
+    },
+    "media": [
+        {
+            "media_id": "30EAF3DF",
+            "title": "Brütal Legend",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "7DD5E14B",
+            "title": "Brütal Legend",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "56164FCD",
+            "title": "Brütal Legend",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c5/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c5/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c5/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

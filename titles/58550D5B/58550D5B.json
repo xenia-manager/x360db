@@ -1,0 +1,35 @@
+{
+    "id": "58550D5B",
+    "title": {
+        "full": "Man I Hate That Indie Game",
+        "reduced": "Man I Hate That Indie Game"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "cupholder",
+    "publisher": "cupholder",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=3/3, Mature Content=3/3. Some cute girls who are interested in indie games are in need of your help! Do you love indie games enough to be useful? Choose your route carefully, and you may end up a winner!",
+        "short": "Some cute girls who are interested in indie games are in need of your help! Do you love indie games enough to be useful? Choose your route carefully, and you may end up a winner!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550d5b00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D5B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d5b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D5B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D5B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D5B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D5B_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "5855012F",
+    "title": {
+        "full": "Melvins Meltdown",
+        "reduced": "Melvins Meltdown"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "ThinkTank_0",
+    "publisher": "ThinkTank_0",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. There's a radiation problem in the lab and you need to clean it up with Melvin's machine! Play in one or two player modes on multiple difficulties in this fast paced match 3 game.",
+        "short": "There's a radiation problem in the lab and you need to clean it up with Melvin's machine! Play in one or two player modes on multiple difficulties in this fast paced match 3 game."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855012f00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855012F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855012f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855012F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855012F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855012F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855012F_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

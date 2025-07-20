@@ -1,0 +1,47 @@
+{
+    "id": "454108B1",
+    "title": {
+        "full": "The Beatles Rock Band",
+        "reduced": "The Beatles Rock Band"
+    },
+    "genre": [
+        "Music",
+        "Strategy & Simulation"
+    ],
+    "developer": "Harmonix Music Systems, Inc.",
+    "publisher": "MTV Games",
+    "release_date": "2009-11-26",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Experience The Beatles™ music and legacy like never before, utilizing the core Rock Band™ game play. Follow the legendary career of The Beatles™ from Liverpool to Shea Stadium to Abbey Road.  Play drums, lead guitar, and bass guitar and sing three-part harmony with up to three microphones.  Feel what it’s like to perform The Beatles’ classic songs, on stage and in the studio.",
+        "short": "Experience The Beatles™ music and legacy like never before, utilizing the core Rock Band™ game play. Follow the legendary career of The Beatles™ from Liverpool to Shea Stadium to Abbey Road.  Play drums, lead guitar, and bass guitar and sing three-part harmony with up to three microphones.  Feel what it’s like to perform The Beatles’ classic songs, on stage and in the studio."
+    },
+    "media": [
+        {
+            "media_id": "40430A45",
+            "title": "The Beatles: Rock Band",
+            "edition": "Original",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b1/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

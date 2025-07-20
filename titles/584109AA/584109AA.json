@@ -1,0 +1,39 @@
+{
+    "id": "584109AA",
+    "title": {
+        "full": "Islands of Wakfu",
+        "reduced": "Islands of Wakfu"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "Ankama play",
+    "publisher": "Microsoft Studios",
+    "release_date": "2011-03-30",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Islands of Wakfu is an action/adventure game set in the universe of the world-famous DOFUS and WAKFU MMORPGs. Gameplay revolves around the complementarity between the two principal characters: Nora, the young Eliatrope, and her brother dragon, Efrim. Nora is a close combat fighter, relying on her fists, feet, combos, and dimensional powers. Efrim is a long-distance shooter who is able to fly. They breathe the Wakfu in and out, bloom Wakfu flowers, and harvest Wakfu honey that can be used to buy upgrades for both characters. Control the third playable character, the Platypus, to pick up items, interact with the environment, and find secret passages. ",
+        "short": "Eons ago the Eliatropes lived in harmony with the flowing Wakfu.  As the cosmic balance shifted their civilization crumbled to dust in a matter of hours.  Fight your way across 14 levels of mayhem and wonder in a challenging action/adventure romp!  Mixing a strong narrative with non-stop action, this desperate race against time features a new form of strategic combat based on the complementarities of the two heroes! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109aa/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109aa/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109aa/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109aa/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109aa/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109aa/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109aa/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109aa/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109aa/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109aa/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109aa/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

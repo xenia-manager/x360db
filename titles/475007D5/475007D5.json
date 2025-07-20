@@ -1,0 +1,58 @@
+{
+    "id": "475007D5",
+    "title": {
+        "full": "Velvet Assassin",
+        "reduced": "Velvet Assassin"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Replay Studios",
+    "publisher": "SouthPeak Games",
+    "release_date": "2009-04-30",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Go deep behind enemy lines as special agent Violette Summers in battle-scarred Europe of World War II. Inspired by the heroic actions of a real-life British MI6 agent, Velvet Assassin delivers a brutally truthful representation of the danger of operating in enemy territory. Multiple missions - some based on real incidents - will test your nerve as you move undercover through authentic locations to carry out assassination, infiltration and sabotage. In a dark and gruesome Europe ravaged by war, stealth and silence are your only friends in a deadly game of cat and mouse.",
+        "short": "Go deep behind enemy lines as special agent Violette Summers in battle-scarred Europe of World War II. Inspired by the heroic actions of a real-life British MI6 agent, Velvet Assassin delivers a brutally truthful representation of the danger of operating in enemy territory. Multiple missions - some based on real incidents - will test your nerve as you move undercover through authentic locations to carry out assassination, infiltration and sabotage. In a dark and gruesome Europe ravaged by war, …"
+    },
+    "media": [
+        {
+            "media_id": "10B41170",
+            "title": "Velvet Assassin",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1041/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1041/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1041/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1041/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1041/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1041/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1041/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1041/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1041/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1041/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1041/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d5/1041/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": "54510899",
+    "title": {
+        "full": "uDraw Studio Instant Artist",
+        "reduced": "uDraw Studio Instant Artist"
+    },
+    "genre": [
+        "Family"
+    ],
+    "developer": "Pipeworks",
+    "publisher": "THQ, Inc.",
+    "release_date": "2011-11-15",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Discover your inner artist and unleash your imagination with this easy-to-use and easy-to-learn art creation experience available only on the uDraw GameTablet™! Join Remmy, the game’s new 3D animated host, on a journey spanning 15 unique art lessons and interactive tutorials on a variety of painting techniques. Be inspired with Art Play, a freestyle mode with a variety of paints, brushes, and animated stamps, then use the GameTablet’s™ hand gesture controls to zoom in on your masterpiece! Continue the drawing fun in Art Camp with activities like dot drawing, coloring book pages, and many more! ",
+        "short": "Discover your inner artist with this easy-to-use art creation experience available only on the uDraw GameTablet™! Join Remmy, the game’s new 3D animated host, on a journey spanning 15 unique art lessons. Be inspired with Art Play, a freestyle mode with a variety of paints, brushes, and animated stamps, then use the GameTablet’s™ hand gesture controls to zoom in on your masterpiece! Continue the fun in Art Camp with activities like dot drawing, coloring book pages, and many more!"
+    },
+    "media": [
+        {
+            "media_id": "396CCB57",
+            "title": "uDraw Studio: Instant Artist",
+            "edition": "Original, Bundled with uDraw GameTablet",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510899/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510899/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510899/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510899/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510899/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510899/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510899/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510899/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

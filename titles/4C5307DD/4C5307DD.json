@@ -1,0 +1,44 @@
+{
+    "id": "4C5307DD",
+    "title": {
+        "full": "WRC FIA WORLD RALLY CHAMPIONSHIP",
+        "reduced": "WRC 2010"
+    },
+    "genre": [
+        "Racing & Flying",
+        "Sports & Recreation"
+    ],
+    "developer": "Milestone",
+    "publisher": "Leader spa",
+    "release_date": "2010-10-08",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish. Fasten your seatbelts and release the power of the hottest rally cars on the planet! With WRC you can finally step into the most spectacular cars from the rally championship and challenge the world’s greatest rally champions. Only WRC FIA World Rally Championship lets you tackle the official 300 horsepower cars and put your off-road driving skills to the test through the 13 circuits of the 2010 season. Hone your driving skills in the Rally Academy, become a legend in the The Road to the WRC mode, and fight for the podium against up to 16 players in online mode. All the classes of the World Rally Championship (JWRC, PWRC, SWRC, and WRC), 78 special stages, over 500 km of roads to race, 18 official car models, 55 events to complete, and 46 authentic rally pilots! This is the world of WRC FIA World Rally Championship!",
+        "short": "The Games on Demand version supports  English, French, Italian, German, Spanish. With WRC you can finally step into the most spectacular cars from the rally championship and challenge the world’s greatest rally champions. Only WRC FIA World Rally Championship lets you tackle the official 300 horsepower cars and put your off-road driving skills to the test through the 13 circuits of the 2010 season."
+    },
+    "media": [
+        {
+            "media_id": "57B0EE35",
+            "title": "WRC: FIA World Rally Championship",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "125636EB",
+            "title": "WRC: FIA World Rally Championship",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307dd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307dd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307dd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307dd/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

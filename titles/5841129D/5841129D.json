@@ -1,0 +1,37 @@
+{
+    "id": "5841129D",
+    "title": {
+        "full": "Fighting Vipers",
+        "reduced": "Fighting Vipers"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "SEGA",
+    "publisher": "SEGA",
+    "release_date": "2012-11-28",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Fight with flair in the return of Fighting Vipers, the classic arcade game from AM2 that was later playable on the Sega Saturn.  Choose one of nine zany characters--including Grace the roller blader and Raxel the metal guitarist-- and break your opponent's costume-based armor to maximize damage.  Take advantage of all-new online modes to battle friends across the world.  Features include:  True to its arcade form with all-new online modes  All 9 original characters, each with their own unique costume and hobby  Enclosed arenas, enabling special wall attacks  Online versus mode for head-to-head matches  Online Room match mode for up to 6 players  ",
+        "short": "Fight with flair in the return of Fighting Vipers, the classic arcade game from AM2 that was later playable on the Sega Saturn.  Choose one of nine zany characters--including Grace the roller blader and Raxel the metal guitarist-- and break your opponent's costume-based armor to maximize damage.  Take advantage of all-new online modes to battle friends across the world. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129d/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

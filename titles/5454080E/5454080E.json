@@ -1,0 +1,64 @@
+{
+    "id": "5454080E",
+    "title": {
+        "full": "BioShock",
+        "reduced": "BioShock"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "2K Boston",
+    "publisher": "2K Games",
+    "release_date": "2010-07-06",
+    "user_rating": "4.50",
+    "description": {
+        "full": "BioShock is the first-person shooter where everything is a weapon. Set in a failed underwater utopia, BioShock gives complete freedom to turn the environment, the enemies, even water and fire into powerful tools against your foes.",
+        "short": "BioShock is the first-person shooter where everything is a weapon. Set in a failed underwater utopia, BioShock gives complete freedom to turn the environment, the enemies, even water and fire into powerful tools against your foes."
+    },
+    "media": [
+        {
+            "media_id": "69DB3D3C",
+            "title": "BioShock",
+            "edition": "Classics, Steelbook",
+            "region": "Germany"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454080e/1031/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "545407D8",
+                "title": "BioShock"
+            }
+        ],
+        "related": []
+    }
+}

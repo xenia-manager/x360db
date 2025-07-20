@@ -1,0 +1,35 @@
+{
+    "id": "5855076D",
+    "title": {
+        "full": "Cosmic Cab",
+        "reduced": "Cosmic Cab"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "SlimPanda",
+    "publisher": "SlimPanda",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. The XBOX Avatars need to get places and you are the only one Dr.Jacque will trust with his ship. Test your flying skills in a series of mind bending gravity scenarios. Venture deep into the core of planets and dodge asteroids as you deliver avatars to their destinations. If you're really good you just might be the first person to beat the last level. We never have.",
+        "short": "The XBOX Avatars need to get places and you are the only one Dr.Jacque will trust with his ship. Test your flying skills in a series of mind bending gravity scenarios. Venture deep into the core of planets and dodge asteroids as you deliver avatars to their destinations. If you're really good you just might be the first person to beat the last level. We never have."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855076d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855076D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855076d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855076D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855076D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855076D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855076D_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

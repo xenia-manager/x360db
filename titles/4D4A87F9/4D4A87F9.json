@@ -1,0 +1,42 @@
+{
+    "id": "4D4A87F9",
+    "title": {
+        "full": "Zumba Fitness World Party",
+        "reduced": "Zumba Fitness World Party"
+    },
+    "genre": [
+        "Kinect",
+        "Other"
+    ],
+    "developer": "Zoe Mode",
+    "publisher": "Majesco Entertainment",
+    "release_date": "2013-11-05",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Take your work out to Brazil, Hawaii and beyond in this vibrant fitness journey packed with exotic rhythms and rich culture from around the world. Expand your horizons with 40+ high-energy routines, over 30 calorie-burning dance styles, and a red hot soundtrack featuring Lady Gaga, Pitbull, Daddy Yankee and more. Work your body as you set fitness goals, earn motivating rewards and dance with friends alongside your favorite celebrity Zumba® instructors in the new World Tour mode. Transform your at home work out into a rockin’ global fitness-party with Zumba® Fitness World Party!   ",
+        "short": "Take your work out to Brazil, Hawaii and beyond in this vibrant journey packed with exotic rhythms and culture from around the world. Expand your horizons with 40+ high-energy routines, over 30 calorie-burning dance styles, and a red hot soundtrack featuring Lady Gaga, Daddy Yankee and more. Work your body as you set fitness goals, earn motivating rewards and dance with your favorite celebrity Zumba® instructors. Transform your at home work out into a rockin’ global fitness-party! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f9/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D4A07F4",
+                "title": "Zumba Fitness World Party"
+            }
+        ],
+        "related": []
+    }
+}

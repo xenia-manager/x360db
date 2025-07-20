@@ -1,0 +1,33 @@
+{
+    "id": "4E3007D1",
+    "title": {
+        "full": "France 24",
+        "reduced": "France 24"
+    },
+    "genre": [],
+    "developer": "Dotscreen",
+    "publisher": "France 24",
+    "release_date": "2014-08-05",
+    "user_rating": null,
+    "description": {
+        "full": "Watch France 24 live and get direct access to the latest news bulletins, business and sports reports, and weather updates. Discover all our TV shows on demand.",
+        "short": "Get the latest international news with France 24 app !"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e3007d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e3007d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e3007d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e3007d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e3007d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e3007d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e3007d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e3007d1/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550CCA",
+    "title": {
+        "full": "DepthAttack",
+        "reduced": "DepthAttack"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "haniwa",
+    "publisher": "haniwa",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=1/3, Mature Content=0/3. TPS　Game.  Homing is divided out of the Balkans and is characterized by.",
+        "short": "TPS　Game.  Homing is divided out of the Balkans and is characterized by."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550cca/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CCA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550cca/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CCA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CCA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CCA_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CCA_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

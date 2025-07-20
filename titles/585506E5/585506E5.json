@@ -1,0 +1,35 @@
+{
+    "id": "585506E5",
+    "title": {
+        "full": "Angle of Attack",
+        "reduced": "Angle of Attack"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Fun Factory",
+    "publisher": "Fun Factory",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Angle of Attack is a fast-paced, visually stunning, twin-stick \"strategy\" shooter. Deploy droids and defend your ship, all the while attempting to construct and connect multiple 'nodes'.",
+        "short": "Angle of Attack is a fast-paced, visually stunning, twin-stick \"strategy\" shooter. Deploy droids and defend your ship, all the while attempting to construct and connect multiple 'nodes'."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585506e5/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506E5_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506e5/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506E5_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506E5_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506E5_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506E5_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "42560835",
+    "title": {
+        "full": "Mercenaries Playground of Destruction",
+        "reduced": "Mercenaries"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics"
+    ],
+    "developer": "Pandemic Studios",
+    "publisher": "LucasArts",
+    "release_date": "2018-04-26",
+    "user_rating": null,
+    "description": {
+        "full": "Anything goes in this Playground of Destruction.  You are a lethal Mercenary.  Your mission is to topple a sinister military regime by any means necessary.  If it drives or flies, you can hijack it.  If it shoots or explodes, you can use it as a weapon.  You are free to go anywhere, destroy anything and blow the crap out of everything.  In this playground of destruction, there are no limits, no barriers and no mercy.",
+        "short": "Anything goes in this Playground of Destruction."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560835/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560835/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560835/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560835/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

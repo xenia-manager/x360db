@@ -1,0 +1,70 @@
+{
+    "id": "415707DA",
+    "title": {
+        "full": "BLAZBLUE CS",
+        "reduced": "BLAZBLUE CS"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "ARC SYSTEM WORKS",
+    "publisher": "Aksys Games Localization, Inc.",
+    "release_date": "2010-08-11",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English, Japanese, Korean, Chinese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   The newest installment of one of the world’s top 2D fighting games has come to the Xbox 360! BlazBlue: Continuum Shift is the latest entry in the mega-successful BlazBlue series and builds upon the solid gameplay of its predecessor. In addition to containing the superior online play and in-depth story mode for which the series is justifiably celebrated for, BlazBlue: Continuum Shift also introduces a comprehensive tutorial mode for those new to the game, as well as a challenge mode that tests and refines the skills of both intermediate and advanced players. With both the quantity and quality of content in the game, BlazBlue is one of the greatest fighting games ever made.",
+        "short": "The newest installment of one of the world’s top 2D fighting games has come to the Xbox 360! BlazBlue: Continuum Shift is the latest entry in the mega-successful BlazBlue series and builds upon the solid gameplay of its predecessor. In addition to containing the superior online play and in-depth story mode for which the series is justifiably celebrated for, BlazBlue: Continuum Shift also introduces a comprehensive tutorial mode for those new to the game, as well as a challenge mode that tests a…"
+    },
+    "media": [
+        {
+            "media_id": "1FEEFC58",
+            "title": "BlazBlue: Continuum Shift",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "394F9157",
+            "title": "BlazBlue: Continuum Shift",
+            "edition": "Original, Limited Box",
+            "region": "Japan"
+        },
+        {
+            "media_id": "41720468",
+            "title": "BlazBlue: Continuum Shift",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707da/7177/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

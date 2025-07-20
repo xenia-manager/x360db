@@ -1,0 +1,44 @@
+{
+    "id": "415608AA",
+    "title": {
+        "full": "X-Men Destiny",
+        "reduced": "X-Men Destiny"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "Silicon Knights",
+    "publisher": "Activision Publishing",
+    "release_date": "2011-09-27",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English and German.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Fate has dealt you a new hand: A destiny yet unwritten. Seize the power, and the future will show you who you really are.",
+        "short": "Fate has dealt you a new hand: A destiny yet unwritten. Seize the power, and the future will show you who you really are."
+    },
+    "media": [
+        {
+            "media_id": "32B499FC",
+            "title": "X-Men: Destiny",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608aa/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608aa/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608aa/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608aa/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608aa/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608aa/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608aa/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/415608aa/0/XMD_English.pdf"
+        ]
+    }
+}

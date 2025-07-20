@@ -1,0 +1,35 @@
+{
+    "id": "58550E9B",
+    "title": {
+        "full": "Survival Games Season 1",
+        "reduced": "Survival Games Season 1"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "2.0 Studios",
+    "publisher": "2.0 Studios",
+    "release_date": null,
+    "user_rating": "4.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Survival Games is a multiplayer survival adventure set in an ever-changing world full of secrets, traps, wildlife and treasure inside a giant dome. Pit yourself against up to 15 other players over LAN or ONLINE as you fight for your survival in order to be the last person standing! Never play the same game twice with our unique game world that dynamically changes with every new match you play!",
+        "short": "Survival Games is a multiplayer survival adventure set in an ever-changing world full of secrets, traps, wildlife and treasure inside a giant dome. Pit yourself against up to 15 other players over LAN or ONLINE as you fight for your survival in order to be the last person standing! Never play the same game twice with our unique game world that dynamically changes with every new match you play!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550e9b00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E9B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e9b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E9B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E9B_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E9B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E9B_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

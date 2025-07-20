@@ -1,0 +1,35 @@
+{
+    "id": "58550E1A",
+    "title": {
+        "full": "SKH-Resurrection",
+        "reduced": "SKH-Resurrection"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Flump Studios",
+    "publisher": "Flump Studios",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Super Killer Hornet Resurrection is an intense vertical shooter with a brain train twist. Through the chaos and explosion try to answer the falling math problems to increase your multiplier and power up your ship. Featuring a superb sound track by UK rock hip hop maestros the Sixty fours as well as classic tracks from Dylan Barry.",
+        "short": "Super Killer Hornet Resurrection is an intense vertical shooter with a brain train twist. Through the chaos and explosion try to answer the falling math problems to increase your multiplier and power up your ship. Featuring a superb sound track by UK rock hip hop maestros the Sixty fours as well as classic tracks from Dylan Barry."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550e1a00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E1A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e1a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E1A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E1A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E1A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E1A_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550D9F",
+    "title": {
+        "full": "一",
+        "reduced": "一"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "HITMARK BROTHERS",
+    "publisher": "HITMARK BROTHERS",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. 植えて→育てて→削って→飛ばす　命を繋げるライフサイクルゲーム！ 長い社名ロゴ表示のない最速起動！神の手を左スティックで操作し、発芽した豆を指で押して植えます。水場でAボタンを押し続けて水を汲み、植えた豆にかけると巨木に成長！上空で←か→に入力しながらAボタンで葉っぱを揺らすと、豆を収穫します。巨木上空でAボタンで木を握り、スティックを素早く↑↓で木を削ります。最後まで削るとロケットが完成！豆をロケットに乗せると一定量で発射します。豆の積載量によって、大地が拡張されます。突然変異で生まれる赤い豆は他の豆を食い荒らしてしまうので、低空で←か→に入力しながらAボタンで、指で弾いて水場に追いやりましょう。これを繰り返して高得点を目指すのがこのゲームの目的ですが、あまり頑張らずにのんびりプレイする方が良いです。",
+        "short": "植えて→育てて→削って→飛ばす　命を繋げるライフサイクルゲーム！ 長い社名ロゴ表示のない最速起動！神の手を左スティックで操作し、発芽した豆を指で押して植えます。水場でAボタンを押し続けて水を汲み、植えた豆にかけると巨木に成長！上空で←か→に入力しながらAボタンで葉っぱを揺らすと、豆を収穫します。巨木上空でAボタンで木を握り、スティックを素早く↑↓で木を削ります。最後まで削るとロケットが完成！豆をロケットに乗せると一定量で発射します。豆の積載量によって、大地が拡張されます。突然変異で生まれる赤い豆は他の豆を食い荒らしてしまうので、低空で←か→に入力しながらAボタンで、指で弾いて水場に追いやりましょう。これを繰り返して高得点を目指すのがこのゲームの目的ですが、あまり頑張らずにのんびりプレイする方が良いです。"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550d9f00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D9F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d9f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D9F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D9F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D9F_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D9F_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

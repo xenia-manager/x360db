@@ -1,0 +1,35 @@
+{
+    "id": "585504BA",
+    "title": {
+        "full": "TOKYO 2029 AD",
+        "reduced": "TOKYO 2029 AD"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Team Shuriken",
+    "publisher": "Team Shuriken",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=2/3. FAST PACED BRUTAL 4 PLAYER FIGHTING GAME !",
+        "short": "FAST PACED BRUTAL 4 PLAYER FIGHTING GAME !"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585504ba/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585504BA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585504ba/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585504BA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504BA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504BA_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504BA_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

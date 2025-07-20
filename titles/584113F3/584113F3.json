@@ -1,0 +1,37 @@
+{
+    "id": "584113F3",
+    "title": {
+        "full": "Final Exam",
+        "reduced": "Final Exam"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Mighty Rocket Studio",
+    "publisher": "Focus Home Interactive",
+    "release_date": "2013-09-04",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Final Exam is an action-rich 2.5D side-scroller, drenched in the blood and caustic humor inspired by the teen and horror movie genres. On the way to what should be the party of their lives, a group of long-time buddies find themselves facing hordes of aggressive and monstrous creatures. A wild mash-up of monsters, baseball bats, chainsaws, and references to video games and teen horror movies!",
+        "short": "Final Exam is an action-rich 2.5D side-scroller, drenched in the blood and caustic humor inspired by the teen and horror movie genres. On the way to what should be the party of their lives, a group of long-time buddies find themselves facing hordes of aggressive and monstrous creatures. A wild mash-up of monsters, baseball bats, chainsaws, and references to video games and teen horror movies!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f3/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

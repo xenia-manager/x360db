@@ -1,0 +1,35 @@
+{
+    "id": "415688B3",
+    "title": {
+        "full": "Call of Duty Black Ops Single-Player Demo",
+        "reduced": "Call of Duty Black Ops Single-Player Demo"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Treyarch",
+    "publisher": "Activision",
+    "release_date": "2011-03-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Call of Duty®: Black Ops Single-Player Demo is an epic experience that takes place deep behind enemy lines as an elite Black Ops soldier engaging in covert warfare, classified operations, and explosive conflicts. Highlights of the mission include reconnaissance in a supersonic Spy Plane, mountain top rappelling and base-jumping, and fighting enemies in stealth mode as well as full firefight mode.",
+        "short": "Call of Duty®: Black Ops Single-Player Demo is an epic experience that takes place deep behind enemy lines as an elite Black Ops soldier engaging in covert warfare, classified operations, and explosive conflicts. Highlights of the mission include reconnaissance in a supersonic Spy Plane, mountain top rappelling and base-jumping, and fighting enemies in stealth mode as well as full firefight mode."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415688b3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415688b3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415688b3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415688b3/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "41560855",
+                "title": "Call of Duty®: Black Ops"
+            }
+        ],
+        "related": []
+    }
+}

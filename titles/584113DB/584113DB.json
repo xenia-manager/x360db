@@ -1,0 +1,36 @@
+{
+    "id": "584113DB",
+    "title": {
+        "full": "Marvel Puzzle Quest Dark Reign",
+        "reduced": "Marvel Puzzle Quest"
+    },
+    "genre": [
+        "Puzzle & Trivia",
+        "Role Playing"
+    ],
+    "developer": "WayForward Technologies Inc.",
+    "publisher": "D3Publisher of America, Inc.",
+    "release_date": "2015-10-16",
+    "user_rating": "3.25",
+    "description": {
+        "full": "The award winning match-3 puzzle gameplay meets Marvel’s biggest Super Heroes and Super Villains in the most epic puzzle adventure.  Combine your favorite characters from the Marvel Universe (Iron Man, Hulk, Thor, Venom, etc.) with deep RPG leveling, episodic events written by Marvel writers, and much more.  Put your squad to the test in battles against players in both online and local multiplayer to compete for the top of the leaderboards.  Unleash your inner Super Hero and wage war against your enemies before Norman Osborn and his minions reign supreme!",
+        "short": "Assemble your favorite characters from the Marvel Universe in the award winning match-3 puzzle-rpg game.  Exclusively for console, compete against others in online and local multiplayer."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113db/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113db/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113db/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113db/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113db/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113db/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113db/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113db/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": "334807D2",
+    "title": {
+        "full": "シューティングラブ１０周年 XIIZEAL  ΔZEAL",
+        "reduced": "シューティングラブ１０周年"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "トライアングル・サービス",
+    "publisher": "トライアングル・サービス",
+    "release_date": "2013-05-30",
+    "user_rating": null,
+    "description": {
+        "full": "ゲーム オン デマンドのバージョンは次の言語をサポートしています：日本語 トライアングル・サービスのスローガン「シューティングラブ。」の原点２作「トゥエルブジール」と本邦初移植幻のシューティングゲーム「デルタジール」が１０年の時を超え奇跡のカップリング！一方は王道シューティング、一方は１アイデアで突き抜けたアクティブシューティング。同時期に製作された表裏一体の２作が奇跡のコラボレーション。２００２年ゲームセンターに登場したシューティングゲーム全３本の内の２本がここに有る。 フル２Ｄグラフィックによる精密なドット絵を堪能せよ！",
+        "short": "本邦初移植幻のシューティングゲーム「デルタジール」と「トゥエルブジール」。同時期に製作された表裏一体の２作が奇跡のコラボレーション。"
+    },
+    "media": [
+        {
+            "media_id": "4A02E84F",
+            "title": "Shooting Love. 10-shuunen: XIIZeal & DeltaZeal",
+            "edition": "Special Pack",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d2/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d2/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

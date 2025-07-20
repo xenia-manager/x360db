@@ -1,0 +1,67 @@
+{
+    "id": "54510838",
+    "title": {
+        "full": "WWE Legends",
+        "reduced": "WWE Legends"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Sports & Recreation"
+    ],
+    "developer": "\"YUKE�S Co. Ltd.\"",
+    "publisher": "2K Sports",
+    "release_date": "2009-03-24",
+    "user_rating": "3.75",
+    "description": {
+        "full": "NOTE: ONLINE MULTIPLAYER SUPPORT FOR THIS TITLE WAS TERMINATED ON 12/31/2013.  ONLINE/MULTIPLAYER FEATURES ARE NOT ACTIVE OR INCLUDED.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Relive, rewrite and redefine the greatest moments in WWE history.",
+        "short": "Relive, rewrite and redefine the greatest moments in WWE history."
+    },
+    "media": [
+        {
+            "media_id": "2824DA08",
+            "title": "WWE Legends of WrestleMania",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "23A6CE39",
+            "title": "WWE Legends of WrestleMania",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "59180D5B",
+            "title": "WWE Legends of WrestleMania",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/7177/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/7177/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/7177/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/7177/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510838/7177/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

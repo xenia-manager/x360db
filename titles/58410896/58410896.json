@@ -1,0 +1,42 @@
+{
+    "id": "58410896",
+    "title": {
+        "full": "Puzzle Quest Challenge of the Warlords",
+        "reduced": "Puzzle Quest"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Infinite Interactive",
+    "publisher": "Xbox LIVE Arcade",
+    "release_date": "2009-12-10",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Single Player, Xbox LIVE Multiplayer 1-2, Local Multiplayer 1-2, HD (High Definition). Classic puzzle game action meets an epic RPG story of good vs. evil. There are no refunds for this item. For more information, see www.xbox.com/Live/accounts.",
+        "short": "This unique blend of genres is both a classic puzzle game and a classic RPG.  Build your hero as you fight your way across the lands of Etheria, encountering devious enemies and perilous quests."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410896/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410896/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410896/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410896/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410896/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410896/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410896/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410896/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410896/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410896/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410896/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410896/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410896/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410896/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410896/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "585502BD",
+    "title": {
+        "full": "Pastels Square",
+        "reduced": "Pastels Square"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "nobusi",
+    "publisher": "nobusi",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. A third-generation falling block puzzle game in which you match falling lines of the same color to form enclosures and make them disappear.",
+        "short": "A third-generation falling block puzzle game in which you match falling lines of the same color to form enclosures and make them disappear."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585502bd/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585502BD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585502bd/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585502BD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585502BD_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585502BD_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585502BD_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

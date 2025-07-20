@@ -1,0 +1,32 @@
+{
+    "id": "57520833",
+    "title": {
+        "full": "Mad Max",
+        "reduced": "Mad Max"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Avalanche Studios",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "release_date": "2014-12-31",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Play as Mad Max, a lone warrior who must embark on a dangerous journey after his Interceptor is stolen by a deadly gang of marauders.  A reluctant hero with an instinct for survival, Max wants nothing more than to leave the madness behind and find solace in the storied “Plains of Silence”.",
+        "short": "Play as Mad Max, a lone warrior who must embark on a dangerous journey after his Interceptor is stolen by a deadly gang of marauders.   A reluctant hero with an instinct for survival, Max wants nothing more than to leave the madness behind and find solace in the storied “Plains of Silence”."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520833/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520833/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520833/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520833/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520833/1033/screenlg1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

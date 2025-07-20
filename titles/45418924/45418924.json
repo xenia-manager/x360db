@@ -1,0 +1,35 @@
+{
+    "id": "45418924",
+    "title": {
+        "full": "NBA ELITE 11 Demo",
+        "reduced": "NBA ELITE 11 Demo"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts Canada",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-09-21",
+    "user_rating": "3.00",
+    "description": {
+        "full": "NBA ELITE 11 reinvents the basketball experience and gives you the ability to take control and showcase your skills.  Driven by Real Physics and an all-new Hands-On Control system, NBA ELITE 11 is the first basketball game to feel like NBA Basketball.  There is a learning curve to the new controls, but put in your time, and you'll feel the difference.  If you feel like you need to go back to the old controls, you can switch back through teh pause menu during your Lakers vs Celtics game.  Play the demo today to relive the 4th quarter of game #7 of the 2010 Finals, take it to the rim with some one on one versus Kevin Durant, and play the all-new Become Legendary – Be A Pro mode.  Starting in the Jordan Draft Showcase game, create your player and play to earn a projected draft position and bring your progress to the full retail version of NBA ELITE 11.  NBA ELITE 11, available October 5.",
+        "short": "NBA ELITE 11 reinvents the basketball experience. Through Real Physics and all-new Hands-On Control, NBA ELITE 11 is the first basketball game to feel like NBA basketball.  Relive the last minutes of game #7 of the 2010 Finals, shoot some one on one, and play the all-new Become Legendary – Be A Pro mode. Traditional button controls also available."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418924/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418924/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418924/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418924/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "45410919",
+                "title": "NBA ELITE 11"
+            }
+        ],
+        "related": []
+    }
+}

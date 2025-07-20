@@ -1,0 +1,54 @@
+{
+    "id": "55530833",
+    "title": {
+        "full": "Tom Clancys Ghost Recon Future Soldier",
+        "reduced": "Ghost Recon Future Soldier"
+    },
+    "genre": [
+        "Kinect",
+        "Shooter"
+    ],
+    "developer": "Ubisoft Paris",
+    "publisher": "Ubisoft",
+    "release_date": "2012-05-22",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Spanish.  Armed with the most advanced combat technology, the Ghosts are an untraceable unit of soldiers who track down the highest-value targets in the highest-risk conflict areas around the world. In the near future, 4 of these elite soldiers serve as the tip of the spear in a hidden war raging across the globe.  As the Ghosts accomplish their objectives, they discover a far greater threat - one that could alter the international balance of power forever.  Join the Legendary Ghosts –Control Sergeant Kozak and his unit, across 14 missions in 8 spectacular locales, from Africa to the Arctic Circle. All-Access Pass to Future War Tech: Fight using the tech of tomorrow including, optical camouflage, augmented reality, drones and more. Wield over 50 Weapons and Customize Them with Gunsmith Mode- Harness the immense firepower of an army and optimize every aspect of your arsenal in the Gunsmith mode. Intense Multiplayer- 4 game modes, 10 maps and multiple classes along with GR’s classic siege mode. Online features are no longer available for this product. ",
+        "short": "Armed with the most advanced combat technology, the Ghosts are an untraceable unit of soldiers who track down the highest-value targets in the highest-risk conflict areas around the world. In the near future, 4 of these elite soldiers serve as the tip of the spear in a hidden war raging across the globe.  As the Ghosts accomplish their objectives, they discover a far greater threat - one that could alter the international balance of power forever."
+    },
+    "media": [
+        {
+            "media_id": "7C04F662",
+            "title": "Tom Clancy's Ghost Recon: Future Soldier",
+            "edition": "Original, Signature Edition",
+            "region": "Europe, Asia"
+        },
+        {
+            "media_id": "2DF41A75",
+            "title": "Tom Clancy's Ghost Recon: Future Soldier",
+            "edition": "Original, Tom Clancy's Ghost Recon Trilogy",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530833/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530833/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530833/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530833/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530833/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530833/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530833/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530833/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530833/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530833/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530833/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530833/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530833/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

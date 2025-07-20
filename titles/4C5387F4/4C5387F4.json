@@ -1,0 +1,35 @@
+{
+    "id": "4C5387F4",
+    "title": {
+        "full": "WRC 3 FIA World Rally Championship DEMO",
+        "reduced": "WRC 3 Demo"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Milestone srl",
+    "publisher": "Milestone srl",
+    "release_date": "2012-09-11",
+    "user_rating": null,
+    "description": {
+        "full": "Experience the rush first-hand! Get the full impact of  WRC 3 - the official FIA World Rally Championship 2012. Find out what it’s like to be the current world champion, Sébastien Loeb in his Citroën DS3 WRC in the most awesome Special Stage  or, test your skills in two events in the renewed Careers mode.",
+        "short": "Live the most complete and  engaging  rally experience, ever, in the official WRC 3 FIA World Rally Championship!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387f4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387f4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387f4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387f4/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4C5307F3",
+                "title": "WRC 3"
+            }
+        ],
+        "related": []
+    }
+}

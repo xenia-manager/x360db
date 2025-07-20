@@ -1,0 +1,35 @@
+{
+    "id": "585507EB",
+    "title": {
+        "full": "BugO StinkO",
+        "reduced": "BugO StinkO"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Takimchu Games",
+    "publisher": "Takimchu Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Battle your enemies with your farts.  Eat food to fill your gas meter.  Eat the kettle of beans for a \"Silent But Deadly\" that will kill any enemy.  Fart near an open flame for an explosive kill.  Find lighters to ignite your farts for a fiery jetting flame.   Spit to distract enemies.  Spit on flowers to grow them to reach higher platforms.  32 levels & 13 enemies!",
+        "short": "Battle your enemies with your farts.  Eat food to fill your gas meter.  Eat the kettle of beans for a \"Silent But Deadly\" that will kill any enemy.  Fart near an open flame for an explosive kill.  Find lighters to ignite your farts for a fiery jetting flame.   Spit to distract enemies.  Spit on flowers to grow them to reach higher platforms.  32 levels & 13 enemies!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585507eb/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585507EB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585507eb/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585507EB_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507EB_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507EB_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507EB_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

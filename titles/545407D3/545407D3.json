@@ -1,0 +1,59 @@
+{
+    "id": "545407D3",
+    "title": {
+        "full": "MLB 2K6",
+        "reduced": "MLB 2K6"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Kush Games",
+    "publisher": "2K Games",
+    "release_date": "2008-01-01",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Kush Games",
+        "short": "Kush Games"
+    },
+    "media": [
+        {
+            "media_id": "5533BA35",
+            "title": "Major League Baseball 2K6",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "3FDE8AD4",
+            "title": "Major League Baseball 2K6",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "65EAACD6",
+            "title": "Major League Baseball 2K6",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d3/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d3/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d3/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d3/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d3/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d3/1041/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d3/1041/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

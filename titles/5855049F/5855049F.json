@@ -1,0 +1,35 @@
+{
+    "id": "5855049F",
+    "title": {
+        "full": "Xstronauta",
+        "reduced": "Xstronauta"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "rexromae",
+    "publisher": "rexromae",
+    "release_date": null,
+    "user_rating": "2.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. A funny game of space fights! Try 8 different spaceships, complete 30 levels and become the leader of the space!",
+        "short": "A funny game of space fights! Try 8 different spaceships, complete 30 levels and become the leader of the space!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855049f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855049F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855049f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855049F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855049F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855049F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855049F_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

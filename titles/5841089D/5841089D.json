@@ -1,0 +1,35 @@
+{
+    "id": "5841089D",
+    "title": {
+        "full": "Castlevania Symphony of the Night",
+        "reduced": "悪魔城ドラキュラX 月下の夜想曲"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Digital Eclipse",
+    "publisher": "Xbox LIVE Arcade",
+    "release_date": "2008-01-01",
+    "user_rating": "5.00",
+    "description": {
+        "full": "Single Player, HD (High Definition). Uncover all the mysteries of Dracula’s castle with the full version including achievements, leaderboards, and multiple endings. Have you uncovered the true secret behind Dracula’s power? There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Dracula’s castle has risen again and it’s up to the mysterious Alucard to face Dracula and save the world from his nocturnal embrace.  Discover hidden rooms, flight dangerous enemies and equip hundreds of weapons to uncover the secret behind Dracula’s power before it’s too late."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841089d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841089d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841089d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841089d/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "58410847",
+                "title": "Castlevania Symphony of the Night"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": "415608D2",
+    "title": {
+        "full": "NASCAR Inside Line",
+        "reduced": "NASCAR Inside Line"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Eutechnyx",
+    "publisher": "Activision",
+    "release_date": "2012-09-24",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  NASCAR The Game: Inside Line isn’t just a game, it’s the full NASCAR Sprint Cup race weekend experience. Will your qualification time get you up the field enough to make a real challenge when the green flag drops? Your career spans multiple seasons via the games progressive career mode and includes practice, qualifying and the full race whether in one-player or multi-player modes, including the improved online experience for up to 16 players.  Take the wheel in thrilling real-life race moments, reliving the moves of actual NASCAR drivers from the 2012-2013 race seasons. Telemetry data collected from the tracks is used to create in-game challenges that are more than mere simulations, they are recreations of NASCAR's most gripping real-life moments for you to experience first-hand. This is your chance to rewind, relive and rewrite NASCAR history.",
+        "short": "NASCAR The Game: Inside Line isn’t just a game, it’s the full NASCAR Sprint Cup race weekend experience."
+    },
+    "media": [
+        {
+            "media_id": "09C19D3D",
+            "title": "NASCAR the Game: Inside Line",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d2/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/415608d2/7006X3-226_Nascar_MNL%20Digital.pdf"
+        ]
+    }
+}

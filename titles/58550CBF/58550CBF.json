@@ -1,0 +1,35 @@
+{
+    "id": "58550CBF",
+    "title": {
+        "full": "Mythos Castle",
+        "reduced": "Mythos Castle"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Venables Games",
+    "publisher": "Venables Games",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. Dare you brave the walls of Mythos Castle?  Choose to be the Wizard, Knight or Fairy in this epic platform action adventure.",
+        "short": "Dare you brave the walls of Mythos Castle?  Choose to be the Wizard, Knight or Fairy in this epic platform action adventure."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550cbf00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CBF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550cbf/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CBF_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CBF_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CBF_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CBF_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

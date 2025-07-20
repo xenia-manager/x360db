@@ -1,0 +1,48 @@
+{
+    "id": "41560893",
+    "title": {
+        "full": "NASCAR The Game 2011",
+        "reduced": "NASCAR The Game 2011"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Eutechnyx",
+    "publisher": "Activision",
+    "release_date": "2011-03-29",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Experience the Thrill of the Chase for The NASCAR Sprint Cup™ in the most realistic NASCAR® game ever developed.  This is NASCAR Revolutionized! Race with up to 16 players via multiplayer bumper-to-bumper, or engage in high-speed split screen action. Get ready to be blown away with never-before-seen crashes and realistic vehicle damage. Jump into the race action with easy auto-tuning or tweak everything from engine and tires to suspension and pit strategy.",
+        "short": "Experience the Thrill of the Chase for The NASCAR Sprint Cup™ in the most realistic NASCAR® game ever developed.  This is NASCAR Revolutionized!"
+    },
+    "media": [
+        {
+            "media_id": "08A77BA3",
+            "title": "NASCAR 2011: The Game",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560893/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560893/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560893/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560893/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560893/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560893/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560893/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560893/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560893/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560893/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560893/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560893/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560893/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560893/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

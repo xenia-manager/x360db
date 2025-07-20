@@ -1,0 +1,53 @@
+{
+    "id": "534507F4",
+    "title": {
+        "full": "Beijing 2008",
+        "reduced": "Beijing 2008"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Eurocom Developments LTD",
+    "publisher": "Sega",
+    "release_date": "2008-01-01",
+    "user_rating": "2.75",
+    "description": {
+        "full": "The official Beijing 2008 game",
+        "short": "The official Beijing 2008 game"
+    },
+    "media": [
+        {
+            "media_id": "7586AA2E",
+            "title": "Beijing 2008",
+            "edition": "Original, Promo",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "4784DDE3",
+            "title": "Beijing 2008",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f4/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f4/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

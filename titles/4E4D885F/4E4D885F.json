@@ -1,0 +1,57 @@
+{
+    "id": "4E4D885F",
+    "title": {
+        "full": "NARUTO SHIPPUDEN Ultimate Ninja STORM 3 DEMO",
+        "reduced": "Ultimate Ninja STORM 3 DEMO"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting"
+    ],
+    "developer": "CyberConnect2 Co., Ltd.",
+    "publisher": "NAMCO BANDAI Games America Inc.",
+    "release_date": "2013-03-05",
+    "user_rating": "4.75",
+    "description": {
+        "full": "Boss battles are back and more epic than ever in NARUTO SHIPPUDEN: Ultimate Ninja STORM 3. Download the free demo and confront an enraged Nine-Tails in the middle of the Leaf village as a prelude of the long awaited Great Ninja War. Choose you way through the new adventure mode and discover a revamped gameplay and a dramatic experience defining new standards in the series.",
+        "short": "Boss battles are back and more epic than ever in NARUTO SHIPPUDEN: Ultimate Ninja STORM 3. Download the free demo and confront an enraged Nine-Tails in the middle of the Leaf village as a prelude of the long awaited Great Ninja War. Choose you way through the new adventure mode and discover a revamped gameplay and a dramatic experience defining new standards in the series."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d885f/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4E4D085C",
+                "title": "NARUTO STORM 3"
+            }
+        ],
+        "related": []
+    }
+}

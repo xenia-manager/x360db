@@ -1,0 +1,35 @@
+{
+    "id": "5855016C",
+    "title": {
+        "full": "Exhaust",
+        "reduced": "Exhaust"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "DataBox Inc",
+    "publisher": "DataBox Inc",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Exhaust is the first physics based 2.5D monster truck racing game to ever hit the market. Even though it is called a racing game, the use of dynamic objects and gravity has given us the option of adding loads of interesting artifacts to the racing tracks which turns this monster truck racer into an incredible platform game.",
+        "short": "Exhaust is the first physics based 2.5D monster truck racing game to ever hit the market. Even though it is called a racing game, the use of dynamic objects and gravity has given us the option of adding loads of interesting artifacts to the racing tracks which turns this monster truck racer into an incredible platform game."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855016c00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855016C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855016c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855016C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855016C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855016C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855016C_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

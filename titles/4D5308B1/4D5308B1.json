@@ -1,0 +1,35 @@
+{
+    "id": "4D5308B1",
+    "title": {
+        "full": "Halo 3 ODST",
+        "reduced": "Halo 3 ODST"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Bungie Studios",
+    "publisher": "Microsoft",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "Halo 3: ODST returns players to familiar ground on a vital, top-secret mission. ODST’s gripping story, co-operative campaign and new multiplayer content will have Halo fans “Preparing to Drop” in Fall 2009.",
+        "short": "Halo 3: ODST returns players to familiar ground on a vital, top-secret mission. ODST’s gripping story, co-operative campaign and new multiplayer content will have Halo fans “Preparing to Drop” in Fall 2009."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b1/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D530877",
+                "title": "Halo 3 ODST Campaign Edition"
+            }
+        ],
+        "related": []
+    }
+}

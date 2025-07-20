@@ -1,0 +1,44 @@
+{
+    "id": "58410B1D",
+    "title": {
+        "full": "DAYTONA USA",
+        "reduced": "DAYTONA USA"
+    },
+    "genre": [
+        "Classics",
+        "Racing & Flying"
+    ],
+    "developer": "SEGA",
+    "publisher": "SEGA",
+    "release_date": "2011-10-26",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  It’s time to get revved up with Daytona USA! Based on the classic arcade title, Daytona USA features enhanced graphics, tracks for all skill levels, and the original, hit soundtrack!   Save your quarters - we’re bringing the arcade straight to your living room with steering wheel and multiplayer support. Challenge your friends with up to eight player online races or the whole world via Xbox LIVE leaderboards!",
+        "short": "It’s time to get revved up with Daytona USA! Based on the classic arcade title, Daytona USA features enhanced graphics, steering wheel support and Xbox LIVE multiplayer mode!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b1d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b1d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b1d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b1d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b1d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b1d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b1d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b1d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b1d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b1d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b1d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b1d/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b1d/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b1d/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b1d/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b1d/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

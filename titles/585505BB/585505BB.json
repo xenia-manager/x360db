@@ -1,0 +1,35 @@
+{
+    "id": "585505BB",
+    "title": {
+        "full": "Phat Fly",
+        "reduced": "Phat Fly"
+    },
+    "genre": [
+        "Family"
+    ],
+    "developer": "BerzerkerJr.",
+    "publisher": "BerzerkerJr.",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. You are Phat Fly, the meanest fly in town. Customize yourself with hats, hair, and other accessories with money you find in-game. Upgrade your character with G.U.B.E.R. items such as booger bazookas, bombs, and sheilds.  Battle and avoid tons of different enemies such as bats, toads and even a giant monkey! This game was programmed by Brandon Hjelstrom (13).",
+        "short": "You are Phat Fly, the meanest fly in town. Customize yourself with hats, hair, and other accessories with money you find in-game. Upgrade your character with G.U.B.E.R. items such as booger bazookas, bombs, and sheilds.  Battle and avoid tons of different enemies such as bats, toads and even a giant monkey! This game was programmed by Brandon Hjelstrom (13)."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585505bb00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505BB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505bb/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505BB_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505BB_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505BB_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505BB_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

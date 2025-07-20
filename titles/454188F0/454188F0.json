@@ -1,0 +1,43 @@
+{
+    "id": "454188F0",
+    "title": {
+        "full": "Bulletstorm Demo",
+        "reduced": "Bulletstorm Demo"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Epic Games / People Can Fly",
+    "publisher": "Electronic Arts",
+    "release_date": "2011-02-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Play through the incredible 'Collapsed Building' level in Bulletstorms high scoring 'Echoes ' mode. Arm yourself with the PMC, Flail gun and Screamer pistol and unleash Bulletstorms unique combat mechanics and skillshot system to annihilate your foes and, more importantly, top the leaderboards!  Fight your way through a towering high rise hotel that has fallen on it's side, providing you with a unique and beautiful canvas to splatter with your enemies insides!  Utilise Gray's kick, leash and sliding abilities in combination with outrageously large guns that feed into Bulletstorm’s distinct ‘skillshot’ system to produce unprecedented levels of frantic gameplay and yell-inducing satisfaction.",
+        "short": "Play through the incredible 'Collapsed Building' level in Bulletstorms high scoring 'Echoes ' mode. Arm yourself with the PMC, Flail gun and Screamer pistol and unleash Bulletstorms unique combat mechanics to annihilate your foes and, more importantly, top the leaderboards! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454188f0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454188f0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454188f0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454188f0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454188f0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454188f0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454188f0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454188f0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454188f0/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454188f0/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454188f0/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454108EF",
+                "title": "Bulletstorm™"
+            }
+        ],
+        "related": []
+    }
+}

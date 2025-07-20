@@ -1,0 +1,43 @@
+{
+    "id": "54540822",
+    "title": {
+        "full": "BioShock",
+        "reduced": "BioShock"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "2K Boston",
+    "publisher": "2K Games",
+    "release_date": "2008-01-01",
+    "user_rating": "0.00",
+    "description": {
+        "full": "BioShock is the first-person shooter where everything is a weapon. Set in a failed underwater utopia, BioShock gives complete freedom to turn the environment, the enemies, even water and fire into powerful tools against your foes.",
+        "short": "BioShock is the first-person shooter where everything is a weapon. Set in a failed underwater utopia, BioShock gives complete freedom to turn the environment, the enemies, even water and fire into powerful tools against your foes."
+    },
+    "media": [
+        {
+            "media_id": "57BA7CAD",
+            "title": "BioShock",
+            "edition": "Platinum Hits",
+            "region": "Korea"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540822/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540822/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540822/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540822/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "545407D8",
+                "title": "BioShock"
+            }
+        ],
+        "related": []
+    }
+}

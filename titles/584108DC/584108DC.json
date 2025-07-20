@@ -1,0 +1,41 @@
+{
+    "id": "584108DC",
+    "title": {
+        "full": "Minesweeper Flags",
+        "reduced": "Minesweeper Flags"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "TikGames, LLC.",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-01-04",
+    "user_rating": "3.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) The full version of Minesweeper Flag includes LIVE multiplayer Flags action, exciting achievements, rankings, ratings and true skill. See how you stack up against your friends in Minesweeper action! This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Think you’ve seen this game before? Guess again! There are 3 game modes: Classic, Campaign and Flags. Multiplayer action for up to 4 players locally or over Xbox LIVE and non-square maps of all sizes are just a few of the new features you can explore. So, are you up to the new challenges?"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108dc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108dc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108dc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108dc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108dc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108dc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108dc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108dc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108dc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108dc/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108dc/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108dc/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108dc/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108dc/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

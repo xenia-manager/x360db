@@ -1,0 +1,30 @@
+{
+    "id": "4156889A",
+    "title": {
+        "full": "Guitar Hero Compilation 2010",
+        "reduced": "Guitar Hero Compilation 2010"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "Beenox",
+    "publisher": "Activision",
+    "release_date": "2010-09-22",
+    "user_rating": null,
+    "description": {
+        "full": "Party With Two Turntables & A Microphone! Join the Quest to Save Rock!",
+        "short": "Party With Two Turntables & A Microphone! Join the Quest to Save Rock!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156889a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156889a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156889a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156889a/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

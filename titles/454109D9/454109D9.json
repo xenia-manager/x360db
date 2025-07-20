@@ -1,0 +1,45 @@
+{
+    "id": "454109D9",
+    "title": {
+        "full": "Madden NFL 15",
+        "reduced": "Madden NFL 15"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts - Tiburon",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2014-08-26",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English.  Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  Madden NFL 15 transforms you into your rival’s worst nightmare with a new breed of defense built to challenge the best offenses in the NFL.  An all-new, intuitive tackling system, and improved coverage logic make defense exciting and fun to play.  Learn and hone your  skills in the Gauntlet, an all-new mode in Skills Trainer that will take your new abilities through the ultimate test in intense conditions and challenges.  Whether building your legacy in Connected Franchise or a dynasty in Ultimate Team, it’s not just football, it's Madden Season!",
+        "short": "Madden NFL 15 transforms you transform into your rival’s worst nightmare with a new breed of defense built to challenge the best offenses in the NFL.  An all-new, intuitive tackling system, and improved coverage logic make defense exciting and fun to play.  Whether building your legacy in Connected Franchise or a dynasty in Ultimate Team, it’s not just football, it's Madden Season!"
+    },
+    "media": [
+        {
+            "media_id": "21AD3305",
+            "title": "Madden NFL 15",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d9/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

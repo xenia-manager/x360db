@@ -1,0 +1,48 @@
+{
+    "id": "44500802",
+    "title": {
+        "full": "Ben 10 Omniverse",
+        "reduced": "Ben 10 Omniverse"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family"
+    ],
+    "developer": "Monkey Bar Games",
+    "publisher": "D3Publisher of America, Inc.",
+    "release_date": "2012-11-13",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Ben 10 Omniverse is based on the brand new series from the world renowned Ben 10 franchise! Players will experience the exciting Omniverse world in a new action game, where Ben discovers that untold events from the past are affecting the present. Play as both Teen Ben and Young Ben and work with your new partner Rook to defeat the evil plans of Malware, in an epic storyline that spans two time periods! Dial up 13 playable alien heroes including new aliens like Bloxx and Gravattack, and fight in 11 action-packed levels throughout the subterranean alien city of Undertown and other show-inspired locales.",
+        "short": "Ben 10 Omniverse is based on a brand new series from the world renowned Ben 10 franchise! Players will experience the exciting Omniverse world in a new action game, where Ben discovers that untold events from the past are affecting the present. Play as both Teen Ben and Young Ben and work with your new partner Rook to defeat the evil plans of Malware, in an epic storyline that spans two time periods! Dial up 13 playable alien heroes and fight in 11 action-packed levels in show-inspired locales."
+    },
+    "media": [
+        {
+            "media_id": "19FD7109",
+            "title": "Ben 10: Omniverse",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500802/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500802/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500802/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500802/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500802/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500802/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500802/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500802/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500802/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500802/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500802/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/44500802/bto_360_manual%20no%20rating.pdf"
+        ]
+    }
+}

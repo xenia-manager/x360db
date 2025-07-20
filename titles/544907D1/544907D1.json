@@ -1,0 +1,43 @@
+{
+    "id": "544907D1",
+    "title": {
+        "full": "Over-G",
+        "reduced": "Over-G"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Seiji Kawakami",
+    "publisher": "TAITO CORPORATION",
+    "release_date": "2008-01-01",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Players take the role of a fighter pilot and fly numerous types of missions in locales around the world. The game's realistic flight model, accurately reproduced cockpits and action-packed scenarios give the player a taste of combat in the skies and make for hours of thrilling gaming!",
+        "short": "Players take the role of a fighter pilot and fly numerous types of missions in locales around the world. The game's realistic flight model, accurately reproduced cockpits and action-packed scenarios give the player a taste of combat in the skies and make for hours of thrilling gaming!"
+    },
+    "media": [
+        {
+            "media_id": "6495A7A7",
+            "title": "Over G: Energy Airforce",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "72CA730E",
+            "title": "Over G Fighters",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544907d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544907d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544907d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544907d1/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

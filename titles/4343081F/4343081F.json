@@ -1,0 +1,50 @@
+{
+    "id": "4343081F",
+    "title": {
+        "full": "DEAD RISING 2 OFF THE RECORD",
+        "reduced": "DEAD RISING 2 OFF THE RECORD"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Capcom Game Studio Vancouver",
+    "publisher": "CAPCOM Co., Ltd. ",
+    "release_date": "2011-04-13",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English, French, Italian, Spanish, Japanese, Korean.  Frank West is back in this re-imagining of the outrageous events of Dead Rising 2! Forget what you know about Fortune City and the people in it; things have changed now that Frank West has returned in search of his biggest scoop ever. Dive into this zombie paradise and enjoy the thrill of killing zombies, photojournalist-style! Frank's camera also returns, allowing you to gain experience by taking pictures of all the horrible and hilarious things happening in this zombie paradise!",
+        "short": "Frank West is back in the game for this re-imagining of the outrageous events of Dead Rising 2!"
+    },
+    "media": [
+        {
+            "media_id": "1462756C",
+            "title": "Dead Rising 2: Off the Record",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081f/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081f/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081f/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081f/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4343081f/DR2OTR_Manual_EN_Revised.pdf"
+        ]
+    }
+}

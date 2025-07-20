@@ -1,0 +1,30 @@
+{
+    "id": "414707D6",
+    "title": {
+        "full": "Agora Test Game",
+        "reduced": "Agora Test Game"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Developer String",
+    "publisher": "Publisher String",
+    "release_date": "2010-11-01",
+    "user_rating": null,
+    "description": {
+        "full": "Please download this content",
+        "short": "Please download this content"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414707d6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414707d6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414707d6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414707d6/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

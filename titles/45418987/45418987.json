@@ -1,0 +1,37 @@
+{
+    "id": "45418987",
+    "title": {
+        "full": "Mass Effect 3 Demo",
+        "reduced": "Mass Effect 3 Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Kinect",
+        "Role Playing"
+    ],
+    "developer": "BioWare™",
+    "publisher": "Electronic Arts Inc. ",
+    "release_date": "2012-02-07",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Fire the first shots in the war to take Earth back! Voted Most Anticipated Game of 2012 at the SpikeTV VGAs, Mass Effect 3 puts you at the center of an all-out galactic war – and how to wage that war is up to you. The demo begins in dramatic fashion with the spectacular attack on Earth, followed by a mid-game section showcasing the groundbreaking interactive storytelling, adrenaline-pumping action, ruthless and intelligent enemies, and deep customization that make Mass Effect 3 the must-have title of 2012. Jump into 4 player co-op missions with your friends in two maps from the full game and earn a wide variety of upgrades for your characters. The multiplayer portion of the demo features an early-access period, so visit www.masseffect.com to find out how you can be among the first to the front lines!",
+        "short": "Fire the first shots in the war to take Earth back! Voted Most Anticipated Game of 2012 at the SpikeTV VGAs, Mass Effect 3 puts you at the center of an all-out galactic war – and how to wage that war is up to you. Groundbreaking interactive storytelling drives  heart-pounding action where each decision you make could have devastating consequences."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418987/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418987/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418987/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418987/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4541095D",
+                "title": "Mass Effect™ 3"
+            }
+        ],
+        "related": []
+    }
+}

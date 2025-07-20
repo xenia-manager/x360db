@@ -1,0 +1,35 @@
+{
+    "id": "58550BDB",
+    "title": {
+        "full": "Murder Miners",
+        "reduced": "Murder Miners"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "JForce Games",
+    "publisher": "JForce Games",
+    "release_date": null,
+    "user_rating": "4.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. Murder Miners is the #1 rated Xbox Indie Game in the US. It's a fast-paced first-person shooter that combines some of the best aspects from our favorite games. Includes destructible environments, 20 players online, 4 player split-screen, vehicles, competitive deathmatch, CTF, Zombie Survival, Infection, and Murder Games! Tons of maps have been made by our fans. Join us at JForceGames.com.",
+        "short": "Murder Miners is the #1 rated Xbox Indie Game in the US. It's a fast-paced first-person shooter that combines some of the best aspects from our favorite games. Includes destructible environments, 20 players online, 4 player split-screen, vehicles, competitive deathmatch, CTF, Zombie Survival, Infection, and Murder Games! Tons of maps have been made by our fans. Join us at JForceGames.com."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550bdb/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550BDB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550bdb/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550BDB_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BDB_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BDB_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BDB_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "544307DB",
+    "title": {
+        "full": "QUANTUM THEORY",
+        "reduced": "QUANTUM THEORY"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "TECMO,LTD.",
+    "publisher": "TECMO KOEI GAMES CO., LTD",
+    "release_date": "2010-09-30",
+    "user_rating": "2.75",
+    "description": {
+        "full": "A dark tower looms over a wasted world. Infected by the diablosis, the living battlefields within shift and twist while a lone warrior, Syd, fights his way to the top.  Immerse yourself in an organic world as you make Syd climb on living platforms and throw his partner Filena in powerful melee attacks against colossal enemies. Merging intense combat with fast-paced action, experience a rich unique journey like you have never seen in QUANTUM THEORY.  Only from Tecmo.  Are you ready for the tower?",
+        "short": "A dark tower looms over a wasted world. Infected by the diablosis, the living battlefields within shift and twist while a lone warrior, Syd, fights his way to the top.  Immerse yourself in an organic world as you make Syd climb on living platforms and throw his partner Filena in powerful melee attacks against colossal enemies. Merging intense combat with fast-paced action, experience a rich unique journey like you have never seen in QUANTUM THEORY.  Only from Tecmo.  Are you ready for the tow…"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307db/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307db/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307db/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307db/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "544307DC",
+                "title": "QUANTUM THEORY"
+            }
+        ],
+        "related": []
+    }
+}

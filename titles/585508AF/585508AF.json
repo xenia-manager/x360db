@@ -1,0 +1,35 @@
+{
+    "id": "585508AF",
+    "title": {
+        "full": "Fredriksdal Assault",
+        "reduced": "Fredriksdal Assault"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "All-templates.biz",
+    "publisher": "All-templates.biz",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. Fredriksdal Assault is a multiplayer game with two game modes, Assault and Deathmatch, where you can play with split screen, over a local network (System Link) or over the Internet (LIVE).",
+        "short": "Fredriksdal Assault is a multiplayer game with two game modes, Assault and Deathmatch, where you can play with split screen, over a local network (System Link) or over the Internet (LIVE)."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585508af00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508AF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508af/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508AF_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508AF_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508AF_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508AF_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

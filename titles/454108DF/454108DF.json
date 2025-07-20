@@ -1,0 +1,87 @@
+{
+    "id": "454108DF",
+    "title": {
+        "full": "Dead Space 2",
+        "reduced": "Dead Space 2"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Visceral Games",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-04-27",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Engineer Isaac Clarke returns for another blood-curdling adventure in the sequel to the critically acclaimed Dead Space™. After waking from a coma on a massive space city known as “The Sprawl”, the lone survivor of a horrific alien infection finds himself confronting a catastrophic new nightmare. Battling dementia, hunted by the government, and haunted by visions of his dead girlfriend, Isaac will do whatever it takes to save himself and dominate the gruesome onslaught. With an arsenal of tools to dismember Necromorphs and new determination, an engineer will bring the terror to space. The nightmare returns in 2011.",
+        "short": "Engineer Isaac Clarke returns for another blood-curdling adventure in the sequel to the critically acclaimed Dead Space™. After waking from a coma on a massive space city known as “The Sprawl”, the lone survivor of a horrific alien infection finds himself confronting a catastrophic new nightmare. Battling dementia, hunted by the government, and haunted by visions of his dead girlfriend, Isaac will do whatever it takes to save himself and dominate the gruesome onslaught. With an arsenal of tools…"
+    },
+    "media": [
+        {
+            "media_id": "2915C8F8",
+            "title": "Dead Space 2 (Disc 1)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "1FE42336",
+            "title": "Dead Space 2 (Disc 1)",
+            "edition": "Original, Platinum Hits",
+            "region": "USA, Asia"
+        },
+        {
+            "media_id": "2C199AEB",
+            "title": "Dead Space 2 (Disc 1)",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "68A257DF",
+            "title": "Dead Space 2 (Disc 1)",
+            "edition": "Classics",
+            "region": "Europe"
+        },
+        {
+            "media_id": "711CE87F",
+            "title": "Dead Space 2 (Disc 2)",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "403243EC",
+            "title": "Dead Space 2 (Disc 2)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "6D3DB3E5",
+            "title": "Dead Space 2 (Disc 2)",
+            "edition": "Original, Platinum Hits",
+            "region": "USA, Asia"
+        },
+        {
+            "media_id": "27E9219D",
+            "title": "Dead Space 2 (Disc 2)",
+            "edition": "Classics",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108df/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108df/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108df/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108df/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108df/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108df/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108df/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108df/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108df/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108df/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108df/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

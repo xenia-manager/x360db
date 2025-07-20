@@ -1,0 +1,35 @@
+{
+    "id": "58550180",
+    "title": {
+        "full": "A Wizards Odyssey",
+        "reduced": "A Wizards Odyssey"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Digital Staircase Inc.",
+    "publisher": "Digital Staircase Inc.",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=1/3. Team up with friends (via XBOX Live, system link, or a different controller on the same XBOX360) or embark on a solo quest to save the land from an evil wizard.  To bring peace to the world, you'll have to become a master of magic by harnessing the four elements: earth, water, wind, and fire.  Each magic spell possesses a different tradeoff and imparts a unique strategic advantage in combat.",
+        "short": "Team up with friends (via XBOX Live, system link, or a different controller on the same XBOX360) or embark on a solo quest to save the land from an evil wizard.  To bring peace to the world, you'll have to become a master of magic by harnessing the four elements: earth, water, wind, and fire.  Each magic spell possesses a different tradeoff and imparts a unique strategic advantage in combat."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855018000000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550180_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550180/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550180_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550180_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550180_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550180_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

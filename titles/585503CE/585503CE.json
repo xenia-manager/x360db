@@ -1,0 +1,35 @@
+{
+    "id": "585503CE",
+    "title": {
+        "full": "Arcade Snake",
+        "reduced": "Arcade Snake"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "LemonBallGames",
+    "publisher": "LemonBallGames",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Eat / shoot your way through endless levels of Arcade Snake action including 25 distinct maze patterns.  The \"trial version\" of the game features the first 4 levels of play.  Four game difficulty modes:  Easy / Medium / Hard / Extreme.",
+        "short": "Eat / shoot your way through endless levels of Arcade Snake action including 25 distinct maze patterns.  The \"trial version\" of the game features the first 4 levels of play.  Four game difficulty modes:  Easy / Medium / Hard / Extreme."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585503ce/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585503CE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585503ce/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585503CE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503CE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503CE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503CE_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

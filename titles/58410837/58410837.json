@@ -1,0 +1,39 @@
+{
+    "id": "58410837",
+    "title": {
+        "full": "Ms PAC-MAN",
+        "reduced": "MSPAC-MAN"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "BANDAI NAMCO Entertainment Inc.",
+    "publisher": "BANDAI NAMCO Entertainment Inc.",
+    "release_date": "2010-01-04",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Single Player, 5.1 Surround Sound, HD (High Definition). Buy the full version of Ms. PAC-MAN, the sequel to the world-renowned Pac-Man, now featuring 2 Warp Tunnels to move through. Also, the fruits which appear are no longer stationary! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "The sequel to the global hit, Pac-Man. Classic gameplay with new added features!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410837/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410837/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410837/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410837/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410837/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410837/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410837/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410837/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410837/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410837/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410837/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410837/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550D3A",
+    "title": {
+        "full": "Penny Arcades Rain-Slick 4",
+        "reduced": "Penny Arcades Rain-Slick 4"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Zeboyd Games",
+    "publisher": "Zeboyd Games",
+    "release_date": null,
+    "user_rating": "4.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=3/3. The world has been destroyed but don't let that keep you down in this, the final installment of Penny Arcade's On the Rain-Slick Precipice of Darkness series. Explore a huge deadly world and fight off strange adversaries with your own monster team! From the creators of Cthulhu Saves the World and Breath of Death VII.",
+        "short": "The world has been destroyed but don't let that keep you down in this, the final installment of Penny Arcade's On the Rain-Slick Precipice of Darkness series. Explore a huge deadly world and fight off strange adversaries with your own monster team! From the creators of Cthulhu Saves the World and Breath of Death VII."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550d3a/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D3A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d3a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D3A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D3A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D3A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D3A_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

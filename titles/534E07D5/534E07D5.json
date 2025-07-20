@@ -1,0 +1,60 @@
+{
+    "id": "534E07D5",
+    "title": {
+        "full": "SAMURAI SHOWDOWN SEN",
+        "reduced": "SAMURAI SHOWDOWN SEN"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "SNK PLAYMORE CORPORATION",
+    "publisher": "SNK PLAYMORE CORPORATION",
+    "release_date": "2010-03-09",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, Spanish, Czech, Polish, Potuguese, Russian.  Here comes \"SAMURAI SHOWDOWN SEN\" - the latest episode of SAMURAI SHOWDOWN series on Xbox360! As in this title, there are in total 24 well-known along with brand new characters available on the arena, a whole new story featuring \"Takechiyo\" and \"Suzu\" is about to unveil. With \"Strong Slash\" smashing everything along its path, \"Bouncing\" switching the position of offence and defense, and \"Concentration\" reversing the result of the battle in a glimpse under critical status, a bunch of cool new elements are added into this new title! Moreover, you can also use \"Power Explosion\" to power up your attacking capability and increase the number of your skills, and then commence an \"Air Combo\" to beat your airborne rival to death!  What are you still waiting for? Come to experience the whole new SAMURAI SHOWDOWN now!!!",
+        "short": "The Games on Demand version supports  English, Japanese. Here comes \"SAMURAI SHOWDOWN SEN\" - the latest episode of SAMURAI SHOWDOWN series on Xbox360! As in this title, there are in total 24 well-known along with brand new characters available on the arena, a whole new story featuring \"Takechiyo\" and \"Suzu\" is about to unveil. "
+    },
+    "media": [
+        {
+            "media_id": "7DA5732F",
+            "title": "Samurai Shodown Sen",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "7A7A1CE0",
+            "title": "Samurai Spirits Sen",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1041/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1041/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1041/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1041/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1041/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1041/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1041/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1041/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e07d5/1041/screenlg16.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

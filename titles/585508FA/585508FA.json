@@ -1,0 +1,35 @@
+{
+    "id": "585508FA",
+    "title": {
+        "full": "Assembly Line",
+        "reduced": "Assembly Line"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "LoneWolf Studios",
+    "publisher": "LoneWolf Studios",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Do you have what it takes to put together a manufacturing line to produce the desired product?  Find out by using up to 12 of the 25 different machines to create the requested product.  100 levels are included and once these are completed, you will gain access to the level editor to continue creating your own levels.  Unlock new machines as you complete more levels.  Can you figure it out?",
+        "short": "Do you have what it takes to put together a manufacturing line to produce the desired product?  Find out by using up to 12 of the 25 different machines to create the requested product.  100 levels are included and once these are completed, you will gain access to the level editor to continue creating your own levels.  Unlock new machines as you complete more levels.  Can you figure it out?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585508fa00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508FA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508fa/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508FA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508FA_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508FA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508FA_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "58410B7A",
+    "title": {
+        "full": "Bloodforge",
+        "reduced": "Bloodforge"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting"
+    ],
+    "developer": "Climax Group",
+    "publisher": "Microsoft Studios",
+    "release_date": "2012-03-28",
+    "user_rating": "3.75",
+    "description": {
+        "full": "*TITLE UPDATE* Now featuring an improved camera system, Achievements fixes and overall balance pass for the best game experience.  With a brutal combat system, stunning art style, and a deeply compelling story, Bloodforge empowers you to slaughter hordes of demonic soldiers, deformed worshippers, and the gods themselves, using ferocious Rage Kills, devastating Rune attacks, and furious Weapon Combos. Help seal Crom’s fate – and the fate of the rest of the world – in this dark, visceral story of revenge, betrayal, and destiny.",
+        "short": "*TITLE UPDATE* Now featuring an improved camera system, Achievements fixes and overall balance pass for the best game experience.  With a brutal combat system, stunning art style, and a deeply compelling story, Bloodforge empowers you to slaughter hordes of demonic soldiers, deformed worshippers, and the gods themselves, using ferocious Rage Kills, devastating Rune attacks, and furious Weapon Combos."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7a/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7a/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7a/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7a/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7a/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7a/1033/screenlg13.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

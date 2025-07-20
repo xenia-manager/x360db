@@ -1,0 +1,40 @@
+{
+    "id": "524C07DE",
+    "title": {
+        "full": "Summer Challenge",
+        "reduced": "Summer Challenge"
+    },
+    "genre": [
+        "Family",
+        "Sports & Recreation"
+    ],
+    "developer": "49Games GmbH",
+    "publisher": "RTL Games GmbH",
+    "release_date": "2010-06-12",
+    "user_rating": null,
+    "description": {
+        "full": "Summer Challenge - Athletics Tournament offers fun for all sports enthusiasts and the entire family. Immerse yourself in the most popular summer sports, alone or with friends. The realistic graphics and the fantastic sound backdrop will transform your living room into a virtual track-and-field stadium. Summer Challenge offers a variety of interesting sports with competitions for up to four players, a complex single player career mode, and leaderboards that allow you to compete against athletes from all over the world.  FEATURES: 8 different sports with a total of 20 exciting disciplines (including fencing and trampolining), leaderboards, Summer Challenge career mode, individual levels of difficulty, 4 huge tournament arenas, realistic presentation.",
+        "short": "Summer Challenge - Athletics Tournament offers fun for all sports enthusiasts and the entire family. Immerse yourself in the most popular summer sports, alone or with friends. The realistic graphics and the fantastic sound backdrop will transform your living room into a virtual track-and-field stadium. Summer Challenge offers a variety of interesting sports with competitions for up to four players, a complex single player career mode, and leaderboards that allow you to compete against athletes …"
+    },
+    "media": [
+        {
+            "media_id": "74603778",
+            "title": "Summer Challenge: Athletics Tournament",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07de/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07de/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07de/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524c07de/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/524c07de/1/SummerChallengeAT_Manual_EN_revised.pdf"
+        ]
+    }
+}

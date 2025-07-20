@@ -1,0 +1,35 @@
+{
+    "id": "58550AD1",
+    "title": {
+        "full": "Spectrangle360",
+        "reduced": "Spectrangle360"
+    },
+    "genre": [
+        "Card & Board"
+    ],
+    "developer": "ironreavergames",
+    "publisher": "ironreavergames",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Spectrangle360 is the fast-paced game of skill and numbers. Strategically place your game pieces (\"trangs\") where they'll earn you the most points…while making it harder for your opponents to place their pieces. The more sides you match, the more points you score. Take the offense or the defense, but score the most points to win the game. Play against CPU opponents or with friends online.",
+        "short": "Spectrangle360 is the fast-paced game of skill and numbers. Strategically place your game pieces (\"trangs\") where they'll earn you the most points…while making it harder for your opponents to place their pieces. The more sides you match, the more points you score. Take the offense or the defense, but score the most points to win the game. Play against CPU opponents or with friends online."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550ad100000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550AD1_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550ad1/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550AD1_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AD1_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AD1_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AD1_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

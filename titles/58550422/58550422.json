@@ -1,0 +1,35 @@
+{
+    "id": "58550422",
+    "title": {
+        "full": "Cell Life",
+        "reduced": "Cell Life"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "TayX",
+    "publisher": "TayX",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Cell Life is a life simulator based on Conway's Game of Life.  There are a variety of game modes where you can explore Life by creating random simulations of anywhere from 100 cells to over 10000 cells at once, view a pattern library of amazing Life creations, experiment to create your own custom patterns and watch them evolve, or even use your entire TV screen as a simulation in screensaver mode!",
+        "short": "Cell Life is a life simulator based on Conway's Game of Life.  There are a variety of game modes where you can explore Life by creating random simulations of anywhere from 100 cells to over 10000 cells at once, view a pattern library of amazing Life creations, experiment to create your own custom patterns and watch them evolve, or even use your entire TV screen as a simulation in screensaver mode!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550422/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550422_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550422/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550422_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550422_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550422_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550422_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

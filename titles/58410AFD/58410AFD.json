@@ -1,0 +1,42 @@
+{
+    "id": "58410AFD",
+    "title": {
+        "full": "Worms Ultimate Mayhem",
+        "reduced": "Worms Ultimate Mayhem"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Strategy & Simulation"
+    ],
+    "developer": "Team 17 Software Ltd",
+    "publisher": "Team 17 Software Ltd",
+    "release_date": "2011-09-18",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Worms™: Ultimate Mayhem is the definitive 3D Worms™ game! Load your weapons and experience a whole new dimension in destructive turn-based cartoon action! Taking the game into 3D creates all-new strategic and gameplay possibilities. With over 80 single-player missions and challenges, Xbox LIVE multi-player for up to 4 players, 5 multi-player modes, unprecedented customization of both worms and weapons, and fully destructible environments, it’s bursting with anarchic mayhem. Battle and puzzle your way through all of the missions from both “Worms™ 3D” and “Worms™ 4: Mayhem” - it’s essentially two games in one, and is the ultimate 3D Worms™ collection. ",
+        "short": "Worms™: Ultimate Mayhem is the definitive 3D Worms™ game! Load your weapons and experience a new dimension in destructive turn-based cartoon action! With over 80 single-player missions, Xbox LIVE multi-player for up to 4 players, 5 multi-player modes, unprecedented customization and fully destructible environments, it’s the ultimate 3D Worms™ collection! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410afd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410afd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410afd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410afd/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410afd/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410afd/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410afd/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410afd/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410afd/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410afd/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410afd/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410afd/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410afd/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410afd/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

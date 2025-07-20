@@ -1,0 +1,47 @@
+{
+    "id": "415608E1",
+    "title": {
+        "full": "The Walking Dead Survival Instinct",
+        "reduced": "TWD Survival Instinct"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Terminal Reality",
+    "publisher": "Activision",
+    "release_date": "2013-03-19",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  The Walking Dead: Survival Instinct is a first-person action survival game that brings to life the authentic, heart-stopping horrors of the AMC hit TV series The Walking Dead. In the game, players assume the role of the mysterious, crossbow-wielding survivor Daryl Dixon, brought to life by TV series star Norman Reedus, alongside his overbearing brother Merle, voiced by Michael Rooker.",
+        "short": "The Walking Dead: Survival Instinct is a first-person action survival game that brings to life the authentic, heart-stopping horrors of the AMC hit TV series The Walking Dead."
+    },
+    "media": [
+        {
+            "media_id": "48DDF860",
+            "title": "The Walking Dead: Survival Instinct",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608e1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608e1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608e1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608e1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608e1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608e1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608e1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608e1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608e1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608e1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608e1/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/415608e1/0/9009P3-226_TWD_MNL_DIGITAL_FINAL.pdf"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": "4B4E080A",
+    "title": {
+        "full": "METAL GEAR RISING REVENGEANCE",
+        "reduced": "METAL GEAR RISING REVENGEANCE"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "PlatinumGames Inc.",
+    "publisher": "Konami Digital Entertainment",
+    "release_date": "2013-02-19",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese, Japanese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". METAL GEAR RISING: REVENGEANCE takes the renowned METAL GEAR franchise into exciting new territory by focusing on delivering an all-new action experience unlike anything that has come before.  Combining world-class development teams at Kojima Productions and PlatinumGames, MGR REVENGEANCE brings two of the world’s most respected teams together with a common goal of providing players with a fresh synergetic experience that combines the best elements of pure action and epic storytelling, all within the expansive MG universe.  The game introduces Raiden as the central character; a child soldier transformed into a half-man, half-machine cyborg ninja, equipped with a high-frequency katana blade and a soul fueled by revenge.",
+        "short": "METAL GEAR RISING: REVENGEANCE takes the renowned METAL GEAR franchise into exciting new territory by focusing on delivering an all-new action experience unlike anything that has come before. "
+    },
+    "media": [
+        {
+            "media_id": "6CC18291",
+            "title": "Metal Gear Rising: Revengeance",
+            "edition": "Original, Walmart Exclusive Soundtrack Edition",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e080a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e080a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e080a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e080a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e080a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e080a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e080a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e080a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e080a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e080a/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4b4e080a/MGR_English_Manual.pdf"
+        ]
+    }
+}

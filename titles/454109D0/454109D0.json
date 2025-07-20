@@ -1,0 +1,48 @@
+{
+    "id": "454109D0",
+    "title": {
+        "full": "Titanfall Deluxe Edition",
+        "reduced": "Titanfall Deluxe Edition"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Respawn Entertainment",
+    "publisher": "Electronic Arts",
+    "release_date": "2014-04-08",
+    "user_rating": "4.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Portuguese, Russian, Japanese, Korean, Chinese.  Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  REQUIRES XBOX LIVE GOLD, SOLD SEPARATELY.  Prepare for Titanfall. Crafted by one of the co-creators of Call of Duty and other key developers behind the Call of Duty franchise, Titanfall delivers fast-paced, hyperkinetic vertical warfare that gives shooter fans the freedom to fight their way as both elite assault Pilots and fast, heavily armored Titans. The Titanfall experience combines fluid, heart-pounding multiplayer action with the epic, dramatic moments of a cinematic universe  Games on Demand – now available with Season Pass included. NOTE: Installing to the Xbox 360 Hard Drive is recommended. Not doing so may result in degraded visual and audio quality. ",
+        "short": "Prepare for Titanfall. Crafted by one of the co-creators of Call of Duty and other key developers behind the Call of Duty franchise,Titanfall delivers fast-paced, hyperkinetic vertical warfare that gives shooter fans the freedom to fight their way as both elite assault Pilots and fast, heavily armored Titans. "
+    },
+    "media": [
+        {
+            "media_id": "4F7C9C32",
+            "title": "Titanfall",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "69A66644",
+            "title": "Titanfall",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109d0/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

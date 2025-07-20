@@ -1,0 +1,40 @@
+{
+    "id": "5841091E",
+    "title": {
+        "full": " Buku 数字パズル",
+        "reduced": "Buku数字パズル"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Absolutist Ltd.",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-04-09",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Single Player, Xbox LIVE Multiplayer 2-4, HD (High Definition).  There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Buku数字パズル takes the challenge of 数字パズル to a whole new level with 1200 puzzles, HD graphics, exciting multiplayer options, handy hint features, multiple grid sizes, and a new battle mode in which your actions affect your opponent’s board. Check it out!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091e/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "58410820",
+                "title": "Buku Sudoku"
+            }
+        ],
+        "related": []
+    }
+}

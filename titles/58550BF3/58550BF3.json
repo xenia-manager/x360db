@@ -1,0 +1,35 @@
+{
+    "id": "58550BF3",
+    "title": {
+        "full": "Bungee Ferret Tossing",
+        "reduced": "Bungee Ferret Tossing"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "yyrGames",
+    "publisher": "yyrGames",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=0/3. www.yyrgames.com - In this unique, action-packed experience, defeat the terrorists and storm their desert base using the most advanced Ferret Weapons Technology...all while swinging from a helicopter in style! A donation will be made for each copy sold; for more info, please visit www.yyrgames.com/bft.",
+        "short": "www.yyrgames.com - In this unique, action-packed experience, defeat the terrorists and storm their desert base using the most advanced Ferret Weapons Technology...all while swinging from a helicopter in style! A donation will be made for each copy sold; for more info, please visit www.yyrgames.com/bft."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550bf3/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550BF3_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550bf3/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550BF3_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BF3_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BF3_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BF3_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": "415608D3",
+    "title": {
+        "full": "Men in Black Alien Crisis",
+        "reduced": "MIB Alien Crisis"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Fun Labs",
+    "publisher": "Activision",
+    "release_date": "2012-10-16",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  It's your turn to suit up as the newest MIB recruit to eliminate the scum of the universe. Arm yourself with a full arsenal of iconic MIB weapons and head into the field with the mission to investigate and stop an evil alien plot to snatch up an ancient artifact that is the key to seizing control of the universe.  •3rd Person Combat Tactics: Dodge and take cover as you battle hostile aliens in this action-packed, 3rd person rail shooter.  •Diverse and Customizable Weapons: Wield a full arsenal of official MIB weaponry from the Noisy Cricket to the Deatomizer and select from a full array of awesome firepower modes such as \"Freeze Ray\" and \"Anti-Gravity Grenade.\"  •Multi-Player Battles: Challenge your friends and family to competitive split screen 2-player or up to 4-player “hot-seat” action!",
+        "short": "It's your turn to suit up as the newest MIB recruit to eliminate the scum of the universe. Arm yourself with a full arsenal of iconic MIB weapons and head into the field with the mission to investigate and stop an evil alien plot to snatch up an ancient artifact that is the key to seizing control of the universe."
+    },
+    "media": [
+        {
+            "media_id": "5C2D0F09",
+            "title": "MIB: Alien Crisis",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d3/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d3/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

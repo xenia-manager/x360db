@@ -1,0 +1,42 @@
+{
+    "id": "575207E7",
+    "title": {
+        "full": "WANTED Weapons of Fate",
+        "reduced": "WANTED Weapons of Fate"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "GRIN",
+    "publisher": "WB Games",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "Das Videospiel Wanted bietet spannende Action in der Third-Person-Perspektive und befördert Kämpfe mit charakteristischen Moves direkt aus dem Film, wie Kurvenkugeln und Assassinenzeit, sowie einer innovativen Multilayer-Covermechanik auf ein ganz neues Niveau.",
+        "short": "Das Videospiel Wanted bietet spannende Action in der Third-Person-Perspektive und befördert Kämpfe mit charakteristischen Moves direkt aus dem Film, wie Kurvenkugeln und Assassinenzeit, sowie einer innovativen Multilayer-Covermechanik auf ein ganz neues Niveau."
+    },
+    "media": [
+        {
+            "media_id": "4A977095",
+            "title": "Wanted: Weapons of Fate",
+            "edition": "Original",
+            "region": "Germany"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e7/1031/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e7/1031/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e7/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "575207DA",
+                "title": "WANTEDWeapons of Fate"
+            }
+        ],
+        "related": []
+    }
+}

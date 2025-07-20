@@ -1,0 +1,35 @@
+{
+    "id": "58550BE6",
+    "title": {
+        "full": "HackTris",
+        "reduced": "HackTris"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Hhaunted",
+    "publisher": "Hhaunted",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. The goal is hack the system, changing numbers positions and doing triple!  Decrease the target number before timer fall to zero. Let's see how far you can go!",
+        "short": "The goal is hack the system, changing numbers positions and doing triple!  Decrease the target number before timer fall to zero. Let's see how far you can go!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550be6/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550BE6_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550be6/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550BE6_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BE6_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BE6_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BE6_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

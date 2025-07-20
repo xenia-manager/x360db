@@ -1,0 +1,35 @@
+{
+    "id": "5855086C",
+    "title": {
+        "full": "Hedge Wizard",
+        "reduced": "Hedge Wizard"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Zombie Bonsai",
+    "publisher": "Zombie Bonsai",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. You and your loyal servant wander the world seeking out the only thing all wizards truly love: gold.   Use your spells, wits and helpful local peasants to get the gold before the village or your tower is burned, flooded, buried, eaten by zombies or in some other way horribly destroyed.   The game includes over twenty puzzling levels.",
+        "short": "You and your loyal servant wander the world seeking out the only thing all wizards truly love: gold.   Use your spells, wits and helpful local peasants to get the gold before the village or your tower is burned, flooded, buried, eaten by zombies or in some other way horribly destroyed.   The game includes over twenty puzzling levels."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855086c00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855086C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855086c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855086C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855086C_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855086C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855086C_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

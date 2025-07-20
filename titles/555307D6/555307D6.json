@@ -1,0 +1,58 @@
+{
+    "id": "555307D6",
+    "title": {
+        "full": "Rainbow Six Vegas",
+        "reduced": "TCs RainbowSix Vegas"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2010-08-03",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Rainbow operatives take to the chaotic streets of Las Vegas as an escalating terrorist siege in “Sin City” threatens to take world terrorism to new, uncontrollable heights. The future of global security hangs in the balance as you battle to defend classic Vegas locations and environments like Fremont Street, the Strip, and casinos. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Rainbow operatives take to the chaotic streets of Las Vegas as an escalating terrorist siege in “Sin City” threatens to take world terrorism to new, uncontrollable heights. The future of global security hangs in the balance as you battle to defend classic Vegas locations and environments like Fremont Street, the Strip, and casinos."
+    },
+    "media": [
+        {
+            "media_id": "5CB271BD",
+            "title": "Tom Clancy's Rainbow Six: Vegas",
+            "edition": "Original, Double Pack: Classics",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "4FA3AC10",
+            "title": "Tom Clancy's Rainbow Six: Vegas",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d6/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d6/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d6/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d6/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d6/7177/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/555307d6/bf3fb853-c03f-46dc-80ce-658fbd2924c6.PDF"
+        ]
+    }
+}

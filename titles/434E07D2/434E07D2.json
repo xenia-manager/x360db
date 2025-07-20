@@ -1,0 +1,38 @@
+{
+    "id": "434E07D2",
+    "title": {
+        "full": "Winter Sports 2",
+        "reduced": "Winter Sports 2"
+    },
+    "genre": [
+        "Sports & Recreation",
+        "Strategy & Simulation"
+    ],
+    "developer": "49Games GmbH",
+    "publisher": "Conspiracy",
+    "release_date": "2008-01-01",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Winter Sports 2 - The Next Challenge",
+        "short": "Winter Sports 2 - The Next Challenge"
+    },
+    "media": [
+        {
+            "media_id": "6B35F7BF",
+            "title": "Winter Sports 2: The Next Challenge",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434e07d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434e07d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434e07d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434e07d2/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

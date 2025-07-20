@@ -1,0 +1,35 @@
+{
+    "id": "585505DF",
+    "title": {
+        "full": "Spin",
+        "reduced": "Spin"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Betafreak",
+    "publisher": "Betafreak",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. Fly! Warp! Shoot! Pick up stuff!  Destroy! Save! Win!  Feel the intense action coursing through your veins as you save the space freighter fleet from maurading pirates!    Spin, a rerelease of a popular shareware shooter of the same name from the 90's, is fun and easy to play, similar to classic arcade games such as Bosconian and Sinistar. Spin is available both on Xbox and PC.",
+        "short": "Fly! Warp! Shoot! Pick up stuff!  Destroy! Save! Win!  Feel the intense action coursing through your veins as you save the space freighter fleet from maurading pirates!    Spin, a rerelease of a popular shareware shooter of the same name from the 90's, is fun and easy to play, similar to classic arcade games such as Bosconian and Sinistar. Spin is available both on Xbox and PC."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585505df/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505DF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505df/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505DF_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505DF_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505DF_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505DF_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": "41560819",
+    "title": {
+        "full": "Guitar Hero Aerosmith",
+        "reduced": "Guitar Hero Aerosmith"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "Neversoft Entertainment",
+    "publisher": "Activision",
+    "release_date": "2008-01-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Rise to Rock Royalty with Guitar Hero: Aerosmith - Perform alongside Aerosmith with over 25 of the bands Greatest Hits including Dream On, Mama Kin, and Walk this Way - Hottest Opening Licks by Superstar Bands including Lenny Kravitz, the Black Crowes, Run DMC, and Stone Temple Pilots - Get the inside scoop with exclusive behind-the-scenes footage of Aerosmith",
+        "short": "Rise to Rock Royalty with Guitar Hero: Aerosmith - Perform alongside Aerosmith with over 25 of the bands Greatest Hits including Dream On, Mama Kin, and Walk this Way - Hottest Opening Licks by Superstar Bands including Lenny Kravitz, the Black Crowes, Run DMC, and Stone Temple Pilots - Get the inside scoop with exclusive behind-the-scenes footage of Aerosmith"
+    },
+    "media": [
+        {
+            "media_id": "37A41C2D",
+            "title": "Guitar Hero: Aerosmith",
+            "edition": "Bundled with Guitar Controller",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560819/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560819/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560819/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560819/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560819/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560819/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560819/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560819/7177/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560819/7177/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560819/7177/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560819/7177/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

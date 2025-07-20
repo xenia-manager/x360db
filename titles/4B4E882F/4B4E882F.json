@@ -1,0 +1,35 @@
+{
+    "id": "4B4E882F",
+    "title": {
+        "full": "Castlevania Lords of Shadow - Demo",
+        "reduced": "Castlevania LoS - Demo"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Mercury Steam Entertainment",
+    "publisher": "Konami Digital Entertainment",
+    "release_date": "2010-10-04",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Castlevania: Lords of Shadow is a dark and vivid new re-imagining of the Castlevania mythology. It is the end of days and ungodly powers isolate the Earth. You are Gabriel Belmont, member of the Brotherhood of Light, armed with the Combat Cross to defend the living and destroy the dead.  Play the game demo now!",
+        "short": "Castlevania: Lords of Shadow is a dark and vivid new re-imagining of the Castlevania mythology. It is the end of days and ungodly powers isolate the Earth. You are Gabriel Belmont, member of the Brotherhood of Light, armed with the Combat Cross to defend the living and destroy the dead.  Play the game demo now!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e882f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e882f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e882f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e882f/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4B4E0809",
+                "title": "Castlevania LoS"
+            }
+        ],
+        "related": []
+    }
+}

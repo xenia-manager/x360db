@@ -1,0 +1,45 @@
+{
+    "id": "584111FE",
+    "title": {
+        "full": "Virtua Fighter 5 Final Showdown",
+        "reduced": "Virtua Fighter 5 Final Showdown"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "SEGA",
+    "publisher": "SEGA",
+    "release_date": "2012-06-06",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Reignite your inner fighter and prepare for the ultimate showdown!  Virtua Fighter 5 Final Showdown is the definitive version of the Virtua Fighter 5 series that incorporates all the enhancements SEGA has rolled out since 2007 with some brand new features. ",
+        "short": "This definitive version of the VF5 series includes overhauled fighting mechanics, new characters, new and advanced online multiplayer modes and more."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fe/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fe/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fe/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fe/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fe/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fe/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fe/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fe/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fe/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fe/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fe/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fe/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fe/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "534507EE",
+                "title": "Virtua Fighter 5"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "585508AE",
+    "title": {
+        "full": "Block the Laser",
+        "reduced": "Block the Laser"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "John D'India",
+    "publisher": "John D'India",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. In Block the Laser, your goal is to reach the exit while evading deadly lasers along the way. To accomplish this you’ll have to step on floor buttons to turn lasers on or off, open and close doors, or activate turnstiles which push anything that stand in their way. You can also manipulate mirrors to redirect the laser’s path or use doors and turnstiles to block the laser.",
+        "short": "In Block the Laser, your goal is to reach the exit while evading deadly lasers along the way. To accomplish this you’ll have to step on floor buttons to turn lasers on or off, open and close doors, or activate turnstiles which push anything that stand in their way. You can also manipulate mirrors to redirect the laser’s path or use doors and turnstiles to block the laser."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585508ae/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508AE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508ae/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508AE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508AE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508AE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508AE_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "585503CB",
+    "title": {
+        "full": "Zombie Outhouse",
+        "reduced": "Zombie Outhouse"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Bioroid Studios",
+    "publisher": "Bioroid Studios",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=3/3. Experience the terror of being trapped in the Zombie Outhouse as you try to defend yourself for as long as possible.  Play through 25 levels acquiring 5 different weapons to help you survive.",
+        "short": "Experience the terror of being trapped in the Zombie Outhouse as you try to defend yourself for as long as possible.  Play through 25 levels acquiring 5 different weapons to help you survive."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585503cb00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585503CB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585503cb/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585503CB_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503CB_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

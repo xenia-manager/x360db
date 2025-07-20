@@ -1,0 +1,52 @@
+{
+    "id": "4156091D",
+    "title": {
+        "full": "Call of Duty Black Ops III",
+        "reduced": "COD Black Ops III"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Treyarch",
+    "publisher": "Activision",
+    "release_date": "2015-11-06",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Call of Duty®: Black Ops III Xbox 360 version does not include a co-op or single-player campaign game mode, and does not contain all game features present in the Xbox One version. Game performance varies by platform. For more details visit callofduty.com/blackops3/features.  Call of Duty®: Black Ops III for Xbox 360 features two game modes only: Multiplayer and Zombies, providing fans with an expansive Multiplayer and an all-new film-noir inspired Zombies adventure.  Multiplayer provides new ways to rank up, customize, and gear up for battle. Zombies delivers a full-experience experience with its own distinct storyline.  © 2015 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, and stylized roman numeral III are trademarks of Activision Publishing, Inc.",
+        "short": "Call of Duty®: Black Ops III for Xbox 360 features two game modes only: Multiplayer and Zombies, providing fans with an expansive Multiplayer and an all-new film-noir inspired Zombies adventure.  Multiplayer provides new ways to rank up, customize, and gear up for battle. Zombies delivers a full-experience experience with its own distinct storyline."
+    },
+    "media": [
+        {
+            "media_id": "4613ACCE",
+            "title": "Call of Duty: Black Ops III",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "33B8D0AD",
+            "title": "Call of Duty: Black Ops III",
+            "edition": "Original, Black Ops Collection",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091d/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

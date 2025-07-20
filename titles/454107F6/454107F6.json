@@ -1,0 +1,77 @@
+{
+    "id": "454107F6",
+    "title": {
+        "full": "Medal of Honor Airborne",
+        "reduced": " Medal of Honor Airborne"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Electronic Arts Los Angeles",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-05-27",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) This game supports English only. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Take to the skies in Medal of Honor Airborne, where your choices will turn the tide of WWII.  Starting with your jump from a C-47, every choice you make can seal your fate.  In the air, control your parachute to select the landing spot that brings you the greatest strategic advantage.  On the ground, explore the open, vertical environment for positions that will provide you a tactical edge against your enemies.  Then, head onto Xbox LIVE for furious multiplayer battles in three different modes, including all-new Airborne modes!  You decide where to drop, you decide how to fight. It's a different war every time. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Take to the skies in Medal of Honor Airborne, where your choices will turn the tide of WWII.  Starting with your jump from a C-47, every choice you make can seal your fate.  In the air, control your parachute to select the landing spot that brings you the greatest strategic advantage.  On the ground, explore the open, vertical environment for positions that will provide you a tactical edge against your enemies.  Then, head onto Xbox LIVE for furious multiplayer battles in three different modes,"
+    },
+    "media": [
+        {
+            "media_id": "7CF39DF5",
+            "title": "Medal of Honor: Airborne",
+            "edition": "Original",
+            "region": "Korea"
+        },
+        {
+            "media_id": "5E593EE0",
+            "title": "Medal of Honor: Airborne",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "20A5C6CB",
+            "title": "Medal of Honor: Airborne",
+            "edition": "Original, Classics",
+            "region": "Europe"
+        },
+        {
+            "media_id": "184EBBBD",
+            "title": "Medal of Honor: Airborne",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "5797CB2C",
+            "title": "Medal of Honor: Airborne",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f6/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f6/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f6/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f6/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f6/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/454107f6/cd49cda9-aaef-4ee3-84e8-1476770d6c84.PDF"
+        ]
+    }
+}

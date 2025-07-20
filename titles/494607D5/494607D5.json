@@ -1,0 +1,50 @@
+{
+    "id": "494607D5",
+    "title": {
+        "full": "APOCALYPSE",
+        "reduced": "APOCALYPSE"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "アイディアファクトリー",
+    "publisher": "Idea Factory/InterFM",
+    "release_date": "2010-05-19",
+    "user_rating": null,
+    "description": {
+        "full": "ＧＯＣの始まりがここにある！あの名作のＧＯＣ１とＮＥＸＴが新システムで蘇る！ 新シナリオも加わり、ネバーランドの戦火はさらに激しくなる！",
+        "short": "ＧＯＣの始まりがここにある！あの名作のＧＯＣ１とＮＥＸＴが新システムで蘇る！ 新シナリオも加わり、ネバーランドの戦火はさらに激しくなる！"
+    },
+    "media": [
+        {
+            "media_id": "2D49C216",
+            "title": "Apocalypse: Desire Next",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d5/15369/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d5/15369/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d5/15369/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d5/15369/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d5/15369/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d5/15369/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d5/15369/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d5/15369/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d5/15369/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d5/15369/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d5/15369/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d5/15369/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

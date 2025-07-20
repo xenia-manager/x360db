@@ -1,0 +1,53 @@
+{
+    "id": "4B4E07F3",
+    "title": {
+        "full": "KR AI Encore 2",
+        "reduced": "KR AI Encore 2"
+    },
+    "genre": [
+        "Family",
+        "Music"
+    ],
+    "developer": "Blitz Games",
+    "publisher": "Konami",
+    "release_date": "2010-03-19",
+    "user_rating": "3.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) This game supports English, Spanish, and French. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Live out your dream as a singing sensation with Karaoke Revolution® Presents: American Idol® Encore 2! Play with friends and family online using the brand new co-op head-to-head mode, or compete in front of all three American Idol judges and sing your way to stardom. Customize your game experience with all-new enhanced characters and features and downloadable songs. Are you ready to be the next American Idol? There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Live out your dream as a singing sensation with Karaoke Revolution® Presents: American Idol® Encore 2! Play with friends and family online using the brand new co-op head-to-head mode, or compete in front of all three American Idol judges and sing your way to stardom. Customize your game experience with all-new enhanced characters and features and downloadable songs. Are you ready to be the next American Idol?"
+    },
+    "media": [
+        {
+            "media_id": "124A5BE6",
+            "title": "Karaoke Revolution Presents: American Idol Encore 2",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07f3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07f3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07f3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07f3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07f3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07f3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07f3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07f3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07f3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07f3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07f3/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07f3/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07f3/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07f3/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07f3/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07f3/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/01/9f/019ffdc8-584d-4fd2-a848-9a89e4c4160b.PDF?v=1#karaokerevaieman"
+        ]
+    }
+}

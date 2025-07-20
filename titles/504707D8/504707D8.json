@@ -1,0 +1,60 @@
+{
+    "id": "504707D8",
+    "title": {
+        "full": "Bejeweled 3",
+        "reduced": "Bejeweled 3"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "PopCap Games",
+    "publisher": "PopCap Games",
+    "release_date": "2011-11-15",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The biggest, brightest Bejeweled ever! Discover all-new ways to play the world’s #1 puzzle game. Find your perfect match with 8 breathtaking game modes that meet all your moods — ease into Classic Bejeweled for cascades of fun, journey through 40 challenging Quest puzzles, charge into the electrifying Lightning for non-stop action, and tailor your experience in Zen for a revolutionary new way to relax. Enjoy the amazing sights and sounds and engage in endless gem-matching fun, and earn flashy achievement badges as you soar to dazzling new heights!",
+        "short": "The biggest, brightest Bejeweled ever! Discover all-new ways to play the world’s #1 puzzle game. Find your perfect match with 8 breathtaking game modes that meet all your moods. Enjoy the amazing sights and sounds and engage in endless gem-matching fun, and earn flashy achievement badges as you soar to dazzling new heights!"
+    },
+    "media": [
+        {
+            "media_id": "7741BAE4",
+            "title": "Bejeweled 3",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "1B6ECC84",
+            "title": "Bejeweled 3",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "2A4BBF57",
+            "title": "Plants vs. Zombies",
+            "edition": "Original, Platinum Hits",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d8/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d8/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802504707d8/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

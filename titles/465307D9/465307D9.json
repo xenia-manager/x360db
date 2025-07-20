@@ -1,0 +1,64 @@
+{
+    "id": "465307D9",
+    "title": {
+        "full": "NINJA BLADE",
+        "reduced": "NINJA BLADE"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "FromSoftware, Inc.",
+    "publisher": "FromSoftware, Inc.",
+    "release_date": "2009-06-19",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The modern-day ninja has arrived! A contagious parasite is spreading through the streets of Tokyo, mutating the infected into bloodthirsty abominations. Only you can save humankind from extermination. Star in your own action movie as Ninja Blade takes you from the top of Tokyo’s skyscrapers to the bottom of its subways through stunning cinematics and fast-paced battle.",
+        "short": "The modern-day ninja has arrived! A contagious parasite is spreading through the streets of Tokyo, mutating the infected into bloodthirsty abominations. Only you can save humankind from extermination. Star in your own action movie as Ninja Blade takes you from the top of Tokyo’s skyscrapers to the bottom of its subways through stunning cinematics and fast-paced battle."
+    },
+    "media": [
+        {
+            "media_id": "76AEE85C",
+            "title": "Ninja Blade",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "6583400F",
+            "title": "Ninja Blade",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/7177/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/7177/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/7177/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/7177/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/7177/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/7177/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/7177/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/7177/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/7177/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/7177/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/7177/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/7177/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/7177/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d9/7177/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

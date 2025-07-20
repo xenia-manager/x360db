@@ -1,0 +1,48 @@
+{
+    "id": "4156082A",
+    "title": {
+        "full": "Monsters vs Aliens",
+        "reduced": "Monsters vs Aliens"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family",
+        "Platformer"
+    ],
+    "developer": "Beenox",
+    "publisher": "Activision",
+    "release_date": "2008-01-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Save the Earth as only a monster can in Monsters vs. Aliens ™ the Video Game, based on the new movie from DreamWorks Animation! Gallaxhar’s giant robot army is invading, and your team of monsters must stop them! Bash, slam, and ooze your way to victory as The Missing Link, Ginormica, and B.O.B.! A second player can join in and blast away robots at any time as Dr. Cockroach!",
+        "short": "Save the Earth as only a monster can in Monsters vs. Aliens ™ the Video Game, based on the new movie from DreamWorks Animation! Gallaxhar’s giant robot army is invading, and your team of monsters must stop them! Bash, slam, and ooze your way to victory as The Missing Link, Ginormica, and B.O.B.! A second player can join in and blast away robots at any time as Dr. Cockroach!"
+    },
+    "media": [
+        {
+            "media_id": "683C1781",
+            "title": "DreamWorks Monsters vs. Aliens",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082a/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082a/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082a/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

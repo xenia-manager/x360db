@@ -1,0 +1,35 @@
+{
+    "id": "58550936",
+    "title": {
+        "full": "Cute Things Dying Violently",
+        "reduced": "Cute Things Dying Violently"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "ApathyWorks",
+    "publisher": "ApathyWorks",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=3/3. Flick hapless Critters around to get them safely out of each level! Dodge all sorts of lethal goodies like spikes, buzzsaws, and fire, and use a variety of wacky items to pull it off. Play through 60 mind-bending, reflex-testing singleplayer levels, 6 bloodthirsty challenge levels, and 1 murderous bucket-headed robot! Want more? Try out the local multiplayer and the built-in level editor.",
+        "short": "Flick hapless Critters around to get them safely out of each level! Dodge all sorts of lethal goodies like spikes, buzzsaws, and fire, and use a variety of wacky items to pull it off. Play through 60 mind-bending, reflex-testing singleplayer levels, 6 bloodthirsty challenge levels, and 1 murderous bucket-headed robot! Want more? Try out the local multiplayer and the built-in level editor."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855093600000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550936_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550936/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550936_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550936_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550936_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550936_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

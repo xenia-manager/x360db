@@ -1,0 +1,63 @@
+{
+    "id": "5553081F",
+    "title": {
+        "full": "Rainbow Six Vegas 2",
+        "reduced": "TCs RainbowSix Vegas2"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "release_date": "2009-10-30",
+    "user_rating": null,
+    "description": {
+        "full": "The sequel to the award-winning next-generation first-person shooter returns to Sin City. Tom Clancy's Rainbow Six Vegas 2 is your last chance to rescue Vegas from an escalating terrorist siege that will force you into heart-pounding action from beginning to end. The best are back and this time winner takes all.",
+        "short": "The sequel to the award-winning next-generation first-person shooter returns to Sin City. Tom Clancy's Rainbow Six Vegas 2 is your last chance to rescue Vegas from an escalating terrorist siege that will force you into heart-pounding action from beginning to end. The best are back and this time winner takes all."
+    },
+    "media": [
+        {
+            "media_id": "2588FC6E",
+            "title": "Tom Clancy's Rainbow Six: Vegas 2",
+            "edition": "Original",
+            "region": "Germany"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553081f/1031/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "55530807",
+                "title": "Rainbow Six Vegas 2"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "58550720",
+    "title": {
+        "full": "Avatar Onslaught - BLIZZARD",
+        "reduced": "Avatar Onslaught - BLIZZARD"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Lighthouse Games Studio",
+    "publisher": "Lighthouse Games Studio",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Prepare yourself for an almighty Onslaught. Take on hordes of avatars in full HD as you compete against the best in the world. Onslaught - BLIZZARD features character leveling, global scoreboards and Avatars.",
+        "short": "Prepare yourself for an almighty Onslaught. Take on hordes of avatars in full HD as you compete against the best in the world. Onslaught - BLIZZARD features character leveling, global scoreboards and Avatars."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550720/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550720_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550720/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550720_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550720_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

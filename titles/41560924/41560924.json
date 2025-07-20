@@ -1,0 +1,41 @@
+{
+    "id": "41560924",
+    "title": {
+        "full": "Kings Quest - Chapter 1 A Knight to Remember",
+        "reduced": "Kings Quest  Ch 1"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "The Odd Gentlemen",
+    "publisher": "Sierra",
+    "release_date": "2015-07-29",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, German.  Download King’s Quest – Chapter 1: A Knight to Remember, the first part of a five-chapter game series that boldly reimagines one of gaming’s most groundbreaking franchises. An aging King Graham reflects on a life of adventure with his granddaughter, Gwendolyn, taking players back to his teen years and his quest to become a knight of Daventry in King Edward’s royal guard. Discover a wondrous world full of whimsical characters, charming puzzles and perilous dangers in this fun and enchanting coming of age story.  © 2015 Activision Publishing, Inc.  SIERRA, SIERRA with mountain design and KING’S QUEST are trademarks of Activision Publishing, Inc. Purchasing and using the software constitutes acceptance of the software license agreement available at support.activision.com/license",
+        "short": "Download King’s Quest – Chapter 1: A Knight to Remember. An aging King Graham reflects on a life of adventure with his granddaughter, Gwendolyn, taking players back to his teen years and his quest to become a knight of Daventry in King Edward’s royal guard. Discover a wondrous world full of whimsical characters, charming puzzles and perilous dangers in this fun and enchanting coming of age story."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560924/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560924/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560924/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560924/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560924/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560924/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560924/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560924/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560924/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560924/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560924/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560924/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560924/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560924/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

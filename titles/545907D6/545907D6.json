@@ -1,0 +1,41 @@
+{
+    "id": "545907D6",
+    "title": {
+        "full": "Defiance",
+        "reduced": "Defiance"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Trion Worlds, Inc.",
+    "publisher": "Trion Worlds, Inc.",
+    "release_date": "2013-03-25",
+    "user_rating": null,
+    "description": {
+        "full": "Arktech. Some die for it – everyone kills for it. Join a futuristic online open-world shooter where thousands of players scour a transformed Earth competing for alien technology. Hunt alone or with others as you improve your skills and level up unlocking powerful weapons that will help you survive the massive battles that await.",
+        "short": "Join a futuristic online open-world shooter where thousands of players scour a transformed Earth competing for alien technology."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d6/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "545907D1",
+                "title": "Defiance™"
+            }
+        ],
+        "related": []
+    }
+}

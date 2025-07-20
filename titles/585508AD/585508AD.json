@@ -1,0 +1,35 @@
+{
+    "id": "585508AD",
+    "title": {
+        "full": "Kung Fu FIGHT",
+        "reduced": "Kung Fu FIGHT"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Nostatic Software",
+    "publisher": "Nostatic Software",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. Fight the bad guys, save the girl - you know the drill!",
+        "short": "Fight the bad guys, save the girl - you know the drill!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585508ad/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508AD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508ad/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508AD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508AD_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508AD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508AD_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

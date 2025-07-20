@@ -1,0 +1,35 @@
+{
+    "id": "58550BBC",
+    "title": {
+        "full": "Drinkards Beer Pong",
+        "reduced": "Drinkards Beer Pong"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "The Unallied",
+    "publisher": "The Unallied",
+    "release_date": null,
+    "user_rating": "4.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=3/3, Mature Content=3/3. Play Team Drinkards simulation of a classic college drinking game! Powerful 3D physics make each throw a thrill while you compete with friends - at home or on Xbox LIVE. Set the House Rules for Re-Racks, Bounces, Overtime, and Island Shots! Hone your skill against AI and a Global Score list! Unlock 3 venues and 25 tables! Crack a can or pop a bottle, but please play Beer Pong/Beirut responsibly.",
+        "short": "Play Team Drinkards simulation of a classic college drinking game! Powerful 3D physics make each throw a thrill while you compete with friends - at home or on Xbox LIVE. Set the House Rules for Re-Racks, Bounces, Overtime, and Island Shots! Hone your skill against AI and a Global Score list! Unlock 3 venues and 25 tables! Crack a can or pop a bottle, but please play Beer Pong/Beirut responsibly."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550bbc/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550BBC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550bbc/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550BBC_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BBC_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BBC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BBC_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

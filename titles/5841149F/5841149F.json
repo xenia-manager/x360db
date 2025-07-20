@@ -1,0 +1,40 @@
+{
+    "id": "5841149F",
+    "title": {
+        "full": "Goosebumps The Game",
+        "reduced": "Goosebumps The Game"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Other",
+        "Puzzle & Trivia"
+    ],
+    "developer": "WayForward",
+    "publisher": "GameMill Entertainment",
+    "release_date": "2015-10-14",
+    "user_rating": "3.25",
+    "description": {
+        "full": "The walk home from school today is going to be a lot spookier than usual… Your sleepy neighborhood’s been overrun by monsters! Werewolves prowl the woods, Gnomes roam underfoot, and scarecrows walk at midnight. But these aren’t ordinary monsters—they’re R.L. Stine’s famous Goosebumps monsters, released from their books and looking to wreak havoc! You’ll need to use your wits to investigate the surroundings, puzzle out clues, and outsmart the monsters before it’s too late! Survive a trek through your neighborhood, unravel the mysteries of the Dead House, and sneak through the mall after hours; only then can you confront Slappy and stop his plans for revenge! Players beware… you’re in for a scare in the exciting Goosebumps video game, a prequel to the major motion picture in theaters October 16th!",
+        "short": "The walk home from school today is going to be a lot spookier than usual… Your sleepy neighborhood’s been overrun by monsters! Werewolves prowl the woods, Gnomes roam underfoot, and scarecrows walk at midnight. But these aren’t ordinary monsters—they’re R.L. Stine’s famous Goosebumps monsters, released from their books and looking to wreak havoc!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841149f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841149f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841149f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841149f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841149f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841149f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841149f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841149f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841149f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841149f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841149f/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

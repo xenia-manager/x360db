@@ -1,0 +1,94 @@
+{
+    "id": "4D530808",
+    "title": {
+        "full": "Halo Wars",
+        "reduced": "Halo Wars"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Strategy & Simulation"
+    ],
+    "developer": "Ensemble Studios",
+    "publisher": "Microsoft",
+    "release_date": "2010-08-11",
+    "user_rating": "4.25",
+    "description": {
+        "full": "In approximately ONE YEAR, in December 2021, online services for legacy Halo Xbox 360 titles will be discontinued. Owners of these titles will still be able to play these games indefinitely, however, certain online features and experiences, particularly online matchmaking, will be limited or disabled.    (Online Interactions Not Rated by the ESRB) This game supports English. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Halo Wars is a strategy game based on the legendary Halo® universe.  Command entire armies of Spartans, Warthogs and more into combat as you join the crew of the “Spirit of Fire” to battle the alien Covenant.  Designed from the ground up for the Xbox 360, Halo Wars let you effortlessly command powerful armies in epic battles. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Halo Wars is a strategy game based on the legendary Halo® universe.  Command entire armies of Spartans, Warthogs and more into combat as you join the crew of the “Spirit of Fire” to battle the alien Covenant.  Designed from the ground up for the Xbox 360, Halo Wars let you effortlessly command powerful armies in epic battles."
+    },
+    "media": [
+        {
+            "media_id": "32B27560",
+            "title": "Halo Wars",
+            "edition": "Limited Edition",
+            "region": "Japan"
+        },
+        {
+            "media_id": "63AA304D",
+            "title": "Halo Wars",
+            "edition": "Original, Platinum Hits",
+            "region": "USA"
+        },
+        {
+            "media_id": "2648B23F",
+            "title": "Halo Wars",
+            "edition": "Original, Classics: Best Sellers, Edición Coleccionista",
+            "region": "Europe, Australia"
+        },
+        {
+            "media_id": "795D12EB",
+            "title": "Halo Wars",
+            "edition": "Classics",
+            "region": "Germany"
+        },
+        {
+            "media_id": "6E86CA27",
+            "title": "Halo Wars",
+            "edition": "Original, Classics",
+            "region": "Russia"
+        },
+        {
+            "media_id": "32A65AF0",
+            "title": "Halo Wars",
+            "edition": "Original",
+            "region": "Italy"
+        },
+        {
+            "media_id": "3B7B2806",
+            "title": "Halo Wars",
+            "edition": "Halo Wars + Halo 3 Bundle",
+            "region": "France"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530808/1033/screenlg19.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

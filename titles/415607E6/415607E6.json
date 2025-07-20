@@ -1,0 +1,77 @@
+{
+    "id": "415607E6",
+    "title": {
+        "full": "Call of Duty 4 Modern Warfare",
+        "reduced": "Modern Warfare"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Infinity Ward",
+    "publisher": "Activision",
+    "release_date": "2007-11-05",
+    "user_rating": "4.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) This game supports English. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". The new action thriller from the award-winning team at Infinity Ward Inc., Call of Duty® 4: Modern Warfare™ delivers the most intense and cinematic action experience ever. The epic title also features the added depth of multiplayer action for an all-new community of persistent, addictive, and customizable gameplay. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "The new action thriller from the award-winning team at Infinity Ward Inc., Call of Duty® 4: Modern Warfare™ delivers the most intense and cinematic action experience ever. The epic title also features the added depth of multiplayer action for an all-new community of persistent, addictive, and customizable gameplay."
+    },
+    "media": [
+        {
+            "media_id": "15AA06CF",
+            "title": "Call of Duty 4: Modern Warfare",
+            "edition": "Original, Reprint (Square Enix)",
+            "region": "Japan"
+        },
+        {
+            "media_id": "1D95A663",
+            "title": "Call of Duty 4: Modern Warfare",
+            "edition": "Original",
+            "region": "Spain"
+        },
+        {
+            "media_id": "15E8CF88",
+            "title": "Call of Duty 4: Modern Warfare",
+            "edition": "Original, Classics, Platinum Hits, Call of Duty: Modern Warfare Trilogy",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "7E62412D",
+            "title": "Call of Duty 4: Modern Warfare",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "0F98F29C",
+            "title": "Call of Duty 4: Modern Warfare",
+            "edition": "Original",
+            "region": "Italy"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e6/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e6/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e6/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e6/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e6/7177/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/415607e6/12fa797e-2c9f-4b88-acb4-563ec048c6ed.PDF"
+        ]
+    }
+}

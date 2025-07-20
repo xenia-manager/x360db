@@ -1,0 +1,35 @@
+{
+    "id": "58550E92",
+    "title": {
+        "full": "Space Dual",
+        "reduced": "Space Dual"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "We Love Hamsters Software",
+    "publisher": "We Love Hamsters Software",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Harkening back to the 1v1 origins of all video games, this game challenges you to master direct control over two ships and destroy your opponents base. Does your left thumb know what your right thumb is doing?",
+        "short": "Harkening back to the 1v1 origins of all video games, this game challenges you to master direct control over two ships and destroy your opponents base. Does your left thumb know what your right thumb is doing?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550e9200000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E92_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e92/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E92_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E92_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E92_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E92_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

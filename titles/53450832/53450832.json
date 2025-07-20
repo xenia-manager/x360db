@@ -1,0 +1,58 @@
+{
+    "id": "53450832",
+    "title": {
+        "full": "End of Eternity",
+        "reduced": "End of Eternity"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "tri-Ace Inc.",
+    "publisher": "SEGA",
+    "release_date": "2009-09-05",
+    "user_rating": "3.75",
+    "description": {
+        "full": "天頂に向かってそびえ立つ巨大な機械 「バーゼル」の中でしか生き永らえぬ人々。 世界には太古に忘れ去られた秘密がある―。 終わりゆく世界で“運命”が交錯し、物語は始まる。 奥深いストーリーと銃弾飛び交う激しいバトル。 数々のRPGを手がけたトライエースとセガによる完全新作RPG",
+        "short": "天頂に向かってそびえ立つ巨大な機械 「バーゼル」の中でしか生き永らえぬ人々。 世界には太古に忘れ去られた秘密がある―。 終わりゆく世界で“運命”が交錯し、物語は始まる。 奥深いストーリーと銃弾飛び交う激しいバトル。 数々のRPGを手がけたトライエースとセガによる完全新作RPG"
+    },
+    "media": [
+        {
+            "media_id": "54F8C2C9",
+            "title": "End of Eternity",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

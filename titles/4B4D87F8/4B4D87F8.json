@@ -1,0 +1,35 @@
+{
+    "id": "4B4D87F8",
+    "title": {
+        "full": "Saints Row IV Inauguration Station",
+        "reduced": "Saints Row IV Inauguration Station"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "DS Volition",
+    "publisher": "Deep Silver",
+    "release_date": "2013-08-06",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Upload characters created or modified in the \"Inauguration Station\" to play with them in Saints Row IV.    Tip: You can download your Saints Row: The Third characters to update them for Saints Row IV.  Browse an online gallery to view thousands of shared community characters. ",
+        "short": "Upload characters created or modified in the \"Inauguration Station\" to play with them in Saints Row IV.    Tip: You can download your Saints Row: The Third characters to update them for Saints Row IV.  Browse an online gallery to view thousands of shared community characters. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d87f8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d87f8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d87f8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d87f8/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4B4D07F6",
+                "title": "Saints Row IV"
+            }
+        ],
+        "related": []
+    }
+}

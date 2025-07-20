@@ -1,0 +1,42 @@
+{
+    "id": "58410AA3",
+    "title": {
+        "full": "Alien Breed 3 Descent",
+        "reduced": "Alien Breed 3 Descent"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Team17 Software Ltd",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-07-28",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Alien Breed™ 3: Descent is an explosive science fiction arcade-shooter with an epic story, swarms of highly intelligent alien enemies, high-impact weapons, highly detailed environments, developed using Epic Games' Unreal® Engine 3. In addition to the thrilling conclusion to the single-player campaign and the relentless survivor mode, the game offers action-packed, online or local two-player co-operative battle modes, for Xbox™ Live Arcade.",
+        "short": "(Online Interactions Not Rated by the ESRB) Alien Breed™ 3: Descent is the final explosive chapter in the Alien Breed™ series, and is a science fiction arcade-shooter with an epic story, swarms of highly intelligent alien enemies, high-impact weapons, highly detailed and rich environments, developed using Epic Games' Unreal® Engine 3. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa3/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa3/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa3/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa3/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

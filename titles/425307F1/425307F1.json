@@ -1,0 +1,56 @@
+{
+    "id": "425307F1",
+    "title": {
+        "full": "DOOM 3 BFG Edition",
+        "reduced": "DOOM 3 BFG Edition"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "id Software",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2012-10-16",
+    "user_rating": "4.50",
+    "description": {
+        "full": "DOOM 3 BFG Edition is the ultimate collection of groundbreaking games that defined the first person shooter. It includes DOOM, DOOM II, DOOM 3, and DOOM 3: Resurrection of Evil, as well as the \"Lost Mission\".  All DOOM 3 content has been re-mastered for Xbox 360 in stunning 3D for an even more terrifying FPS experience.",
+        "short": "The ultimate collection of games that defined the 1st person shooter including DOOM, DOOM II, DOOM 3, DOOM 3: Resurrection of Evil and the Lost Mission."
+    },
+    "media": [
+        {
+            "media_id": "4257B465",
+            "title": "Doom 3: BFG Edition",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "6BF9279A",
+            "title": "Doom 3: BFG Edition",
+            "edition": "Original, Reprint",
+            "region": "Germany"
+        },
+        {
+            "media_id": "0843620B",
+            "title": "Doom 3: BFG Edition",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f1/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550EA4",
+    "title": {
+        "full": "Cromo Dynamix",
+        "reduced": "Cromo Dynamix"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "ElvishJumpSuit",
+    "publisher": "ElvishJumpSuit",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Classic Twin-Stick Shooter. Single and Online Multiplayer Battles in a retro style.  The Earth is under attack from an invisible enemy. In a microscopic world beneath the nature we can perceive, a battle rages for supremacy.  If you can handle the pressure then you must join the fight.  Update 2 fixes some bugs and makes Space Piranha a lot easier.",
+        "short": "Classic Twin-Stick Shooter. Single and Online Multiplayer Battles in a retro style.  The Earth is under attack from an invisible enemy. In a microscopic world beneath the nature we can perceive, a battle rages for supremacy.  If you can handle the pressure then you must join the fight.  Update 2 fixes some bugs and makes Space Piranha a lot easier."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550ea400000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550EA4_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550ea4/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550EA4_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EA4_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EA4_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EA4_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

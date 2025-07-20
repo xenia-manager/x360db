@@ -1,0 +1,40 @@
+{
+    "id": "5553088D",
+    "title": {
+        "full": "Black Eyed Peas Experience",
+        "reduced": "Black Eyed Peas Experience"
+    },
+    "genre": [
+        "Kinect",
+        "Music"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2011-11-08",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Get the party started in your living room with the world's hottest group in the world's hottest new dance game. The Black Eyed Peas Experience features chart topping tracks from the Black Eyed Peas - including the biggest hits that transformed them into a global phenomenon! Perform iconic dance moves alongside apl.de.ap, Fergie, Taboo and will.i.am with professional choreography designed exclusively for the group. Take the party worldwide and jump on tour to experience all the energy and unforgettable venues inspired by their shows and music videos. The Black Eyed Peas Experience is the ultimate dance game and the ultimate way to keep the party rocking.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor.",
+        "short": "The Games on Demand version supports English, French, Italian, German, Spanish.  Get the party started in your living room with the world’s hottest group in the world’s hottest new dance game.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor"
+    },
+    "media": [
+        {
+            "media_id": "4420DAF8",
+            "title": "The Black Eyed Peas Experience",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553088d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553088d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553088d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553088d/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/5553088d/BEP_XBOX360_manual_UKV_reapro2012.pdf"
+        ]
+    }
+}

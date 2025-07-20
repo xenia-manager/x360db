@@ -1,0 +1,45 @@
+{
+    "id": "45410929",
+    "title": {
+        "full": "Create",
+        "reduced": "Create"
+    },
+    "genre": [
+        "Other",
+        "Puzzle & Trivia"
+    ],
+    "developer": "Bright Light",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-11-16",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The multiplayer functionality of this title is no longer available.  You will only have access to the single player aspects of the game after download  Create™, the must-have video game that is powered by your imagination and rewards you for being creative. The more you create, the more you unlock rewards in Create. With exciting challenges to play, open up your imagination to new ways to play. Unleash your creativity as you design unique environments with easy-to-use brushes and tools, including animating objects, textures, and designs that bring your scene to life. Let your imagination run wild and see what you can Create!",
+        "short": "Create™, the must-have video game that is powered by your imagination and rewards you for being creative. The more you create, the more you unlock rewards in Create. With exciting challenges to play, open up your imagination to new ways to play. Unleash your creativity as you design unique environments with easy-to-use brushes and tools, including animating objects, textures, and designs that bring your scene to life. Let your imagination run wild and see what you can Create!"
+    },
+    "media": [
+        {
+            "media_id": "59AE67FF",
+            "title": "Create",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410929/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410929/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410929/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410929/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410929/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410929/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410929/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410929/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410929/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410929/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

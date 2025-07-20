@@ -1,0 +1,41 @@
+{
+    "id": "5841086E",
+    "title": {
+        "full": "Puzzle Fighter HD",
+        "reduced": "Puzzle Fighter HD"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Backbone Entertainment, Inc.",
+    "publisher": "Capcom",
+    "release_date": "2009-12-23",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Single Player, Live Multiplayer 1-4, Local Multiplayer 1-2, HD (High Definition). One of the most popular puzzle games of all time is back with HD graphics, dazzling elemental effects and a new re-balanced X' mode! Super Puzzle Fighter II Turbo HD Remix brings together the worlds of Street Fighter, Darkstalkers and other Capcom characters to provide extremely addictive puzzle mayhem. Enjoy single player, local & online versus modes or just watch other players duke it out. Upgrade to the full game! Unlock your ability to earn achievements and track your high scores on the Xbox LIVE Leaderboards. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "One of the most popular puzzle games of all time is back with HD graphics, dazzling elemental effects and a new re-balanced X' mode! Super Puzzle Fighter II Turbo® HD Remix brings together the worlds of Street Fighter, Darkstalkers and other Capcom characters to provide extremely addictive puzzle mayhem. Enjoy single player, local & online versus modes or just watch other players duke it out."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841086e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841086e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841086e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841086e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841086e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841086e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841086e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841086e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841086e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841086e/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841086e/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841086e/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841086e/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841086e/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

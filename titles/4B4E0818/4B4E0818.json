@@ -1,0 +1,42 @@
+{
+    "id": "4B4E0818",
+    "title": {
+        "full": "Ninety-Nine NightsⅡAP",
+        "reduced": "Ninety-Nine NightsⅡAP"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "feelplus",
+    "publisher": "Konami Digital Entertainment",
+    "release_date": "2010-04-14",
+    "user_rating": "4.00",
+    "description": {
+        "full": "An action packed game where the player must battle Giant bosses and hordes of enemy soldiers The players are given mission to clear during gameplay and they must use their action skills to solve the gimmicks and traps to clear the missions.",
+        "short": "An action packed game where the player must battle Giant bosses and hordes of enemy soldiers The players are given mission to clear during gameplay and they must use their action skills to solve the gimmicks and traps to clear the missions."
+    },
+    "media": [
+        {
+            "media_id": "0E36809B",
+            "title": "N3II: Ninety-Nine Nights",
+            "edition": "Original",
+            "region": "Asia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0818/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0818/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0818/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0818/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D5307DB",
+                "title": "Ninety-Nine Nights"
+            }
+        ],
+        "related": []
+    }
+}

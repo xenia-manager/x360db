@@ -1,0 +1,41 @@
+{
+    "id": "58410AA4",
+    "title": {
+        "full": "Hearts of Iron Road to War",
+        "reduced": "Hearts of Iron Road to War"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Cyberfront Corporation",
+    "publisher": "Cyberfront Corporation",
+    "release_date": "2012-04-04",
+    "user_rating": null,
+    "description": {
+        "full": "It’s time to take command and lead your nation through World War II, the largest conflict in world history. Hearts of Iron lets you take charge on any front, as any country, and through a variety of scenarios. Guide your nation to glory from 1936 to 1948: wage war on the battlefields, in the factories, and at the negotiating table, in the most detailed game based on World War II ever made.",
+        "short": "Guide your nation: wage war on the battlefields, in the factories, and at the negotiating table, in the most detailed game based on World War II ever made."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa4/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa4/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa4/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

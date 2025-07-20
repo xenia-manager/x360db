@@ -1,0 +1,43 @@
+{
+    "id": "4D5389E7",
+    "title": {
+        "full": "Kinect Sports Season Two",
+        "reduced": "Kinect Sports Season Two"
+    },
+    "genre": [
+        "Avatar",
+        "Family",
+        "Independent & Music Videos",
+        "Kinect",
+        "Music and Short Videos",
+        "Sports",
+        "Sports & Recreation",
+        "Xbox 360 Exclusives",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "Rare",
+    "publisher": "Microsoft Studios",
+    "release_date": "2011-06-06",
+    "user_rating": null,
+    "description": {
+        "full": "“Kinect Sports: Season Two” sprints out of the box at full speed, taking full advantage of the revolutionary Kinect technology and its latest exciting features like in-game voice commands and enhanced motion tracking. Bringing the family together, and introducing Challenge Play to Xbox LIVE and living rooms worldwide, “Kinect Sports: Season Two” harnesses the power of friendly competition to provide a more immersive experience for everyone from casual players to top-notch athletes and hardcore sports fans.",
+        "short": "“Kinect Sports: Season Two” sprints out of the box at full speed, taking full advantage of the revolutionary Kinect technology and its latest exciting features like in-game voice commands and enhanced motion tracking."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389e7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389e7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389e7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389e7/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D5309D6",
+                "title": "Kinect Sports: Season Two"
+            }
+        ],
+        "related": []
+    }
+}

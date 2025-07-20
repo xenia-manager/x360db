@@ -1,0 +1,46 @@
+{
+    "id": "373407DB",
+    "title": {
+        "full": "Barbie and Her Sisters Puppy Rescue",
+        "reduced": "Barbie Puppy"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Torus Games",
+    "publisher": "Little Orbit",
+    "release_date": "2015-11-03",
+    "user_rating": "3.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Spanish, Portuguese. Join Barbie and her sisters –Skipper, Stacie and Chelsea – as they solve clues to find and rescue lost puppies in need.  Give puppies a check-up with Skipper at the Roberts Sisters Puppy Rescue, groom the pups at Chelsea’s Puppy Day Care or teach them new tricks at the Pup Camp with Stacie! Nurture and play with the puppies until they can go to their fur-ever homes! •       Find lost puppies around town and solve clues to rescue pups in need •       Customize kennels with toys, blankets, beds and more! •       Groom and care for puppies and teach them fun new tricks ",
+        "short": "Join Barbie and her sisters –Skipper, Stacie and Chelsea – as they solve clues to find and rescue lost puppies in need.   •       Customize kennels with toys, blankets, beds and more! •       Groom and care for puppies and teach them fun new tricks"
+    },
+    "media": [
+        {
+            "media_id": "4912DF80",
+            "title": "Barbie & Her Sisters: Puppy Rescue",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407db/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407db/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407db/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407db/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407db/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407db/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407db/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407db/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407db/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407db/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407db/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407db/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

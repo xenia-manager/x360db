@@ -1,0 +1,35 @@
+{
+    "id": "5855068C",
+    "title": {
+        "full": "Get Rich or Die Gaming",
+        "reduced": "Get Rich or Die Gaming"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Baller Industries",
+    "publisher": "Baller Industries",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=3/3, Mature Content=3/3. A young man, Wilson Cooper, is playing video games at home, something his Dad forbids him to do. His Dad unexpectedly returns home early to find Wilson in the midst of a game. Dad is so furious, he kicks Wilson out of the house and leaves him on the streets of a ghetto. It is at this exact point you take control of Wilson Cooper, and guide him to riches.",
+        "short": "A young man, Wilson Cooper, is playing video games at home, something his Dad forbids him to do. His Dad unexpectedly returns home early to find Wilson in the midst of a game. Dad is so furious, he kicks Wilson out of the house and leaves him on the streets of a ghetto. It is at this exact point you take control of Wilson Cooper, and guide him to riches."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855068c00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855068C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855068c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855068C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855068C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855068C_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855068C_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

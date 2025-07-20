@@ -1,0 +1,35 @@
+{
+    "id": "5855025C",
+    "title": {
+        "full": "Nebulon",
+        "reduced": "Nebulon"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Dark Omen Games",
+    "publisher": "Dark Omen Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Old School Arcade Action for the 21st Century! Featuring adaptive gameplay, a host of awesome weaponry, stunning effects and a thumping soundtrack to match. Get those trigger fingers ready - this is Retro as it was meant to be played... NEW VERSION: Now supports classic dual-stick control for those who prefer this style of play.",
+        "short": "Old School Arcade Action for the 21st Century! Featuring adaptive gameplay, a host of awesome weaponry, stunning effects and a thumping soundtrack to match. Get those trigger fingers ready - this is Retro as it was meant to be played... NEW VERSION: Now supports classic dual-stick control for those who prefer this style of play."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855025c/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855025C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855025c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855025C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855025C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855025C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855025C_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

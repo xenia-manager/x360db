@@ -1,0 +1,42 @@
+{
+    "id": "5841129A",
+    "title": {
+        "full": "CastleStorm",
+        "reduced": "CastleStorm"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Strategy & Simulation"
+    ],
+    "developer": "ZEN Studios Ltd.",
+    "publisher": "Microsoft Studios",
+    "release_date": "2013-05-29",
+    "user_rating": "4.00",
+    "description": {
+        "full": "It’s Knights vs. Vikings in CastleStorm, where medieval warfare meets 2D physics-based destruction! Controlling the battle in real time, players will harness the power of medieval artillery, manage a fearsome ground attack, and cast powerful spells! CastleStorm features a story-driven solo campaign, a custom castle editor, online multiplayer, co-op modes, and more. Building castles and knocking them down has never been so much fun!",
+        "short": "It’s Knights vs. Vikings in CastleStorm, where medieval warfare meets 2D physics-based destruction! Controlling the battle in real time, players will harness the power of medieval artillery, manage a fearsome ground attack, and cast powerful spells! CastleStorm features a story-driven solo campaign, a custom castle editor, online multiplayer, co-op modes, and more. Building castles and knocking them down has never been so much fun!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129a/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129a/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129a/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129a/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129a/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

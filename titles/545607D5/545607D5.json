@@ -1,0 +1,31 @@
+{
+    "id": "545607D5",
+    "title": {
+        "full": "Rock Band Music Store",
+        "reduced": "Rock Band Music Store"
+    },
+    "genre": [
+        "Music",
+        "Other"
+    ],
+    "developer": "Harmonix",
+    "publisher": "Harmonix",
+    "release_date": "2010-02-03",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Rock Band Music Store is a new, easier way for you to find your favorite tracks and discover new music for Rock Band, LEGO® Rock Band,  and The Beatles: Rock Band on Xbox LIVE. Browse, preview, and download your favorite tracks and track packs for your favorite Rock Band game in an easy-to-navigate interface. Easily sort through hundreds and hundreds of available tracks to build your ultimate setlist!",
+        "short": "Harmonix"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545607d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545607d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545607d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545607d5/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

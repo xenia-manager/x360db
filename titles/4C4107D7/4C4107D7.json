@@ -1,0 +1,58 @@
+{
+    "id": "4C4107D7",
+    "title": {
+        "full": "LEGO Star Wars The Complete Saga",
+        "reduced": "LEGO Star Wars TCS"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family"
+    ],
+    "developer": "Traveller's Tales (UK), Ltd.",
+    "publisher": "LucasArts",
+    "release_date": "2009-12-03",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Kick Some Brick in I through VI!  Play through all six Star Wars movies in one videogame!  Adding new characters, new levels, and new gameplay features with enhanced Force Powers, new power-ups and new Challenge Modes.",
+        "short": "Kick Some Brick in I through VI!  Play through all six Star Wars movies in one videogame!  Adding new characters, new levels, and new gameplay features with enhanced Force Powers, new power-ups and new Challenge Modes."
+    },
+    "media": [
+        {
+            "media_id": "135E1763",
+            "title": "LEGO Star Wars: The Complete Saga",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "5E486FF7",
+            "title": "LEGO Star Wars: The Complete Saga",
+            "edition": "Platinum Family Hits",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d7/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d7/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d7/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d7/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d7/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d7/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d7/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4c4107d7/8cd602ec-4f5b-481d-a039-d7bc1b69b3c4.PDF"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550AEC",
+    "title": {
+        "full": "Gems N Rocks",
+        "reduced": "Gems N Rocks"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Fuzzy Duck Entertainment",
+    "publisher": "Fuzzy Duck Entertainment",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Gems N Rocks is a remake and expansion of the classic Boulders type game; You collect gems and push rocks. Many different enemies and objects are included. Also included is a level editor, so you can create and share (via Memory Unit or USB stick) your created levels. Challenge your friends to complete levels you create! Many built in levels included for entertainment and inspiration!",
+        "short": "Gems N Rocks is a remake and expansion of the classic Boulders type game; You collect gems and push rocks. Many different enemies and objects are included. Also included is a level editor, so you can create and share (via Memory Unit or USB stick) your created levels. Challenge your friends to complete levels you create! Many built in levels included for entertainment and inspiration!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550aec/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550AEC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550aec/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550AEC_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AEC_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AEC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AEC_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

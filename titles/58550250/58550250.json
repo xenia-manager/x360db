@@ -1,0 +1,35 @@
+{
+    "id": "58550250",
+    "title": {
+        "full": "Karnn Age Lite",
+        "reduced": "Karnn Age Lite"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Team Shuriken",
+    "publisher": "Team Shuriken",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=2/3, Mature Content=2/3. Karnn Age Lite is the 200 msPoints version of Karnn Age. It's a twin stick shooter featuring original and innovative ennemy patterns and bosses. Karnn Age Lite features everything in Karnn Age, except it has 3 songs instead of 9, to reach required file size for 200 points game.",
+        "short": "Karnn Age Lite is the 200 msPoints version of Karnn Age. It's a twin stick shooter featuring original and innovative ennemy patterns and bosses. Karnn Age Lite features everything in Karnn Age, except it has 3 songs instead of 9, to reach required file size for 200 points game."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550250/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550250_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550250/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550250_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550250_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550250_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550250_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

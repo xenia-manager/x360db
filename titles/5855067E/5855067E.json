@@ -1,0 +1,35 @@
+{
+    "id": "5855067E",
+    "title": {
+        "full": "Corals Curse",
+        "reduced": "Corals Curse"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Abnormal Software",
+    "publisher": "Abnormal Software",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=1/3, Mature Content=0/3. Help Coral in her quest to break the spell that has transformed her into a frightening new form.  Use your tail to slither to high ledges and solve unique puzzles.  Cast spells like fireball and frostbolt, or use your tail to defeat various enemies.  Collect resources to improve your abilities and become even more powerful.  Coral's Curse is a platformer unlike anything you've seen before!",
+        "short": "Help Coral in her quest to break the spell that has transformed her into a frightening new form.  Use your tail to slither to high ledges and solve unique puzzles.  Cast spells like fireball and frostbolt, or use your tail to defeat various enemies.  Collect resources to improve your abilities and become even more powerful.  Coral's Curse is a platformer unlike anything you've seen before!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855067e00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855067E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855067e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855067E_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855067E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855067E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855067E_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

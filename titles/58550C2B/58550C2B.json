@@ -1,0 +1,35 @@
+{
+    "id": "58550C2B",
+    "title": {
+        "full": "Vocabulary Builder",
+        "reduced": "Vocabulary Builder"
+    },
+    "genre": [
+        "Educational"
+    ],
+    "developer": "Utopioneer Games",
+    "publisher": "Utopioneer Games",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Vocabulary builder features include: -Includes 1000 words -Learn words in an easy to use flashcard format -Select the word pool size to make game easier or harder -Word pools designed to take out words you always get right, and reintroduce words that you still need practice on -Mark words you want to include or exclude in your learning -Progress is tracked each day to show your improvement",
+        "short": "Vocabulary builder features include: -Includes 1000 words -Learn words in an easy to use flashcard format -Select the word pool size to make game easier or harder -Word pools designed to take out words you always get right, and reintroduce words that you still need practice on -Mark words you want to include or exclude in your learning -Progress is tracked each day to show your improvement"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550c2b00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C2B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c2b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C2B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C2B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C2B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C2B_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

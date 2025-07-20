@@ -1,0 +1,35 @@
+{
+    "id": "53450856",
+    "title": {
+        "full": "VANQUISH OFFICIAL DEMO  VELOCITY ATTACK",
+        "reduced": "VANQUISH OFFICIAL DEMO  VELOCITY ATTACK"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "PlatinumGames",
+    "publisher": "SEGA",
+    "release_date": "2010-10-01",
+    "user_rating": null,
+    "description": {
+        "full": "Boost into the ultra-fast and frenetic third-person-action-shooter, Vanquish. Boost from cover point to cover point blasting robot enemies with your transforming weapon pod. Use the high-tech Augmented Reaction Suit to amplify your senses to a critical state and get the drop on your opponents, thrashing before they ever knew what hit them. If enemies get too close, punch, kick and pummel them into scrap. See what the \"action\" in third-person-action-shooter is really all about.  VANQUISH OFFICIAL DEMO - VELOCITY ATTACK is set in the landing bay of the Providence Space Colony in a desperate fight to gain control of the facility. But the enemy has more in store as the massive Argus robot emerges to dominate the battlefield.",
+        "short": "VANQUISH OFFICIAL DEMO – VELOCITY ATTACK gives you the chance to boost and blast your way in a frenetic action-shooter!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450856/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450856/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450856/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450856/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "53450841",
+                "title": "VANQUISH"
+            }
+        ],
+        "related": []
+    }
+}

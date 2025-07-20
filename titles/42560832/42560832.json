@@ -1,0 +1,57 @@
+{
+    "id": "42560832",
+    "title": {
+        "full": "Disney Infinity 30 Edition",
+        "reduced": "Disney Infinity 30"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting"
+    ],
+    "developer": "Avalanche Software",
+    "publisher": "Disney Interactive",
+    "release_date": "2015-08-27",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Danish, Dutch, Finnish, Norwegian, Polish,  Swedish.  Do you already own Disney Infinity 1.0 or 2.0 and want to play Disney Infinity 3.0? Bring on the adventure!  You can purchase the Disney Infinity 3.0 Video Game Software as a digital download and immediately unlock the Disney Infinity 3.0 Toy Box.  Create stories and fun-filled adventures featuring all-new characters and powers!    This purchase includes the Disney Infinity 3.0 Video Game Software only.  Please note, a platform compatible Disney Infinity Base and a minimum of 1 Disney Infinity Figure is required to play.  The Disney Infinity Base is available in prior Disney Infinity Starter Packs or Disney Infinity 2.0 Toy Box Combo Packs only.  For more details on Disney Infinity Base compatibility, please visit Disney.com/Infinity.  Mix, match and mash up characters and worlds in the 3.0 Toy Box to create any adventure you can imagine.  Use the new Creator tool to quickly build your worlds with ease.   Expand your fun-filled adventures and unlock additional content with Disney Infinity 3.0 Play sets, Figures and Power Discs.  Items sold separately.  3.0 Play sets - Unlock new fun-filled adventures and action-packed missions!  Power Discs - Unlock team attacks, gadgets, power-ups, costumes and more!  All Disney Infinity Figures, Disney Infinity Power Discs and Disney Infinity 3.0 Play sets work with the Disney Infinity 3.0 Video Game Software.    Visit Disney.com/Infinity for more details ",
+        "short": "Do you already own Disney Infinity or Disney Infinity 2.0 and want to play Disney Infinity 3.0?  Download the Disney Infinity 3.0 Video Game Software and immediately unlock the Disney Infinity 3.0 Toy Box!   A console compatible Disney Infinity Base and a minimum of 1 Disney Infinity Figure is required to play.  Visit Disney.com/Infinity for full details."
+    },
+    "media": [
+        {
+            "media_id": "53AC08B4",
+            "title": "Disney Infinity 3.0 Edition",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "033466F1",
+            "title": "Disney Infinity 3.0: Play Without Limits",
+            "edition": "Starter Pack",
+            "region": "Europe"
+        },
+        {
+            "media_id": "7D135447",
+            "title": "Disney Infinity 3.0: Play Without Limits",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560832/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560832/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560832/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560832/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560832/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560832/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560832/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560832/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560832/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560832/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

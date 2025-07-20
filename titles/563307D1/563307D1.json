@@ -1,0 +1,53 @@
+{
+    "id": "563307D1",
+    "title": {
+        "full": "Country Dance All Stars",
+        "reduced": "Country Dance All Stars"
+    },
+    "genre": [
+        "Kinect",
+        "Music",
+        "Strategy & Simulation"
+    ],
+    "developer": "High Voltage Software",
+    "publisher": "GameMill Entertainment",
+    "release_date": "2012-10-09",
+    "user_rating": "3.25",
+    "description": {
+        "full": "The Games on Demand version supports  English.  Country Dance All Stars brings the best country music to your home!   Blake Shelton - All About Tonight Josh Thompson  -Beer On The Table Brooks & Dunn  - Boot Scootin’ Boogie Zac Brown Band - Chicken Fried Carrie Underwood - Cowboy Casanova Laura Bell Bundy - Giddy On Up Alan Jackson - Good Time Miley Cyrus - Hoedown Throwdown Trace Adkins - Honkytonk Badonkadonk Rascal Flatts - Life Is A Highway Johnny Cash - Ring Of Fire Sugarland - Stuck Like Glue Brad Paisley - Water Dierks Bentley  - What Was I Thinking Miranda Lambert - White Liar Josh Turner - Why Don’t We Just Dance Easton Corbin - Roll With It Katie Armiger - Best Song Ever Josh Kelley - Georgia Clay Ashton Shepard - Look It Up Chris Heers - Dirt Rich Eric Church - Hell On The Heart Tim McGraw - Felt Good On My Lips The Last Ride - Take You Down Luke Bryan - Country Girl Billy Currington - People Are Crazy Kellie Pickler - Tough Chad Brownlee - Carried Away Hayley McLean - Good Time Bone Little Big Town - Little White Church Jake Owen - Barefoot Blue Jean Night Gwyneth Paltrow  - Shake That Thing Lady Antebellum  - Lookin’ For A Good Time Keith Urban - Better Life",
+        "short": "Kick up your boots,  It's time to dance!  Get ready for some great country fun."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802563307d1/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

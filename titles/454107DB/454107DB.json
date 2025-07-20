@@ -1,0 +1,73 @@
+{
+    "id": "454107DB",
+    "title": {
+        "full": "Battlefield 2 Modern Combat",
+        "reduced": "Battlefield 2 MC"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "DICE/Electronic Arts",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-08-06",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The online functionality of this title is no longer available.  Battlefield 2: Modern Combat explodes onto Xbox 360, bringing the field of battle to life like never before. Bullets whiz by and score the environments around you, spent minigun shells rain down from hovering helicopters, and explosions shatter your field of vision. Delivering the over-the-top action of the award-winning Battlefield™ franchise, Battlefield 2: Modern Combat lets you wage modern war your way. ",
+        "short": "Battlefield 2: Modern Combat explodes onto Xbox 360, bringing the field of battle to life like never before.   The online functionality of this title is no longer available."
+    },
+    "media": [
+        {
+            "media_id": "676A6AEB",
+            "title": "Battlefield 2: Modern Combat",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "24476572",
+            "title": "Battlefield 2: Modern Combat",
+            "edition": "Original",
+            "region": "Spain"
+        },
+        {
+            "media_id": "4966F72B",
+            "title": "Battlefield 2: Modern Combat",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "40E2F9BC",
+            "title": "Battlefield 2: Modern Combat",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "0F7290B6",
+            "title": "Battlefield 2: Modern Combat",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "3DF2E134",
+            "title": "Battlefield 2: Modern Combat",
+            "edition": "Original",
+            "region": "Italy"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107db/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107db/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107db/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107db/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107db/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107db/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107db/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/454107db/76d7c83b-b68f-4c87-8356-58ca77f4c53f.PDF"
+        ]
+    }
+}

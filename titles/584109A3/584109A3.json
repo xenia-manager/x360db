@@ -1,0 +1,41 @@
+{
+    "id": "584109A3",
+    "title": {
+        "full": "Sonic The Hedgehog 3",
+        "reduced": "Sonic The Hedgehog 3"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Backbone Entertainment",
+    "publisher": "SEGA",
+    "release_date": "2010-06-25",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Sonic and Tails are back for another adventure as they again battle the evil Dr. Eggman (AKA Dr. Robotnik), who is desperately trying to collect all the Chaos Emeralds in order to rebuild his Death Egg.  Our heroes must find the Chaos Emeralds before Dr. Eggman does, but winning the race won’t be easy – a new adversary, Knuckles the Echidna, has arrived on the scene and will do whatever he can to keep Sonic and Tails from reaching their goal.  Grab all the golden rings, find various bonus zones, and overcome Knuckles and Dr. Eggman as you rocket through the third chapter in Sonic’s adventures. This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "(Online Interactions Not Rated by the ESRB) The original Sega classic Sonic The Hedgehog 3 now on Xbox LIVE Arcade!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109a3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109a3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109a3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109a3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109a3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109a3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109a3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109a3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109a3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109a3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109a3/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109a3/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109a3/7177/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109a3/7177/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": "5553087F",
+    "title": {
+        "full": "Family Feud",
+        "reduced": "Family Feud"
+    },
+    "genre": [
+        "Family",
+        "Independent & Music Videos",
+        "TV Shows",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "Ludia",
+    "publisher": "Ubisoft",
+    "release_date": "2011-10-18",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Family Feud® game pits families and friends against each other in a contest to vie for cash by trying to identify the top answers to questions asked in a 100 person survey. The first family that amasses 300 points through multiple game rounds wins.  The winning family then moves to the Fast Money round, where 2 family members are asked 5 questions in a row. If their combined total points for the 5 questions is 200 and up, they win $20,000! Family Feud 2012 Edition will feature 2000+ survey questions, 16 Theme weeks where players can play alone or cooperatively, unlockable hilarious outtakes and “best of” video moments from the television show featuring host Steve Harvey and more!",
+        "short": "Family Feud® 2012 Edition video game pits families and friends against each other in a contest to vie for cash by trying to identify the top answers to questions asked in a 100 person survey. The first family that amasses 300 points through multiple game rounds wins.  Family Feud 2012 Edition will feature 2000+ survey questions, 16 Theme weeks, unlockable hilarious outtakes and “best of” video moments featuring host Steve Harvey and more!"
+    },
+    "media": [
+        {
+            "media_id": "739029EA",
+            "title": "Family Feud: 2012 Edition",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553087f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553087f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553087f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553087f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553087f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553087f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553087f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553087f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553087f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553087f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553087f/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553087f/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": "4541090C",
+    "title": {
+        "full": "Hasbro Family Game Night 3",
+        "reduced": "Hasbro Family Game Night 3"
+    },
+    "genre": [
+        "Card & Board",
+        "Family"
+    ],
+    "developer": "Sumo Digital",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2010-10-26",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   FAMILY GAME NIGHT 3 The third installment in the successful HASBRO FAMILY GAME NIGHT video game series delivers another great lineup of time-tested favorite Hasbro game brands. Featuring digital versions of both classic and remixed versions, players can spin the wheel of fate in THE GAME OF LIFE, find out “whodunit” in CLUE, tie themselves in knots with TWISTER, trigger chain reactions in MOUSE TRAP, and try their hand at YAHTZEE HANDS DOWN. Online play takes the entertainment and competition to an entirely new level.  (Online Interactions Not Rated by the ESRB)",
+        "short": "FAMILY GAME NIGHT 3 The third installment in the successful HASBRO FAMILY GAME NIGHT video game series delivers another great lineup of time-tested favorite Hasbro game brands. Featuring digital versions of both classic and remixed versions, players can spin the wheel of fate in THE GAME OF LIFE, find out “whodunit” in CLUE, tie themselves in knots with TWISTER, trigger chain reactions in MOUSE TRAP, and try their hand at YAHTZEE HANDS DOWN."
+    },
+    "media": [
+        {
+            "media_id": "3EB3E4B1",
+            "title": "Hasbro Family Game Night 3",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090c/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": "4343082F",
+    "title": {
+        "full": "Remember Me",
+        "reduced": "Remember Me"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "DONTNOD Entertainment",
+    "publisher": "Capcom Entertainment Inc.",
+    "release_date": "2013-06-05",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Russian.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Neo-Paris. 2084.  Personal memories can now be digitised, bought, sold and traded. The last remnants of privacy and intimacy have been swept away in what appears to be a logical progression of the explosive growth of social networks at the beginning of the 21st century. The citizens themselves have accepted this surveillance society in exchange for the comfort only smart technology can provide. This memory economy gives immense power over society to just a handful of people.  Remember Me™ is a 3rd person action adventure where players take on the role of Nilin, a former elite memory hunter with the ability to break into people’s minds and steal or even alter their memories. The authorities, fearful of her knowledge and capabilities arrested Nilin and wiped her memory clean. After her escape from prison, Nilin sets out on a mission to recover her identity, helped by her last and only friend. This search for her past leads to her being hunted by the very people that created this surveillance society.",
+        "short": "Remember Me™ is a 3rd person action adventure where players take on the role of Nilin, a former elite memory hunter with the ability to break into people’s minds and steal or even alter their memories. "
+    },
+    "media": [
+        {
+            "media_id": "6893C713",
+            "title": "Remember Me",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082f/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082f/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4343082f/RM_XBX_MG_ENG_V4.pdf"
+        ]
+    }
+}

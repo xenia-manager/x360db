@@ -1,0 +1,40 @@
+{
+    "id": "354807E3",
+    "title": {
+        "full": "Panzer Elite Action Fields of Glory",
+        "reduced": "Panzer Elite Action"
+    },
+    "genre": [
+        "Classics",
+        "Shooter",
+        "Strategy & Simulation"
+    ],
+    "developer": "Zootfly",
+    "publisher": "THQ Nordic",
+    "release_date": "2018-04-26",
+    "user_rating": null,
+    "description": {
+        "full": "Panzer Elite Action follows the story of three tank commanders and their crews... The German commander, flushed with the success of the Blitzkrieg in Poland and France, moves on to the Eastern Front and Stalingrad. We meet the Russian commander as he helps defend Stalingrad, and follow him as the tide turns against the Germans with the massive tank battle of Kursk. Finally, the American commander enters the war on the Normandy Beachhead on D-Day.",
+        "short": "Panzer Elite Action follows the story of three tank commanders and their crews..."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e3/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

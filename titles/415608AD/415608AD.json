@@ -1,0 +1,44 @@
+{
+    "id": "415608AD",
+    "title": {
+        "full": "Generator Rex",
+        "reduced": "Generator Rex"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Virtuos ",
+    "publisher": "Activision",
+    "release_date": "2012-09-18",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  The fate of the world rests in the hands of ONE super-powered teenager.   Become Rex and mutate into 7 different builds! Accept Agent Six’s missions, fight with Bobo Haha and uncover collectibles for Doc Holiday! Explore 10 different environments and hidden areas to evolve your powers! Battle E.V.O.s, Save the World!",
+        "short": "The fate of the world rests in the hands of ONE super-powered teenager.  "
+    },
+    "media": [
+        {
+            "media_id": "5C2E8DF3",
+            "title": "Generator Rex: Agent of Providence",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ad/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ad/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ad/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ad/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ad/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ad/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ad/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ad/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/415608ad/3000X3-226_Generator%20Rex%20MNL_Digital_Bilingual.pdf"
+        ]
+    }
+}

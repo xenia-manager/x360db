@@ -1,0 +1,44 @@
+{
+    "id": "5841092E",
+    "title": {
+        "full": "Yo-Ho-Kablammo",
+        "reduced": "Yo-Ho Kablammo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family"
+    ],
+    "developer": "Canalside Studios",
+    "publisher": "Microsoft Studios",
+    "release_date": "2009-12-16",
+    "user_rating": "2.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  Local Multiplayer 2-4, Xbox LIVE Multiplayer 2-4, 5.1 Surround Sound, HD (High Definition). Game is in English only. Unlock the full version of Yo-Ho-Kablammo to experience all of its Pirate-y goodness! Prove your worth with 15 single player challenges. Rule the seas across 5 multiplayer maps locally or on Xbox LIVE. With access to all of the ships and game modes – there is enough here to keep even the most ambitious pirate busy... just beware the Kraken! This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Pirates, Monkeys, Ships, A Kraken, Ruthless Captains, Explosions, Cannons, Treasure – Interested? If fast frantic fun is what you’re looking for then this game is for you. Yo-Ho Kablammo offers a unique full 3D pirate rip-roaring action game like no other! Blast your enemies to the depths using your cannons or one of the many power-ups. Play alone or with friend’s offline and online to become feared by all. Your ship is waiting!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841092e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841092e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841092e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841092e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841092e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841092e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841092e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841092e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841092e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841092e/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841092e/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841092e/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841092e/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841092e/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841092e/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841092e/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

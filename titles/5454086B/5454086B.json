@@ -1,0 +1,70 @@
+{
+    "id": "5454086B",
+    "title": {
+        "full": "Max Payne 3",
+        "reduced": "Max Payne 3"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Rockstar Studios",
+    "publisher": "Rockstar Games",
+    "release_date": "2012-05-15",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Brazilian Portuguese and Russian.   For Max Payne, the tragedies that took his loved ones years ago are wounds that refuse to heal.  No longer a cop, close to washed up and addicted to pain killers, Max takes a job in São Paulo, Brazil, protecting the family of wealthy real estate mogul Rodrigo Branco, in an effort to finally escape his troubled past. But as events spiral out of his control, Max finds himself alone on the streets of an unfamiliar city, desperately searching for the truth and fighting for a way out.  Combining cutting edge shooting mechanics featuring advanced Bullet Time® and Shootdodge™ effects with a dark and twisted story, Max Payne 3 is a seamless, highly detailed, cinematic experience from Rockstar Games.  ©2004-2012 Rockstar Games. Rockstar Games, R* & Max Payne are Take-Two Interactive Software marks.  The ratings icon(s) and all other marks are properties of their respective owners. All Rights Reserved.  This game is fictional; doesn’t depict any actual event/person/entity; any similarities are coincidental.  Take Two doesn’t endorse engaging in any conduct depicted in the game. Unauthorized copying, reverse engineering, transmission, performance, rental, pay for play, or copy protection circumvention is prohibited.  Software use subject to license in manual & online at rockstargames.com/eula.  Non-transferable access to special features such as exclusive, unlockable, downloadable or online content, services, or functions may require single-use serial code, additional fee and/or online account registration (13+). Violation of EULA, Code of Conduct, or other policies may result in restriction or termination of access to game or online account.  Access to special features require internet connection, may not be available to all users, and may, upon 30 days notice, be terminated, modified, or offered under different terms. ",
+        "short": "No longer a New York City cop, Max Payne moves to São Paulo to protect a wealthy family in an effort to finally escape his troubled past. Combining cutting edge shooting mechanics featuring advanced Bullet Time® and Shootdodge™ effects with a dark and twisted story, Max Payne 3 is a seamless, highly detailed, cinematic experience from Rockstar Games."
+    },
+    "media": [
+        {
+            "media_id": "1DFE6863",
+            "title": "Max Payne 3 (Disc 1) (Single Player Disc 1 and Multiplayer)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "3D88DEDC",
+            "title": "Max Payne 3 (Disc 1) (Single Player Disc 1 und Multiplayer)",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "22C9047A",
+            "title": "Max Payne 3 (Disc 2) (Single Player Disc 2)",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "1FE2BB66",
+            "title": "Max Payne 3 (Disc 2) (Single Player Disc 2)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086b/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086b/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086b/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086b/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086b/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086b/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086b/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086b/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086b/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086b/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086b/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086b/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086b/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086b/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086b/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086b/1033/screenlg13.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/5454086b/0/MP3_360_DIGI_MANUAL_ENG.pdf"
+        ]
+    }
+}

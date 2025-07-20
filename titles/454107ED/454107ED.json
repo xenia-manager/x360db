@@ -1,0 +1,60 @@
+{
+    "id": "454107ED",
+    "title": {
+        "full": "Superman Returns",
+        "reduced": "Superman Returns"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "EA Tiburon",
+    "publisher": "Electronic Arts",
+    "release_date": "2008-01-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "When villains run rampant, only one man can rescue a world in peril.  Can you master your super powers to save Metropolis?  Inspired by the Warner Bros. Pictures feature film and more than 60 years of DC Comics lore, Superman Returns: The Videogame is the ultimate open-world super hero experience.",
+        "short": "When villains run rampant, only one man can rescue a world in peril.  Can you master your super powers to save Metropolis?  Inspired by the Warner Bros. Pictures feature film and more than 60 years of DC Comics lore, Superman Returns: The Videogame is the ultimate open-world super hero experience."
+    },
+    "media": [
+        {
+            "media_id": "5FE6B52F",
+            "title": "Superman Returns",
+            "edition": "Original",
+            "region": "Italy"
+        },
+        {
+            "media_id": "132FC6F6",
+            "title": "Superman Returns",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "208745CF",
+            "title": "Superman Returns",
+            "edition": "Original",
+            "region": "Spain"
+        },
+        {
+            "media_id": "64A4002A",
+            "title": "Superman Returns",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107ed/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107ed/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107ed/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107ed/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107ed/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107ed/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107ed/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107ed/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

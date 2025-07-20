@@ -1,0 +1,64 @@
+{
+    "id": "434D084F",
+    "title": {
+        "full": "F1 2013",
+        "reduced": "F1 2013"
+    },
+    "genre": [
+        "Racing & Flying",
+        "Sports & Recreation"
+    ],
+    "developer": "Codemasters",
+    "publisher": "Codemasters",
+    "release_date": "2013-10-04",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Russian, Japanese.  Make history in FORMULA ONE™! Experience all-new 1980s classic content plus all the cars, stars and circuits from the 2013 FIA FORMULA ONE WORLD CHAMPIONSHIP™ in F1™ 2013.  F1 2013 includes F1 Classics, an expansive new game mode introduced by legendary broadcaster Murray Walker, where you’ll race famous cars from Ferrari, Williams and Lotus against icons of the sports including Nigel Mansell, Mario Andretti and Gerhard Berger. Classic content also includes two historic circuits – Brands Hatch and Circuito de Jerez - and can be played in a range of modes including split-screen and online multiplayer.   F1 2013 also features all of the current drivers, team moves, tyre changes and remodelled handling to bring alive the experience of racing motorsport's most advanced and exciting cars. New enhancements, improvements and new, expanded and returning game modes combine to deliver the most complete simulation of a FORMULA ONE season in videogame history. ",
+        "short": "Make history in FORMULA ONE™! Experience all-new 1980s classic content plus all the cars, stars and circuits from the 2013 FIA FORMULA ONE WORLD CHAMPIONSHIP™ in F1™ 2013.  F1 2013 includes F1 Classics, an expansive new mode introduced by legendary broadcaster Murray Walker, where you’ll race icons of the sport in famous cars at historic circuits."
+    },
+    "media": [
+        {
+            "media_id": "7F3FDF12",
+            "title": "F1 2013",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "08C4F4F2",
+            "title": "F1 2013",
+            "edition": "Edição Clássica",
+            "region": "Brazil"
+        },
+        {
+            "media_id": "1B2F61B1",
+            "title": "F1 2013: Complete Edition",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d084f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d084f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d084f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d084f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d084f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d084f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d084f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d084f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d084f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d084f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d084f/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d084f/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d084f/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d084f/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d084f/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/434d084f/F1_2013_Manual_360_US_v2.pdf"
+        ]
+    }
+}

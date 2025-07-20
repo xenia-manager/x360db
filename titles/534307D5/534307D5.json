@@ -1,0 +1,49 @@
+{
+    "id": "534307D5",
+    "title": {
+        "full": "Just Cause",
+        "reduced": "Just Cause"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Avalanche Studios",
+    "publisher": "Square Enix",
+    "release_date": "2008-01-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "In Just Cause, take on the role of the flamboyant Rico Rodriguez—an undercover CIA operative specialising in regime change—as he tries to overthrow the corrupt government of San Esperito. This rogue South American island is suspected of stockpiling WMDs and it's your job to negate the threat to world peace. It could be to your advantage that this tropical paradise is about to implode as various factions vie for power—it just needs a gentle nudge in the right direction.",
+        "short": "In Just Cause, take on the role of the flamboyant Rico Rodriguez—an undercover CIA operative specialising in regime change—as he tries to overthrow the corrupt government of San Esperito. This rogue South American island is suspected of stockpiling WMDs and it's your job to negate the threat to world peace. It could be to your advantage that this tropical paradise is about to implode as various factions vie for power—it just needs a gentle nudge in the right direction."
+    },
+    "media": [
+        {
+            "media_id": "6C47A625",
+            "title": "Just Cause",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "1D36F715",
+            "title": "Just Cause: Viva Revolution",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307d5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307d5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307d5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307d5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307d5/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "id": "415607E1",
+    "title": {
+        "full": "Call of Duty 3",
+        "reduced": "Call of Duty 3"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Treyarch",
+    "publisher": "Activision",
+    "release_date": "2006-11-07",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English.  (Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Follow the Allies on the Normandy Breakthrough campaign as they push inland to liberate Paris and take the first step on the path to Berlin.   Through a seamless narrative that delivers the rush of unrelenting battle and breathtaking action, players assume the roles of four ordinary Allied soldiers—American, British, Canadian and Polish—and are thrust onto an authentic, living battlefield for an unprecedented variety of combat. Experience advanced high-definition graphics, detailed character animations, and explosive on-screen action, delivering the most immersive and cinematically intense war experience ever. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Call of Duty 3"
+    },
+    "media": [
+        {
+            "media_id": "795A5E82",
+            "title": "Call of Duty 3",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "720B9353",
+            "title": "Call of Duty 3",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "2E07093A",
+            "title": "Call of Duty 3",
+            "edition": "Original, The War Collection",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "1BB2F934",
+            "title": "Call of Duty 3",
+            "edition": "Original",
+            "region": "Germany"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e1/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e1/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e1/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/415607e1/5f32dc3d-c469-46a6-8274-3074b6f4ac22.PDF"
+        ]
+    }
+}

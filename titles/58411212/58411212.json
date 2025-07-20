@@ -1,0 +1,44 @@
+{
+    "id": "58411212",
+    "title": {
+        "full": "Scourge Outbreak",
+        "reduced": "Scourge Outbreak"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Tragnarion Studios",
+    "publisher": "UFO Interactive Games Inc",
+    "release_date": "2013-05-28",
+    "user_rating": "3.00",
+    "description": {
+        "full": "Blast your way through Nogari Island as Echo Squad, an elite group of mercenaries hired by the Tarn Initiative to end Nogari Corporations iron grip on the worlds cowering governments.  Utilize a devastating array of weapons and special abilities to crush everything that stands in your way, as you fight to discover the sinister truth behind Nogaris \"Ambrosia\" fuel technology. Features a fully Co-op enabled Campaign for up to 4 Players, as well as a variety of 8 Player Versus multiplayer modes!",
+        "short": "Blast your way through Nogari Island as Echo Squad, an elite group of mercenaries hired by the Tarn Initiative to end Nogari Corporations iron grip on the worlds cowering governments.  Utilize a devastating array of weapons and special abilities to crush everything that stands in your way, as you fight to discover the sinister truth behind Nogaris \"Ambrosia\" fuel technology. Features a fully Co-op enabled Campaign for up to 4 Players, as well as a variety of 8 Player Versus multiplayer modes!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411212/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411212/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411212/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411212/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411212/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411212/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411212/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411212/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411212/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411212/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411212/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411212/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411212/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411212/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411212/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411212/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

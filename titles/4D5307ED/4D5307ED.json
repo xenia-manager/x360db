@@ -1,0 +1,64 @@
+{
+    "id": "4D5307ED",
+    "title": {
+        "full": "Banjo Kazooie N and B",
+        "reduced": "Banjo Kazooie N n B"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer",
+        "Racing & Flying"
+    ],
+    "developer": "Rare",
+    "publisher": "Microsoft Game Studios",
+    "release_date": "2010-08-03",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Czech, Norwegian, Polish, Russian, Swedish, Japanese, Korean and Chinese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   The heroic bear and bird return at last to defend Spiral Mountain from their nemesis Gruntilda. Groundbreaking vehicular platforming awaits in wild new worlds packed with features and faces old and new. Build awe-inspiring vehicles and tackle the Jiggy challenges in any way you see fit! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "The heroic bear and bird return at last to defend Spiral Mountain from their nemesis Gruntilda. Groundbreaking vehicular platforming awaits in wild new worlds packed with features and faces old and new. Build awe-inspiring vehicles and tackle the Jiggy challenges in any way you see fit!"
+    },
+    "media": [
+        {
+            "media_id": "56F18A12",
+            "title": "Banjo-Kazooie: Nuts & Bolts",
+            "edition": "Original, 4 Games Pack",
+            "region": "Europe"
+        },
+        {
+            "media_id": "129F0100",
+            "title": "Banjo-Kazooie: Nuts & Bolts",
+            "edition": "Original",
+            "region": "Japan, Asia"
+        },
+        {
+            "media_id": "3E567DFF",
+            "title": "Banjo-Kazooie: Nuts & Bolts",
+            "edition": "Original, Platinum Hits",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307ed/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307ed/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307ed/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307ed/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307ed/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307ed/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307ed/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307ed/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307ed/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307ed/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307ed/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307ed/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307ed/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307ed/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4d5307ed/f6df08e8-b31f-4211-a473-a99c8e48cf8c.PDF"
+        ]
+    }
+}

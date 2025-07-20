@@ -1,0 +1,35 @@
+{
+    "id": "58410A7D",
+    "title": {
+        "full": "NBA JAM (Xbox Arcade)",
+        "reduced": "NBA JAM"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts Canada",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2010-08-12",
+    "user_rating": null,
+    "description": {
+        "full": "BOOMSHAKALAKA!   NBA JAM is back, better than ever, and brought to you by EA SPORTS™.  Featuring current rosters for all 30 NBA Teams.  Legendary Players?  Secret Codes?  Monster Dunks?  Secret characters? On Fire?  Online Play?  Leaderboards?  NBA JAM has it all!  Download this game Today! You’ll be on Fire in no time!  ©2010 EA Inc.  All rights reserved.  Trademarks are property of their respective owners. REGISTRATION AND SUBSCRIPTION REQUIRED TO ACCESS ONLINE FEATURES. EA ONLINE TERMS & CONDITIONS AND FEATURE UPDATES AT www.ea.com. MUST BE 13+ TO REGISTER WITH EA ONLINE. EA MAY RETIRE ONLINE FEATURES AFTER 30 DAYS NOTICE POSTED ON www.ea.com OR 30 DAYS AFTER THE LAST DAY OF THE 2010 - 2011 NBA SEASON.  There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "BOOMSHAKALAKA!   NBA JAM is back, better than ever, and brought to you by EA SPORTS™.  Featuring current rosters for all 30 NBA Teams.  Legendary Players?  Secret Codes?  Monster Dunks?  Secret characters? On Fire?  Online Play?  Leaderboards?  NBA JAM has it all!  Download this game Today! You’ll be on Fire in no time! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7d/1033/boxartlg.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58410a7d/icon/0/8000",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4541094C",
+                "title": "NBA JAM"
+            }
+        ],
+        "related": []
+    }
+}

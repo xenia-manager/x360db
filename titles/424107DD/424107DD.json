@@ -1,0 +1,44 @@
+{
+    "id": "424107DD",
+    "title": {
+        "full": "Culdcept SAGA",
+        "reduced": "Culdcept SAGA"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Omiyasoft Co,.Ltd./JAMSWORKS Co,. Ltd./Rocket Studio Inc.",
+    "publisher": "Bandai",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "UNLEASH THE POWER OF THE CARDS!  WAR RAVAGES THE LAND, AND IT IS UP TO YOU TO STOP IT. YOU HAVE THE POWER TO COMMAND MYSTICAL CARDS AND FIGHT BACK AGAINST MIGHTY ENEMIES. TAKE CONTROL OF THE CARDS AND WIPE OUT YOUR FOES.  CULDCEPT SAGA(tm) COMBINES THE LUCK OF A BOARD GAME WITH THE STRATEGY OF A CARD GAME IN A VIVID ENVIRONMENT. YOU WON’T BE ABLE TO PUT IT DOWN!  TAKE ON UP TO 3 OF YOUR FRIENDS OVER XBOX LIVE OR ON A SINGLE XBOX 360 CONSOLE.",
+        "short": "UNLEASH THE POWER OF THE CARDS!  WAR RAVAGES THE LAND, AND IT IS UP TO YOU TO STOP IT. YOU HAVE THE POWER TO COMMAND MYSTICAL CARDS AND FIGHT BACK AGAINST MIGHTY ENEMIES. TAKE CONTROL OF THE CARDS AND WIPE OUT YOUR FOES.  CULDCEPT SAGA(tm) COMBINES THE LUCK OF A BOARD GAME WITH THE STRATEGY OF A CARD GAME IN A VIVID ENVIRONMENT. YOU WON’T BE ABLE TO PUT IT DOWN!  TAKE ON UP TO 3 OF YOUR FRIENDS OVER XBOX LIVE OR ON A SINGLE XBOX 360 CONSOLE."
+    },
+    "media": [
+        {
+            "media_id": "1BAD2474",
+            "title": "Culdcept Saga",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dd/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dd/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dd/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dd/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dd/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dd/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dd/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

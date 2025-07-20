@@ -1,0 +1,39 @@
+{
+    "id": "58411278",
+    "title": {
+        "full": "Lets Sing And Dance",
+        "reduced": "Lets Sing And Dance"
+    },
+    "genre": [
+        "Kinect",
+        "Music"
+    ],
+    "developer": "Voxler Games",
+    "publisher": "Deep Silver",
+    "release_date": "2013-10-09",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Let’s Sing and Dance for Xbox 360 (Kinect for Xbox 360 compatible) brings music games to the next level. For the first time ever, a game combines singing and dancing at the same time. Using Kinect for Xbox 360, Let’s Sing and Dance scores the players’ dance moves as well as their singing performances. Unlimited number of players can take the stage at the same time and chose between 12 hits from major artists, including Lady Gaga, LMFAO, Flo Rida, Bruno Mars, Miley Cyrus, Maroon5. ",
+        "short": "Let’s Sing and Dance for Xbox 360 (Kinect for Xbox 360 compatible) combines for the first time ever singing and dancing at the same time. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411278/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411278/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411278/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411278/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411278/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411278/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411278/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411278/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411278/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411278/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411278/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

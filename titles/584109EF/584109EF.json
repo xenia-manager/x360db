@@ -1,0 +1,37 @@
+{
+    "id": "584109EF",
+    "title": {
+        "full": "Hydrophobia",
+        "reduced": "Hydrophobia"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Dark Energy Digital, Ltd.",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-08-12",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Hydrophobia™ is a third person survival adventure set in a floating city, where terrorists take control and heroine Kate has to overcome her haunting childhood memories and fight back using all her skills and expertise as a systems engineer. Hydrophobia offers fast-paced action and breathtaking visuals; engage in mind blowing “flow combat” where emergent gameplay results in a never-the-same-experience. Unleash floating oil fires, electricity and the power of the water itself to wipe out your enemy as you discover the terrifying truth of the Malthusian agenda; Save the World, Kill Yourself. ",
+        "short": "Hydrophobia offers fast-paced action and breathtaking visuals; engage in mind blowing “flow combat” where emergent gameplay results in a never-the-same-experience. Unleash floating oil fires, electricity and the power of the water itself to wipe out your enemy as you discover the terrifying truth of the Malthusian agenda; Save the World, Kill Yourself.  "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

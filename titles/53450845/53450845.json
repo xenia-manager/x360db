@@ -1,0 +1,43 @@
+{
+    "id": "53450845",
+    "title": {
+        "full": "Thor God of Thunder",
+        "reduced": "Thor God of Thunder"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Liquid Entertainment, LLC",
+    "publisher": "SEGA",
+    "release_date": "2011-05-03",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Command the lightning and the storm as Thor and wield his legendary hammer Mjölnir to save Asgard from legions of titanic enemies in his first standalone video game adventure. Storm across four different Norse worlds, facing monstrous enemies lifted from the pages of the comics while mastering the elemental powers of lightning, thunder and wind to vanquish hordes of deadly foes.",
+        "short": "Command the lightning and the storm as Thor and wield his legendary hammer Mjölnir to save Asgard in his first standalone video game adventure."
+    },
+    "media": [
+        {
+            "media_id": "09EB1F21",
+            "title": "Thor: God of Thunder",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450845/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450845/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450845/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450845/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450845/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450845/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450845/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450845/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450845/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

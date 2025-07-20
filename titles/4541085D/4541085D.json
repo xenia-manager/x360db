@@ -1,0 +1,46 @@
+{
+    "id": "4541085D",
+    "title": {
+        "full": "NCAA Football 09",
+        "reduced": "NCAA Football 09"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts - Tiburon",
+    "publisher": "Electronic Arts",
+    "release_date": "2008-01-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "NCAA® Football 09 is a celebration of all the great things you see on a Saturday afternoon in the fall. The atmosphere is electric with the home crowds rocking, the sidelines packed with players, cheerleaders, mascots, and even security and media members. Home Field Advantage give those intimidating stadiums that extra edge causing visiting players headaches as they try to hear themselves think. In addition to the atmosphere NCAA® Football 09 features a wide open gameplay experience where ball carriers can string together moves in an attempt to break open a huge play. Also new to NCAA® Football 09 is Online Dynasty. Now you can take on friends from across the country in a full featured dynasty experience. Recruit, redshirt, and rack up the hardware in up to 60 years of Online Dynasty action.",
+        "short": "NCAA® Football 09 is a celebration of all the great things you see on a Saturday afternoon in the fall. The atmosphere is electric with the home crowds rocking, the sidelines packed with players, cheerleaders, mascots, and even security and media members. Home Field Advantage give those intimidating stadiums that extra edge causing visiting players headaches as they try to hear themselves think. In addition to the atmosphere NCAA® Football 09 features a wide open gameplay experience where ball c"
+    },
+    "media": [
+        {
+            "media_id": "6AF65839",
+            "title": "NCAA Football 09",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541085d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541085d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541085d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541085d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541085d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541085d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541085d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541085d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541085d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541085d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541085d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541085d/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

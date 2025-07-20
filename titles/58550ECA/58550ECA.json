@@ -1,0 +1,35 @@
+{
+    "id": "58550ECA",
+    "title": {
+        "full": "Deck of Heroes",
+        "reduced": "Deck of Heroes"
+    },
+    "genre": [
+        "Card & Board"
+    ],
+    "developer": "Gamefarm",
+    "publisher": "Gamefarm",
+    "release_date": null,
+    "user_rating": "4.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=2/3, Mature Content=1/3. Welcome traveller, to our tavern \"The Laughing Elf\"! Sit back and relax with this popular strategic card game. Play as either Human, Undead, Elf or Orc. Build a deck from 120 unique cards. Compete with friends and foes alike, in both local and online matches, or practice your skills against the Ai.",
+        "short": "Welcome traveller, to our tavern \"The Laughing Elf\"! Sit back and relax with this popular strategic card game. Play as either Human, Undead, Elf or Orc. Build a deck from 120 unique cards. Compete with friends and foes alike, in both local and online matches, or practice your skills against the Ai."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550eca00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550ECA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550eca/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550ECA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550ECA_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550ECA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550ECA_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

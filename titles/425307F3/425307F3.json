@@ -1,0 +1,85 @@
+{
+    "id": "425307F3",
+    "title": {
+        "full": "Dishonored Game of the Year Edition",
+        "reduced": "Dishonored Game of the Year Edition"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Arkane Studios",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2013-10-08",
+    "user_rating": null,
+    "description": {
+        "full": "Experience the definitive Dishonored collection with the Game of the Year Edition. This complete compilation includes Dishonored, winner of over 100 Game of Year awards, as well as all of its additional content - Dunwall City Trials, The Knife of Dunwall, The Brigmore Witches and Void Walker’s Arsenal.",
+        "short": "Experience the definitive Dishonored collection with the Game of the Year Edition.  "
+    },
+    "media": [
+        {
+            "media_id": "59515FAE",
+            "title": "Dishonored: Game of the Year Edition (Disc 2)",
+            "edition": "Classics",
+            "region": "Europe"
+        },
+        {
+            "media_id": "6B4E04DC",
+            "title": "Dishonored: Game of the Year Edition (Disc 2)",
+            "edition": "Original",
+            "region": "Poland"
+        },
+        {
+            "media_id": "2E2595B4",
+            "title": "Dishonored: Game of the Year Edition (Disc 2)",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "7A1C2308",
+            "title": "Dishonored: Game of the Year Edition (Disc 2)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "6F63E318",
+            "title": "Dishonored: Game of the Year Edition (Disc 2)",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f3/1033/screenlg18.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "425307E3",
+                "title": "Dishonored Game of the Year Edition"
+            }
+        ],
+        "related": []
+    }
+}

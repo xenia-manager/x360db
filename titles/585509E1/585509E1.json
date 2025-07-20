@@ -1,0 +1,35 @@
+{
+    "id": "585509E1",
+    "title": {
+        "full": "Firing Range",
+        "reduced": "Firing Range"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Milkstone Studios SL",
+    "publisher": "Milkstone Studios SL",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Test and improve your FPS aiming skills! You'll need both reflexes and skill with all kind of weapons to get the best world ranking. Includes lots of dynamic camouflage sets to fully customize your weapons! This indie game has been developed by Milkstone Studios.",
+        "short": "Test and improve your FPS aiming skills! You'll need both reflexes and skill with all kind of weapons to get the best world ranking. Includes lots of dynamic camouflage sets to fully customize your weapons! This indie game has been developed by Milkstone Studios."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585509e1/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585509E1_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585509e1/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585509E1_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509E1_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509E1_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509E1_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

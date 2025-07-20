@@ -1,0 +1,75 @@
+{
+    "id": "454108E3",
+    "title": {
+        "full": "Crysis 2",
+        "reduced": "Crysis 2"
+    },
+    "genre": [
+        "Classics",
+        "Shooter"
+    ],
+    "developer": "Crytek",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-11-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The world has been ravaged by a series of climatic disasters and society is on the verge of breakdown. Now the aliens have returned with an invasion force bent on nothing less than the total annihilation of mankind. One supersoldier wielding the Nanosuit 2, will make the last stand to save humanity.  Note:  Crysis 2 Multiplayer has been shut-down.  See https://www.ea.com/service-updates/2018.",
+        "short": "The world has been ravaged by a series of climatic disasters and society is on the verge of breakdown. Now the aliens have returned with an invasion force bent on nothing less than the total annihilation of mankind. One supersoldier wielding the Nanosuit 2, will make the last stand to save humanity.  Note:  Crysis 2 Multiplayer has been shut-down.  See https://www.ea.com/service-updates/2018."
+    },
+    "media": [
+        {
+            "media_id": "11159C70",
+            "title": "Crysis 2",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "179B1DCF",
+            "title": "Crysis 2",
+            "edition": "Classics",
+            "region": "Europe"
+        },
+        {
+            "media_id": "012FADE7",
+            "title": "Crysis 2",
+            "edition": "Limited Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "505803E3",
+            "title": "Crysis 2",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "6A9CA6D7",
+            "title": "Crysis 2",
+            "edition": "Original, Limited Edition",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e3/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e3/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e3/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e3/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e3/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e3/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

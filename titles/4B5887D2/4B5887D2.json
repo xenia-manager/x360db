@@ -1,0 +1,45 @@
+{
+    "id": "4B5887D2",
+    "title": {
+        "full": "円卓の生徒　デモ版",
+        "reduced": "円卓の生徒　デモ版"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": null,
+    "publisher": null,
+    "release_date": "2011-01-24",
+    "user_rating": null,
+    "description": {
+        "full": "【重要】本デモ版内には操作説明等がございません。恐れ入りますが取扱説明書は公式サイト（http://www.exp-inc.jp/sor360/）よりダウンロード下さいますようお願いします。 ---------- 2011年2月10日発売のストーリーダンジョンRPG『円卓の生徒』のデモ版です。デモ版ではゲーム序盤のダンジョンや物語を楽しむ事ができます。なおデモ版ではセーブとロードを行う事ができません。またデモ版では一部の機能が制限されています。",
+        "short": "本格的なゲーム性とシナリオを両立させた、新しいスタイルのダンジョンRPG《デモ版》"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5887d2/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5887d2/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5887d2/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5887d2/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5887d2/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5887d2/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5887d2/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5887d2/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5887d2/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5887d2/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5887d2/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5887d2/1041/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5887d2/1041/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4B5807D1",
+                "title": "円卓の生徒"
+            }
+        ],
+        "related": []
+    }
+}

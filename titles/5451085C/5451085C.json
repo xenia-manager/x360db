@@ -1,0 +1,47 @@
+{
+    "id": "5451085C",
+    "title": {
+        "full": "MegaMind Ultimate Showdown",
+        "reduced": "MegaMind Ultimate Showdown"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family",
+        "Platformer"
+    ],
+    "developer": "THQ INC.",
+    "publisher": "THQ Studio Australia",
+    "release_date": "2010-08-10",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Join Megamind on his journey to track down the Doom Syndicate and the mastermind behind the latest attacks on the City.  Megamind is an exciting action game that furthers the adventures of our slender blue hero, with beautiful graphics and compelling game-play.",
+        "short": "Join Megamind on his journey to track down the Doom Syndicate and the mastermind behind the latest attacks on the City.  Megamind is an exciting action game that furthers the adventures of our slender blue hero, with beautiful graphics and compelling game-play."
+    },
+    "media": [
+        {
+            "media_id": "662AB919",
+            "title": "DreamWorks Megamind: Ultimate Showdown",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085c/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085c/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

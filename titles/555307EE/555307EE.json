@@ -1,0 +1,37 @@
+{
+    "id": "555307EE",
+    "title": {
+        "full": "IMPORT TUNER CHALLENGE",
+        "reduced": "IMPORT TUNER CHALLENGE"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "GENKI",
+    "publisher": "UbiSoft",
+    "release_date": "2008-01-01",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Battle rivals to be the fastest racer on the highways of Tokyo!  Customize your car with an overwhelming variations of upgrades to become the champion of the road.",
+        "short": "Battle rivals to be the fastest racer on the highways of Tokyo!  Customize your car with an overwhelming variations of upgrades to become the champion of the road."
+    },
+    "media": [
+        {
+            "media_id": "1E9F4315",
+            "title": "Import Tuner Challenge",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307ee/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307ee/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307ee/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307ee/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

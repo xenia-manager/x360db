@@ -1,0 +1,35 @@
+{
+    "id": "58550D0E",
+    "title": {
+        "full": "Marshmallow Duel",
+        "reduced": "Marshmallow Duel"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Potential Game Studios",
+    "publisher": "Potential Game Studios",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Marshmallow duel is like a simplified version of Super Smash Bros. You play against another person, moving from platform to platform and collecting items. Some items help you, some items hurt them, and some items are just plain destructive. Throw it all above a massive vat of marshmallow and you have Marshmallow Duel!",
+        "short": "Marshmallow duel is like a simplified version of Super Smash Bros. You play against another person, moving from platform to platform and collecting items. Some items help you, some items hurt them, and some items are just plain destructive. Throw it all above a massive vat of marshmallow and you have Marshmallow Duel!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550d0e00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D0E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d0e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D0E_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D0E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D0E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D0E_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": "54510840",
+    "title": {
+        "full": "5th Grader Game Time",
+        "reduced": "5th Grader Game Time"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "ImaginEngine",
+    "publisher": "THQ",
+    "release_date": "2009-09-22",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Drop your pencil, grab your controller, and gather the family because it's Game Time! Can you prove you're smarter than a 5th grader? Answer 5,000 new questions in over 25 categories. Compete on your own or play against your family and friends in 4-player multiplayer. Play like the show or try your hand at alternate modes such as Three and Out or Schoolroom Showdown. You can even boost your GPA by playing one of the many Extra Credit mini-games!",
+        "short": "Drop your pencil, grab your controller, and gather the family because it's Game Time! Can you prove you're smarter than a 5th grader? Answer 5,000 new questions in over 25 categories. Compete on your own or play against your family and friends in 4-player multiplayer. Play like the show or try your hand at alternate modes such as Three and Out or Schoolroom Showdown. You can even boost your GPA by playing one of the many Extra Credit mini-games!"
+    },
+    "media": [
+        {
+            "media_id": "3CDF7899",
+            "title": "Are You Smarter Than a 5th Grader? Game Time",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510840/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510840/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510840/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510840/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510840/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510840/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510840/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510840/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510840/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510840/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510840/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510840/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

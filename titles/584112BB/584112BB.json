@@ -1,0 +1,50 @@
+{
+    "id": "584112BB",
+    "title": {
+        "full": "Intel Discovered",
+        "reduced": "Intel Discovered"
+    },
+    "genre": [
+        "Kinect",
+        "Other"
+    ],
+    "developer": "Wahoo Studios, Inc.",
+    "publisher": "Microsoft Studios",
+    "release_date": "2012-10-19",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Do you have what it takes to be a superstar? Get schooled by Chris Evans on the secrets of the action hero. Get styled and learn how to work the runway with Chanel Iman. Rock the party with Redfoo of LMFAO. Live video play puts you in the action: punch, jab, kick, jump — pose, smile — surf the crowd. Pass these celebrity tests and you’ll be slated for stardom. Share the custom movie poster of you and Evans, and your magazine cover shot, with your friends. ",
+        "short": "Do you have what it takes to be a superstar? Get schooled by Chris Evans on the secrets of the action hero. Get styled and learn how to work the runway with Chanel Iman. Rock the party with Redfoo of LMFAO. Live video play puts you in the action: punch, jab, kick, jump — pose, smile — surf the crowd. Pass these celebrity tests and you’ll be slated for stardom. Share the custom movie poster of you and Evans, and your magazine cover shot, with your friends. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112bb/1033/screenlg18.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

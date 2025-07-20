@@ -1,0 +1,43 @@
+{
+    "id": "573607DD",
+    "title": {
+        "full": "WRC 4",
+        "reduced": "WRC 4"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Milestone Srl",
+    "publisher": "Bigben Interactive",
+    "release_date": "2013-10-25",
+    "user_rating": null,
+    "description": {
+        "full": "Show off your style and win the FIA WORLD RALLY CHAMPIONSHIP 2013 (official game) season! - A simulation unrivalled for its realism - An incredibly authentic and immersive career mode - The official 2013 FIA World Rally Championship videogame - Online multiplayer mode for up to 16 players - 65 cars, 78 routes, 13 countries - All weather conditions and road surfaces",
+        "short": "Show off your style and win the FIA WORLD RALLY CHAMPIONSHIP 2013 (official game) season! - A simulation unrivalled for its realism - An incredibly authentic and immersive career mode - The official 2013 FIA World Rally Championship videogame - Online multiplayer mode for up to 16 players - 65 cars, 78 routes, 13 countries - All weather conditions and road surfaces"
+    },
+    "media": [
+        {
+            "media_id": "73011B53",
+            "title": "WRC 4: FIA World Rally Championship",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607dd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607dd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607dd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607dd/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607dd/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607dd/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607dd/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607dd/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607dd/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": "54540823",
+    "title": {
+        "full": "NBA 2K8 Japan",
+        "reduced": "NBA 2K8 Japan"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Visual Concepts Entertainment",
+    "publisher": "2K Games",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "NBA 2K8",
+        "short": "NBA 2K8"
+    },
+    "media": [
+        {
+            "media_id": "08ECAA61",
+            "title": "NBA 2K8",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540823/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540823/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540823/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540823/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5454080C",
+                "title": "NBA 2K8"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "584113C2",
+    "title": {
+        "full": "Teenage Mutant Ninja Turtles Out of the Shadows",
+        "reduced": "TMNT OOTS"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Red Fly",
+    "publisher": "Activision",
+    "release_date": "2013-08-28",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Teenage Mutant Ninja Turtles: Out of the Shadows takes you back to how it all began.  Be the four Turtles Leonardo, Donatello, Michelangelo, and Raphael in the fight to save New York City from mutants, the Foot and Shredder.  With seamless drop-in, drop-out co-op, along with team combo moves and relentless combat, this is the game fans have been waiting for.",
+        "short": "Teenage Mutant Ninja Turtles: Out of the Shadows takes you back to how it all began.  Be the four Turtles Leonardo, Donatello, Michelangelo, and Raphael in the fight to save New York City from mutants, the Foot and Shredder.  With seamless drop-in, drop-out co-op, along with team combo moves and relentless combat, this is the game fans have been waiting for."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c2/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c2/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

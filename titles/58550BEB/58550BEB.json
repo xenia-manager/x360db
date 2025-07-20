@@ -1,0 +1,35 @@
+{
+    "id": "58550BEB",
+    "title": {
+        "full": "Smooth Operators",
+        "reduced": "Smooth Operators"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Andreas Heydeck",
+    "publisher": "Andreas Heydeck",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Create and build your own Call Center in Smooth Operators. Develop client relationships while balancing your financials and workload. Plan an efficient operation through micro management of your workforce.Can you create a successful Call Center?",
+        "short": "Create and build your own Call Center in Smooth Operators. Develop client relationships while balancing your financials and workload. Plan an efficient operation through micro management of your workforce.Can you create a successful Call Center?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550beb00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550BEB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550beb/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550BEB_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BEB_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BEB_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BEB_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "58550176",
+    "title": {
+        "full": "Onslaught",
+        "reduced": "Onslaught"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Hythe Software Solutions",
+    "publisher": "Hythe Software Solutions",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. The land of Gargore is a mass of warring kingdoms each with it's own army.   However, even the mightiest army fears a 'Fanatic', solitary warriors who live to fight and conquer and are remembered according to the number of their victories and the greatness of their deeds.   You are one such Fanatic, a magical warrior with the strength of an army.",
+        "short": "The land of Gargore is a mass of warring kingdoms each with it's own army.   However, even the mightiest army fears a 'Fanatic', solitary warriors who live to fight and conquer and are remembered according to the number of their victories and the greatness of their deeds.   You are one such Fanatic, a magical warrior with the strength of an army."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550176/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550176_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550176/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550176_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550176_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550176_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

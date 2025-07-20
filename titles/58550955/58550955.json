@@ -1,0 +1,35 @@
+{
+    "id": "58550955",
+    "title": {
+        "full": "Moe Mekuri 2  萌めくり2",
+        "reduced": "Moe Mekuri 2  萌めくり2"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Kohei",
+    "publisher": "Kohei",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=3/3, Mature Content=0/3. A new Moe Mekuri is here! Just like the previous one, the game is simple as turning all the panels to face up. Can you complete all the stages and add the cute girls' pictures to the gallery? The higher the difficulty level, the less clothing the girl in the picture have! It's a Moe-moe puzzle game that perfectly reflects the developer's appetite!",
+        "short": "A new Moe Mekuri is here! Just like the previous one, the game is simple as turning all the panels to face up. Can you complete all the stages and add the cute girls' pictures to the gallery? The higher the difficulty level, the less clothing the girl in the picture have! It's a Moe-moe puzzle game that perfectly reflects the developer's appetite!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855095500000001",
+        "boxart": null,
+        "icon": "http://avatar.xboxlive.com/global/t.58550955/icon/0/8000",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "585509CC",
+                "title": "Moe Mekuri 25　萌めくり25"
+            }
+        ],
+        "related": []
+    }
+}

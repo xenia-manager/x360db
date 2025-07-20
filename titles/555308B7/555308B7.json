@@ -1,0 +1,74 @@
+{
+    "id": "555308B7",
+    "title": {
+        "full": "Watch Dogs",
+        "reduced": "Watch Dogs"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2014-05-27",
+    "user_rating": "4.75",
+    "description": {
+        "full": "The Games on Demand version supports English.   French, German, Spanish, Italian, Russian and Portuguese support will require a separate language pack download, accessible via the Additional Content menu option within the game.  In today's hyper-connected world, Chicago has the country’s most advanced computer system – one which controls almost every piece of city technology and holds key information on all of the city's residents.    You play as Aiden Pearce, a brilliant hacker but also a former thug, whose criminal past lead to a violent family tragedy.  Now on the hunt for those who hurt your family, you'll be able to monitor and hack all who surround you while manipulating the city's systems to stop traffic lights, download personal information, turn off the electrical grid and more.   Use the city of Chicago as your ultimate weapon and exact your own style of revenge.  In a world led by technology, hacking is our weapon!",
+        "short": "In today's hyper-connected world, Aiden Pearce, a brilliant hacker and former thug, hacks into the computer system that controls and turns the city of Chicago into the ultimate weapon for a man bent on revenge.    In a world led by technology, hacking is our weapon!"
+    },
+    "media": [
+        {
+            "media_id": "714CDC0C",
+            "title": "Watch_Dogs (Disc 1)",
+            "edition": "Original, Special Edition, Bestseller",
+            "region": "Russia"
+        },
+        {
+            "media_id": "3547CA94",
+            "title": "Watch_Dogs (Disc 1) (Installation Disc)",
+            "edition": "Original, ANZ Special Edition, Signature Edition",
+            "region": "UK, Australia"
+        },
+        {
+            "media_id": "1DEB466B",
+            "title": "Watch_Dogs (Disc 1) (Installation Disc)",
+            "edition": "Original, Special Edition",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "36AA5B8D",
+            "title": "Watch_Dogs (Disc 2)",
+            "edition": "Original, Special Edition, Bestseller",
+            "region": "Russia"
+        },
+        {
+            "media_id": "173F8504",
+            "title": "Watch_Dogs (Disc 2) (Game Disc)",
+            "edition": "ANZ Special Edition, Signature Edition",
+            "region": "Australia"
+        },
+        {
+            "media_id": "54A95DF1",
+            "title": "Watch_Dogs (Disc 2) (Game Disc)",
+            "edition": "Original, Special Edition",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b7/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b7/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": "555307DC",
+    "title": {
+        "full": "FC Instincts Predator",
+        "reduced": "FC Instincts Predator"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Ubisoft Montreal",
+    "publisher": "UbiSoft",
+    "release_date": "2006-03-28",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Based on Ubisoft's award-winning franchise, Far Cry Instincts Predator™ includes two games in one—all new Far Cry Instincts Predator content, as well as the original Far Cry Instincts™ game.",
+        "short": "Based on Ubisoft's award-winning franchise, Far Cry Instincts Predator™ includes two games in one—all new Far Cry Instincts Predator content, as well as the original Far Cry Instincts™ game."
+    },
+    "media": [
+        {
+            "media_id": "4971ECEF",
+            "title": "Far Cry Instincts: Predator",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307dc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307dc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307dc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307dc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307dc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307dc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307dc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307dc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307dc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307dc/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307dc/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307dc/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/c9/13/c913f6a5-4f5b-4ce6-b3bc-ca8cb979c053.PDF?v=1#FarCryInstinctsP"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "5855049E",
+    "title": {
+        "full": "Truth or Treason",
+        "reduced": "Truth or Treason"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "BretWardle",
+    "publisher": "BretWardle",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Outwit your friends to collect treasure in this re-imagination of Rock, Paper, Scissors... Best of five wins! Tell the truth, or lie to your opponent about your intentions by disguising your Knight, Wizard, or Rogue. Makes a great and simple party game! Originally created in 48 hours for the 2010 Global Game Jam, with help from a lot of coffee. All proceeds go to the Child's Play Charity.",
+        "short": "Outwit your friends to collect treasure in this re-imagination of Rock, Paper, Scissors... Best of five wins! Tell the truth, or lie to your opponent about your intentions by disguising your Knight, Wizard, or Rogue. Makes a great and simple party game! Originally created in 48 hours for the 2010 Global Game Jam, with help from a lot of coffee. All proceeds go to the Child's Play Charity."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855049e/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855049E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855049e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855049E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855049E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855049E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855049E_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

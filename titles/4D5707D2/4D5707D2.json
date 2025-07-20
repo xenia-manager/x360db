@@ -1,0 +1,50 @@
+{
+    "id": "4D5707D2",
+    "title": {
+        "full": "Stranglehold",
+        "reduced": "Stranglehold"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Midway Amusement Games, LLC",
+    "publisher": "Midway Home Entertainment Inc.",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Honor is his code. Vengeance is his mission. Bloodshed is his only option.  Take on the role of Inspector Tequila from John Woo’s influential action film, Hard Boiled starring Chow Yun-Fat.  Engage your enemies with intense cinematic gun battles and cause massive environmental damage in real-time or revolutionary slow-motion Tequila Time.  - The Only Authentic John Woo Experience - The Most Destructible Environments Ever Created  - Intense Cinematic Gun Battles - Three unique Tequila Bomb moves: Precision Aim, Barrage, and Spin Attack - Seven exciting levels taking you from Hong Kong to Chicago - Online Multiplayer Mode with all the Massive D, Interactions, & Tequila Bombs from the single player experience!",
+        "short": "Honor is his code. Vengeance is his mission. Bloodshed is his only option.  Take on the role of Inspector Tequila from John Woo’s influential action film, Hard Boiled starring Chow Yun-Fat.  Engage your enemies with intense cinematic gun battles and cause massive environmental damage in real-time or revolutionary slow-motion Tequila Time.  - The Only Authentic John Woo Experience - The Most Destructible Environments Ever Created  - Intense Cinematic Gun Battles - Three unique Tequila Bomb moves:"
+    },
+    "media": [
+        {
+            "media_id": "589A7368",
+            "title": "John Woo Presents Stranglehold",
+            "edition": "Original, Promo, Rerelease",
+            "region": "Europe, Australia"
+        },
+        {
+            "media_id": "00A5CD57",
+            "title": "John Woo Presents Stranglehold",
+            "edition": "Original, Collector's Edition",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://mktplassets.xbox.com/NR/rdonlyres/D2A1CD2E-FAD5-4E7D-83C1-20A3D491426E/0/cbackstranglehold.jpg",
+        "banner": "http://avatar.xboxlive.com/global/t.4d5707d2/marketplace/0/1",
+        "boxart": "http://mktplassets.xbox.com/NR/rdonlyres/D7E839FF-F046-4E29-9E52-2B6DB4A77976/0/cboxstranglehold.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.4d5707d2/icon/0/8000",
+        "gallery": [
+            "http://mktplassets.xbox.com/NR/rdonlyres/1A4A864A-3A80-4F8E-8628-9C45DF5C4BEA/0/simstranglehold001.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/A377BFF6-F7BC-44AA-8237-EF8212137690/0/simstranglehold002.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/5356CE61-A529-429D-9E97-7A9BA4CF07D3/0/simstranglehold003.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/B93A8FF9-091D-4B2D-9865-8E41FA799E2C/0/simstranglehold004.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/9F6052EE-C4E7-4472-8C10-F54A9398EC2F/0/simstranglehold005.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550AC2",
+    "title": {
+        "full": "Dream Divers",
+        "reduced": "Dream Divers"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Team Shuriken",
+    "publisher": "Team Shuriken",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=3/3, Mature Content=1/3. Guide sexy divers as they explore the seas to find hidden stars, but beware of creatures trying to ruin your day !",
+        "short": "Guide sexy divers as they explore the seas to find hidden stars, but beware of creatures trying to ruin your day !"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550ac200000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550AC2_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550ac2/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550AC2_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AC2_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AC2_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AC2_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

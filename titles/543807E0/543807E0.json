@@ -1,0 +1,39 @@
+{
+    "id": "543807E0",
+    "title": {
+        "full": "Disneys Chicken Little",
+        "reduced": "Chicken Little"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics",
+        "Family"
+    ],
+    "developer": "Avalanche Software LLC",
+    "publisher": "Disney Interactive Studios",
+    "release_date": "2021-11-30",
+    "user_rating": null,
+    "description": {
+        "full": "Chicken Little is back and this time the sky really IS falling!  Bring the excitement of Disney's Chicken Little to life as you follow his gang of misfit friends through the hair-raising adventures of the movie and beyond. Don't just rely on cool moves to complete each mission—master unique gadgets, such as rocket jet packs, slingshots, and hover boards get you out of sticky situations. Saving the day takes friends, a little skill, and hero power!",
+        "short": "Chicken Little is back and this time the sky really IS falling!  Bring the excitement of Disney's Chicken Little to life as you follow his gang of misfit friends through the hair-raising adventures of the movie and beyond. Don't just rely on cool moves to complete each mission—master unique gadgets, such as rocket jet packs, slingshots, and hover boards get you out of sticky situations. Saving the day takes friends, a little skill, and hero power!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807e0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807e0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807e0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807e0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807e0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807e0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807e0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807e0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807e0/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807e0/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

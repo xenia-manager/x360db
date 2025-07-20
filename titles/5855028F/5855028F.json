@@ -1,0 +1,35 @@
+{
+    "id": "5855028F",
+    "title": {
+        "full": "フェナックむら　ものがたり",
+        "reduced": "フェナックむら　ものがたり"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "ktakaki",
+    "publisher": "ktakaki",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. 『アクションゲームツクール』のアクションRPGプラグインを使用して作成された、 ほのぼのアクションアドベンチャーです。フェナック村に住む少年ライルの小さな冒険を描いています。プレー時間は１～２時間。",
+        "short": "『アクションゲームツクール』のアクションRPGプラグインを使用して作成された、 ほのぼのアクションアドベンチャーです。フェナック村に住む少年ライルの小さな冒険を描いています。プレー時間は１～２時間。"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855028f00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855028F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855028f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855028F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855028F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855028F_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855028F_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

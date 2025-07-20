@@ -1,0 +1,59 @@
+{
+    "id": "354807D1",
+    "title": {
+        "full": "Painkiller Hell  Damnation",
+        "reduced": "Painkiller Hell  Damnation"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "The Farm 51",
+    "publisher": "Nordic Games GmbH",
+    "release_date": "2013-10-01",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand Version supports English, French, Italian, German, Spanish, Hungarian, Polish, and Czech. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual”.  Heaven's Hitman is Back... With a Vengeance Evil has returned! Demonic powers are manifesting themselves as a myriad of dark creatures, fighting over the fates of imprisoned souls caught in Purgatory.  Once again, it is up to Daniel Garner, in the unenviable position of being the Curse of Darkness and the Toy of Light, to fight his way past hordes of demons and fiends.  Questions remain… “Can he stop the powerful creatures that stand in his way? Will he ever leave the hell of Purgatory and be reunited with his wife Catherine?”  Painkiller Hell & Damnation is a fast-paced, thrilling modern remake of an all-action shooter Classic!",
+        "short": "Evil has returned! Demonic powers are manifesting themselves as a myriad of dark creatures, fighting over the fates of imprisoned souls caught in Purgatory.  Painkiller Hell & Damnation is a fast-paced, thrilling modern remake of an all-action shooter Classic!"
+    },
+    "media": [
+        {
+            "media_id": "35185D64",
+            "title": "Painkiller: Hell & Damnation",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "4AE13105",
+            "title": "Painkiller: Hell & Damnation",
+            "edition": "Original",
+            "region": "Germany"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807d1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807d1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807d1/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807d1/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807d1/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807d1/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807d1/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/354807d1/PainkillerHD_XBOX_360_Manual_US.pdf"
+        ]
+    }
+}

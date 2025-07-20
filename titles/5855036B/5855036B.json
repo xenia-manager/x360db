@@ -1,0 +1,35 @@
+{
+    "id": "5855036B",
+    "title": {
+        "full": "StarField Battle",
+        "reduced": "StarField Battle"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "DeadlyEvilRyu",
+    "publisher": "DeadlyEvilRyu",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. StarField Battle is a fast paced shooter that puts you in the middle of space and challenges you get obtain a high score.  Includes power-ups and multiple weapon types and multiple enemies.",
+        "short": "StarField Battle is a fast paced shooter that puts you in the middle of space and challenges you get obtain a high score.  Includes power-ups and multiple weapon types and multiple enemies."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855036b/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855036B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855036b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855036B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855036B_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855036B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855036B_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "id": "58410A9F",
+    "title": {
+        "full": "The Fancy Pants Adventures",
+        "reduced": "The Fancy Pants Adventures"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer"
+    ],
+    "developer": "EA2D, Borne Games, Over The Top Games",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2011-04-20",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Local Multiplayer 2-4, Xbox LIVE Multiplayer 2-4, HD (High Definition). Run Fast. Run Fancy. The Fancy Pants Adventures is the definitive action-adventure platformer you can play with your friends. Race through dense forests, underwater caverns, and pirate ships in search of your kidnapped sister in this epic adventure. Stomp, kick, and slash your enemies with 40 melee weapons and an arsenal of moves. Battle Pirates, Ninjas, a Giant Penguin and more! When you beat the newest adventure, team up on Xbox LIVE with your friends to find all the bonus levels, challenge each other to Fancy Golf, Time Trials, Trick Arenas, and then battle it out head-to-head in classic King of the Hill tournaments! As an added bonus, play the HD-upgraded versions of the classics, The Fancy Pants Adventures: World 1 and 2, the way they were meant to be played, on console!",
+        "short": "(Online Interactions Not Rated by the ESRB) Local Multiplayer 2-4, Xbox LIVE Multiplayer 2-4, HD. Run Fast. Run Fancy. The Fancy Pants Adventures is the definitive action-adventure platformer that you can play with your friends. Race through levels while stomping and slashing enemies with 40 melee weapons and an arsenal of moves! Unlock HD versions of two classic Fancy Pants worlds and battle it out in King of the Hill tournaments!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a9f/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

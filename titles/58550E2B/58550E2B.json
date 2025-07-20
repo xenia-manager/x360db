@@ -1,0 +1,33 @@
+{
+    "id": "58550E2B",
+    "title": {
+        "full": "Flappy Wrecker",
+        "reduced": "Flappy Wrecker"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Studio Team Shuriken",
+    "publisher": "Studio Team Shuriken",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=3/3. Fly a determined bird to his inevitable death or just destroy everything. The choice is yours !",
+        "short": "Fly a determined bird to his inevitable death or just destroy everything. The choice is yours !"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550e2b00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E2B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e2b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E2B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E2B_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

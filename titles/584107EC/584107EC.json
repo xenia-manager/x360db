@@ -1,0 +1,36 @@
+{
+    "id": "584107EC",
+    "title": {
+        "full": "Bankshot Billiards 2",
+        "reduced": "Bankshot Billiards 2"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "pixelStorm entertainment studios Inc.",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-04-27",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Play nine different styles, from classic 8-Ball to Trick Shots. Turn on Aiming Aid to practice your shots, then challenge opponents on Xbox 360 Live.",
+        "short": "Play nine different styles, from classic 8-Ball to Trick Shots. Turn on Aiming Aid to practice your shots, then challenge opponents on Xbox 360 Live."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ec/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ec/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ec/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ec/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ec/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ec/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ec/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ec/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ec/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

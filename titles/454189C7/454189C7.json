@@ -1,0 +1,35 @@
+{
+    "id": "454189C7",
+    "title": {
+        "full": "Battlefield 4 Beta",
+        "reduced": "Battlefield 4 Beta"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "DICE",
+    "publisher": "Electronic Arts",
+    "release_date": "2013-10-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Beta features all-out war in the multiplayer map Siege of Shanghai.   Battlefield 4 is the genre-defining action blockbuster made of moments that blur the line between game and glory. Fueled by the next-generation power and fidelity of Frostbite™ 3, Battlefield 4 provides a visceral, dramatic experience unlike any other.  Only in Battlefield will you blow the foundations of a dam or reduce an entire skyscraper to rubble. Only in Battlefield will you lead a naval assault from the back of a gun boat. Battlefield grants you the freedom to do more and be more while playing to your strengths and carving your own path to victory.   This is an online only multiplayer Beta. Please note that the Beta is still undergoing testing before its official release and does not reflect the quality of the final product. ",
+        "short": "The Beta features all-out war in the multiplayer map Siege of Shanghai. This is an online only multiplayer Beta. Please note that the Beta is still undergoing testing before its official release and does not reflect the quality of the final product."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189c7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189c7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189c7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189c7/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454109BA",
+                "title": "Battlefield 4™"
+            }
+        ],
+        "related": []
+    }
+}

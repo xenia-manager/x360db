@@ -1,0 +1,48 @@
+{
+    "id": "415608C5",
+    "title": {
+        "full": "Family Guy Back To The Multiverse",
+        "reduced": "Family Guy BTTM"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Heavy Iron Studios",
+    "publisher": "Activision",
+    "release_date": "2012-11-20",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Everyone’s favorite foul-mouthed baby Stewie stars alongside his faithful booze hound Brian in the Family Guy event of the year: Family Guy: Back to the Multiverse!    Save Quahog from utter annihilation!  Stewie and Brian team up in an original Multiverse-spanning adventure to stop the evil Bertram from destroying everything!  • Bizarre Universes: Battle through all new demented universes that only the show’s writers could create.  • Extra-Dimensional Action: Face off against whacked out foes in INFILTRATION! and Multiverse Madness Modes.  • Create Epic Beat Downs: Switch between Brian and Stewie on the fly or grab a friend and play in 2-player Co-Op Mode to take down the enemies in the multiverse!  • Familiar Faces: Take the reins of 10 different characters plucked from the show and pit them against each other in 4-person local multiplayer!",
+        "short": "Everyone’s favorite foul-mouthed baby Stewie stars alongside his faithful booze hound Brian in the Family Guy event of the year: Family Guy: Back to the Multiverse!    Save Quahog from utter annihilation!  Stewie and Brian team up in an original Multiverse-spanning adventure to stop the evil Bertram from destroying everything!"
+    },
+    "media": [
+        {
+            "media_id": "55DA4FA1",
+            "title": "Family Guy: Back to the Multiverse",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608c5/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/415608c5/0/5000X3-226_Family%20Guy%20MNL%20DIGITAL.pdf"
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "id": "454D07D2",
+    "title": {
+        "full": "FlatOut UC",
+        "reduced": "FlatOut UC"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Bugbear Entertainment",
+    "publisher": "Empire Interactive",
+    "release_date": "2008-01-01",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Ready for the aggressive, adrenaline-filled ride that leaves you breathless? FlatOut UC is all about destructive action on a level not seen in a racing game before. The new carnage modes like the Deathmatch derby, Carnage Race and Head-on races are pure wreck-filled, adrenaline-pumping rides of maximum mayhem. Experience it on Live for the ultimate challenge. All of the footage is captured live from the final game. Physics, visuals, action and the sheer fun of playing FlatOut UC make this game the must have action racer for Xbox 360 this summer.",
+        "short": "Ready for the aggressive, adrenaline-filled ride that leaves you breathless? FlatOut UC is all about destructive action on a level not seen in a racing game before. The new carnage modes like the Deathmatch derby, Carnage Race and Head-on races are pure wreck-filled, adrenaline-pumping rides of maximum mayhem. Experience it on Live for the ultimate challenge. All of the footage is captured live from the final game. Physics, visuals, action and the sheer fun of playing FlatOut UC make this game t"
+    },
+    "media": [
+        {
+            "media_id": "43233C38",
+            "title": "FlatOut: Ultimate Carnage",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "6C323A15",
+            "title": "FlatOut: Ultimate Carnage",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454d07d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454d07d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454d07d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454d07d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454d07d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454d07d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454d07d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454d07d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454d07d2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454d07d2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454d07d2/1029/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454d07d2/1029/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454d07d2/1029/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454d07d2/1029/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

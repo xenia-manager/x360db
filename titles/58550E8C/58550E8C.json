@@ -1,0 +1,35 @@
+{
+    "id": "58550E8C",
+    "title": {
+        "full": "Eternal Nightmare",
+        "reduced": "Eternal Nightmare"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Chris Antoni",
+    "publisher": "Chris Antoni",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. You're tired of having your hand held and mindlessly stomping your enemies. What if a new game came along that required a mastery of both your wits and reflexes? You long for shooting, platforming, leveling up, epic fights and a real challenge. These are your thoughts as you fall asleep, unaware that an evil nightmare is slowly creeping into your sub conscious...",
+        "short": "You're tired of having your hand held and mindlessly stomping your enemies. What if a new game came along that required a mastery of both your wits and reflexes? You long for shooting, platforming, leveling up, epic fights and a real challenge. These are your thoughts as you fall asleep, unaware that an evil nightmare is slowly creeping into your sub conscious..."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550e8c/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E8C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e8c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E8C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E8C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E8C_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E8C_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

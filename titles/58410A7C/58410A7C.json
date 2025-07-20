@@ -1,0 +1,32 @@
+{
+    "id": "58410A7C",
+    "title": {
+        "full": "Spare Parts",
+        "reduced": "Spare Parts"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "EA Bright Light",
+    "publisher": "Electronic Arts",
+    "release_date": "2011-01-19",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Spare Parts tells the story of courageous robots Mar-T and Chip, who find themselves dumped out with the rubbish on a strange planet. Working together in co-op mode (either local or online), the mechanical duo must find a way to repair an abandoned space ship and escape the planet before evil Lord Krung can dispatch his henchmen to destroy them. Searching the hostile environments for ship parts and currency, Mar-T and Chip will also collect upgradable action parts – such as Rocket Boots – to unlock new abilities that will aid them as they rescue other stranded robots, and battle countless enemies including the relentless Krofax troopers, hostile spider monkeys and even a Super Huge Mega Laser!   Can our heroes rescue their stranded robotic friends and unearth all of the spare parts they need to make their escape?",
+        "short": "(Online Interactions Not Rated by the ESRB) Team Up: Work together to find secret areas, be rewarded by co-op machines and utilise co-op moves to help you survive in the planet’s hostile environment.  Power Up: Unlock Action Parts to enable you to reach areas that are otherwise unobtainable and help you overcome the evil adversaries. Use currency found in the world to power up these Action Parts to the next level."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7c/1033/screenlg1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

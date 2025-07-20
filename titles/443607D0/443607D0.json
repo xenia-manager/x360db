@@ -1,0 +1,46 @@
+{
+    "id": "443607D0",
+    "title": {
+        "full": "Jurassic Park The Game",
+        "reduced": "Jurassic Park The Game"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Telltale Inc.",
+    "publisher": "Telltale Inc.",
+    "release_date": "2011-11-15",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French.  Security systems have failed and the creatures of the park roam free. Now, a rogue corporation will stop at nothing to acquire the embryos stolen and lost by Dennis Nedry. Experience a brand new adventure set during the events of the first Jurassic Park movie and see new areas and dinosaurs in this landmark adventure 65 million years in the making!",
+        "short": "Experience a brand new adventure set during the events of the first Jurassic Park movie. "
+    },
+    "media": [
+        {
+            "media_id": "19CED90C",
+            "title": "Jurassic Park: The Game",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d0/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d0/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/443607d0/JurassicPark_Manual_EN_Revised.pdf"
+        ]
+    }
+}

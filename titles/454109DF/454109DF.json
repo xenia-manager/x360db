@@ -1,0 +1,39 @@
+{
+    "id": "454109DF",
+    "title": {
+        "full": "NHL  15",
+        "reduced": "NHL15"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA SPORTS",
+    "publisher": "Electronic Arts",
+    "release_date": "2014-09-09",
+    "user_rating": null,
+    "description": {
+        "full": "NHL 15 brings together a generation of EA SPORTS innovation into one complete hockey package.  All-new commentary duo, Mike ‘Doc’ Emrick and Eddie Olczyk call the game in the most jam-packed hockey experience ever.",
+        "short": "NHL 15 brings together a generation of EA SPORTS innovation into one complete hockey package.  All-new commentary duo, Mike ‘Doc’ Emrick and Eddie Olczyk call the game in the most jam-packed hockey experience ever."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109df/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109df/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109df/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109df/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109df/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109df/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109df/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454109DC",
+                "title": "NHL  15"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "4D5707D3",
+    "title": {
+        "full": "This is Vegas",
+        "reduced": "This is Vegas"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Midway Home Entertainment Inc.",
+    "publisher": "Midway Home Entertainment Inc.",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Take a tour through THIS IS VEGAS with this outrageous teaser trailer.  Live your Vegas Fantasy this winter, when THIS IS VEGAS makes its debut on the Xbox 360.",
+        "short": "Take a tour through THIS IS VEGAS with this outrageous teaser trailer.  Live your Vegas Fantasy this winter, when THIS IS VEGAS makes its debut on the Xbox 360."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707d3/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

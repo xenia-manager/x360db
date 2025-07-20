@@ -1,0 +1,46 @@
+{
+    "id": "58410901",
+    "title": {
+        "full": "Duke Nukem 3D",
+        "reduced": "Duke Nukem 3D"
+    },
+    "genre": [
+        "Classics",
+        "Shooter"
+    ],
+    "developer": "3D Realms",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-06-14",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Xbox LIVE Multiplayer 2-8, HD (High Definition). Unlock the full version for 39 levels of mayhem!  Wreak havoc on your foes with weapons like Pipe Bombs, Shrink Ray, and Freezer.  Impress your friends on the leaderboards, earn achievements, and take advantage of the painless death system – rewind 10 seconds or 10 minutes, the choice is up to you.  All new User Clip recording, sharing and uploading have been added and best of all - online multiplayer with cooperative and DukeMatch for up to 8 players through Xbox LIVE!  What are you waiting for? This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Join Duke Nukem, the politically incorrect action hero, as he once again defends Earth and its babes from alien invasion!  Wreak havoc on your foes with weapons like Pipe Bombs, Shrink Ray, and Freezer.  Impress your friends on the leaderboards, earn achievements, and take advantage of the painless death system – rewind 10 seconds or 10 minutes, the choice is up to you.  All new User Clip recording, sharing and uploading have been added and best of all - online multiplayer with cooperative and …"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410901/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410901/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410901/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410901/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410901/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410901/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410901/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410901/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410901/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410901/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410901/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410901/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410901/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410901/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410901/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410901/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410901/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410901/1033/screenlg14.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

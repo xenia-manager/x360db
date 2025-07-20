@@ -1,0 +1,44 @@
+{
+    "id": "584113D6",
+    "title": {
+        "full": "Giana Sisters Twisted Dreams",
+        "reduced": "Giana Sisters Twisted Dreams"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics",
+        "Platformer"
+    ],
+    "developer": "Black Forest Games",
+    "publisher": "bitComposer Entertainment AG",
+    "release_date": "2013-03-21",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Rescue the Giana Sisters in this fast-paced platform game! Jump through tricky levels and transform in an instant from cute to rebellious and back. The entire environment changes with you in real time, including the soundtrack, which was produced by sound magician Chris Hülsbeck. Use your skills, solve challenging puzzles, and defeat nasty end bosses. Start an unusual adventure in this dreamlike remake, and experience the rebirth of a real cult classic of the 80s! ",
+        "short": "Rescue the Giana Sisters in this fast-paced platform game! Jump through tricky levels and transform in an instant from cute to rebellious and back."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113d6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113d6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113d6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113d6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113d6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113d6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113d6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113d6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113d6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113d6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113d6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113d6/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113d6/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113d6/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113d6/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "5855091F",
+    "title": {
+        "full": "Kickn It",
+        "reduced": "Kickn It"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "K-dog",
+    "publisher": "K-dog",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Kick’n It! is a Hacky Sack style game that friends and family can play together with their Avatars.  Perform kicks, stalls, tricks and combos.  Compete for high scores.  Take full control of your Avatar.  There’s plenty of gameplay packed into 4 Single player and 4 Multiplayer game modes - including crowd pleaser Bomb Squad!",
+        "short": "Kick’n It! is a Hacky Sack style game that friends and family can play together with their Avatars.  Perform kicks, stalls, tricks and combos.  Compete for high scores.  Take full control of your Avatar.  There’s plenty of gameplay packed into 4 Single player and 4 Multiplayer game modes - including crowd pleaser Bomb Squad!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855091f00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855091F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855091f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855091F_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855091F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855091F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855091F_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

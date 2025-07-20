@@ -1,0 +1,48 @@
+{
+    "id": "443607DF",
+    "title": {
+        "full": "Minecraft Story Mode - Season Two",
+        "reduced": "Minecraft Story Mode - Season Two"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Telltale Games",
+    "publisher": "Telltale Games",
+    "release_date": "2017-09-19",
+    "user_rating": "0.00",
+    "description": {
+        "full": "Now that Jesse and the gang have vanquished the Wither Storm, saved the world, and become totally super famous heroes, life has gotten a bit more...complicated. With more responsibilities and less time for adventure, old friendships have started to fade -- at least until Jesse’s hand gets stuck in a creepy gauntlet that belongs to an ancient underwater temple.",
+        "short": "Now that Jesse and the gang have vanquished the Wither Storm, saved the world, and become totally super famous heroes, life has gotten a bit more...complicated. With more responsibilities and less time for adventure, old friendships have started to fade -- at least until Jesse’s hand gets stuck in a creepy gauntlet that belongs to an ancient underwater temple."
+    },
+    "media": [
+        {
+            "media_id": "79F308DD",
+            "title": "Minecraft: Story Mode: Season Two: The Telltale Series",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607df/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607df/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607df/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607df/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607df/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607df/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607df/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607df/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607df/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "584114C6",
+                "title": "Minecraft Story Mode - Season Two"
+            }
+        ],
+        "related": []
+    }
+}

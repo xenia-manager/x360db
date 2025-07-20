@@ -1,0 +1,37 @@
+{
+    "id": "5451888A",
+    "title": {
+        "full": "The Biggest Loser Ultimate Workout Demo",
+        "reduced": "The Biggest Loser Ultimate Workout Demo"
+    },
+    "genre": [
+        "Family",
+        "Kinect",
+        "Sports & Recreation"
+    ],
+    "developer": "Blitz Games Studios Ltd",
+    "publisher": "THQ",
+    "release_date": "2010-11-04",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Download the demo. ",
+        "short": "Download the demo. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451888a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451888a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451888a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451888a/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "54510859",
+                "title": "The Biggest Loser: Ultimate Workout"
+            }
+        ],
+        "related": []
+    }
+}

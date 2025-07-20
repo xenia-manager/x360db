@@ -1,0 +1,31 @@
+{
+    "id": "4D5707E4",
+    "title": {
+        "full": "Hour of Victory PC",
+        "reduced": "Hour of Victory PC"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Nfusion Interactive",
+    "publisher": "Midway Home Entertainment Inc.",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "Hour of Victory™, available exclusively for the Xbox 360, allows you to play a key role in cinematic battles from the European and North African theaters of World War II.  Sneak into enemy territory as a covert operative, storm the gates as a British Commando, or snipe enemy troops from afar as an Army Ranger - each character’s unique attributes will be necessary in order to successfully arrive at the Hour of Victory.",
+        "short": "Hour of Victory™, available exclusively for the Xbox 360, allows you to play a key role in cinematic battles from the European and North African theaters of World War II.  Sneak into enemy territory as a covert operative, storm the gates as a British Commando, or snipe enemy troops from afar as an Army Ranger - each character’s unique attributes will be necessary in order to successfully arrive at the Hour of Victory."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707e4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707e4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707e4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707e4/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "id": "5553088C",
+    "title": {
+        "full": "Far Cry 3",
+        "reduced": "Far Cry 3"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2012-11-29",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Far beyond the reach of civilization is a mysterious island overrun with violence and suffering. While traveling with friends, you are taken captive and brutalized. Your only hope of survival lies in unraveling the dark secrets of the island and its deranged inhabitants. Alone at the edge of the world, where nothing is what it seems, you must find a way to fight back and escape this island of insanity. Multiplayer and online features are no longer available for this product.",
+        "short": "Far beyond the reach of civilization is a mysterious island overrun with violence and suffering. While traveling with friends, you are taken captive and brutalized. Your only hope of survival lies in unraveling the dark secrets of the island and its deranged inhabitants. Alone at the edge of the world, where nothing is what it seems, you must find a way to fight back and escape this island of insanity."
+    },
+    "media": [
+        {
+            "media_id": "6F6EAD36",
+            "title": "Far Cry 3",
+            "edition": "Original, Classics, Far Cry Compilation",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "003B8D49",
+            "title": "Far Cry 3",
+            "edition": "Original",
+            "region": "Europe, Asia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553088c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553088c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553088c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553088c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553088c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553088c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553088c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553088c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553088c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553088c/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553088c/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553088c/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553088c/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/5553088c/PPS_FC3_Xbox360_MANUAL_ENG_HR_room22_CMYK.pdf"
+        ]
+    }
+}

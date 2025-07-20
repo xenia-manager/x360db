@@ -1,0 +1,38 @@
+{
+    "id": "534387DD",
+    "title": {
+        "full": "Just Cause Demo",
+        "reduced": "Just Cause Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Demo",
+        "Shooter",
+        "Xbox LIVE Arcade Graveyard"
+    ],
+    "developer": "Avalanche Studios",
+    "publisher": "Eidos",
+    "release_date": null,
+    "user_rating": null,
+    "description": {
+        "full": "Buy this game!",
+        "short": "Buy this game!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.534387dd/marketplace/0/1",
+        "boxart": "https://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307d5/1033/boxartlg.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.534387dd/icon/0/8000",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "534307D5",
+                "title": "Just Cause"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": "44500803",
+    "title": {
+        "full": "RISE OF THE GUARDIANS",
+        "reduced": "RISE OF THE GUARDIANS"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Torus Games Pty Ltd",
+    "publisher": "D3Publisher of America, Inc. ",
+    "release_date": "2012-11-20",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Let your imagination soar in Rise of the Guardians: The Video Game as you play as one of the classic childhood legends, including: North (aka Santa Claus), Tooth (aka the Tooth Fairy), Bunnymund (aka the Easter Bunny), Sandman, and Jack Frost.  In this action-packed adventure game, each Guardian has their own set of upgradable and extraordinary abilities that will help you take on the evil spirit “Pitch” and his infectious nightmares.  With drop-in-and-out multiplayer action supporting up to four players, you and your team of Guardians will work together to protect the hopes, beliefs and imaginations of children all over the world!",
+        "short": "Play as one of the classic childhood legends, including: North, Tooth, Bunnymund, Sandman, and Jack Frost in Rise of the Guardians: The Video Game.  In this action-packed adventure game, each Guardian has a set of upgradable abilities that will help you take on the evil spirit “Pitch” and his infectious nightmares.  With four player drop-in-and-out multiplayer, you and your team of Guardians will work together to protect the hopes, beliefs and imaginations of children all over the world!"
+    },
+    "media": [
+        {
+            "media_id": "6C004345",
+            "title": "DreamWorks Rise of the Guardians",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500803/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500803/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500803/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500803/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500803/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500803/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500803/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500803/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500803/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500803/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500803/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500803/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/44500803/rog_360_MNL_BDY_mech.pdf"
+        ]
+    }
+}

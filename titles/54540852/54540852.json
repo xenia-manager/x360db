@@ -1,0 +1,46 @@
+{
+    "id": "54540852",
+    "title": {
+        "full": "NBA 2K10",
+        "reduced": "NBA 2K10"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Visual Concepts Entertainment",
+    "publisher": "Take Two Interactive",
+    "release_date": "2009-10-06",
+    "user_rating": "4.25",
+    "description": {
+        "full": "NOTE: ONLINE MULTIPLAYER SUPPORT FOR THIS TITLE WAS TERMINATED ON 11/15/2010.  ONLINE/MULTIPLAYER FEATURES ARE NOT ACTIVE OR INCLUDED.  NBA 2K10 is raising the bar again with another Championship season. NBA 2K9, the #1 selling & #1 rated NBA videogame, set the standard for all basketball videogames, and NBA 2K10 surpasses that by delivering an even better basketball experience this year with all-new gameplay components, out-of-this-world graphics, even more realistic Signature Style animations, all-new presentation elements and an unrivalled online system -- this season you won’t just play the NBA, you’ll TAKE OVER.",
+        "short": "NBA 2K10 is raising the bar again with another Championship season. NBA 2K9, the #1 selling & #1 rated NBA videogame, set the standard for all basketball videogames, and NBA 2K10 surpasses that by delivering an even better basketball experience this year with all-new gameplay components, out-of-this-world graphics, even more realistic Signature Style animations, all-new presentation elements and an unrivalled online system -- this season you won’t just play the NBA, you’ll TAKE OVER."
+    },
+    "media": [
+        {
+            "media_id": "418492FB",
+            "title": "NBA 2K10",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540852/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540852/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540852/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540852/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540852/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540852/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540852/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540852/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540852/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540852/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540852/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540852/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

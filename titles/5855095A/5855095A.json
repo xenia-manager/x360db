@@ -1,0 +1,35 @@
+{
+    "id": "5855095A",
+    "title": {
+        "full": "Redd The Lost Temple",
+        "reduced": "Redd The Lost Temple"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Blazing Forge Games",
+    "publisher": "Blazing Forge Games",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. The world is in danger from an unknown phenomenon and only the archeologist Allie and the explorer-for-hire Redd can save us. To keep Redd alive you’ll need to outmaneuver danger, discover new abilities, and of course… blow things up! Navigate through huge dungeons avoiding sinister traps, time based puzzles, and massive stone creatures to try and unlock the mystery of the Royal Amulet of Konira.",
+        "short": "The world is in danger from an unknown phenomenon and only the archeologist Allie and the explorer-for-hire Redd can save us. To keep Redd alive you’ll need to outmaneuver danger, discover new abilities, and of course… blow things up! Navigate through huge dungeons avoiding sinister traps, time based puzzles, and massive stone creatures to try and unlock the mystery of the Royal Amulet of Konira."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855095a/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855095A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855095a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855095A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855095A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855095A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855095A_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

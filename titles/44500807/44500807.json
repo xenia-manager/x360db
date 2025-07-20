@@ -1,0 +1,47 @@
+{
+    "id": "44500807",
+    "title": {
+        "full": "Adventure Time Explore the Dungeon Because I DONT KNOW",
+        "reduced": "Adventure Time Explore"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "WayForward",
+    "publisher": "D3Publisher of America, Inc.",
+    "release_date": "2013-11-19",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Princess Bubblegum summons Finn and Jake to investigate a rash of thefts and kidnappings that have plagued the Candy Kingdom. She thinks the cause lies within her Secret Royal Dungeon, where only the nastiest monsters and criminals are locked up. If they’ve found a way to escape, the Land of Ooo will be in danger! Show creator Pendleton Ward teams up again with developer WayForward in an all-new action game! Select from fan favorite characters from the show, including Finn, Jake, and many more, and team up with your friends in four-player co-operative multiplayer as the Adventure Time world comes to life through beautiful pixel animations, and voiceover from the original cast.",
+        "short": "Princess Bubblegum summons Finn and Jake to investigate a rash of thefts and kidnappings that have plagued the Candy Kingdom. She thinks the cause lies within her Secret Royal Dungeon, where only the nastiest monsters and criminals are locked up. If they’ve found a way to escape, the Land of Ooo will be in danger! Show creator Pendleton Ward teams up with developer WayForward in an all-new action game! Select from fan favorite characters and play with friends in four-player co-op multiplayer!"
+    },
+    "media": [
+        {
+            "media_id": "2C32D8E2",
+            "title": "Adventure Time: Explore the Dungeon Because I Don't Know!",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500807/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500807/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500807/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500807/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500807/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500807/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500807/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500807/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500807/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500807/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80244500807/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/44500807/0/English.%20at2_360_MNL_Online_MECH_Final.pdf"
+        ]
+    }
+}

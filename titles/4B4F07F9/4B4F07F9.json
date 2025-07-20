@@ -1,0 +1,37 @@
+{
+    "id": "4B4F07F9",
+    "title": {
+        "full": "信長の野望天道",
+        "reduced": "信長の野望天道"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Makoto Yoshida",
+    "publisher": "KOEI Co., Ltd.",
+    "release_date": "2010-02-12",
+    "user_rating": null,
+    "description": {
+        "full": "戦国時代の一大名に成り代わって、国力を増強し、軍事力を高めて、他国に侵攻することで領土を拡大し、天下統一を目指すゲームです。全国に散らばる人（武将、兵力）・物（資源）・金（金銭）の３要素を独自の街道戦略で活用し、天下統一を目指します。",
+        "short": "戦国時代の一大名に成り代わって、国力を増強し、軍事力を高めて、他国に侵攻することで領土を拡大し、天下統一を目指すゲームです。全国に散らばる人（武将、兵力）・物（資源）・金（金銭）の３要素を独自の街道戦略で活用し、天下統一を目指します。"
+    },
+    "media": [
+        {
+            "media_id": "536679E7",
+            "title": "Nobunaga no Yabou: Tendou",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07f9/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07f9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07f9/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07f9/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

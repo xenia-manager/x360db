@@ -1,0 +1,42 @@
+{
+    "id": "4343883C",
+    "title": {
+        "full": "RESIDENT EVIL REVELATIONS Demo",
+        "reduced": "RESIDENT EVIL Rev Demo"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "CAPCOM CO., LTD. ",
+    "publisher": "CAPCOM CO., LTD. ",
+    "release_date": "2013-05-14",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The story is set at a time before the Kijuju and Lanshiang bioterror incidents when the BSAA was still a young organization. Join Jill Valentine aboard a ghost ship in the Mediterranean Sea searching for her old partner, Chris Redfield.  Play as Jill in this demo.  The typefaces included herein are solely developed by DynaComware.",
+        "short": "Survive a ghost ship and rediscover survival-horror. Play as Jill in this demo."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343883c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343883c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343883c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343883c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343883c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343883c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343883c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343883c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343883c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343883c/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "43430833",
+                "title": "RESIDENT EVIL REV."
+            }
+        ],
+        "related": []
+    }
+}

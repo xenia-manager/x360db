@@ -1,0 +1,38 @@
+{
+    "id": "41560870",
+    "title": {
+        "full": "Jurassic The Hunted",
+        "reduced": "Jurassic The Hunted"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Cauldron",
+    "publisher": "Activision",
+    "release_date": "2009-10-10",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Jurassic: The Hunted is an epic, story-driven first-person shooter set on a dark mysterious island that connects the modern world with the age of dinosaurs. Players take on the role of Craig Dylan, a weapons and survival expert, hired to protect a research team sent to study the strange temporal energy of the island and recover whatever is left of the expedition lost on the island 25 years ago. Every minute is a fight for survival as Dylan must scavenge weapons, defend barricades, and battle titanic dinosaurs to return to his own time.",
+        "short": "Jurassic: The Hunted is an epic, story-driven first-person shooter set on a dark mysterious island that connects the modern world with the age of dinosaurs. Players take on the role of Craig Dylan, a weapons and survival expert, hired to protect a research team sent to study the strange temporal energy of the island and recover whatever is left of the expedition lost on the island 25 years ago. Every minute is a fight for survival as Dylan must scavenge weapons, defend barricades, and battle ti…"
+    },
+    "media": [
+        {
+            "media_id": "10CFD8D7",
+            "title": "Jurassic: The Hunted",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560870/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560870/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560870/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560870/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

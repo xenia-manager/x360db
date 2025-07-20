@@ -1,0 +1,41 @@
+{
+    "id": "545407E3",
+    "title": {
+        "full": "NHL 2K6",
+        "reduced": "NHL 2K6"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Kush",
+    "publisher": "2K Games",
+    "release_date": "2008-01-01",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The champion of videogame hockey is back! NHL® 2K6 continues its legacy with more control, more emotion, and more detail than ever before. Strap on your skates and take command with tape-to-tape passing, behind the net plays, and precision give-and-go attacks.",
+        "short": "The champion of videogame hockey is back! NHL® 2K6 continues its legacy with more control, more emotion, and more detail than ever before. Strap on your skates and take command with tape-to-tape passing, behind the net plays, and precision give-and-go attacks."
+    },
+    "media": [
+        {
+            "media_id": "088BA94C",
+            "title": "NHL 2K6",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e3/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

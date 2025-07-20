@@ -1,0 +1,35 @@
+{
+    "id": "5855097F",
+    "title": {
+        "full": "Ranger Wars",
+        "reduced": "Ranger Wars"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Nubbernaut",
+    "publisher": "Nubbernaut",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. The Victory Rangers of Future City 20XX have worked together to vanquish every manner of threat to their beloved home planet - except each other! Now their super-star egos drive a feud that can only be settled with blood! Collect power-ups and strike from above in this action battle arena game for 2-4 players.",
+        "short": "The Victory Rangers of Future City 20XX have worked together to vanquish every manner of threat to their beloved home planet - except each other! Now their super-star egos drive a feud that can only be settled with blood! Collect power-ups and strike from above in this action battle arena game for 2-4 players."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855097f00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855097F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855097f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855097F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855097F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855097F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855097F_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

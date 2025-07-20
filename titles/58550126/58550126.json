@@ -1,0 +1,35 @@
+{
+    "id": "58550126",
+    "title": {
+        "full": "Arriba",
+        "reduced": "Arriba"
+    },
+    "genre": [
+        "Educational"
+    ],
+    "developer": "Jagglestein",
+    "publisher": "Jagglestein",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. This party game features 6 minigames, all of which support 1-4 players competitively or co-operatively. Work with (or against) your friends as you build your vocabulary of Spanish words! Supports drop-in and drop-out at any time. ¡Vámonos!",
+        "short": "This party game features 6 minigames, all of which support 1-4 players competitively or co-operatively. Work with (or against) your friends as you build your vocabulary of Spanish words! Supports drop-in and drop-out at any time. ¡Vámonos!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855012600000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550126_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550126/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550126_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550126_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550126_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550126_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

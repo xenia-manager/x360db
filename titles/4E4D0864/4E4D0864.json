@@ -1,0 +1,55 @@
+{
+    "id": "4E4D0864",
+    "title": {
+        "full": "ARMORED CORE VERDICT DAY",
+        "reduced": "ARMORED CORE VERDICT DAY"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "FromSoftware, Inc.",
+    "publisher": "NAMCO BANDAI Games America Inc.",
+    "release_date": "2013-09-24",
+    "user_rating": "3.75",
+    "description": {
+        "full": "End of Online Service The game's online service will end on March 31, 2024. We would like to express our deepest gratitude to all the players and ask for your understanding.  End date schedule: - CEST 3/31 (Sun) 14:00  Affected content: - World mode - Mercenary features - Territory customization - Ranking - Team menu - Other online-related features  Unaffected content: - Offline gameplay When the player starts the game after online service ends, a text box will appear informing the player that the game server is no longer available. By canceling the attempt to log in, the player can continue the game offline.  *Schedule is subject to change. *Trophies related to online features can no longer be obtained, and the Pilot DLC will no longer be available for use.",
+        "short": "To Secure Peace You Must Prepare for War. Command a squadron of fully customized Armored Core Units and enlist into one of the various in-game factions, strategically adapt your weapon systems to wrestle control of territories away from other players and establish a much needed peace. A heavy trigger finger, innovative customization and tactical teamwork will be all that stand between survival and total annihilation in ARMORED CORE: VERDICT DAY."
+    },
+    "media": [
+        {
+            "media_id": "1307F51A",
+            "title": "Armored Core: Verdict Day",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0864/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4e4d0864/1/ACVD_MANUAL_ENG,SPA,DUT,SWE,FIN,POR.pdf"
+        ]
+    }
+}

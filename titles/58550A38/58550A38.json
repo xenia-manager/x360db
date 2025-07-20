@@ -1,0 +1,35 @@
+{
+    "id": "58550A38",
+    "title": {
+        "full": "Rainbow Rapture",
+        "reduced": "Rainbow Rapture"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Kindling",
+    "publisher": "Kindling",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=1/3. Rainbow is unhappy with the way things turned out down below. He wants a clean slate. Help him wipe humanity off the face of the Earth. - Slide down hills to build momentum - Master gravity to get awesome air - Smash into three kinds of power-ups - Play new hills every time you start up - Eat lots of people - Conquer 45 challenges - Hear Rainbow's story",
+        "short": "Rainbow is unhappy with the way things turned out down below. He wants a clean slate. Help him wipe humanity off the face of the Earth. - Slide down hills to build momentum - Master gravity to get awesome air - Smash into three kinds of power-ups - Play new hills every time you start up - Eat lots of people - Conquer 45 challenges - Hear Rainbow's story"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550a38/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A38_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a38/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A38_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A38_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A38_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A38_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

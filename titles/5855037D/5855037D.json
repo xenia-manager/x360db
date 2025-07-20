@@ -1,0 +1,35 @@
+{
+    "id": "5855037D",
+    "title": {
+        "full": "Life",
+        "reduced": "Life"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "ExecutiveIguanaStudios",
+    "publisher": "ExecutiveIguanaStudios",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. The Classic Game Of Life Automaton.  An exciting and interesting game about evolution. Using the games simple rules create truly breathtaking evolutionary patterns and discover for yourself, the best way to create 'Life'.",
+        "short": "The Classic Game Of Life Automaton.  An exciting and interesting game about evolution. Using the games simple rules create truly breathtaking evolutionary patterns and discover for yourself, the best way to create 'Life'."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855037d/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855037D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855037d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855037D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855037D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855037D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855037D_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

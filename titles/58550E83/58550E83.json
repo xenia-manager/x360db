@@ -1,0 +1,35 @@
+{
+    "id": "58550E83",
+    "title": {
+        "full": "BLASTEROIDS",
+        "reduced": "BLASTEROIDS"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "BigCorporation",
+    "publisher": "BigCorporation",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Classic Vector based arcade game. Power shields, Smart bombs, Extra lives.  In the 1980's games like this cost 25 cents per play and made millions, now they might make a few pennies.  If you are over the age of 30 you may have seen this game before and enjoy the nostalgia !!",
+        "short": "Classic Vector based arcade game. Power shields, Smart bombs, Extra lives.  In the 1980's games like this cost 25 cents per play and made millions, now they might make a few pennies.  If you are over the age of 30 you may have seen this game before and enjoy the nostalgia !!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550e8300000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E83_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e83/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E83_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E83_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E83_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E83_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

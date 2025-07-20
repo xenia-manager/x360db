@@ -1,0 +1,35 @@
+{
+    "id": "58550C5D",
+    "title": {
+        "full": "Zombie Strippers Ate My Brains",
+        "reduced": "Zombie Strippers Ate My Brains"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Strange Games",
+    "publisher": "Strange Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=2/3. Jake gets his buddy Dean to help him work a security job at a stripper convention. Unfortunately for Dean, this happens to be ground zero for the zombie apocalypse.  Play as former marine Dean as he and his buddy Jake attempt to gather supplies and find a way out before being eaten alive by zombie strippers.  Features weapon unlocks, multiple zombie types, and 20 levels to progress through.",
+        "short": "Jake gets his buddy Dean to help him work a security job at a stripper convention. Unfortunately for Dean, this happens to be ground zero for the zombie apocalypse.  Play as former marine Dean as he and his buddy Jake attempt to gather supplies and find a way out before being eaten alive by zombie strippers.  Features weapon unlocks, multiple zombie types, and 20 levels to progress through."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550c5d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C5D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c5d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C5D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C5D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C5D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C5D_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

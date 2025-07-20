@@ -1,0 +1,35 @@
+{
+    "id": "5855061E",
+    "title": {
+        "full": "Astro Taxi 2",
+        "reduced": "Astro Taxi 2"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Hoelkosoft",
+    "publisher": "Hoelkosoft",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Astro Taxi 2 introduces the feature you could not even imagine in your wildest dreams: Multiplayer!!! Play the new duel mode and beat your friends or play the party mode with up to 8 Players and be the king of your Astro Taxi party.",
+        "short": "Astro Taxi 2 introduces the feature you could not even imagine in your wildest dreams: Multiplayer!!! Play the new duel mode and beat your friends or play the party mode with up to 8 Players and be the king of your Astro Taxi party."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855061e00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855061E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855061e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855061E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855061E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855061E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855061E_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

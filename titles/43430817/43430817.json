@@ -1,0 +1,49 @@
+{
+    "id": "43430817",
+    "title": {
+        "full": "ASURAS WRATH",
+        "reduced": "ASURAS WRATH"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "CyberConnect2 Co.Ltd.",
+    "publisher": "CAPCOM CO., LTD.",
+    "release_date": "2012-02-21",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Japanese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Over-the-top action and daring cutscenes blend together for a brand new type of action game! Faced with insurmountable odds, Asura must call upon his rage and annihilate his foes with his newfound overwhelming power if he hopes to survive. Experience for yourself this groundbreaking action game that is unlike anything you've ever seen before! ",
+        "short": "Over-the-top action and daring cutscenes blend together for a brand new type of action game! Faced with insurmountable odds, Asura must call upon his rage and annihilate his foes with his newfound overwhelming power if he hopes to survive. Experience for yourself this groundbreaking action game that is unlike anything you've ever seen before!"
+    },
+    "media": [
+        {
+            "media_id": "11DFADD6",
+            "title": "Asura's Wrath",
+            "edition": "Original",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430817/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430817/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430817/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430817/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430817/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430817/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430817/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430817/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430817/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430817/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430817/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430817/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430817/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/43430817/Asuras%20Wrath%20360%20Manual-USA.pdf"
+        ]
+    }
+}

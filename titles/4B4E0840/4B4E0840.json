@@ -1,0 +1,49 @@
+{
+    "id": "4B4E0840",
+    "title": {
+        "full": "METAL GEAR SOLID HD EDITION 2  3",
+        "reduced": "METAL GEAR SOLID HD 2  3"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Kojima Productions",
+    "publisher": "Konami Digital Entertainment",
+    "release_date": "2011-11-08",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Spanish. METAL GEAR SOLID 2 HD Edition. The government sends Raiden, a new recruit in the new FOXHOUND, to infiltrate the Big Shell and rescue the US President, who is held hostage inside... METAL GEAR SOLID 3 HD Edition. The origin of the Metal Gear series begins in 1964 at the height of the Cold War. The fate of the world hanging in the balance, Snake is forced to question the true meaning of \"loyalty,\" as he embarks on a lone mission to kill his former mentor.",
+        "short": "METAL GEAR SOLID 2 HD Edition. The government sends Raiden, a new recruit in the new FOXHOUND, to infiltrate the Big Shell and rescue the US President, who is held hostage inside... METAL GEAR SOLID 3 HD Edition. The origin of the Metal Gear series begins in 1964 at the height of the Cold War. The fate of the world hanging in the balance, Snake is forced to question the true meaning of \"loyalty,\" as he embarks on a lone mission to kill his former mentor."
+    },
+    "media": [
+        {
+            "media_id": "62DC722C",
+            "title": "Metal Gear Solid: HD Collection (Disc 1)",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "34C740C3",
+            "title": "Metal Gear Solid: HD Collection (Disc 1)",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "1C4B9AD9",
+            "title": "Metal Gear Solid: HD Edition",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0840/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0840/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0840/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0840/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

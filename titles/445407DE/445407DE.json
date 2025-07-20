@@ -1,0 +1,56 @@
+{
+    "id": "445407DE",
+    "title": {
+        "full": "The Cursed Crusade",
+        "reduced": "The Cursed Crusade"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting"
+    ],
+    "developer": "Kylotonn Games",
+    "publisher": "dtp entertainment",
+    "release_date": "2011-09-23",
+    "user_rating": null,
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  The bloody times of the Crusades have returned!  Slip into the role of the young Templar Knight Denz de Bayle, scion of a dishonoured family, driven by an iron will and a desire for revenge.  His soul is afflicted by the curse of the Templars which bestows impressive strength upon him in battle, but which, sooner or later, will damn him to hell.  Challenge your fate and set about the 36 varied missions, either with a friend in co-op mode, or follow the gripping Crusade on your own. 16 sophisticated combat techniques offer more than 400 different attacks, allowing you to strike down your foes with over 100 spectacular death blows. ",
+        "short": "Challenge your fate and discover the thrilling story of the mysterious Templar Knights and their accursed souls."
+    },
+    "media": [
+        {
+            "media_id": "72265E67",
+            "title": "The Cursed Crusade",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407de/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/445407de/0/Xbox360_TCC_Manual_EXP_low.pdf"
+        ]
+    }
+}

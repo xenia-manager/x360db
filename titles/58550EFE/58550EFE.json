@@ -1,0 +1,35 @@
+{
+    "id": "58550EFE",
+    "title": {
+        "full": "Wizard Rage",
+        "reduced": "Wizard Rage"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "K-dog",
+    "publisher": "K-dog",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Transform your avatar into a Wizard and unleash your power in this 8 player FPS.  Cast fireballs, conjure shields of flame and scribe explosive wards as a Warlock.  Shoot lightning, summon mirror images and call forth soul-draining seekers as a Necromancer.  Fire magic missiles, cast teleportation and evoke true sight to hunt your enemies as a Sorcerer.",
+        "short": "Transform your avatar into a Wizard and unleash your power in this 8 player FPS.  Cast fireballs, conjure shields of flame and scribe explosive wards as a Warlock.  Shoot lightning, summon mirror images and call forth soul-draining seekers as a Necromancer.  Fire magic missiles, cast teleportation and evoke true sight to hunt your enemies as a Sorcerer."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550efe/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550EFE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550efe/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550EFE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EFE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EFE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EFE_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

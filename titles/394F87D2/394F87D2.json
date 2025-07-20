@@ -1,0 +1,44 @@
+{
+    "id": "394F87D2",
+    "title": {
+        "full": "Diablo III Reaper of Souls demo",
+        "reduced": "Diablo III demo"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Blizzard Entertainment",
+    "publisher": "Blizzard Entertainment",
+    "release_date": "2014-09-16",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Twenty years have passed since the Prime Evils were defeated and banished from the world of Sanctuary. Now, you must return to where it all began—the town of Tristram—and investigate an omen that the End Times have begun. The demo version of Diablo III includes the Barbarian and Wizard classes, local and online multiplayer, and game progression up to the Skeleton King. Demo saves can be carried forward to the full game.",
+        "short": "The demo version of Diablo III includes two powerful Hero classes, local and online multiplayer, and game progression up to the Skeleton King. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f87d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f87d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f87d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f87d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f87d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f87d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f87d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f87d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f87d2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f87d2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f87d2/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f87d2/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "394F07D1",
+                "title": "Diablo III"
+            }
+        ],
+        "related": []
+    }
+}

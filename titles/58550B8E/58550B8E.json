@@ -1,0 +1,35 @@
+{
+    "id": "58550B8E",
+    "title": {
+        "full": "Acid Drift Solar",
+        "reduced": "Acid Drift Solar"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Synthoptic",
+    "publisher": "Synthoptic",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Mine, trade, and fight your way to riches in this open-ended space adventure!",
+        "short": "Mine, trade, and fight your way to riches in this open-ended space adventure!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550b8e00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B8E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b8e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B8E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B8E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B8E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B8E_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

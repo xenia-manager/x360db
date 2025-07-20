@@ -1,0 +1,39 @@
+{
+    "id": "58410973",
+    "title": {
+        "full": "Joy Ride",
+        "reduced": "Joy Ride"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Big Park",
+    "publisher": "Xbox LIVE Arcade",
+    "release_date": "2008-01-01",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Put your Avatar behind the wheel of a vehicle that you can select and customize to match your personal style.  Make your mark by tricking out your Avatar with styles and animations that will guarantee you’ll stand out in the crowd.  The Joyride universe will constantly evolve and expand with new downloadable content, including new stunt parks, tracks, cars, car upgrades, Avatar clothing and animations, and new events. Once you’re customized just the way you want, take your Avatar out for a spin. Make friends around the world as you catch huge air, pull off crazy stunts, and participate in huge community tasks.",
+        "short": "Put your Avatar behind the wheel of a vehicle that you can select and customize to match your personal style.  Make your mark by tricking out your Avatar with styles and animations that will guarantee you’ll stand out in the crowd.  The Joyride universe will constantly evolve and expand with new downloadable content, including new stunt parks, tracks, cars, car upgrades, Avatar clothing and animations, and new events. Once you’re customized just the way you want, take your Avatar out for a spin…"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410973/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410973/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410973/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410973/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410973/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410973/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410973/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410973/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410973/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410973/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410973/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410973/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

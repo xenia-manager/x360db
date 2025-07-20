@@ -1,0 +1,35 @@
+{
+    "id": "585505DE",
+    "title": {
+        "full": "Obesity Epidemic",
+        "reduced": "Obesity Epidemic"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Super Boise LLC",
+    "publisher": "Super Boise LLC",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=3/3. A new additive called extract-11 has made food irresistible and mutated people into overweight raging hordes! All of the junk food across the nation is quickly consumed until only 4 pieces remain… Play as one of these 4 survivors armed with machine guns, flamethrowers, rocket launchers and more as they use overwhelming firepower to escape the grocery store in this epic twin stick shooter!",
+        "short": "A new additive called extract-11 has made food irresistible and mutated people into overweight raging hordes! All of the junk food across the nation is quickly consumed until only 4 pieces remain… Play as one of these 4 survivors armed with machine guns, flamethrowers, rocket launchers and more as they use overwhelming firepower to escape the grocery store in this epic twin stick shooter!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585505de/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505DE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505de/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505DE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505DE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505DE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505DE_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

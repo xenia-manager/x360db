@@ -1,0 +1,35 @@
+{
+    "id": "5454889D",
+    "title": {
+        "full": "Funk Party Demo aka Custards Last Stand",
+        "reduced": "Funk Party Demo"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Rockstar Studios",
+    "publisher": "Rockstar Games",
+    "release_date": "2799-12-30",
+    "user_rating": null,
+    "description": {
+        "full": "Download this demo - You'll be glad you did. ",
+        "short": "Download this demo."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454889d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454889d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454889d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454889d/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5454086B",
+                "title": "Max Payne 3"
+            }
+        ],
+        "related": []
+    }
+}

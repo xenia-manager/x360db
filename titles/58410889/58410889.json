@@ -1,0 +1,40 @@
+{
+    "id": "58410889",
+    "title": {
+        "full": "Peggle",
+        "reduced": "Peggle"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "PopCap Games, Inc.",
+    "publisher": "PopCap Games, Inc.",
+    "release_date": "2010-06-14",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Experience the ball-bouncing, peg-busting phenomenon! Do you have what it takes to become a Peggle™ Master? Take your best shot! Conquer 55 levels with 10 mystical Magic Powers and rack up bonus points. Face off against friends in 4-player Xbox LIVE® multiplayer play, and test your skills in 75 Grand Master Challenges. This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Experience the ball-bouncing, peg-busting phenomenon! Do you have what it takes to become a Peggle™ Master? Take your best shot! Conquer 55 levels with 10 mystical Magic Powers and rack up bonus points. Face off against friends in 4-player Xbox LIVE® multiplayer play, and test your skills in 75 Grand Master Challenges."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

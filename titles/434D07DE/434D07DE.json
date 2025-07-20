@@ -1,0 +1,46 @@
+{
+    "id": "434D07DE",
+    "title": {
+        "full": "Rise of the Argonauts",
+        "reduced": "Rise of the Argonauts"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Role Playing"
+    ],
+    "developer": "Liquid Entertainment, LLC",
+    "publisher": "Codemasters Software Company Limited",
+    "release_date": "2008-01-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Rise of the Argonauts",
+        "short": "Rise of the Argonauts"
+    },
+    "media": [
+        {
+            "media_id": "43140262",
+            "title": "Rise of the Argonauts",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07de/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07de/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07de/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07de/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07de/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07de/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07de/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07de/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07de/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07de/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

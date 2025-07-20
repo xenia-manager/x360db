@@ -1,0 +1,62 @@
+{
+    "id": "55530810",
+    "title": {
+        "full": "Far Cry 2",
+        "reduced": "Far Cry 2"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "UbiSoft",
+    "release_date": "2010-04-08",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) This game supports English, French, Italian, German, and Spanish.   Far Cry® 2 is a true open-world FPS where every decision you make affects the outcome of the game. The first sequel to the award-winning franchise takes you to one of the most beautiful and hostile environments in the world - AFRICA. You are a gun for hire, trapped in a war-torn African state, stricken with malaria and forced to make deals with corrupt warlords. Your mission is to hunt down and kill The Jackal. This evil arms dealer has been perpetuating this conflict for years, wreaking havoc on the land an all of its innocent people. Run, swim, drive, fly, shoot, fight and smash your way through over 50km² of open world. Beware though, sometimes the hunter can become the hunted. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Far Cry® 2 is a true open-world FPS where every decision you make affects the outcome of the game. The first sequel to the award-winning franchise takes you to one of the most beautiful and hostile environments in the world - AFRICA. You are a gun for hire, trapped in a war-torn African state, stricken with malaria and forced to make deals with corrupt warlords. Your mission is to hunt down and kill The Jackal. This evil arms dealer has been perpetuating this conflict for years, wreaking havoc …"
+    },
+    "media": [
+        {
+            "media_id": "6A16F74E",
+            "title": "Far Cry 2",
+            "edition": "Platinum Collection",
+            "region": "Japan"
+        },
+        {
+            "media_id": "53611F57",
+            "title": "Far Cry 2",
+            "edition": "Original, Classics, Promo, Far Cry Compilation",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/7177/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/7177/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/7177/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/7177/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/7177/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/7177/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/7177/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/7177/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/7177/screenlg16.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/55530810/157ae916-cbac-48a0-ba39-b39bff7c055a.PDF"
+        ]
+    }
+}

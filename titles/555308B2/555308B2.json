@@ -1,0 +1,45 @@
+{
+    "id": "555308B2",
+    "title": {
+        "full": "Just Dance Greatest Hits",
+        "reduced": "Just Dance Greatest Hits"
+    },
+    "genre": [
+        "Family",
+        "Kinect",
+        "Music"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2012-06-26",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Shake it up with the greatest songs and the hottest moves from the Just Dance® franchise! Just Dance Greatest Hits includes all the most popular tracks from Just Dance and Just Dance 2, plus bonus songs from Just Dance 3! Start the party, battle with friends, or even exercise in disguise to hit songs from Katy Perry, Rihanna, Beastie Boys, and Ke$ha – 35 tracks in all! For the first time for Kinect™ for Xbox 360®, Just Dance Greatest Hits offers players the chance to dance along with classic hits from Just Dance and Just Dance 2. Just Dance Greatest Hits is the ultimate way to discover – or rediscover – America’s best-selling dance game brand. ",
+        "short": "Experience Just Dance® Greatest Hits, the only collection that includes the most popular tracks from the Just Dance franchise! Start the party, battle with friends, or even exercise in disguise to hit songs from Katy Perry, Rihanna, Beastie Boys, and Ke$ha – 35 tracks in all! Kinect™ for Xbox 360®players can dance along for the first time to classic hits from Just Dance and Just Dance 2. It’s the ultimate way to discover –  or rediscover – America’s best-selling dance game brand. "
+    },
+    "media": [
+        {
+            "media_id": "07A16F4C",
+            "title": "Just Dance: Greatest Hits",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b2/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

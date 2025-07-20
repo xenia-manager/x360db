@@ -1,0 +1,56 @@
+{
+    "id": "303407D4",
+    "title": {
+        "full": "BRINK",
+        "reduced": "BRINK"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "SPLASH DAMAGE",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2009-12-18",
+    "user_rating": null,
+    "description": {
+        "full": "Brink is an immersive first-person shooter that blends single-player, co-op, and multiplayer gameplay into one seamless experience, allowing you to develop your character whether playing alone, with your friends, or against others online. You decide the combat role you want to assume in the world of Brink as you fight to save yourself and mankind’s last refuge. Brink offers a compelling mix of dynamic battlefields, extensive customization options, and an innovative control system that will keep you coming back for more.",
+        "short": "Brink is an immersive first-person shooter that blends single-player, co-op, and multiplayer gameplay into one seamless experience, allowing you to develop your character whether playing alone, with your friends, or against others online. You decide the combat role you want to assume in the world of Brink as you fight to save yourself and mankind’s last refuge. Brink offers a compelling mix of dynamic battlefields, extensive customization options, and an innovative control system that will keep…"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802303407d4/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "425307D9",
+                "title": "Brink"
+            }
+        ],
+        "related": []
+    }
+}

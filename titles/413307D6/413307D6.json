@@ -1,0 +1,50 @@
+{
+    "id": "413307D6",
+    "title": {
+        "full": "Air Conflicts Pacific Carriers",
+        "reduced": "Air Conflicts Pacific Carriers"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Games Farm",
+    "publisher": "bitComposer Entertainment AG",
+    "release_date": "2012-09-20",
+    "user_rating": null,
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish,and Russian. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Experience top combat action in this brand new arcade flight sim and become immersed in the exploits of famous aircraft carriers. Choose the side you want to play on: the US Navy or the Imperial Japanese Navy. Climb into the cockpit and re-live the most famous battles of the War in the Pacific. Equip your aircraft with realistic weapons, and take to the air with your squadron.",
+        "short": "Experience top combat action in this brand new arcade flight sim and become immersed in the exploits of famous aircraft carriers. Choose the side you want to play on: the US Navy or the Imperial Japanese Navy. Climb into the cockpit and re-live the most famous battles of the War in the Pacific. Equip your aircraft with realistic weapons, and take to the air with your squadron."
+    },
+    "media": [
+        {
+            "media_id": "480C18C4",
+            "title": "Air Conflicts: Pacific Carriers",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413307d6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413307d6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413307d6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413307d6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413307d6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413307d6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413307d6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413307d6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413307d6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413307d6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413307d6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413307d6/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413307d6/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413307d6/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/413307d6/AirConflictsPC_XBOX_360_MNL_ENG_download.pdf"
+        ]
+    }
+}

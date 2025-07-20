@@ -1,0 +1,43 @@
+{
+    "id": "4D530A0C",
+    "title": {
+        "full": "Game Demos",
+        "reduced": "Game Demos"
+    },
+    "genre": [
+        "Independent & Music Videos",
+        "Kinect",
+        "More Entertainment",
+        "Music and Short Videos",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "Microsoft Studios",
+    "publisher": "Microsoft Studios",
+    "release_date": "2799-12-30",
+    "user_rating": "0.00",
+    "description": {
+        "full": "Game Demos ",
+        "short": "Game Demos "
+    },
+    "media": [
+        {
+            "media_id": "18655E6B",
+            "title": "Game Demos: Just for Fun!",
+            "edition": "Bundled with Kinect Rush: A Disney/Pixar Adventure",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a0c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a0c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a0c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a0c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a0c/1033/screenlg1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

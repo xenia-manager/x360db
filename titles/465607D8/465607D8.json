@@ -1,0 +1,60 @@
+{
+    "id": "465607D8",
+    "title": {
+        "full": "STEINSGATEオリジナル版",
+        "reduced": "STEINSGATEオリジナル版"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "5pb. Inc.",
+    "publisher": "5pb. Inc.",
+    "release_date": "2009-09-15",
+    "user_rating": "5.00",
+    "description": {
+        "full": "ゲーム オン デマンドのバージョンは次の言語をサポートしています: 日本語  取扱説明書をダウンロードするには、http://marketplace.xbox.com にて対象のゲームをお探しのうえ、[取扱説明書を読む] を選択してください。  STEINS;GATEは「CHAOS;HEAD NOAH」に続く科学アドベンチャーシリーズの第２弾です。 プレイヤーはタイムマシンを扱う事によって、未来・過去の記憶を共有しながら世界を分析し、過去を改変していきます。 現実と未来・過去が定められた『STEINS;GATE』の物語。貴方は未来を変えることができるでしょうか？ ※こちらのタイトルには「演出強化パック」は含まれておりません。  ",
+        "short": "STEINS;GATEは「CHAOS;HEAD NOAH」に続く科学アドベンチャーシリーズの第２弾です。 プレイヤーはタイムマシンを扱う事によって、未来・過去の記憶を共有しながら世界を分析し、過去を改変していきます。 現実と未来・過去が定められた『STEINS;GATE』の物語。貴方は未来を変えることができるでしょうか？ ※こちらのタイトルには「演出強化パック」は含まれておりません。"
+    },
+    "media": [
+        {
+            "media_id": "2B15D54F",
+            "title": "Steins;Gate",
+            "edition": "Original",
+            "region": "Asia"
+        },
+        {
+            "media_id": "6F6E6043",
+            "title": "Steins;Gate",
+            "edition": "Platinum Collection",
+            "region": "Japan"
+        },
+        {
+            "media_id": "6EF86A51",
+            "title": "Steins;Gate",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d8/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d8/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607d8/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "43438836",
+    "title": {
+        "full": "RESIDENT EVIL 6 DEMO PUBLIC RELEASE",
+        "reduced": "RE6 PUBLIC DEMO"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "CAPCOM CO., LTD.",
+    "publisher": "CAPCOM CO., LTD.",
+    "release_date": "2012-09-18",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The latest installment of the Resident Evil franchise is here!   A deadly bioterrorist attack in China has Leon Kennedy, Chris Redfield, Jake Muller, and Ada Wong  all fighting for their lives. Their separate paths become interconnected through various twists of fate. What outcome awaits our four protagonists?  Play online with a friend if you have an Xbox LIVE Gold Membership.  (This demo differs from the version that was made available through the purchase of Dragon's Dogma.)",
+        "short": "The latest installment of the Resident Evil franchise is here. This demo kicks off the story for Resident Evil 6!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243438836/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243438836/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243438836/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243438836/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "43430819",
+                "title": "RESIDENT EVIL 6"
+            }
+        ],
+        "related": []
+    }
+}

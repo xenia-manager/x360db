@@ -1,0 +1,35 @@
+{
+    "id": "58550ECC",
+    "title": {
+        "full": "Loot or Die",
+        "reduced": "Loot or Die"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Chris Antoni",
+    "publisher": "Chris Antoni",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=1/3. Frequently updated, \"Twin Stick Shooter RPG\" that you don't have to play solo. Features 8 Player PvP  and 4 Player PvE with drop in multiplayer. Music by Purple-Planet.com. Patch 2.0: Bug fixes, 3 new world 6 armor sets and weapons.",
+        "short": "Frequently updated, \"Twin Stick Shooter RPG\" that you don't have to play solo. Features 8 Player PvP  and 4 Player PvE with drop in multiplayer. Music by Purple-Planet.com. Patch 2.0: Bug fixes, 3 new world 6 armor sets and weapons."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550ecc/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550ECC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550ecc/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550ECC_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550ECC_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550ECC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550ECC_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

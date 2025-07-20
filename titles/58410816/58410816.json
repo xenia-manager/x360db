@@ -1,0 +1,38 @@
+{
+    "id": "58410816",
+    "title": {
+        "full": "Yie Ar Kung-Fu",
+        "reduced": "Yie Ar Kung-Fu"
+    },
+    "genre": [
+        "Classics",
+        "Fighting"
+    ],
+    "developer": "Digital Eclipse",
+    "publisher": "Konami",
+    "release_date": "2009-12-07",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Single Player, Xbox LIVE Multiplayer 1-2, Local Multiplayer 1-2, HD (High Definition). Take down your opponents and claim the Martial Arts Championship.  Full version includes all opponents, Xbox Live leaderboards, Multiplayer, and brand new achievements to prove your might.  Will you fight like a tiger or run away in shame? There are no refunds for this item. For more information, see www.xbox.com/Live/accounts.",
+        "short": "Take down your opponents and claim the Martial Arts Championship.  Face 11 different opponents in a tournament to prove who the ultimate master is.  Full version includes all opponents, Xbox Live leaderboards, Multiplayer, and brand new achievements to prove your might.  Will you fight like a tiger or run away in shame?"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410816/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410816/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410816/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410816/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410816/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410816/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410816/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410816/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410816/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410816/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

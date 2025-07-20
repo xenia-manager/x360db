@@ -1,0 +1,43 @@
+{
+    "id": "4B4E083C",
+    "title": {
+        "full": "METAL GEAR SOLID PEACE WALKER HD EDITION",
+        "reduced": "MGS PW HD"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Konami Digital Entertainment Co., Ltd.",
+    "publisher": "Konami Digital Entertainment Co., Ltd.",
+    "release_date": "2011-11-08",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Spanish.  1974 The Peace Walker Incident The era is the 1970s.  Big Boss has stationed his \"Army without a Nation\" in Colombia, South America, where he is approached by visitors from Costa Rica-- \"a Nation without a Military.\"   In the wake of the Cuban Missile Crisis, Latin America became key to maintaining the power balance between East and West.  But now, a mysterious armed force threatens to disrupt this balance.  To preserve peace and neutrality in Costa Rica, the \"Soldiers without Borders\" move into action.  In time, they would come to be known as the founders of \"Outer Heaven.\" ",
+        "short": "1974 The Peace Walker Incident To preserve peace and neutrality in Costa Rica, the \"Soldiers without Borders\" move into action.  In time, they would come to be known as the founders of \"Outer Heaven.\"  "
+    },
+    "media": [
+        {
+            "media_id": "64B881AA",
+            "title": "Metal Gear Solid: HD Collection (Disc 2)",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "5609AA43",
+            "title": "Metal Gear Solid: HD Collection (Disc 2)",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083c/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

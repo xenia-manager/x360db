@@ -1,0 +1,38 @@
+{
+    "id": "534507F7",
+    "title": {
+        "full": "Football Manager 2008",
+        "reduced": "Football Manager 2008"
+    },
+    "genre": [
+        "Sports & Recreation",
+        "Strategy & Simulation"
+    ],
+    "developer": "Sports Interactive Ltd.",
+    "publisher": "Sega",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "Football Manager 2008 comes to the Xbox 360",
+        "short": "Football Manager 2008 comes to the Xbox 360"
+    },
+    "media": [
+        {
+            "media_id": "50FA9169",
+            "title": "Football Manager 2008",
+            "edition": "Promo",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f7/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

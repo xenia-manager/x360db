@@ -1,0 +1,62 @@
+{
+    "id": "4541092A",
+    "title": {
+        "full": "Shadows of the Damned",
+        "reduced": "Shadows of the Damned"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Grasshopper Manufacture Inc.",
+    "publisher": "Electronic Arts",
+    "release_date": "2011-06-07",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Shadows of the Damned follows a demon hunter named Garcia Hotspur deep into a re-imagining of hell where he must rescue the love of his life by defeating the armies of darkness with the power of the light. Shadows of the Damned delivers shocking and unique gameplay experiences that includes over-the-top action, grandiose boss battles, demented puzzles, grotesque enemies, heart-pounding moments and psychotic imagery.   Working his way through the City of the Damned to get his love back, Garcia is aided by Johnson a former demon with the ability to transform into an array of vicious weapons, Garcia will  rip apart the horrific forces of the underworld to protect what he loves most.  Throughout the game players must utilize the power of the light to fight the army of the dark in unique light versus darkness gameplay that will forever change the way gamers perceive puzzles, combat, and action.  Brace yourself for one hell of a trip to the city of the damned.",
+        "short": "Shadows of the Damned is an all-new psychological action thriller game from iconic Japanese developers including executive director Suda51 (director of No More Heroes), creative producer Shinji Mikami (director of Resident Evil) and music composer Akira Yamaoka (sound director of Silent Hill). "
+    },
+    "media": [
+        {
+            "media_id": "64D9671A",
+            "title": "Shadows of the Damned",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "3C0A1D98",
+            "title": "Shadows of the Damned",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/screenlg17.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "585508CC",
+    "title": {
+        "full": "Avatar Without a Chute",
+        "reduced": "Avatar Without a Chute"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Stegersaurus Games 2",
+    "publisher": "Stegersaurus Games 2",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Feel the freedom and weightlessness of free falling without those unruly consequences of reaching the ground. Collect points as you race your friends to the bottom! Look out below!",
+        "short": "Feel the freedom and weightlessness of free falling without those unruly consequences of reaching the ground. Collect points as you race your friends to the bottom! Look out below!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585508cc00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508CC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508cc/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508CC_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508CC_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508CC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508CC_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

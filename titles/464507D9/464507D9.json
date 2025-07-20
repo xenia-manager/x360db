@@ -1,0 +1,48 @@
+{
+    "id": "464507D9",
+    "title": {
+        "full": "Of Orcs and Men",
+        "reduced": "Of Orcs and Men"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Cyanide/Spiders",
+    "publisher": "Focus Home Interactive",
+    "release_date": "2012-10-11",
+    "user_rating": null,
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.   Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Lead the revolution of the Orcs and Goblins! In a world at war, the vast Empire of Men tries to extend its domination over the territories of the Orcs and Goblins, who are systematically persecuted, enslaved and massacred. Through this great role-playing game, lead a fearsome Orc warrior, and a Goblin master of assassination and stealth. You have been appointed to fulfill an extremely dangerous mission, deep in enemy territory: to kill one man... the Emperor himself.   Fight your way through a terribly hostile world to reach the objective of your quest. Level up, learn and develop powerful skills, and finally free your people from the yoke of the Empire! ",
+        "short": "OF ORCS AND MEN is a role-playing game that puts you into the role of an elite Orc soldier and a sneaky Goblin, determined to lead their mission to success... assassinate the one responsible for the great war which ravages the Orcs and the Goblins: the Emperor of Men himself.  An epic quest awaits our two heroes, that will bring them across the whole Empire and beyond."
+    },
+    "media": [
+        {
+            "media_id": "12E8DC3A",
+            "title": "Of Orcs and Men",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d9/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d9/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d9/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464507d9/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

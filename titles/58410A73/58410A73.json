@@ -1,0 +1,41 @@
+{
+    "id": "58410A73",
+    "title": {
+        "full": "Stacking",
+        "reduced": "Stacking"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "Double Fine",
+    "publisher": "Xbox Game Studios",
+    "release_date": "2011-02-09",
+    "user_rating": "4.00",
+    "description": {
+        "full": "From Tim Schafer’s Double Fine Productions, explore a vintage world inhabited by living Russian stacking dolls as you jump into more than 100 unique dolls and use their special abilities to solve a wide variety of puzzles & challenges. Play as Charlie Blackmore, the world’s tiniest Russian stacking doll,  and embark on an adventure to rescue Charlie’s family from the nefarious industrialist known only as the “Baron.” This imaginative 3rd person puzzle adventure game will take you on a journey from a bustling Royal Train Station to a high-flying Zeppelin as you collect unique dolls and matched stacking sets to display in Charlie’s secret hideout, where you chronicle your adventures. ",
+        "short": "From Tim Schafer’s Double Fine Productions, explore a vintage world inhabited by living Russian stacking dolls as you jump into more than 100 unique dolls and use their special abilities to solve a wide variety of puzzles & challenges. Play as Charlie Blackmore, the world’s tiniest Russian stacking doll,  and embark on an adventure to rescue Charlie’s family from the nefarious industrialist known only as the “Baron.” "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a73/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a73/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a73/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a73/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a73/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a73/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a73/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a73/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a73/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a73/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a73/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a73/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a73/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": "545A07D1",
+    "title": {
+        "full": "Deathsmiles",
+        "reduced": "Deathsmiles"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "CAVE",
+    "publisher": "Rising Star Games",
+    "release_date": "2011-02-11",
+    "user_rating": null,
+    "description": {
+        "full": "Deathsmiles is a highly acclaimed side-scrolling shooter developed by Cave, a company known by the hardcore and Japanese markets as the undisputed lords of the 2D shooter. Cave has made over 20 shooters, and the experience shows in every aspect of Deathsmile's  level design, pacing, and clarity.",
+        "short": "Deathsmiles is a highly acclaimed side-scrolling shooter developed by Cave, a company known by the hardcore and Japanese markets as the undisputed lords of the 2D shooter. Cave has made over 20 shooters, and the experience shows in every aspect of Deathsmile's  level design, pacing, and clarity."
+    },
+    "media": [
+        {
+            "media_id": "65C38EE5",
+            "title": "Deathsmiles",
+            "edition": "Deluxe Edition",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d1/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

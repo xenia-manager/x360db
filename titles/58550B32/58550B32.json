@@ -1,0 +1,34 @@
+{
+    "id": "58550B32",
+    "title": {
+        "full": "Monster Katz",
+        "reduced": "Monster Katz"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Tiny's Fury Studio LLC",
+    "publisher": "Tiny's Fury Studio LLC",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Monster Katz are on the attack and your best defense is... water?! Good thing Monster Katz hate water, but you better make it last! Use dozens of water-powered defenses to fend off the monster hoard in 39 exciting levels across 3 unique maps. Play along to your own tunes or jam with our Monster mix!",
+        "short": "Monster Katz are on the attack and your best defense is... water?! Good thing Monster Katz hate water, but you better make it last! Use dozens of water-powered defenses to fend off the monster hoard in 39 exciting levels across 3 unique maps. Play along to your own tunes or jam with our Monster mix!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550b3200000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B32_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b32/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B32_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B32_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B32_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

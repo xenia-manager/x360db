@@ -1,0 +1,49 @@
+{
+    "id": "545407DD",
+    "title": {
+        "full": "The Bureau XCOM Declassified",
+        "reduced": "The Bureau"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "2K Marin",
+    "publisher": "2K",
+    "release_date": "2013-08-20",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". The year is 1962. JFK is President and the Cold War has the nation gripped by fear – but a far more powerful and insidious enemy than communism is threatening America. Known only to a select few, a top-secret government unit called The Bureau begins investigating and concealing a series of mysterious attacks by an otherworldly enemy. As special agent William Carter, call the shots, pull the trigger and lead your squad in a gripping third-person tactical shooter set within a high-stakes, covert war to defend humanity. The Bureau’s mission is clear – survive, adapt and overcome the enemy threat to protect the citizens from the truth.  ",
+        "short": "The year is 1962 and the Cold War has the nation gripped by fear.  A top-secret government unit called The Bureau begins investigating a series of mysterious attacks by an enemy more powerful than communism.  As agent Carter, call the shots, pull the trigger and lead your squad in a gripping third-person tactical shooter set within a covert war to protect humanity from an otherworldly enemy.  "
+    },
+    "media": [
+        {
+            "media_id": "271B66A0",
+            "title": "The Bureau: XCOM Declassified",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "2E24D800",
+            "title": "The Bureau: XCOM Declassified",
+            "edition": "Original",
+            "region": "Germany"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dd/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dd/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dd/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dd/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/545407dd/2KGMKT_THEBUREAU_360_MNL_BDY_P3.pdf"
+        ]
+    }
+}

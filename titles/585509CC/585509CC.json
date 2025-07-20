@@ -1,0 +1,35 @@
+{
+    "id": "585509CC",
+    "title": {
+        "full": "Moe Mekuri 25　萌めくり25",
+        "reduced": "Moe Mekuri 25　萌めくり25"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Kohei",
+    "publisher": "Kohei",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=3/3, Mature Content=0/3. A new Moe Mekuri is here! Just like the previous game, the goal is simply to flip over all the panels face up. Can you complete all the stages and add the cute girls' pictures to the gallery? The higher the difficulty level, the less clothing the girl in the picture will wear! It's a Moe-moe puzzle game that perfectly reflects on the developer's interests!",
+        "short": "A new Moe Mekuri is here! Just like the previous game, the goal is simply to flip over all the panels face up. Can you complete all the stages and add the cute girls' pictures to the gallery? The higher the difficulty level, the less clothing the girl in the picture will wear! It's a Moe-moe puzzle game that perfectly reflects on the developer's interests!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585509cc00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585509CC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585509cc/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585509CC_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509CC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509CC_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509CC_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

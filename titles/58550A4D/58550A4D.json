@@ -1,0 +1,33 @@
+{
+    "id": "58550A4D",
+    "title": {
+        "full": "Dot",
+        "reduced": "Dot"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "MadFox",
+    "publisher": "MadFox",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. In a world before graphical fidelity, quick-time events or bloom filters, two oblong warriors square off in not-quite mortal combat, in a no-holds possible fight to the bitter end.",
+        "short": "In a world before graphical fidelity, quick-time events or bloom filters, two oblong warriors square off in not-quite mortal combat, in a no-holds possible fight to the bitter end."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550a4d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A4D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a4d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A4D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A4D_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

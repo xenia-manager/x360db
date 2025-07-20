@@ -1,0 +1,54 @@
+{
+    "id": "565507E6",
+    "title": {
+        "full": "Spiderwick Chronicles",
+        "reduced": "Spiderwick Chronicles"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family"
+    ],
+    "developer": "Stormfront Studios",
+    "publisher": "Vivendi Universal Games",
+    "release_date": "2008-01-01",
+    "user_rating": "2.50",
+    "description": {
+        "full": "Based on the film by Nickelodeon Movies and Paramount Pictures, you take on the roles of Jared, Simon and Mallory Grace as well as the House Brownie Thimbletack, as you unlock the secrets of Arthur Spiderwick’s Field Guide to the Fantastical World Around You—a magical book documenting an unseen world containing both wondrous and dangerous faerie creatures. Using the unique abilities of each character, you will battle hordes of Goblins, capture Sprites, solve puzzles and explore every nook and cranny of the world of The Spiderwick Chronicles™ leading to the final confrontation with the Ogre Mulgarath.",
+        "short": "Based on the film by Nickelodeon Movies and Paramount Pictures, you take on the roles of Jared, Simon and Mallory Grace as well as the House Brownie Thimbletack, as you unlock the secrets of Arthur Spiderwick’s Field Guide to the Fantastical World Around You—a magical book documenting an unseen world containing both wondrous and dangerous faerie creatures. Using the unique abilities of each character, you will battle hordes of Goblins, capture Sprites, solve puzzles and explore every nook and cr"
+    },
+    "media": [
+        {
+            "media_id": "48EB3BE4",
+            "title": "The Spiderwick Chronicles",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "6777B60F",
+            "title": "The Spiderwick Chronicles",
+            "edition": "Bundled with Audiobook",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507e6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507e6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507e6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507e6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507e6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507e6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507e6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507e6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507e6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507e6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507e6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507e6/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507e6/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

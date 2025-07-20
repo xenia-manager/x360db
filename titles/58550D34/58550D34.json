@@ -1,0 +1,35 @@
+{
+    "id": "58550D34",
+    "title": {
+        "full": "The Chickening",
+        "reduced": "The Chickening"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Softwaresoft",
+    "publisher": "Softwaresoft",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. The Chickening is a run and gun platformer video game about a chicken who shoots lasers.. out of his eyes.",
+        "short": "The Chickening is a run and gun platformer video game about a chicken who shoots lasers.. out of his eyes."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550d3400000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D34_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d34/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D34_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D34_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D34_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D34_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

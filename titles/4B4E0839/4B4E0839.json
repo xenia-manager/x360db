@@ -1,0 +1,57 @@
+{
+    "id": "4B4E0839",
+    "title": {
+        "full": "Birds of Steel",
+        "reduced": "Birds of Steel"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Gaijin Entertainment",
+    "publisher": "Konami Digital Entertainment",
+    "release_date": "2011-12-09",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English, French, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Birds of Steel blends next gen supremacy and the fine details of aerial combat into a historical recreation fit for flight sim fans and history buffs alike.  Use your skills to pilot the top planes and recreate history or change the outcomes of the most prolific battles in history.  Online and offline play add a new element to the game which will ensure Birds of Steel remains a fresh combat experience long after you’ve played for the first time.",
+        "short": "(Online Interactions Not Rated by the ESRB) Birds of Steel blends next gen supremacy and the fine details of aerial combat into a historical recreation fit for flight sim fans and history buffs alike.  Use your skills to pilot the top planes and recreate history or change the outcomes of the most prolific battles in history.  Online and offline play add a new element to the game which will ensure Birds of Steel remains a fresh combat experience long after you’ve played for the first time."
+    },
+    "media": [
+        {
+            "media_id": "54DF8378",
+            "title": "Birds of Steel",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "3991BFE6",
+            "title": "Birds of Steel",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0839/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0839/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0839/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0839/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0839/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0839/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0839/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0839/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0839/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0839/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0839/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0839/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0839/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0839/1041/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0839/1041/screenlg14.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4b4e0839/BOS_XB360_UK.pdf"
+        ]
+    }
+}

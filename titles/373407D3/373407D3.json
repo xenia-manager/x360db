@@ -1,0 +1,57 @@
+{
+    "id": "373407D3",
+    "title": {
+        "full": "Falling Skies The Game",
+        "reduced": "Falling Skies"
+    },
+    "genre": [
+        "Role Playing",
+        "Strategy & Simulation"
+    ],
+    "developer": "Torus Games",
+    "publisher": "Little Orbit",
+    "release_date": "2014-09-30",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese.  Heroes Will Rise.  Take command of a resistance squadron and outsmart alien enemies using tactical warfare in a battle for mankind’s existence. Play through an open-ended series of side missions to collect resources and build new weapons for your squad. Equip your squad with the best gear to head the human resistance and assist TV characters such as Tom and Ben Mason, John Pope, Maggie and Anthony in this thrilling untold chapter of the war for humanity’s survival!",
+        "short": "Heroes Will Rise.  Take command of a resistance squadron and outsmart alien enemies using tactical warfare in a battle for mankind’s existence."
+    },
+    "media": [
+        {
+            "media_id": "64520CC8",
+            "title": "Falling Skies: The Game",
+            "edition": "Original",
+            "region": "Brazil"
+        },
+        {
+            "media_id": "41A21953",
+            "title": "Falling Skies: The Game",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "791E6A9E",
+            "title": "Falling Skies: The Game",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d3/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

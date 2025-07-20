@@ -1,0 +1,35 @@
+{
+    "id": "58550F0A",
+    "title": {
+        "full": "Yet Another Zombie Defense 2",
+        "reduced": "Yet Another Zombie Defense 2"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "AwesomeGamesStudio",
+    "publisher": "AwesomeGamesStudio",
+    "release_date": null,
+    "user_rating": "4.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=1/3, Mature Content=3/3. Yet Another Zombie Defense 2 is all about defending yourself against hordes of undead attacking you every night. However, when you're the only survivor struggling against waves of enemies who are getting stronger and stronger, your end is inevitable. The only important question is how long can YOU survive?",
+        "short": "Yet Another Zombie Defense 2 is all about defending yourself against hordes of undead attacking you every night. However, when you're the only survivor struggling against waves of enemies who are getting stronger and stronger, your end is inevitable. The only important question is how long can YOU survive?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550f0a/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550F0A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550f0a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550F0A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550F0A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550F0A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550F0A_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

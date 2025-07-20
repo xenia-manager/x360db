@@ -1,0 +1,49 @@
+{
+    "id": "4B4E083A",
+    "title": {
+        "full": "Otomedius Excellent",
+        "reduced": "Otomedius Excellent"
+    },
+    "genre": [
+        "Classics",
+        "Shooter"
+    ],
+    "developer": "KONAMI",
+    "publisher": "KONAMI",
+    "release_date": "2011-11-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English.  It's time to SHOOT THE CORE in this all-new Gradius-style shooter, featuring the lovely ladies of OTOMEDIUS in their first North American appearance.",
+        "short": "It's time to SHOOT THE CORE in this all-new Gradius-style shooter, featuring the lovely ladies of OTOMEDIUS in their first North American appearance."
+    },
+    "media": [
+        {
+            "media_id": "244A2C90",
+            "title": "Otomedius Excellent",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083a/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083a/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083a/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083a/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083a/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

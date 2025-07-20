@@ -1,0 +1,39 @@
+{
+    "id": "54548892",
+    "title": {
+        "full": "MLB 2K11 Demo",
+        "reduced": "MLB 2K11 Demo"
+    },
+    "genre": [
+        "Family",
+        "Independent & Music Videos",
+        "Music and Short Videos",
+        "Sports",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "Visual Concepts Entertainment",
+    "publisher": "2K Sports",
+    "release_date": "2011-03-01",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Begin your quest for perfection on the baseball diamond with the Major League Baseball 2K11 demo, available now for download. Play a three inning game with the San Francisco Giants and Texas Rangers at AT&T Park and get an early taste of 2K11’s Revamped Fielding System and improved Total Control Pitching & Hitting. Perfect YOUR game with Major League Baseball 2K11, in stores March 8!",
+        "short": "Begin your quest for perfection on the baseball diamond with the Major League Baseball 2K11 demo, available now for download. Play a three inning game with the San Francisco Giants and Texas Rangers at AT&T Park and get an early taste of 2K11’s Revamped Fielding System and improved Total Control Pitching & Hitting. Perfect YOUR game with Major League Baseball 2K11, in stores March 8!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254548892/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254548892/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254548892/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254548892/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5454088E",
+                "title": "MLB 2K11"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": "4D4A87F3",
+    "title": {
+        "full": "NBA Baller Beats Demo",
+        "reduced": "NBA Baller Beats Demo"
+    },
+    "genre": [
+        "Kinect",
+        "Sports & Recreation"
+    ],
+    "developer": "HB-Studios",
+    "publisher": "Majesco Entertainment",
+    "release_date": "2012-09-11",
+    "user_rating": "3.25",
+    "description": {
+        "full": "NBA Baller Beats is the first ever motion-based sports video game where you use a REAL ball to develop REAL skills.  Bounce to the beat across an electrifying soundtrack from hip-hop to rock to old school favorites.  The music is your guide as you aspire to perform like a pro and practice your ball-handling skills while building stamina you’ll need for the court – all while having fun playing a video game.  A basketball is required to play this game.  You can use any size basketball or another ball (for example a pool ball) as long as it is the general size and shape of a basketball and not black in color.  See www.NBABallerBeats.com/ball for more information on game-compatible basketballs.  Game works on most surfaces including carpet. NBA Baller Beats is now available.  ",
+        "short": "NBA Baller Beats is the first ever motion-based sports video game where you use a REAL ball to develop REAL skills.  The music is your guide as you aspire to perform like a pro and practice your ball-handling skills while building stamina you’ll need for the court.  A basketball is required to play this game.  You can use any size basketball or another ball as long as it is the general size and shape of a basketball and not black in color.  Game works on most surfaces including carpet. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f3/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f3/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f3/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f3/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f3/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D4A07E8",
+                "title": "NBA Baller Beats"
+            }
+        ],
+        "related": []
+    }
+}

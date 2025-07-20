@@ -1,0 +1,35 @@
+{
+    "id": "58550D9C",
+    "title": {
+        "full": "Power-Up",
+        "reduced": "Power-Up"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Psychotic Psoftware",
+    "publisher": "Psychotic Psoftware",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. The Earth is doomed! As you pilot the prototype fighter, Weapon-F through the debris of your vanquished escape shuttle you come to realise that you are the last human alive.  You alone must take on the army of reptillian monsters responsible for the destruction of humankind. You alone must carry out your final order... revenge!",
+        "short": "The Earth is doomed! As you pilot the prototype fighter, Weapon-F through the debris of your vanquished escape shuttle you come to realise that you are the last human alive.  You alone must take on the army of reptillian monsters responsible for the destruction of humankind. You alone must carry out your final order... revenge!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550d9c/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D9C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d9c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D9C_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D9C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D9C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D9C_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

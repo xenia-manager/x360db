@@ -1,0 +1,35 @@
+{
+    "id": "58550DFC",
+    "title": {
+        "full": "Reflection of a Fallen Feather",
+        "reduced": "Reflection of a Fallen Feather"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Forepaw",
+    "publisher": "Forepaw",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=2/3, Mature Content=0/3. Trapped in a mysterious labyrinth – explore crystalline caves, dark dungeons, and subterranean lakes to uncover an exit to the surface. Jump, swim, and manipulate the environment to unveil artifacts used to access new areas or to strengthen your characters in battle against fierce monsters. To survive, transform into defeated enemies and mix enemy abilities to create custom classes for your party.",
+        "short": "Trapped in a mysterious labyrinth – explore crystalline caves, dark dungeons, and subterranean lakes to uncover an exit to the surface. Jump, swim, and manipulate the environment to unveil artifacts used to access new areas or to strengthen your characters in battle against fierce monsters. To survive, transform into defeated enemies and mix enemy abilities to create custom classes for your party."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550dfc/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550DFC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550dfc/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550DFC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DFC_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DFC_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DFC_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

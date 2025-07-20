@@ -1,0 +1,35 @@
+{
+    "id": "585508EB",
+    "title": {
+        "full": "Ace of Dynamites",
+        "reduced": "Ace of Dynamites"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Fairy Engine LLC_0",
+    "publisher": "Fairy Engine LLC_0",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=1/3, Mature Content=1/3. The gems from the kingdom of the Round Happy Faces people have been stolen by their enemies. They're now scattered in the lands of the Death's Heads tribe, and guarded 24/7. Since explosives are the only weapon that can be used against the Death's Heads, you've been chosen to go to hostile territory and get as many gems back as possible, for your Round Happy Face's nickname is Ace of Dynamites.",
+        "short": "The gems from the kingdom of the Round Happy Faces people have been stolen by their enemies. They're now scattered in the lands of the Death's Heads tribe, and guarded 24/7. Since explosives are the only weapon that can be used against the Death's Heads, you've been chosen to go to hostile territory and get as many gems back as possible, for your Round Happy Face's nickname is Ace of Dynamites."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585508eb00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508EB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508eb/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508EB_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508EB_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508EB_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508EB_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

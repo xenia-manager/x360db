@@ -1,0 +1,35 @@
+{
+    "id": "58550A24",
+    "title": {
+        "full": "Card Creator Xmas",
+        "reduced": "Card Creator Xmas"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Teaser Creations",
+    "publisher": "Teaser Creations",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Create your own unique Xmas / New Year Cards! Send them to friends/family with and without Xbox. Your friends don't need to purchase the App to view your cards! Fun and easy - Try now!",
+        "short": "Create your own unique Xmas / New Year Cards! Send them to friends/family with and without Xbox. Your friends don't need to purchase the App to view your cards! Fun and easy - Try now!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550a2400000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A24_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a24/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A24_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A24_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A24_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A24_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

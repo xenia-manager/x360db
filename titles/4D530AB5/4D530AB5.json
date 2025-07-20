@@ -1,0 +1,33 @@
+{
+    "id": "4D530AB5",
+    "title": {
+        "full": "Forza Horizon 2 Presents Fast  Furious",
+        "reduced": "Forza Horizon 2 Presents Fast  Furious"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Sumo Digital Ltd",
+    "publisher": "Microsoft Studios",
+    "release_date": "2015-03-27",
+    "user_rating": "4.50",
+    "description": {
+        "full": "This standalone expansion will be available at no additional cost until April 10, 2015.  The next great automotive adventure begins with the Forza Horizon 2 Presents Fast & Furious standalone expansion for Xbox 360! For the first time ever, the Forza experience of thrilling driving and amazing cars is combining with the unstoppable Fast & Furious movie franchise to create an original adventure filled with adrenaline-fueled automotive action.",
+        "short": "The next great automotive adventure begins with the Forza Horizon 2 Presents Fast & Furious standalone expansion for Xbox 360!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ab5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ab5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ab5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ab5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ab5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ab5/1033/screenlg2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

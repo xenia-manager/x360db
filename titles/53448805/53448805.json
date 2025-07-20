@@ -1,0 +1,40 @@
+{
+    "id": "53448805",
+    "title": {
+        "full": "Dragon Age II 体験版",
+        "reduced": "Dragon Age II 体験版"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": null,
+    "publisher": null,
+    "release_date": "2012-01-19",
+    "user_rating": null,
+    "description": {
+        "full": "Download this demo.",
+        "short": "Download this demo."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253448805/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253448805/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253448805/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253448805/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253448805/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253448805/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253448805/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253448805/1041/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4541090B",
+                "title": "Dragon Age 2"
+            }
+        ],
+        "related": []
+    }
+}

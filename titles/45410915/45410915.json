@@ -1,0 +1,47 @@
+{
+    "id": "45410915",
+    "title": {
+        "full": "FIGHT NIGHT CHAMPION",
+        "reduced": "FIGHT NIGHT CHAMPION"
+    },
+    "genre": [
+        "Fighting",
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts Canada",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2010-04-26",
+    "user_rating": "4.00",
+    "description": {
+        "full": "More than just a change to the franchise name, Fight Night Champion takes the boxing experience one giant step forward by delivering an experience never before seen in an EA SPORTS video game. History will be made with this revolutionary iteration that builds upon the best-in-class gameplay and physics engine of Fight Night Round 4, while immersing you in a world of brutality, uncertainty, betrayal, and redemption. Survive the brutal road to redemption with Fight Night Champion.   KEY FEATURES  Authentic Content—Fight Night Champion showcases a true graphical representation of the sport, lifestyle, and culture of boxing with authentic and dynamic blood, realistic body damage and deformation, in the first mature content EA SPORTS title ever.  Captivating Champion Mode—EA SPORTS brings you their first story-based game mode inspired by classic boxing movies provides hours of captivating and emotional gameplay. Step in the shoes of up-and-coming middleweight contender Andre Bishop and experience the trials and tribulations of working your way to the top of the boxing world battling inside and outside the ring Full Spectrum Punch Control—Control your boxer’s punches with precision and accuracy with a new synergy of gameplay controls. From overhand punches to strategic counter jabs and one-punch knockouts, overwhelm your opponents with your refined skill set. Compare the control you have with FSPC with 6 total controller configurations which include buttons.  Physics-Based Gameplay—Move around the ring and time your attacks with precision. You now have an even wider range of abilities when it comes to counterattacks, setting up combos, and attacking your opponent.  Legacy Mode—Create your alter ego and put him in the ring against past champions. Work your way up the ranks through training and scheduled bouts, and establish your name as the fighter to beat. Take your boxer online and see how you size up against the best in the world competing for local or worldwide belts in the all-new Fight Night Nation",
+        "short": "Fight Night Champion combines the sweet science of boxing with the cinematic experience of a Hollywood blockbuster movie."
+    },
+    "media": [
+        {
+            "media_id": "2DC50868",
+            "title": "Fight Night Champion",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410915/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410915/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410915/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410915/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410915/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410915/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410915/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410915/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410915/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410915/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410915/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410915/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

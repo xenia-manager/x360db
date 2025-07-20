@@ -1,0 +1,60 @@
+{
+    "id": "545407E5",
+    "title": {
+        "full": "Sid Meiers Civilization Revolution",
+        "reduced": "Civilization Revolution"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Firaxis Games",
+    "publisher": "2K Games",
+    "release_date": "2010-05-27",
+    "user_rating": "4.50",
+    "description": {
+        "full": "This game supports English, French, Italian, German, and Spanish. Legendary game designer Sid Meier brings the greatest strategy game of all time to the Xbox 360 console! Built from the ground up for the Xbox 360 console, Sid Meier's Civilization Revolution challenges you to lead your chosen nation from the dawn of man to the space age on your quest to rule the world. Go head to head with history's greatest leaders as you wage war, conduct diplomacy, discover new technologies and build the most powerful empire the world has ever known. The famously addictive gameplay, endless ways to play and Xbox LIVE multiplayer competitions, matchmaking, Leaderboards, Achievements and downloadable content will keep you coming back for more. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Legendary game designer Sid Meier brings the greatest strategy game of all time to the Xbox 360 console! Built from the ground up for the Xbox 360 console, Sid Meier's Civilization Revolution challenges you to lead your chosen nation from the dawn of man to the space age on your quest to rule the world. Go head to head with history's greatest leaders as you wage war, conduct diplomacy, discover new technologies and build the most powerful empire the world has ever known. The famously addictive …"
+    },
+    "media": [
+        {
+            "media_id": "7DC1293B",
+            "title": "Sid Meier's Civilization Revolution",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "479CC0CC",
+            "title": "Sid Meier's Civilization Revolution",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e5/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "585509BE",
+    "title": {
+        "full": "Prairie Dog Massacre",
+        "reduced": "Prairie Dog Massacre"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Dwarf Biter",
+    "publisher": "Dwarf Biter",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=0/3. Are you ready to slaughter some prairie dogs? It's going to be a massacre. Be careful though, some of them can shoot back. Shoot the prairie dogs with the guns to get more ammo. If you run out of ammo or get shot five times it's game over for you.",
+        "short": "Are you ready to slaughter some prairie dogs? It's going to be a massacre. Be careful though, some of them can shoot back. Shoot the prairie dogs with the guns to get more ammo. If you run out of ammo or get shot five times it's game over for you."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585509be00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585509BE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585509be/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585509BE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509BE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509BE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509BE_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

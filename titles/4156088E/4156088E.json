@@ -1,0 +1,35 @@
+{
+    "id": "4156088E",
+    "title": {
+        "full": "Call of Duty Modern Warfare 3",
+        "reduced": "Call of Duty Modern Warfare 3"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Infinity Ward and Sledgehammer Games",
+    "publisher": "Activision",
+    "release_date": "2011-11-08",
+    "user_rating": null,
+    "description": {
+        "full": "Warfare® is back. On November 8th, the best-selling first-person action series of all-time returns with the epic sequel to the multiple Game of the Year award winner Call of Duty®: Modern Warfare® 2.",
+        "short": "Warfare® is back. On November 8th, the best-selling first-person action series of all-time returns with the epic sequel to the multiple Game of the Year award winner Call of Duty®: Modern Warfare® 2."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156088e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156088e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156088e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156088e/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "415608CB",
+                "title": "Modern Warfare® 3"
+            }
+        ],
+        "related": []
+    }
+}

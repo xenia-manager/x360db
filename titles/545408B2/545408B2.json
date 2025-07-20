@@ -1,0 +1,47 @@
+{
+    "id": "545408B2",
+    "title": {
+        "full": "WWE 2K14",
+        "reduced": "WWE 2K14"
+    },
+    "genre": [
+        "Fighting",
+        "Sports & Recreation"
+    ],
+    "developer": "Yuke's",
+    "publisher": "2K",
+    "release_date": "2013-10-29",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". FINALLY. 2K Sports' lineup of premier simulation titles expands with the company's first release in the flagship WWE videogame franchise, WWE 2K14. The most electrifying, authentic and comprehensive WWE video game experience to date has arrived. Become Immortal.  NOTE: All multiplayer servers for WWE 2K14 will be shutdown as of 10/31/2015. After that time, all game functions requiring online servers will no longer function.",
+        "short": "FINALLY. 2K Sports' lineup of premier simulation titles expands with the company's first release in the flagship WWE videogame franchise, WWE 2K14. The most electrifying, authentic and comprehensive WWE video game experience to date has arrived. Become Immortal."
+    },
+    "media": [
+        {
+            "media_id": "0D94D1D2",
+            "title": "WWE 2K14",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b2/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/545408b2/5/WWE2K14_manual.pdf"
+        ]
+    }
+}

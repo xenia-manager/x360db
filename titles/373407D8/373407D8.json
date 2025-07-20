@@ -1,0 +1,46 @@
+{
+    "id": "373407D8",
+    "title": {
+        "full": "Adventure Time Finn and Jake Investigations",
+        "reduced": "Adventure Time FJI"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Vicious Cycle Software",
+    "publisher": "Little Orbit",
+    "release_date": "2015-10-20",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese.  What time is it?  It’s time to crack a case!  Adventure Time: Finn and Jake Investigations is an all-new, story-driven graphic adventure game. Strange stuff is happening in the Land of Ooo (stranger than usual anyway). Luckily, Finn and Jake are on the case. This mysterious adventure will put their detective skills to the test as they search for clues, interrogate witnesses and piece together the evidence to save the day. They might even have to bust up a few goons along the way, but it’s nothing that Finn and Jake Investigations can’t handle! Game Features: • Sleuth your way through five cases set in the Land of Ooo, each of which plays out a separate chapter (like your own personal episode of the show). • See the Adventure Time characters and familiar locations for the first time in 3D. • Tackle puzzles by creatively using inventory objects and Jake’s shape-shifting abilities. • Combat evildoers as Finn using a variety of unique swords and Jake’s awesome attack forms.",
+        "short": "What time is it?  It’s time to crack a case!  Adventure Time: Finn and Jake Investigations is an all-new, story-driven graphic adventure game. This mysterious adventure will put Finn and Jake’s detective skills to the test as they search for clues, interrogate witnesses, bust a few goons, and piece together the evidence to save the day!"
+    },
+    "media": [
+        {
+            "media_id": "320BCCE1",
+            "title": "Adventure Time: Finn & Jake Investigations",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d8/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

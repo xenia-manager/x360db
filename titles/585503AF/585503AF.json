@@ -1,0 +1,35 @@
+{
+    "id": "585503AF",
+    "title": {
+        "full": "Border Wars",
+        "reduced": "Border Wars"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Robert Marra",
+    "publisher": "Robert Marra",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. Border Wars is an imaginative side-scrolling 2D Space Shooter that lets you battle through the margins of your notebook. Draw your own ship from scratch or with pre-made parts and fly it in the game. Kill enemies to earn points that can be used to purchase upgrades and customize your experience. Fight your way through 16 levels of various enemies and bosses, all to a rocking custom sound track.",
+        "short": "Border Wars is an imaginative side-scrolling 2D Space Shooter that lets you battle through the margins of your notebook. Draw your own ship from scratch or with pre-made parts and fly it in the game. Kill enemies to earn points that can be used to purchase upgrades and customize your experience. Fight your way through 16 levels of various enemies and bosses, all to a rocking custom sound track."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585503af00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585503AF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585503af/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585503AF_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503AF_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503AF_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503AF_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

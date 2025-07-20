@@ -1,0 +1,50 @@
+{
+    "id": "4E4D0800",
+    "title": {
+        "full": "DW GUNDAM 2",
+        "reduced": "DW GUNDAM 2"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "KOEI",
+    "publisher": "Namco",
+    "release_date": "2008-01-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The greater the enemy, the greater the war. Join the battle! Dynasty Warriors® Gundam® 2.",
+        "short": "The greater the enemy, the greater the war. Join the battle! Dynasty Warriors® Gundam® 2."
+    },
+    "media": [
+        {
+            "media_id": "29DFCFAC",
+            "title": "Dynasty Warriors: Gundam 2",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "0E2535ED",
+            "title": "Dynasty Warriors: Gundam 2",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0800/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0800/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0800/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0800/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0800/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0800/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0800/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0800/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0800/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0800/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

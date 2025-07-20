@@ -1,0 +1,71 @@
+{
+    "id": "45410857",
+    "title": {
+        "full": "Dead Space",
+        "reduced": "Dead Space"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Electronic Arts™",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-08-03",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  When an immense mining ship, the USG Ishimura, comes into contact with a mysterious alien artifact in a remote star system, its communications with Earth are mysteriously cut off. Engineer Isaac Clarke is sent to repair the Ishimura's communications array, but he arrives to find a living nightmare-the ship is a floating bloodbath, the crew unspeakably mutilated and infected by an ancient alien scourge. Clarke's repair mission becomes one of survival as he fights not just to save himself, but to return the artifact to the planet ... at any cost. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "When an immense mining ship, the USG Ishimura, comes into contact with a mysterious alien artifact in a remote star system, its communications with Earth are mysteriously cut off. Engineer Isaac Clarke is sent to repair the Ishimura's communications array, but he arrives to find a living nightmare-the ship is a floating bloodbath, the crew unspeakably mutilated and infected by an ancient alien scourge. Clarke's repair mission becomes one of survival as he fights not just to save himself, but to"
+    },
+    "media": [
+        {
+            "media_id": "6A216DCC",
+            "title": "Dead Space",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "0D12457D",
+            "title": "Dead Space",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "6BF1DC46",
+            "title": "Dead Space",
+            "edition": "Original",
+            "region": "USA, Asia"
+        },
+        {
+            "media_id": "30355309",
+            "title": "Dead Space",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "5D5C26BC",
+            "title": "Dead Space",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410857/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410857/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410857/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410857/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410857/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410857/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410857/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410857/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410857/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410857/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410857/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410857/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410857/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

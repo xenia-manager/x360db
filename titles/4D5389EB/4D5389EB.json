@@ -1,0 +1,36 @@
+{
+    "id": "4D5389EB",
+    "title": {
+        "full": "Kinectimals Now With Bears Demo",
+        "reduced": "Kinectimals Now With Bears Demo"
+    },
+    "genre": [
+        "Family",
+        "Kinect"
+    ],
+    "developer": "Frontier Developments Ltd.",
+    "publisher": "Microsoft Game Studios",
+    "release_date": "2012-01-31",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Play this demo. ",
+        "short": "Play this demo. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389eb/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389eb/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389eb/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389eb/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D5308B3",
+                "title": "Kinectimals"
+            }
+        ],
+        "related": []
+    }
+}

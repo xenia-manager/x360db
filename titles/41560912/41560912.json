@@ -1,0 +1,42 @@
+{
+    "id": "41560912",
+    "title": {
+        "full": "The Voice",
+        "reduced": "The Voice"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "Zoe Mode",
+    "publisher": "Activision",
+    "release_date": "2014-10-21",
+    "user_rating": "3.25",
+    "description": {
+        "full": "CAUTION: THIS GAME CANNOT BE PLAYED WITHOUT AN XBOX 360 COMPATIBLE USB MICROPHONE.  THIS MICROPHONE CAN BE PURCHASED SEPARATELY FROM A LOCAL OR ONLINE RETAILER.  The Games on Demand version supports English.  The Voice video game brings all the excitement of the hit TV show to your living room. From the Blind Auditions, to the Battle Rounds, all the way to the Finale, experience the TV show with the ultimate goal of being named “The Voice.” • Select from chart-topping hits spanning Rock, R&B, Pop and Country! • Impress the coaches and watch them compete for you to join their team. • Learn tips and techniques to help improve your performances including, breathing, vocal range and harmonizing in Voice Coach Mode. • Grab 7 of your friends and sing your favorite songs in Party Mode!",
+        "short": "CAUTION: THIS GAME CANNOT BE PLAYED WITHOUT AN XBOX 360 COMPATIBLE USB MICROPHONE.  THIS MICROPHONE CAN BE PURCHASED SEPARATELY FROM A LOCAL OR ONLINE RETAILER.  The Voice video game brings all the excitement of the hit TV show to your living room. From the Blind Auditions, to the Battle Rounds, all the way to the Finale, experience the TV show with the ultimate goal of being named “The Voice.\""
+    },
+    "media": [
+        {
+            "media_id": "4B3B0503",
+            "title": "The Voice: I Want You",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560912/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560912/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560912/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560912/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560912/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560912/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560912/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560912/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

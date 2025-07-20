@@ -1,0 +1,35 @@
+{
+    "id": "58550CAD",
+    "title": {
+        "full": "Minotaur",
+        "reduced": "Minotaur"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Awesome Enterprises",
+    "publisher": "Awesome Enterprises",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=1/3, Mature Content=2/3. Play as the Minotaur... Wandering the world with your axe, destroying everything that tries to harm you. Chop, smash, combo, block and counter your way through entire armies!  Play co-op with 3 friends locally, or up to 7 friends over Xbox Live.  Unravel the mystery of the mysterious falling rocks from the sky!  Paint the ground with the blood of your fallen enemies!",
+        "short": "Play as the Minotaur... Wandering the world with your axe, destroying everything that tries to harm you. Chop, smash, combo, block and counter your way through entire armies!  Play co-op with 3 friends locally, or up to 7 friends over Xbox Live.  Unravel the mystery of the mysterious falling rocks from the sky!  Paint the ground with the blood of your fallen enemies!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550cad00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CAD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550cad/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CAD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CAD_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CAD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CAD_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

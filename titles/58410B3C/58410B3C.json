@@ -1,0 +1,50 @@
+{
+    "id": "58410B3C",
+    "title": {
+        "full": "Diabolical Pitch",
+        "reduced": "Diabolical Pitch"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Kinect"
+    ],
+    "developer": "Grasshopper Manufacture",
+    "publisher": "Microsoft Studios",
+    "release_date": "2012-04-04",
+    "user_rating": "3.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) An unusual, unique and wacky pitching action game is coming to Kinect and the name of the game is Diabolical Pitch. A former pitcher now outfitted with an incredibly powerful bionic arm finds himself in a run-down, dark, and twisted amusement park. The night gets strange and intense quickly as you must use your pitching skills to survive the game of your life. Charge up your diabolical pitch to wipe out all the enemies crowding towards you. Power-ups give your throwing arm insane abilities that will give you the edge against huge mobs of enemies or even the mostfearsome boss. Kinect turns your room into a playing field and your Diabolical Pitch is the main attraction.",
+        "short": "(Online Interactions Not Rated by the ESRB) A unique and wacky pitching action game is coming to Kinect and the name of the game is Diabolical Pitch. A former pitcher now outfitted with an incredibly powerful bionic arm finds himself in a run-down, dark, and twisted amusement park. The night gets strange and intense quickly as you must use your pitching skills to survive the game of your life. Kinect turns your room into a playing field and your Diabolical Pitch is the main attraction."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3c/1033/screenlg18.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

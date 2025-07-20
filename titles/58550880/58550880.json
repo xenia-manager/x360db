@@ -1,0 +1,35 @@
+{
+    "id": "58550880",
+    "title": {
+        "full": "Monsters In Neon Space",
+        "reduced": "Monsters In Neon Space"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Monster Bite Games",
+    "publisher": "Monster Bite Games",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. In this space shooter you will destroy hordes of space monsters using your choice of three different upgradable guns and bombs along with other upgradable abilities.  These abilities will give you the edge to survive through the monsters' space and their planet.  If you think you're up for it play through the game on hard difficulty using the powerful but dangerous gravity bomb.",
+        "short": "In this space shooter you will destroy hordes of space monsters using your choice of three different upgradable guns and bombs along with other upgradable abilities.  These abilities will give you the edge to survive through the monsters' space and their planet.  If you think you're up for it play through the game on hard difficulty using the powerful but dangerous gravity bomb."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855088000000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550880_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550880/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550880_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550880_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550880_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550880_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "584107E0",
+    "title": {
+        "full": "Robotron 2084",
+        "reduced": "Robotron 2084"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Digital Eclipse",
+    "publisher": "Xbox LIVE Arcade",
+    "release_date": "2010-02-26",
+    "user_rating": "3.00",
+    "description": {
+        "full": "Single Player, Xbox Live Multiplayer 1-2, Local Multiplayer 1-2, HD (High Definition) In 2084, man creates a species of super-advanced cyborgs known as Robotrons. Recognizing the imperfect nature of their creators, the Robotrons conclude that the inefficient human race must be exterminated. Only you and a single family of clones remain. If mankind is to survive, you must destroy the Grunts, Brains, Enforcers and Tanks--but avoid the indestructible Hulks at all cost. Can you withstand wave after wave of android invasion and rescue Mommy, Daddy and Mikey… before it’s too late? There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Revisit the classic arcade game Robotron: 2084. Now for the first time, play on Xbox Live in either the Co-Op or Versus game modes."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e0/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

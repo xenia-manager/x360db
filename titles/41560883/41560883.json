@@ -1,0 +1,37 @@
+{
+    "id": "41560883",
+    "title": {
+        "full": "GH Warriors of Rock",
+        "reduced": "GH Warriors of Rock"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "Neversoft Entertainment",
+    "publisher": "Activision, Inc",
+    "release_date": "2010-06-29",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Guitar Hero®: Warriors of Rock - Shred with over 90 master tracks that span all genres of rock including songs from bands like KISS, Muse, Soundgarden, Queen, Megadeth and more - Build your army of Rock Warriors to save Rock ‘n Roll in all new Quest mode - Take your skills to the next level with Quickplay+ where each song has up to 13 new challenges - Broadcast your in-game accomplishments with Hero Feed or share it with your friends on your favorite social websites - Join the party at any time with the click of a button in Party Play - Expand your music collection by importing your favorite on-disc and downloadable content from select previous Guitar Hero® games straight into Guitar Hero®: Warriors of Rock and enjoy these songs with additional challenges in Quickplay+ *Does not apply to a limited number of songs",
+        "short": "Guitar Hero®: Warriors of Rock - Shred with over 90 master tracks that span all genres of rock including songs from bands like KISS, Muse, Soundgarden, Queen, Megadeth and more - Build your army of Rock Warriors to save Rock ‘n Roll in all new Quest mode - Take your skills to the next level with Quickplay+ where each song has up to 13 new challenges - Broadcast your in-game accomplishments with Hero Feed or share it with your friends on your favorite social websites - Join the party at any…"
+    },
+    "media": [
+        {
+            "media_id": "664C4807",
+            "title": "Guitar Hero: Warriors of Rock",
+            "edition": "Bundled with Guitar Controller",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560883/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560883/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560883/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560883/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

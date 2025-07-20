@@ -1,0 +1,43 @@
+{
+    "id": "58410A85",
+    "title": {
+        "full": "Voodoo Dice",
+        "reduced": "Voodoo Dice"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Exkee",
+    "publisher": "Ubisoft",
+    "release_date": "2010-11-24",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Mixing action based and puzzle mechanics in a 3D world, Voodoo Dice is an innovative, challenging puzzler that plays with your mind to lead you to solve puzzles in unique and interesting ways.",
+        "short": "Mixing action based and puzzle mechanics in a 3D world, Voodoo Dice is an innovative, challenging puzzler that plays with your mind to lead you to solve puzzles in unique and interesting ways."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a85/1033/background.jpg",
+        "banner": "http://avatar.xboxlive.com/global/t.58410a85/marketplace/0/1",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a85/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a85/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a85/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a85/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a85/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a85/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a85/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a85/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a85/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a85/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a85/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a85/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a85/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a85/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

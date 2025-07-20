@@ -1,0 +1,46 @@
+{
+    "id": "4B5107D3",
+    "title": {
+        "full": "RadirgyNOA MASSIVE",
+        "reduced": "RadirgyNOA MASSIVE"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "MILESTONE INC.",
+    "publisher": "KAGA CREATE CO.,LTD.",
+    "release_date": "2011-08-09",
+    "user_rating": null,
+    "description": {
+        "full": "The Games on Demand version supports  Japanese.  ２人協力プレイ可能な 電波系縦スクロールシューティングゲーム。 新モードで得点を競うこともでき、 ギャラリーモードも搭載しています。",
+        "short": "２人協力プレイができる、縦スクロールシューティングゲーム。"
+    },
+    "media": [
+        {
+            "media_id": "4EDC77D5",
+            "title": "Radirgy Noa Massive",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5107d3/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5107d3/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5107d3/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5107d3/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5107d3/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5107d3/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5107d3/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5107d3/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5107d3/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5107d3/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5107d3/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5107d3/1041/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

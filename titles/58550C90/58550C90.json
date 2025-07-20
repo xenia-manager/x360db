@@ -1,0 +1,35 @@
+{
+    "id": "58550C90",
+    "title": {
+        "full": "Story Tale Mania Christmas",
+        "reduced": "Story Tale Mania Christmas"
+    },
+    "genre": [
+        "Family"
+    ],
+    "developer": "Deviant Spark",
+    "publisher": "Deviant Spark",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Story Tale Mania Christmas is a hilarious story game that will leave you laughing. Players can choose words for a story or quickly begin a new story using the \"Shuffle\" mode to automatically select words. New words can be added to the game to create truly dynamic stories. Story Tale Mania is different every time you play, and by adding new words the game never gets old.",
+        "short": "Story Tale Mania Christmas is a hilarious story game that will leave you laughing. Players can choose words for a story or quickly begin a new story using the \"Shuffle\" mode to automatically select words. New words can be added to the game to create truly dynamic stories. Story Tale Mania is different every time you play, and by adding new words the game never gets old."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550c9000000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C90_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c90/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C90_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C90_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C90_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C90_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

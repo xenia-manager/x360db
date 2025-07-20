@@ -1,0 +1,48 @@
+{
+    "id": "565507F9",
+    "title": {
+        "full": "Legend of Spyro",
+        "reduced": "Legend of Spyro"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Etranges Libellules",
+    "publisher": "Activision",
+    "release_date": "2008-10-21",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   In this third chapter of the epic Legend of Spyro trilogy, Spyro and Cynder must fulfill their destiny and face Malefor, the Dark Master.",
+        "short": "In this third chapter of the epic Legend of Spyro trilogy, Spyro and Cynder must fulfill their destiny and face Malefor, the Dark Master."
+    },
+    "media": [
+        {
+            "media_id": "379EF306",
+            "title": "The Legend of Spyro: Dawn of the Dragon",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507f9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507f9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507f9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507f9/1033/tile.png",
+        "gallery": [
+            "http://mktplassets.xbox.com/NR/rdonlyres/C5C3CED8-899A-4153-9A67-A56F10E82EBA/0/simspyroDawnOfDragon00.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/E18A76F6-1489-40DF-8B83-128E55B280B7/0/simspyroDawnOfDragon01.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/0F533E8A-EE71-406C-9989-7ACD6C5194BE/0/simspyroDawnOfDragon02.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/B770B165-65EB-4658-84A2-C058281B6508/0/simspyroDawnOfDragon03.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/E009A68F-6606-4870-A2D9-DFBE1F7AFB4D/0/simspyroDawnOfDragon04.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507f9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507f9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507f9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507f9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507f9/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

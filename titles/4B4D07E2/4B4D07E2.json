@@ -1,0 +1,37 @@
+{
+    "id": "4B4D07E2",
+    "title": {
+        "full": "The X Factor",
+        "reduced": "The X Factor"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "Hydravision Entertainment",
+    "publisher": "Deep Silver",
+    "release_date": "2010-08-07",
+    "user_rating": null,
+    "description": {
+        "full": "200,000 contestants at the start. 9 places in the finals. 1 sole winner decided by the public. Have you got the X Factor? Prove it!",
+        "short": "200,000 contestants at the start. 9 places in the finals. 1 sole winner decided by the public. Have you got the X Factor? Prove it!"
+    },
+    "media": [
+        {
+            "media_id": "6E1276E3",
+            "title": "The X Factor",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e2/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

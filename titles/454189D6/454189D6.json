@@ -1,0 +1,35 @@
+{
+    "id": "454189D6",
+    "title": {
+        "full": "EA SPORTS 2014 FIFA World Cup Brazil Demo",
+        "reduced": "EA SPORTS 2014 FIFA World Cup Brazil Demo"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts Inc",
+    "release_date": "2799-12-30",
+    "user_rating": "3.75",
+    "description": {
+        "full": "EA SPORTS™ 2014 FIFA World Cup Brazil™ Demo is available to download now.  Experience all the fun, excitement and drama of football’s greatest event. Play in the demo as Mexico, Brazil, USA, England, Australia, Japan, New Zealand, or Ivory Coast in Kick Off.  EA SPORTS™ 2014 FIFA World Cup Brazil™ brings to life the world’s greatest tournament. Choose from 203 National Teams in the deepest set of modes ever in a tournament title from EA SPORTS. Immerse yourself in the FIFA World Cup™ as you play in authentic Brazilian stadiums and experience newly rendered crowds created to replicate the passion and pageantry of the 2014 FIFA World Cup Brazil™. In stores in NA on April 15th and in EU on April 17th, 2014.",
+        "short": "EA SPORTS™ 2014 FIFA World Cup Brazil™ Demo is available to download now.  Experience all the fun, excitement and drama of football’s greatest event. Play in the demo as Mexico, Brazil, USA, England, Australia, Japan, New Zealand, or Ivory Coast in Kick Off."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189d6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189d6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189d6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189d6/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454109D4",
+                "title": "EA SPORTS™ 2014 FIFA World Cup Brazil™"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": "5841125E",
+    "title": {
+        "full": "Joy Ride Turbo",
+        "reduced": "Joy Ride Turbo"
+    },
+    "genre": [
+        "Avatar",
+        "Family",
+        "Racing & Flying",
+        "Sports & Recreation"
+    ],
+    "developer": "BigPark",
+    "publisher": "Microsoft Studios",
+    "release_date": "2012-05-23",
+    "user_rating": "4.00",
+    "description": {
+        "full": "From the Kinect Joy Ride creators comes Joy Ride Turbo, a controller-based arcade racer delivering precision handling and crazy stunts with more thrills, speed, & mayhem! In the new Stunt Park, you’re free to show off! There’s no limit to the whacky tour de force you achieve with friends. It’s a vibrant playground for your car - jump off cliffs, shoot from a cannon, & more. Plus, explore and find collectibles that unlock cars – giving you an edge for faster races and death-defying tricks. Race new tracks, old favorites and 3 modes of play: Battle Race, Pro Race & Time Trial. Challenge family & friends to local 4-player split-screen or race up to 8 on Xbox LIVE. With Joy Ride Turbo, everyone’s in the driver’s seat in this madcap kart racer.",
+        "short": "Introducing Joy Ride Turbo, a controller-based arcade racer delivering precision handling, speed and crazy stunt mayhem! In the new Stunt Park, show off your skills or explore and find collectibles that unlock cars, giving you an edge for faster races and death-defying stunts. Plus, race new tracks and old favorites in Battle Race, Pro Race & Time Trial. Supports 4-player split-screen or race up to 8 on Xbox LIVE. With Joy Ride Turbo, everyone’s in the driver’s seat in this madcap kart racer."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125e/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125e/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125e/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125e/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125e/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125e/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125e/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125e/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125e/1033/screenlg14.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "id": "454108B4",
+    "title": {
+        "full": "Need for Speed SHIFT",
+        "reduced": "Need for Speed SHIFT"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Slightly Mad Studios",
+    "publisher": "EA",
+    "release_date": "2010-03-18",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Feel what it’s really like to race high-end performance cars as Need for Speed™ SHIFT thrusts you into the heart of the action for the true driver’s experience. Immersive and exciting features such as a stunningly realistic first-person cockpit view and an all-new crash mechanic deliver an unrivaled sensation of the speed and exhilaration of racing a car on the edge of control. Whether you’re battling online or playing through your career, build your unique driver profile from moment to moment and from race to race and get rewarded for driving the way you want to drive.",
+        "short": "Feel what it’s really like to race high-end performance cars as Need for Speed™ SHIFT thrusts you into the heart of the action for the true driver’s experience. Immersive and exciting features such as a stunningly realistic first-person cockpit view and an all-new crash mechanic deliver an unrivaled sensation of the speed and exhilaration of racing a car on the edge of control. Whether you’re battling online or playing through your career, build your unique driver profile from moment to moment …"
+    },
+    "media": [
+        {
+            "media_id": "60DAC9C5",
+            "title": "Need for Speed: Shift",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "1C48E402",
+            "title": "Need for Speed: Shift",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "0EB22B29",
+            "title": "Need for Speed: Shift",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "21271645",
+            "title": "Need for Speed: Shift",
+            "edition": "Original, Classics",
+            "region": "Europe, Australia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108b4/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

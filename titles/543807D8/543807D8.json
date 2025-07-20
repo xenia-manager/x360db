@@ -1,0 +1,38 @@
+{
+    "id": "543807D8",
+    "title": {
+        "full": "Oddworld Munchs Oddysee",
+        "reduced": "Munchs Oddysee"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics"
+    ],
+    "developer": "Oddworld Inhabitants Inc.",
+    "publisher": "Oddworld Inhabitants Inc.",
+    "release_date": "2021-11-10",
+    "user_rating": null,
+    "description": {
+        "full": "Oddworld: Munch's Oddysee brings Oddworld to life in full 3D. Players embark on a journey through a changing world of oddball creatures, off-the-wall action and outlandish goons.  Players guide Mudokon champion Abe, and his aquatic Gabbit partner Munch, in Oddworld's third adventure, using special psychic powers, cool power-ups, and other special abilities to deliver payback as they reclaim the last gabbit eggs on Oddworld, which have been packaged in a can of gabbiar.",
+        "short": "Oddworld: Munch's Oddysee brings Oddworld to life in full 3D. Players embark on a journey through a changing world of oddball creatures, off-the-wall action and outlandish goons."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807d8/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

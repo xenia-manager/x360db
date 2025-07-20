@@ -1,0 +1,39 @@
+{
+    "id": "58410A78",
+    "title": {
+        "full": "Guwange",
+        "reduced": "Guwange"
+    },
+    "genre": [
+        "Classics",
+        "Shooter"
+    ],
+    "developer": "CAVE",
+    "publisher": "CAVE",
+    "release_date": "2010-11-10",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) At the far reaches of the Eastern kingdom, in the age of Muromachi... this is the tale of those who wielded the power of the Shikigami. In ages past, when men worshipped nature, believed in spirits and feared the darkness of night, they would also become envoys of a mysterious power.  A unique shooting game set in the late Muromachi age of Japan, Guwange includes 3 fully-featured game modes. Challenge the online leaderboards in Score Attack mode! Play with a friend in online CO-OP play! The shooter classic \"Guwange\" is reborn for a new generation!",
+        "short": "(Online Interactions Not Rated by the ESRB) At the far reaches of the Eastern kingdom, in the age of Muromachi... this is the tale of those who wielded the power of the Shikigami. In ages past, when men worshipped nature, believed in spirits and feared the darkness of night, they would also become envoys of a mysterious power.  A unique shooting game set in the late Muromachi age of Japan, Guwange includes 3 fully-featured game modes. Challenge the online leaderboards in Score Attack mode!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

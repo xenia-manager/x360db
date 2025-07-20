@@ -1,0 +1,71 @@
+{
+    "id": "544307D1",
+    "title": {
+        "full": "DEAD OR ALIVE 4",
+        "reduced": "DEAD OR ALIVE 4"
+    },
+    "genre": [
+        "Classics",
+        "Fighting"
+    ],
+    "developer": "Team NINJA",
+    "publisher": "Tecmo",
+    "release_date": "2008-01-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "mighty magnificent stimulating graceful fighting!",
+        "short": "mighty magnificent stimulating graceful fighting!"
+    },
+    "media": [
+        {
+            "media_id": "606FFE2A",
+            "title": "Dead or Alive 4",
+            "edition": "Classics, Platinum Hits",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "2AD7FA3A",
+            "title": "Dead or Alive 4",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "2A21D923",
+            "title": "Dead or Alive 4",
+            "edition": "Original, Platinum Collection",
+            "region": "Japan"
+        },
+        {
+            "media_id": "762DD4B9",
+            "title": "Dead or Alive 4",
+            "edition": "Bundled with Xbox 360",
+            "region": "Asia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/7177/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/7177/screenlg14.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": "41560844",
+    "title": {
+        "full": "DJ Hero",
+        "reduced": "DJ Hero"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "FreeStyleGames",
+    "publisher": "Activision",
+    "release_date": "2009-08-17",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Want to be the life of the party and play over 90 unique mixes of Hip-Hop, Electronica, Pop, Rock, and more? Well, you can only do it in DJ Hero™! The newest music gaming experience lets you spin on a state-of-the-art DJ Hero™ Turntable Controller, including a 360 degree rotating turntable platter, crossfader, and effects dial. You can be the host with the most in your own living room, or invite a friend to plug in a Guitar Hero® Guitar Controller and get the party started. You can even take the party online to showcase your skills!",
+        "short": "Want to be the life of the party and play over 90 unique mixes of Hip-Hop, Electronica, Pop, Rock, and more? Well, you can only do it in DJ Hero™! The newest music gaming experience lets you spin on a state-of-the-art DJ Hero™ Turntable Controller, including a 360 degree rotating turntable platter, crossfader, and effects dial. You can be the host with the most in your own living room, or invite a friend to plug in a Guitar Hero® Guitar Controller and get the party started. You can even take th…"
+    },
+    "media": [
+        {
+            "media_id": "23FC4091",
+            "title": "DJ Hero",
+            "edition": "Bundled with DJ Turntable Controller",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "627311A2",
+            "title": "DJ Hero",
+            "edition": "Demo (Bundled with Turntable Controller)",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560844/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560844/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560844/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560844/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560844/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560844/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560844/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560844/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560844/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560844/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

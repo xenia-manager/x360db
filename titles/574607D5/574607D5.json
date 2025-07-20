@@ -1,0 +1,48 @@
+{
+    "id": "574607D5",
+    "title": {
+        "full": "Dead Island Riptide",
+        "reduced": "Dead Island Riptide"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Techland",
+    "publisher": "Spike Chunsoft",
+    "release_date": "2013-07-11",
+    "user_rating": null,
+    "description": {
+        "full": "\"Dead Island Riptide takes players to the island of Palanai on the Banoi archipelago, infested with bloodthirsty Zombies and only a few remaining Survivors still fighting for their lives.  Introducing new terrifying enemies, deadly weapons, a new playable character and much more, Dead Island Riptide will draw players back into a world that has grown corrupt - with the last rays of hope vanishing in rising tides.\" ",
+        "short": "They thought they had escaped Banoi, but can't wake up from this nightmare. Thrown back into the midst of the Zombie outbreak, the fight for survival continues!"
+    },
+    "media": [
+        {
+            "media_id": "256D3103",
+            "title": "Dead Island: Riptide",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d5/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4B4D07F2",
+                "title": "Dead Island Riptide"
+            }
+        ],
+        "related": []
+    }
+}

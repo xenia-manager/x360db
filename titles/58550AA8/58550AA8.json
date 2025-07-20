@@ -1,0 +1,35 @@
+{
+    "id": "58550AA8",
+    "title": {
+        "full": "Flycatcher",
+        "reduced": "Flycatcher"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Stockton",
+    "publisher": "Stockton",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Web swinging spider fun. Swing through the trees to catch flies, beetles and more. Avoid dangers such as gas attacks and hornets. Includes local leaderboards.",
+        "short": "Web swinging spider fun. Swing through the trees to catch flies, beetles and more. Avoid dangers such as gas attacks and hornets. Includes local leaderboards."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550aa800000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550AA8_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550aa8/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550AA8_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AA8_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AA8_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AA8_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

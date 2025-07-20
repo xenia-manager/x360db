@@ -1,0 +1,43 @@
+{
+    "id": "415608ED",
+    "title": {
+        "full": "Fast  Furious Showdown",
+        "reduced": "FF Showdown"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Firebrand",
+    "publisher": "Activision",
+    "release_date": "2013-05-21",
+    "user_rating": "3.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  BECOME A PART OF THE CREW!  Strap in and get ready for an intense ride as you team up to take down a dangerous international gang that can only be stopped by you and the rest of the Fast & Furious crew. Get behind the wheel of some of the world’s most intense rides and take on high-stakes driving missions cooperatively with a friend or computer A.I. Put your skills to the test in Challenge Mode, an over-the-top game mode offering addictive objectives and high re-playability. Build your dream car and modify it with more than 50 awesome upgrades and performance perks. Heists, hijacks and mayhem combine across 8 epic global locations, from Rio to LA to Moscow, in an original storyline that spans the entire Fast & Furious film franchise.",
+        "short": "BECOME A PART OF THE CREW!  Strap in and get ready for an intense ride as you team up to take down a dangerous international gang that can only be stopped by you and the rest of the Fast & Furious crew."
+    },
+    "media": [
+        {
+            "media_id": "7E4134DD",
+            "title": "Fast & Furious: Showdown",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ed/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ed/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ed/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ed/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ed/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ed/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ed/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/415608ed/0/5010X3-226_FandF_MNL_DIGITAL.pdf"
+        ]
+    }
+}

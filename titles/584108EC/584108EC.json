@@ -1,0 +1,40 @@
+{
+    "id": "584108EC",
+    "title": {
+        "full": "Ticket to Ride",
+        "reduced": "Ticket to Ride"
+    },
+    "genre": [
+        "Card & Board",
+        "Strategy & Simulation"
+    ],
+    "developer": "Next Level Games",
+    "publisher": "Microsoft Studios",
+    "release_date": "2009-12-18",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Single Player, Xbox LIVE Multiplayer 2-5, Local Multiplayer 2-4, HD (High Definition). Game is in English only. Buy Ticket to Ride™ today for even more fun!  Earn points as you claim your tracks and complete your Tickets from coast to coast.  Play with up to 5 people on Xbox LIVE or 4 people on the same Xbox 360.  Multiple levels of AI players will keep the challenges coming.  Compare your best scores with your friends on the Leaderboards and earn Achievements to prove you are the best around! This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Ticket to Ride™ is the award winning board game that is easy to learn and fun for all ages!  Earn points as you claim your tracks and complete your Tickets, all the while trying to complete the longest route.  Play with up to 5 people on Xbox Live or 4 people on the same Xbox 360 as you lay track from coast to coast and all stops in-between."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108ec/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108ec/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108ec/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108ec/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108ec/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108ec/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108ec/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108ec/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108ec/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108ec/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108ec/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108ec/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "54518894",
+    "title": {
+        "full": "YOU DONT KNOW JACK demo",
+        "reduced": "YOU DONT KNOW JACK demo"
+    },
+    "genre": [
+        "Other",
+        "Puzzle & Trivia"
+    ],
+    "developer": "Jellyvision Inc.",
+    "publisher": "THQ Inc.",
+    "release_date": "2011-03-16",
+    "user_rating": "3.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) YOU DON’T KNOW JACK – the trivia game your mother warned you about – would like invite you to have your pants pulled over your brain (a.k.a. “a head wedgie”). Play alone or with friends (if you have any) and match wits with your cantankerous host, Cookie Masterson. Covering everything from pop music to the pope, it’s YOU DON’T KNOW JACK – the game where high culture and pop culture collide! ",
+        "short": "(Online Interactions Not Rated by the ESRB) YOU DON’T KNOW JACK is the irreverent trivia party game where you get to prove just how dumb you aren’t! And win fake money! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518894/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518894/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518894/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518894/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "54510869",
+                "title": "YOU DON’T KNOW JACK®"
+            }
+        ],
+        "related": []
+    }
+}

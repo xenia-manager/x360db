@@ -1,0 +1,59 @@
+{
+    "id": "424107D2",
+    "title": {
+        "full": "Culdcept SAGA",
+        "reduced": "Culdcept SAGA"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "大宮ソフト",
+    "publisher": "Bandai",
+    "release_date": "2008-01-01",
+    "user_rating": "4.75",
+    "description": {
+        "full": "カードを巡る少年と少女の物語",
+        "short": "カードを巡る少年と少女の物語"
+    },
+    "media": [
+        {
+            "media_id": "7547DF5C",
+            "title": "Culdcept Saga",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "79383A0A",
+            "title": "Culdcept Saga",
+            "edition": "Title Update-ban",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d2/15369/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d2/15369/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d2/15369/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d2/15369/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "424107DD",
+                "title": "Culdcept SAGA"
+            }
+        ],
+        "related": []
+    }
+}

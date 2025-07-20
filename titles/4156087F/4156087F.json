@@ -1,0 +1,37 @@
+{
+    "id": "4156087F",
+    "title": {
+        "full": "DJ Hero 2",
+        "reduced": "DJ Hero 2"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "FreeStyleGames",
+    "publisher": "Activision",
+    "release_date": "2010-08-12",
+    "user_rating": "4.25",
+    "description": {
+        "full": "To all the people who love to get down, DJ Hero® 2 is the ultimate party gaming experience. The introduction of Freestyle gameplay gives you the power to shape the soundtrack to your life, on over 75 unique mixes, flowing seamlessly between Hip-Hop, Electronica, Pop, Dance and more. Play solo, in Empire Mode® or take this show on the road with online and offline DJ battle modes and group-friendly Party Play. DJ Hero® 2 will take you to the heart of the party... You can even bring along a guest vocalist or MC!",
+        "short": "To all the people who love to get down, DJ Hero® 2 is the ultimate party gaming experience."
+    },
+    "media": [
+        {
+            "media_id": "0B152F70",
+            "title": "DJ Hero 2",
+            "edition": "Bundled with Turntable Controller",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156087f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156087f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156087f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156087f/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

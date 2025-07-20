@@ -1,0 +1,35 @@
+{
+    "id": "5855054F",
+    "title": {
+        "full": "Block Smash",
+        "reduced": "Block Smash"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Mouse88",
+    "publisher": "Mouse88",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Block Smash is a challenging block puzzler. The idea of the game is to get three blocks of the same color in a horizontal or vertical row in order to remove them from the grid. For each level you are given a certain amount of blocks to use in order to complete the level.",
+        "short": "Block Smash is a challenging block puzzler. The idea of the game is to get three blocks of the same color in a horizontal or vertical row in order to remove them from the grid. For each level you are given a certain amount of blocks to use in order to complete the level."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855054f00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855054F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855054f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855054F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855054F_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855054F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855054F_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

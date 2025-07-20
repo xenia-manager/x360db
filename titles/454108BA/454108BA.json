@@ -1,0 +1,64 @@
+{
+    "id": "454108BA",
+    "title": {
+        "full": "NHL 10",
+        "reduced": "NHL 10"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts Canada",
+    "publisher": "Electronic Arts",
+    "release_date": "2009-08-02",
+    "user_rating": "4.25",
+    "description": {
+        "full": "EA SPORTS™ welcomes you to NHL® 10 and the franchise that has redefined sports video game excellence. On the heels of capturing 12 Sports Game of the Year awards with NHL 09, NHL 10 builds off of its  ‘Best in Class’ momentum by delivering an enhanced gameplay experience that features more innovation, polished fundamentals, and deeper game modes. Utilizing a new board physics engine, use your body to shield the puck on the boards, then kick-pass it to teammates as winning one-on-one battles for possession along the boards becomes a test of will. An all-new first-person fighting engine enables you to trade punches and grab an opponent’s jersey to land a punch that sparks your team to victory. With more than 200 gameplay refinements that replicate the skill, power, strength, and finesse of authentic NHL action, plus a new Battle for the Cup mode, an evolved GM Mode, and improved Be a Pro and EASHL modes, your chance to prove you’re tough enough begins now.",
+        "short": "EA SPORTS™ welcomes you to NHL® 10 and the franchise that has redefined sports video game excellence. On the heels of capturing 12 Sports Game of the Year awards with NHL 09, NHL 10 builds off of its  ‘Best in Class’ momentum by delivering an enhanced gameplay experience that features more innovation, polished fundamentals, and deeper game modes. Utilizing a new board physics engine, use your body to shield the puck on the boards, then kick-pass it to teammates as winning one-on-one battles for…"
+    },
+    "media": [
+        {
+            "media_id": "300A1040",
+            "title": "NHL 10",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "20D374A2",
+            "title": "NHL 10",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ba/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

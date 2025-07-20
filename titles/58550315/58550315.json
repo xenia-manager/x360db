@@ -1,0 +1,35 @@
+{
+    "id": "58550315",
+    "title": {
+        "full": "Rail Gun Charlie",
+        "reduced": "Rail Gun Charlie"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Duckocide",
+    "publisher": "Duckocide",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Charles \"Charlie\" Chatsworth gets his next assignment. Across the Milky Way, Terra-form \"Pods\" are being deployed on planets capable of supporting the Empire. None have resisted the Empires advances more so than the Noxin. Only Charlie can save the day. Using his legendary Rail Gun, Charlie must move from planet to planet defending precious Pods from the Noxin advances.",
+        "short": "Charles \"Charlie\" Chatsworth gets his next assignment. Across the Milky Way, Terra-form \"Pods\" are being deployed on planets capable of supporting the Empire. None have resisted the Empires advances more so than the Noxin. Only Charlie can save the day. Using his legendary Rail Gun, Charlie must move from planet to planet defending precious Pods from the Noxin advances."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550315/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550315_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550315/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550315_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550315_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550315_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550315_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

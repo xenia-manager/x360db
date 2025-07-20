@@ -1,0 +1,43 @@
+{
+    "id": "545408B0",
+    "title": {
+        "full": "NBA 2K14",
+        "reduced": "NBA 2K14"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Visual Concepts",
+    "publisher": "2K",
+    "release_date": "2013-10-01",
+    "user_rating": "4.75",
+    "description": {
+        "full": "NOTE: All multiplayer servers for NBA 2K14 will be shutdown as of 12/31/2015. After that time, all game functions requiring online servers will no longer function.  The Games on Demand version supports English, French, Italian, German, Spanish, Japanese, Chinese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  NBA 2K13 was a monstrous release for the world's #1 NBA video game franchise, with more than 38 Sports Game of the Year and \"Best Of\" mentions. NBA 2K14 will raise the bar yet again, providing the best basketball gaming experience for legions of sports fans and gamers around the world.",
+        "short": "NBA 2K13 was a monstrous release for the world's #1 NBA video game franchise, with more than 38 Sports Game of the Year and \"Best Of\" mentions. NBA 2K14 will raise the bar yet again, providing the best basketball gaming experience for legions of sports fans and gamers around the world."
+    },
+    "media": [
+        {
+            "media_id": "464DB37D",
+            "title": "NBA 2K14",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b0/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/545408b0/NBA2K14_US_English.pdf"
+        ]
+    }
+}

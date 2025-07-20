@@ -1,0 +1,44 @@
+{
+    "id": "4C5307E7",
+    "title": {
+        "full": "Lets Dance with Mel B",
+        "reduced": "Lets Dance with Mel B"
+    },
+    "genre": [
+        "Kinect",
+        "Music"
+    ],
+    "developer": "Lightning Fish Games",
+    "publisher": "Black Bean Games",
+    "release_date": "2011-06-17",
+    "user_rating": null,
+    "description": {
+        "full": "Are you ready to dance along with Mel B in “Let’s Dance With Mel B”? Wrap yourself up in the rich sound track: move your body to the rhythm and have fun with all the different choreographies available in the game. Let's Dance with Mel B is the only party game where you dance on the TV: it’s just like being on a talent show! Choose from a wide variety of dance styles: pop, club, ‘80s disco, Latin, urban, not forgetting the classic party tracks. ",
+        "short": "It’s time for dancing like never before! Experience what it feels like to be inside a real tv talent show with professional dancers and Mel B, dancing to the best soundtrack ever."
+    },
+    "media": [
+        {
+            "media_id": "3A95A410",
+            "title": "Let's Dance with Mel B",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307e7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307e7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307e7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307e7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307e7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307e7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307e7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307e7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307e7/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

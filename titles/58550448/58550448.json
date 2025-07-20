@@ -1,0 +1,35 @@
+{
+    "id": "58550448",
+    "title": {
+        "full": "Star Cross",
+        "reduced": "Star Cross"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "AngelofOsmond",
+    "publisher": "AngelofOsmond",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=2/3, Mature Content=2/3. In Star Cross, a SciFi-Fantasy RPG, follow the story of Riel Gevant and others in an adventure that spans several worlds, each with their own unique feel.  Estimated Gameplay:  8+ hours.",
+        "short": "In Star Cross, a SciFi-Fantasy RPG, follow the story of Riel Gevant and others in an adventure that spans several worlds, each with their own unique feel.  Estimated Gameplay:  8+ hours."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550448/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550448_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550448/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550448_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550448_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550448_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550448_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

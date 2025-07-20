@@ -1,0 +1,42 @@
+{
+    "id": "415407D1",
+    "title": {
+        "full": "Zoids Assault",
+        "reduced": "Zoids Assault"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "SEM&O Co., Ltd.",
+    "publisher": "ATLUS INC.",
+    "release_date": "2008-01-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Welcome to Zoids Assault! An acclaimed series of toys, games, books, and shows in Japan, the Zoids universe delivers its first ever Xbox 360 installment. Pilot powerful vehicles on the front lines, maneuver your way through intense tactical missions, and whatever you do, don't go down without a fight!More realistic and challenging than any previous game in the series, discover why Zoids Assault is the new breed of tactical gaming.",
+        "short": "Welcome to Zoids Assault! An acclaimed series of toys, games, books, and shows in Japan, the Zoids universe delivers its first ever Xbox 360 installment. Pilot powerful vehicles on the front lines, maneuver your way through intense tactical missions, and whatever you do, don't go down without a fight!More realistic and challenging than any previous game in the series, discover why Zoids Assault is the new breed of tactical gaming."
+    },
+    "media": [
+        {
+            "media_id": "1F0A5737",
+            "title": "Zoids Assault",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d1/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

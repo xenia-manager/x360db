@@ -1,0 +1,35 @@
+{
+    "id": "58550C10",
+    "title": {
+        "full": "Avatar Snowboarding",
+        "reduced": "Avatar Snowboarding"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Squimball Studios",
+    "publisher": "Squimball Studios",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Hit the slopes with your avatar.  Enjoy breathtaking 3D HDR scenery, awesome 3D physics, hundreds of millions of levels, and more!  Snowboard alone or with a friend split-screen style.  You have but one goal - make it to the bottom of the mountain.  Oh, and don't worry about calling for a pick-up.  You are equipped with an infinite rocket booster should you need a push.  Use with caution!!",
+        "short": "Hit the slopes with your avatar.  Enjoy breathtaking 3D HDR scenery, awesome 3D physics, hundreds of millions of levels, and more!  Snowboard alone or with a friend split-screen style.  You have but one goal - make it to the bottom of the mountain.  Oh, and don't worry about calling for a pick-up.  You are equipped with an infinite rocket booster should you need a push.  Use with caution!!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550c1000000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C10_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c10/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C10_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C10_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C10_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C10_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": "555308C1",
+    "title": {
+        "full": "Just Dance 2014",
+        "reduced": "Just Dance 2014"
+    },
+    "genre": [
+        "Kinect",
+        "Music"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2013-09-25",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese.  The party is back! Just Dance 2014 – the sequel to Just Dance 4, the world’s #1 selling dance game – is bringing all new moves with breakthrough features for every motion control platform and over 40 of the hottest tracks and dances.  The hottest songs & dance moves! With Just Dance 2014’s fresh list of hot tracks, you control the party! Get friends and family moving with Pitbull ft. Christina Aguilera’s “Feel This Moment,” Psy’s “Gentleman,” or One Direction’s “Kiss You.” Celebrate the throwbacks with legendary songs like Gloria Gaynor’s “I Will Survive,” or bust out the best Slimer to Ray Parker Jr.’s “Ghostbusters.”   New modes & features to start any party! Just Dance 2014 takes the fun to another level this year with all new ways to create the best party ever! Own the spotlight and lead back-up dancers with the new On Stage Mode, dance with anyone anywhere in the world with World Dance Floor, work out to customized Just Sweat experiences on any song– and much more!  Bring home the ultimate party starter and join in the fun!",
+        "short": "The party is back! Just Dance 2014 – the sequel to Just Dance 4, the world’s #1 selling dance game – is bringing all new moves with breakthrough features for every motion control platform and over 40 of the hottest tracks! Dance to current pop hits or celebrate with legendary classics – then take the fun to another level by playing with anyone anywhere in the world, leading back-up dancers, or creating customized Just Sweat experiences. Bring home the ultimate party starter and join in the fun! "
+    },
+    "media": [
+        {
+            "media_id": "48EA5389",
+            "title": "Just Dance 2014",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "7797A30A",
+            "title": "Just Dance 2014",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c1/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

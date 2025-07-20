@@ -1,0 +1,33 @@
+{
+    "id": "484907E7",
+    "title": {
+        "full": "XCOM 2",
+        "reduced": "XCOM 2"
+    },
+    "genre": [
+        "Independent & Music Videos",
+        "Music and Short Videos",
+        "Xbox 360 Exclusives",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "Xbox Live",
+    "publisher": "Xbox Live",
+    "release_date": "2016-06-09",
+    "user_rating": null,
+    "description": {
+        "full": "XCOM 2 ",
+        "short": "XCOM 2 "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484907e7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484907e7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484907e7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484907e7/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

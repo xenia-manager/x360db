@@ -1,0 +1,46 @@
+{
+    "id": "484507D9",
+    "title": {
+        "full": "Rugby League Live 2 - World Cup Edition",
+        "reduced": "Rugby League Live 2 - World Cup Edition"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Big Ant Studios",
+    "publisher": "Home Entertainment Suppliers Pty Ltd",
+    "release_date": "2013-11-14",
+    "user_rating": null,
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Norwegian, Polish, Portuguese,  Slovak, Swedish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Feel the emotion and passion as you lead your nation to glory at the 2013 World Cup in Rugby League Live 2 – World Cup Edition. All the fun and excitement of Rugby League Live 2, now featuring all new content to give you the Rugby League World Cup experience like never before.     •World Cup Competition: Compete as one of 14 teams from qualification right through to a virtual reproduction of the Rugby League World Cup 2013 Grand Final. Play in 16 of the official World Cup stadiums.  •Expanded 25 year 2013 Career Mode featuring World Cup fixtures: Compete as your national team at World Cup matches, sign sponsors, hire top flight coaching staff, negotiate player contracts and set player training programs & intensity to build the ultimate team.  •7 New World Cup stadia in addition to 34 High Detail Stadia from Australia, New Zealand and the UK.   •11 New National teams in addition to over 100 Leagues & Teams from NRL, Super League, Cooperative Championships, NSW & QLD cups, Holden Cup, Rep teams, Australian, England and New Zealand Internationals.  •2013 updates to NRL, Super League, Holden Cup, State of Origin, England v Exiles, All Stars, City v Country, World Club Challenge and International team rosters, kits including new heritage kits, logos, balls, venues and fixtures.  •Double-Barrelled Experts: Updated World Cup commentary from Andrew Voss and Phil ‘Gus’ Gould. ",
+        "short": "Feel the emotion and passion as you lead your nation to glory at the 2013 World Cup in Rugby League Live 2 – World Cup Edition. All the fun and excitement of Rugby League Live 2 but now featuring all new content to give you the Rugby League World Cup experience like never before.    Including a new World Cup Competition, expanded 25-year 2013 Career Mode with official World Cup stadia and National teams. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d9/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484507d9/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "484507D5",
+                "title": "Rugby League Live 2"
+            }
+        ],
+        "related": [
+            "http://download.xbox.com/content/484507d9/RLL2%20WCE%20XBOX%20ANZ%20Manual.pdf"
+        ]
+    }
+}

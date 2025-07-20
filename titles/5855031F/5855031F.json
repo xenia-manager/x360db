@@ -1,0 +1,35 @@
+{
+    "id": "5855031F",
+    "title": {
+        "full": "Slingstar",
+        "reduced": "Slingstar"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Ork Priestess Games",
+    "publisher": "Ork Priestess Games",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Use momentum to sling your wingmen through 60 exciting levels. Dozens of unique enemies with interesting AI leave you wondering what will come next. Play solo or co-op in this compelling new take on the space game genre.",
+        "short": "Use momentum to sling your wingmen through 60 exciting levels. Dozens of unique enemies with interesting AI leave you wondering what will come next. Play solo or co-op in this compelling new take on the space game genre."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855031f00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855031F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855031f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855031F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855031F_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855031F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855031F_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "id": "45410828",
+    "title": {
+        "full": "Mercenaries 2",
+        "reduced": "Mercenaries 2"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "PANDEMIC STUDIOS",
+    "publisher": "ELECTRONIC ARTS",
+    "release_date": "2010-06-16",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) This game supports English and French. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Mercs 2 is a next-gen playground of destruction in South America. Build your Private Military Corporation to hunt down a dangerous terrorist, as an escalating global conflict flares up and threatens the entire region. We're going for a unique, living world that is a blend of civilian and military. Then we let you explore it from the peak of the highest mountain to the deepest-darkest jungles, using an incredible arsenal of all the coolest military and civilian vehicles and tech. Finally, we add co-op giving players something they've been craving for years - multiplayer in the free-roaming genre. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Mercs 2 is a next-gen playground of destruction in South America. Build your Private Military Corporation to hunt down a dangerous terrorist, as an escalating global conflict flares up and threatens the entire region. We're going for a unique, living world that is a blend of civilian and military. Then we let you explore it from the peak of the highest mountain to the deepest-darkest jungles, using an incredible arsenal of all the coolest military and civilian vehicles and tech. Finally, we add…"
+    },
+    "media": [
+        {
+            "media_id": "5F9B64F0",
+            "title": "Mercenaries 2: World in Flames",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "3A1F039E",
+            "title": "Mercenaries 2: World in Flames",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "74EDD6F0",
+            "title": "Mercenaries 2: World in Flames",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "4C293F6E",
+            "title": "Mercenaries 2: World in Flames",
+            "edition": "Original",
+            "region": "Germany"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410828/7177/screenlg19.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": "54540829",
+    "title": {
+        "full": "NBA 2K9",
+        "reduced": "NBA 2K9"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Visual Concepts Entertainment",
+    "publisher": "2K Sports",
+    "release_date": "2008-10-07",
+    "user_rating": "4.25",
+    "description": {
+        "full": " NOTE: ONLINE MULTIPLAYER SUPPORT FOR THIS TITLE WAS TERMINATED ON 12/31/2009.  ONLINE/MULTIPLAYER FEATURES ARE NOT ACTIVE OR INCLUDED. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  The undisputed NBA franchise is back for its 10th season. Last year NBA 2K8 was the top selling basketball game on Xbox 360, and the NBA 2K series has been the #1 rated NBA simulation for six years running across all platforms. NBA 2K9 is for gamers and basketball fans everywhere who want to play the most fun, stylistic, and feature-rich NBA simulation on the market. With wholesale improvement across the board – from gameplay to graphics, presentation and online features - NBA 2K9 is the complete package and is poised to remain the category leader in next-gen sports gaming.",
+        "short": "The undisputed NBA franchise is back for its 10th season. Last year NBA 2K8 was the top selling basketball game on Xbox 360, and the NBA 2K series has been the #1 rated NBA simulation for six years running across all platforms. NBA 2K9 is for gamers and basketball fans everywhere who want to play the most fun, stylistic, and feature-rich NBA simulation on the market. "
+    },
+    "media": [
+        {
+            "media_id": "16475785",
+            "title": "NBA 2K9",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540829/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540829/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540829/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540829/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540829/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540829/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540829/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540829/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/54540829/dfe56e36-ac38-400d-89b9-32cee5bea35e.PDF"
+        ]
+    }
+}

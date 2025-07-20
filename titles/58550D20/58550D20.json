@@ -1,0 +1,35 @@
+{
+    "id": "58550D20",
+    "title": {
+        "full": "Bug Zapper",
+        "reduced": "Bug Zapper"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "skelman",
+    "publisher": "skelman",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Go big or buzz home! Bug Zapper is the adventure of Skeeter, the mosquito, as he defends his fellow bugs from the unstoppable lure of the Bug Zapper. Punch and throw Bugs to their safety with up to 4 local players! Upgrade your Bug with special abilities, speed and strength to stop every bug from getting Zapped!",
+        "short": "Go big or buzz home! Bug Zapper is the adventure of Skeeter, the mosquito, as he defends his fellow bugs from the unstoppable lure of the Bug Zapper. Punch and throw Bugs to their safety with up to 4 local players! Upgrade your Bug with special abilities, speed and strength to stop every bug from getting Zapped!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550d2000000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D20_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d20/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D20_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D20_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D20_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D20_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "585506D0",
+    "title": {
+        "full": "The TEMPURA of the DEAD",
+        "reduced": "The TEMPURA of the DEAD"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "8bits fanatics",
+    "publisher": "8bits fanatics",
+    "release_date": null,
+    "user_rating": "4.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. The TEMPURA of the DEAD is a simple & exhilarating 8bit style 2D platformer & shooter. Switch between two unique characters -PRESIDENT TOMPSON and SAMURAI SUGIMOTO- and beat the zombies. Juggle the zombie's head to increase the extra life! You must find all GERMS of Calamity, and exterminate them to restore peace.",
+        "short": "The TEMPURA of the DEAD is a simple & exhilarating 8bit style 2D platformer & shooter. Switch between two unique characters -PRESIDENT TOMPSON and SAMURAI SUGIMOTO- and beat the zombies. Juggle the zombie's head to increase the extra life! You must find all GERMS of Calamity, and exterminate them to restore peace."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585506d000000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506D0_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506d0/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506D0_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506D0_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506D0_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506D0_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "id": "4E4D0803",
+    "title": {
+        "full": "DB Raging Blast",
+        "reduced": "DB Raging Blast"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Spike Co., Ltd.",
+    "publisher": "BANDAI NAMCO Entertainment Inc.",
+    "release_date": "2009-10-11",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The long-awaited ultimate 3D fighting game, \"Dragon Ball: Raging Blast\" has arrived! Feel exhilarated as you fly at amazing speeds, ravaging the extremely large and detailed fields as you battle! Each of the more than 70 characters has unique signature skills and Super Attacks which enable you to enjoy strategic battles! Also, using the Ultimate Customization feature, you can equip items and favorite Super Attacks to raise your skills and create your very own ultimate fighter. With Xbox LIVE, you can battle with people from around the world and enjoy earning the rankings and titles! Offline, you can reenact many famous Dragon Ball moments and battles! Experience this breathtaking fighting action that will even make Dragon Ball fans scream!!",
+        "short": "The long-awaited ultimate 3D fighting game, \"Dragon Ball: Raging Blast\" has arrived! Feel exhilarated as you fly at amazing speeds, ravaging the extremely large and detailed fields as you battle! Each of the more than 70 characters has unique signature skills and Super Attacks which enable you to enjoy strategic battles! Also, using the Ultimate Customization feature, you can equip items and favorite Super Attacks to raise your skills and create your very own ultimate fighter. With Xbox LIVE,…"
+    },
+    "media": [
+        {
+            "media_id": "021B7AFA",
+            "title": "Dragon Ball: Raging Blast",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "472B0BF2",
+            "title": "Dragon Ball: Raging Blast",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "27BD6978",
+            "title": "Dragon Ball: Raging Blast",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/7177/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/7177/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/7177/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/7177/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/7177/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/7177/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/7177/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/7177/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0803/7177/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550450",
+    "title": {
+        "full": "Asteroid Capture",
+        "reduced": "Asteroid Capture"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "DevOur Games",
+    "publisher": "DevOur Games",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Asteroid Capture is a multiplayer game where up to 4 players race to collect the most asteroids by any means necessary. Use your laser weapon or just bash into your opponents. You can also play alone and try to beat your own highscore.",
+        "short": "Asteroid Capture is a multiplayer game where up to 4 players race to collect the most asteroids by any means necessary. Use your laser weapon or just bash into your opponents. You can also play alone and try to beat your own highscore."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855045000000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550450_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550450/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550450_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550450_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550450_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550450_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

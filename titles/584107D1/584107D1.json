@@ -1,0 +1,34 @@
+{
+    "id": "584107D1",
+    "title": {
+        "full": "Hexic HD",
+        "reduced": "Hexic HD"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Carbonated Games",
+    "publisher": "Microsoft Studios",
+    "release_date": "2008-01-01",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Single-player, HD (High Definition) Create clusters of same-colored tiles to clear them from the board. Sounds simple, right? The real fun of Hexic is in creating special patterns to earn special pieces. Create a flower to earn a starflower piece. Use starflower pieces to make another flower and earn the elusive black pearl. Make a cluster or flower out of black pearls to win the game. Are you up for the challenge? There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Rotate the hexes to form clusters, starflowers and black pearls! Choose Marathon, Survival or Timed mode."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107d1/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

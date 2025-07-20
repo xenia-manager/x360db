@@ -1,0 +1,35 @@
+{
+    "id": "5855081B",
+    "title": {
+        "full": "Monsters Swimming",
+        "reduced": "Monsters Swimming"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Monster Bite Games",
+    "publisher": "Monster Bite Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. In this twin stick action game you will need to avoid monsters and then smash them to bits with your axe so you can eat them.  Monsters Swimming has 25 levels that become more and more challenging and 5 challenge levels that will test your avoiding, smashing and eating skills.  So prepare to hack and devour.",
+        "short": "In this twin stick action game you will need to avoid monsters and then smash them to bits with your axe so you can eat them.  Monsters Swimming has 25 levels that become more and more challenging and 5 challenge levels that will test your avoiding, smashing and eating skills.  So prepare to hack and devour."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855081b00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855081B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855081b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855081B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855081B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855081B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855081B_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

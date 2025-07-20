@@ -1,0 +1,48 @@
+{
+    "id": "5351081B",
+    "title": {
+        "full": "LIGHTNING RETURNS FINAL FANTASY XIII",
+        "reduced": "LIGHTNING RETURNS FFXIII"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "release_date": "2013-11-21",
+    "user_rating": "4.75",
+    "description": {
+        "full": "Lightning, the star of the FINAL FANTASY XIII series, is poised to face her ultimate challenge. Experience a new game world, a new battle system, and extended customization features. The epic FINAL FANTASY XIII tale is coming to a thrilling finale, but every facet of the game has been revamped to deliver an original gaming experience. The world will end in 13 days. Once again, its fate rests on the shoulders of one woman.",
+        "short": "The world ends in 13 days, and once again its fate rests on Lightning's shoulders. Experience the new, revamped gameplay of the thrilling FFXIII series finale!"
+    },
+    "media": [
+        {
+            "media_id": "4A99274C",
+            "title": "Lightning Returns: Final Fantasy XIII",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "7689DEC1",
+            "title": "Lightning Returns: Final Fantasy XIII",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025351081b/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025351081b/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025351081b/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025351081b/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025351081b/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025351081b/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025351081b/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025351081b/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

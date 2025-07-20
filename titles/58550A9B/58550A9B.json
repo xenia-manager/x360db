@@ -1,0 +1,35 @@
+{
+    "id": "58550A9B",
+    "title": {
+        "full": "Cro-Mag Rally Extreme",
+        "reduced": "Cro-Mag Rally Extreme"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "citizen12 studio",
+    "publisher": "citizen12 studio",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. The Extreme! edition of the popular Kart-racing title brings an all-new UI and tons of multiplayer fun.  Capture-the-Flag, Tag, and vs racing across Xbox LIVE, System Link, or even split screen!  Includes 8 all-new multiplayer battle arenas.  All for a special introductory price of just 80 points!",
+        "short": "The Extreme! edition of the popular Kart-racing title brings an all-new UI and tons of multiplayer fun.  Capture-the-Flag, Tag, and vs racing across Xbox LIVE, System Link, or even split screen!  Includes 8 all-new multiplayer battle arenas.  All for a special introductory price of just 80 points!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550a9b/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A9B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a9b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A9B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A9B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A9B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A9B_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

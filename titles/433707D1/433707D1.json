@@ -1,0 +1,30 @@
+{
+    "id": "433707D1",
+    "title": {
+        "full": "An Awesome 360 Disc Game",
+        "reduced": "An Awesome 360 Disc Game"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "XBL_Test",
+    "publisher": "XBL_Test",
+    "release_date": "2017-12-01",
+    "user_rating": null,
+    "description": {
+        "full": "An Awesome 360 Disc Game",
+        "short": "An Awesome 360 Disc Game"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802433707d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802433707d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802433707d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802433707d1/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

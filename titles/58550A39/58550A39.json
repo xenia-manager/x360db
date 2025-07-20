@@ -1,0 +1,35 @@
+{
+    "id": "58550A39",
+    "title": {
+        "full": "AvatarBall弾き",
+        "reduced": "AvatarBall弾き"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "JinCycle",
+    "publisher": "JinCycle",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. AvatarBall弾きは多人数弾きアクションゲームです。 AvatarBallを操作して、ライバルを弾き100,000点越を目指せー 弾いたあとに衝撃を与えると大量得点ゲット 得点は弾き点＊生き残りポイントなので 生き残ったほうがよいが、逃げてばかりでも点数は伸びないぞ！ 弾きを当てたあとは有利なので壁に追い詰めてハメていこうｗ 製品版はXBOX　Live対戦可能 SE３D音源対応、ドップラー効果有り BGMはカスタムサウンドトラックのみ",
+        "short": "AvatarBall弾きは多人数弾きアクションゲームです。 AvatarBallを操作して、ライバルを弾き100,000点越を目指せー 弾いたあとに衝撃を与えると大量得点ゲット 得点は弾き点＊生き残りポイントなので 生き残ったほうがよいが、逃げてばかりでも点数は伸びないぞ！ 弾きを当てたあとは有利なので壁に追い詰めてハメていこうｗ 製品版はXBOX　Live対戦可能 SE３D音源対応、ドップラー効果有り BGMはカスタムサウンドトラックのみ"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550a39/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A39_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a39/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A39_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A39_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A39_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A39_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

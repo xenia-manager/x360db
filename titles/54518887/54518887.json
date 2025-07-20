@@ -1,0 +1,46 @@
+{
+    "id": "54518887",
+    "title": {
+        "full": "WWE All Stars Demo",
+        "reduced": "WWE All Stars Demo"
+    },
+    "genre": [
+        "Fighting",
+        "Sports & Recreation"
+    ],
+    "developer": "THQ San Deigo",
+    "publisher": "2K Sports",
+    "release_date": "2011-03-22",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The greatest WWE match-ups haven't happened - Until now.  WWE All Stars is packed with high-flying, hard hitting and over the top action featuring 30 WWE historic Legends and current Superstars. Play as Rey Mysterio or the Ultimate Warrior in this action-packed demo. ",
+        "short": "The greatest WWE match-ups haven't happened - Until now.  WWE All Stars is packed with high-flying, hard hitting and over the top action featuring 30 WWE historic Legends and current Superstars. Play as Rey Mysterio or the Ultimate Warrior in this action-packed demo. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518887/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518887/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518887/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518887/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518887/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518887/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518887/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518887/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518887/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518887/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518887/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518887/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518887/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "54510866",
+                "title": "WWE® All Stars™ "
+            }
+        ],
+        "related": []
+    }
+}

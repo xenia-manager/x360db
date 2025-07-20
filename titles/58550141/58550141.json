@@ -1,0 +1,35 @@
+{
+    "id": "58550141",
+    "title": {
+        "full": "Sea Blast",
+        "reduced": "Sea Blast"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "SeaBlast",
+    "publisher": "SeaBlast",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Sea Blast is a fun, fast paced submarine action game. Play the game alone or with up to four players! Your job as a submarine commander is to shoot your opponents before they shoot you. Each of the three available submarines has three powerful weapon systems. Use them all to beat your enemies! Watch out for the under water currents! Try to use them to your advantage.",
+        "short": "Sea Blast is a fun, fast paced submarine action game. Play the game alone or with up to four players! Your job as a submarine commander is to shoot your opponents before they shoot you. Each of the three available submarines has three powerful weapon systems. Use them all to beat your enemies! Watch out for the under water currents! Try to use them to your advantage."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550141/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550141_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550141/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550141_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550141_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550141_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550141_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

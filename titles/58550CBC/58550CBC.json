@@ -1,0 +1,35 @@
+{
+    "id": "58550CBC",
+    "title": {
+        "full": "Galactic Fortress",
+        "reduced": "Galactic Fortress"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "sharknice",
+    "publisher": "sharknice",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=3/3. The ultimate game of skill and teamwork! Pick from five different classes with unique abilities that suite your playing style. Don't just fire and forget.  Take complete control of your weapons.  Fire rockets and guide them around corners, zoom in for head shots with snipers, and hurl grenades over walls! Play cooperatively or competitively against bots in team deathmatch and capture the flag!",
+        "short": "The ultimate game of skill and teamwork! Pick from five different classes with unique abilities that suite your playing style. Don't just fire and forget.  Take complete control of your weapons.  Fire rockets and guide them around corners, zoom in for head shots with snipers, and hurl grenades over walls! Play cooperatively or competitively against bots in team deathmatch and capture the flag!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550cbc00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CBC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550cbc/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CBC_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CBC_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CBC_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CBC_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

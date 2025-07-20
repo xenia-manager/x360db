@@ -1,0 +1,59 @@
+{
+    "id": "545407E6",
+    "title": {
+        "full": "Mafia II",
+        "reduced": "Mafia II"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "2K Czech",
+    "publisher": "2K Games",
+    "release_date": "2010-08-24",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, & Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Mafia II is a beautifully crafted look into the dark and unforgiving world of the Mafia. Hi-octane gunplay, brutal fighting and white-knuckle driving bust onto the screen as a Hollywood-style cinematic experience. It is the intriguing story of Vito Scaletta, who along with his childhood friend, Joe, will descend into the world of organized crime. Together, they will work to prove themselves to the Mafia as they try to make their names on the streets. Starting with low-level jobs like robbery and stealing cars, Vito and Joe escalate quickly up the Mafia family ladder…but the life as a wise guy isn’t quite as glamorous as it seems.",
+        "short": "Mafia II is a beautifully crafted look into the dark and unforgiving world of the Mafia. Hi-octane gunplay, brutal fighting and white-knuckle driving bust onto the screen as a Hollywood-style cinematic experience."
+    },
+    "media": [
+        {
+            "media_id": "32DFB07A",
+            "title": "Mafia II",
+            "edition": "Original, Platinum Hits, 2K Rogues and Outlaws Collection, 2K Power Pack",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "3B0818A1",
+            "title": "Mafia II",
+            "edition": "Original, Classics",
+            "region": "Europe, Australia"
+        },
+        {
+            "media_id": "03DFE3C7",
+            "title": "Mafia II",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407e6/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/545407e6/eea2ebac-09bd-4289-8396-9fd256866f3b.PDF"
+        ]
+    }
+}

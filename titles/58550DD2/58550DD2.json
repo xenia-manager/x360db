@@ -1,0 +1,35 @@
+{
+    "id": "58550DD2",
+    "title": {
+        "full": "Explodimals 3D",
+        "reduced": "Explodimals 3D"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "moonkeh",
+    "publisher": "moonkeh",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. EXPLODIMALS is a fast-paced physics-puzzle-platformer. Play as a bouncy, rolling animal head that shoots bombs from its mouth and loves cake!  Roll a giant chicken down a hill, blast pandas out of a circus cannon, bounce along a carpet of monkeys: it may not make sense, but it has 100 levels, destructible environments, customizable characters, unlockable hats, and a 3DTV mode!",
+        "short": "EXPLODIMALS is a fast-paced physics-puzzle-platformer. Play as a bouncy, rolling animal head that shoots bombs from its mouth and loves cake!  Roll a giant chicken down a hill, blast pandas out of a circus cannon, bounce along a carpet of monkeys: it may not make sense, but it has 100 levels, destructible environments, customizable characters, unlockable hats, and a 3DTV mode!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550dd200000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550DD2_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550dd2/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550DD2_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DD2_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DD2_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DD2_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

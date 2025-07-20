@@ -1,0 +1,40 @@
+{
+    "id": "4D5309C5",
+    "title": {
+        "full": "Xbox 360 Triple Pack",
+        "reduced": "Triple Pack"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer",
+        "Racing & Flying",
+        "Sports & Recreation"
+    ],
+    "developer": "Microsoft Game Studios",
+    "publisher": "Microsoft Game Studios",
+    "release_date": "2011-04-15",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Three critically acclaimed hits are now together on one disc!  Experience what fans from around the world have been talking about as you defy gravity in the big air thrills of Trials HD, solve the mysterious world of LIMBO, and become an uncontainable force in 'Splosion Man.",
+        "short": "Three critically acclaimed hits are now together on one disc! "
+    },
+    "media": [
+        {
+            "media_id": "03CF5F42",
+            "title": "Triple Pack",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5309c5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5309c5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5309c5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5309c5/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

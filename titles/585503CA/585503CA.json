@@ -1,0 +1,35 @@
+{
+    "id": "585503CA",
+    "title": {
+        "full": "Adventures Of Sid XMAS Special",
+        "reduced": "Adventures Of Sid XMAS Special"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "CoderSystems",
+    "publisher": "CoderSystems",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Go treasure hunting with Sid the Tomato! Explore Special Xmas Bonus levels in this retro-styled 2D platforming blast from the past!! Use Sids flamethrower and cluster bombs to take out the crazed wildlife and open new paths with TNT!",
+        "short": "Go treasure hunting with Sid the Tomato! Explore Special Xmas Bonus levels in this retro-styled 2D platforming blast from the past!! Use Sids flamethrower and cluster bombs to take out the crazed wildlife and open new paths with TNT!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585503ca/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585503CA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585503ca/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585503CA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503CA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503CA_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503CA_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "id": "425607D3",
+    "title": {
+        "full": "Turok",
+        "reduced": "Turok"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Propaganda Games",
+    "publisher": "Touchstone",
+    "release_date": "2008-01-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Turok is an epic, story-driven first-person shooter set on a dark, mysterious planet in the future. Players take on the role of Joseph Turok, a former black ops commando, now part of an elite special forces squad, known as Whiskey Company, which is on a mission to take down a war criminal – Turok’s former mentor, Roland Kane. While Whiskey Company is traveling to the genetically altered planet inhabited by Kane and his soldiers, Whiskey Company’s ship is shot down. Turok must use his elite military training to elude Kane’s well-trained army, known as Mendel-Gruman, and the ravenous, unpredictable dinosaurs, huge insects and other massive creatures that populate the dangerous environment. Turok’s mission? Survive at all costs. © 2008 Touchstone. TUROK TM & © Classic Media, Inc., an Entertainment Rights group company. All rights reserved.",
+        "short": "Turok is an epic, story-driven first-person shooter set on a dark, mysterious planet in the future. Players take on the role of Joseph Turok, a former black ops commando, now part of an elite special forces squad, known as Whiskey Company, which is on a mission to take down a war criminal – Turok’s former mentor, Roland Kane. While Whiskey Company is traveling to the genetically altered planet inhabited by Kane and his soldiers, Whiskey Company’s ship is shot down. Turok must use his elite milit"
+    },
+    "media": [
+        {
+            "media_id": "267EBA56",
+            "title": "Turok",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "0C72EA27",
+            "title": "Turok",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "3926BB9B",
+            "title": "Turok",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/7177/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/7177/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/7177/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/7177/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/7177/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/7177/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/7177/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/7177/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607d3/7177/screenlg16.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

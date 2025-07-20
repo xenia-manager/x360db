@@ -1,0 +1,38 @@
+{
+    "id": "5752080D",
+    "title": {
+        "full": "Happy Feet Two The Videogame",
+        "reduced": "Happy Feet Two The Videogame"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Music"
+    ],
+    "developer": "KMMG Studios",
+    "publisher": "WB Games Inc.",
+    "release_date": "2011-11-08",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Play as Mumble and his best friend Ramon as they dance, slide, and race across Antarctica in a beat-bumping, feet-thumping, move-busting adventure to rescue their penguin nation.",
+        "short": "Play as Mumble and Ramon as they dance, slide, and race across Antarctica in a feet-thumping, move-busting adventure to rescue their penguin nation."
+    },
+    "media": [
+        {
+            "media_id": "4D40443B",
+            "title": "Happy Feet Two",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752080d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752080d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752080d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752080d/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

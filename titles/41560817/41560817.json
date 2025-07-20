@@ -1,0 +1,83 @@
+{
+    "id": "41560817",
+    "title": {
+        "full": "Call of Duty Modern Warfare 2",
+        "reduced": "Modern Warfare 2"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Infinity Ward",
+    "publisher": "Activision",
+    "release_date": "2009-11-10",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English.  Developer Infinity Ward brings you Modern Warfare 2, the long-awaited sequel to the best-selling shooter of all-time, Call of Duty 4: Modern Warfare.  (Online Interactions Not Rated by the ESRB)",
+        "short": "Modern Warfare® 2 from Infinity Ward."
+    },
+    "media": [
+        {
+            "media_id": "4BA1F097",
+            "title": "Call of Duty: Modern Warfare 2",
+            "edition": "Original, Bundled with Xbox 360",
+            "region": "Germany"
+        },
+        {
+            "media_id": "11D15B16",
+            "title": "Call of Duty: Modern Warfare 2",
+            "edition": "Classics",
+            "region": "Spain"
+        },
+        {
+            "media_id": "6F02EF28",
+            "title": "Call of Duty: Modern Warfare 2",
+            "edition": "Original, Classics",
+            "region": "Italy"
+        },
+        {
+            "media_id": "3C598793",
+            "title": "Call of Duty: Modern Warfare 2",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "2C8C0267",
+            "title": "Call of Duty: Modern Warfare 2",
+            "edition": "Original, Call of Duty: Modern Warfare Trilogy",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560817/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

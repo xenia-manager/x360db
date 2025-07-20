@@ -1,0 +1,45 @@
+{
+    "id": "415608BE",
+    "title": {
+        "full": "Cabelas Survival SoK",
+        "reduced": "Cabelas Survival SoK"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Fun Labs",
+    "publisher": "Activision",
+    "release_date": "2011-11-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English, French, Italian, German, Spanish.  Disaster strikes Logan James as his plane crashes into the shadow of Katmai Mountain. His primal instinct to survive will be put to the ultimate test against the toughest of all opponents…nature.  Hunt to avoid starvation, but beware, you are not the only hungry predator.  Face the harsh Alaskan wilderness as you scale insurmountable cliffs and traverse treacherous mountain paths all in an effort to complete a mysterious mission.  The question is… Can you SURVIVE?",
+        "short": "Disaster strikes Logan James as his plane crashes into the shadow of Katmai Mountain. His primal instinct to survive will be put to the ultimate test against the toughest of all opponents…nature.  Hunt to avoid starvation, but beware, you are not the only hungry predator.  Face the harsh Alaskan wilderness as you scale insurmountable cliffs and traverse treacherous mountain paths all in an effort to complete a mysterious mission.  The question is… Can you SURVIVE?"
+    },
+    "media": [
+        {
+            "media_id": "2A6E899B",
+            "title": "Cabela's Survival: Shadows of Katmai",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608be/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608be/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608be/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608be/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608be/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608be/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608be/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608be/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/415608be/CabelasSurvivalSOK_Manual_EN.pdf"
+        ]
+    }
+}

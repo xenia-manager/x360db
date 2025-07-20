@@ -1,0 +1,35 @@
+{
+    "id": "58550CCE",
+    "title": {
+        "full": "Master of the Seven Teas",
+        "reduced": "Master of the Seven Teas"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Gaslight Games",
+    "publisher": "Gaslight Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Epic Maritime Skirmishes on a Teeny, Tiny, Teacup Scale! Captain your miniature pirate ship, sink your enemies and use crazy power-ups including Shark, Squid and Ninjas in a bid to become the Master of the Seven Teas! Play through the single-player campaign, battle your foes in local multi-player through 3 different modes or team up with another captain and take on wave-after-wave in Armada.",
+        "short": "Epic Maritime Skirmishes on a Teeny, Tiny, Teacup Scale! Captain your miniature pirate ship, sink your enemies and use crazy power-ups including Shark, Squid and Ninjas in a bid to become the Master of the Seven Teas! Play through the single-player campaign, battle your foes in local multi-player through 3 different modes or team up with another captain and take on wave-after-wave in Armada."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550cce00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CCE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550cce/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CCE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CCE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CCE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CCE_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "id": "545408A7",
+    "title": {
+        "full": "Grand Theft Auto V",
+        "reduced": "GTA V"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "release_date": "2013-09-17",
+    "user_rating": "5.00",
+    "description": {
+        "full": "Grand Theft Auto Online on Xbox 360 is shutting down on 12/16/21. Xbox 360 Shark Cash Cards will not be sold after 9/15/21. These changes have no impact on access or progress for Grand Theft Auto V Story Mode on Xbox 360. For more info: http://rsg.ms/064ba44  In the sprawling, sun-soaked city of Los Santos, three very different criminals risk everything in a series of daring and dangerous heists that could set them up for life.  This game supports English, French, Italian, German, Spanish, Russian, Brazilian Portuguese, Polish, Korean, Traditional Chinese, and Latin American Spanish. This game requires approximately 16GB of free storage space.  You can download the game to your Xbox 360 Hard Drive or USB 2.0 Flash Drive with a minimum of 15mb/s read speed.  After the initial download from the Xbox LIVE Marketplace, please launch the game to automatically download the remaining game data. The total download size is 16GB and download times will vary depending on internet connection speeds.  Software license terms in game and www.rockstargames.com/eula; online account terms at www.rockstargames.com/socialclub. Non-transferable access to special features such as exclusive, unlockable, downloadable or online content, services, or functions may require single-use serial code, additional fee and/or online account registration (13+). Violation of EULA, Code of Conduct, or other policies may result in restriction or termination of access to game or online account. Access to special features may require internet connection, may not be available to all users, and may, upon 30 days notice, be terminated, modified, or offered under different terms.  Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is strictly prohibited.  ©2008 - 2013 Rockstar Games, Inc. Rockstar Games, Rockstar North, Grand Theft Auto, the GTA Five, the GTA Online and the Rockstar Games R* marks and logos are trademarks and/or registered trademarks of Take-Two Interactive Software, Inc. in the U.S.A. and/or foreign countries. All other marks and trademarks are properties of their respective owners. All rights reserved.  ",
+        "short": "Los Santos: a sprawling metropolis full of self-help gurus, starlets and fading celebrities struggling to stay afloat in an era of economic uncertainty and cheap cable TV. Amidst the turmoil, three very different criminals risk everything in a series of daring and dangerous heists that could set them up for life."
+    },
+    "media": [
+        {
+            "media_id": "0C48794E",
+            "title": "Grand Theft Auto V (Disc 1) (Install)",
+            "edition": "Original",
+            "region": "World"
+        },
+        {
+            "media_id": "7286BD80",
+            "title": "Grand Theft Auto V (Disc 1) (Install)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "79E465C5",
+            "title": "Grand Theft Auto V (Disc 2) (Play)",
+            "edition": "Original",
+            "region": "World"
+        },
+        {
+            "media_id": "1FA16C4A",
+            "title": "Grand Theft Auto V (Disc 2) (Play)",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a7/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a7/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a7/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a7/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a7/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a7/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a7/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408a7/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

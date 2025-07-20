@@ -1,0 +1,35 @@
+{
+    "id": "58550A3A",
+    "title": {
+        "full": "Avatar Climbing",
+        "reduced": "Avatar Climbing"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "AloneSoft",
+    "publisher": "AloneSoft",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. \"Avatar Climbing\" is a multiplayer action platformer that offers a multiplayer Score Attack Mode, single player Time Attack Mode, P2P Time Attack rankings, Course design support, and P2P sharing of courses.",
+        "short": "\"Avatar Climbing\" is a multiplayer action platformer that offers a multiplayer Score Attack Mode, single player Time Attack Mode, P2P Time Attack rankings, Course design support, and P2P sharing of courses."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550a3a00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A3A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a3a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A3A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A3A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A3A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A3A_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

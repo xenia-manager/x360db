@@ -1,0 +1,41 @@
+{
+    "id": "454109DC",
+    "title": {
+        "full": "NHL  15",
+        "reduced": "NHL15"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA SPORTS",
+    "publisher": "Electronic Arts",
+    "release_date": "2014-09-09",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, German, Czech, Finnish, Russian, Swedish.  Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  NHL 15 brings together a generation of EA SPORTS innovation into one complete hockey package.  All-new commentary duo, Mike ‘Doc’ Emrick and Eddie Olczyk call the game in the most jam-packed hockey experience ever.",
+        "short": "NHL 15 brings together a generation of EA SPORTS innovation into one complete hockey package.  All-new commentary duo, Mike ‘Doc’ Emrick and Eddie Olczyk call the game in the most jam-packed hockey experience ever."
+    },
+    "media": [
+        {
+            "media_id": "5F460E79",
+            "title": "NHL 15",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109dc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109dc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109dc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109dc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109dc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109dc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109dc/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "id": "454109AB",
+    "title": {
+        "full": "Army of TWO The Devils Cartel",
+        "reduced": "Army of TWO The Devils Cartel"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Visceral",
+    "publisher": "Electronic Arts",
+    "release_date": "2013-03-01",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Spanish.  Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  The originator of tactical co-op is back! Developed by Visceral Games, the award-winning creators of Dead Space™, Army of TWO™ The Devil’s Cartel delivers an immersive and unique 3rd-person co-op action-shooter that’s built on the new Frostbite 2 engine for maximum destruction. You and your partner must shoot and destroy anything in your path to take down a violent drug cartel that’s taken over Mexico. In gripping partner-based missions, each player must tackle and overcome individual objectives to achieve a common goal. The more effective your teamwork, the greater the reward as the new Overkill mode gives you devastating power for truly epic mass destruction! Experience this explosive action-blockbuster campaign in two-player local split-screen or online co-op!",
+        "short": "The originator of tactical co-op is back with Army of TWO™ The Devil’s Cartel! Visceral Games delivers an immersive and gritty action-shooter that pits two players against a dangerous Mexican drug cartel. Built on the new Frostbite 2 engine, Overkill mode offers the devastating power needed to unleash epic mass destruction. Experience the campaign in two-player local split-screen or online co-op! "
+    },
+    "media": [
+        {
+            "media_id": "707D13FE",
+            "title": "Army of Two: The Devil's Cartel",
+            "edition": "Overkill Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "3065F61A",
+            "title": "Army of Two: The Devil's Cartel",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "60F8EF51",
+            "title": "Army of Two: The Devil's Cartel",
+            "edition": "Original, Overkill Edition",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "064F997B",
+            "title": "Army of Two: The Devil's Cartel",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

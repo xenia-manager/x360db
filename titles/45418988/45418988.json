@@ -1,0 +1,35 @@
+{
+    "id": "45418988",
+    "title": {
+        "full": "SSX Demo",
+        "reduced": "SSX Demo"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts",
+    "publisher": "EA SPORTS",
+    "release_date": "2012-02-21",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Defy reality and own the planet by jumping into the boots of the classic SSX character Zoe Payne to complete a tutorial run in the Rockies, then experience reality-defying gameplay through Race it, and Trick it events.  In this online enabled demo, compete against your friends on your own schedule by uploading ghosts of your best runs to the SSX servers in Explore mode.  Feeling lonely on the mountain?  Don’t forget to send the demo invite to a friend to unlock SSX trickster Mac Fraser!  SSX is in stores February 28th, 2012 in NA and March 2nd in EU.  Pre-Order your copy today.",
+        "short": "Defy reality and own the planet by jumping into the boots of SSX veterans Zoe and Mac and experience reality-defying gameplay through Race it and Trick it events.  In this online enabled demo compete with your friends on your own schedule by uploading ghosts of your best runs to the SSX servers in Explore mode. Pre-Order your copy of SSX today."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418988/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418988/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418988/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418988/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4541096D",
+                "title": "SSX"
+            }
+        ],
+        "related": []
+    }
+}

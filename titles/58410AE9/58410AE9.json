@@ -1,0 +1,42 @@
+{
+    "id": "58410AE9",
+    "title": {
+        "full": "Happy Wars",
+        "reduced": "Happy Wars"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Other"
+    ],
+    "developer": "Toylogic",
+    "publisher": "Microsoft Studios",
+    "release_date": "2013-08-12",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Happy Wars is a multi-player action game that pits different comic-style characters against each other in over-the-top combat arenas. Taking place in a variety of fantasy battlefields including grasslands, a dark world, and the ocean floor, players can control any of 3 types of characters: warrior, mage, and cleric. ",
+        "short": "Happy Wars is a multi-player action game that pits different comic-style characters against each other in over-the-top combat arenas. Taking place in a variety of fantasy battlefields including grasslands, a dark world, and the ocean floor, players can control any of 3 types of characters: warrior, mage, and cleric. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410ae9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410ae9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410ae9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410ae9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410ae9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410ae9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410ae9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410ae9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410ae9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410ae9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410ae9/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410ae9/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410ae9/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410ae9/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

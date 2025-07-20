@@ -1,0 +1,35 @@
+{
+    "id": "585504FD",
+    "title": {
+        "full": "Zombie Sniper 3D",
+        "reduced": "Zombie Sniper 3D"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Hotshot10101",
+    "publisher": "Hotshot10101",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=1/3. Kill the zombies before they enter the building and eat your brains! Enabled by the Torque X 3D Engine Zombie Sniper 3D provides unparalleled graphics rendering and appearance, with advanced shading and dynamic lighting effects. Zombie Sniper 3D has a unique 4 track music mix that keeps the heart pumping. Zombie Sniper 3D also includes medals that can be earned during game play.",
+        "short": "Kill the zombies before they enter the building and eat your brains! Enabled by the Torque X 3D Engine Zombie Sniper 3D provides unparalleled graphics rendering and appearance, with advanced shading and dynamic lighting effects. Zombie Sniper 3D has a unique 4 track music mix that keeps the heart pumping. Zombie Sniper 3D also includes medals that can be earned during game play."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585504fd00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585504FD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585504fd/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585504FD_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504FD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504FD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504FD_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

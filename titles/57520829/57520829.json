@@ -1,0 +1,49 @@
+{
+    "id": "57520829",
+    "title": {
+        "full": "Injustice Gods Among Us",
+        "reduced": "Injustice Gods Among Us"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "NetherRealm Studios",
+    "publisher": "WB Games, Inc.",
+    "release_date": "2013-04-16",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Portuguese, Russian.  (Online Interactions Not Rated by the ESRB) What if our greatest heroes became our greatest threat?  Injustice: Gods Among Us introduces a bold new franchise to the fighting game genre from NetherRealm Studios, creators of Mortal Kombat.  Featuring DC Comics icons such as Batman, The Joker, Green Lantern, The Flash, Superman and Wonder Woman, the latest title from the award-winning studio presents a deep original story. Heroes and villains will engage in epic battles on a massive scale in a world where the line between good and evil has been blurred. ",
+        "short": "Injustice: Gods Among Us introduces a bold new franchise to the fighting game genre from NetherRealm Studios, creators of Mortal Kombat. "
+    },
+    "media": [
+        {
+            "media_id": "4590F197",
+            "title": "Injustice: Gods Among Us",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "6E8A6609",
+            "title": "Injustice: Gods Among Us: Ultimate Edition",
+            "edition": "Original, Platinum Hits",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

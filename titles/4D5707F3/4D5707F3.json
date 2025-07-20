@@ -1,0 +1,42 @@
+{
+    "id": "4D5707F3",
+    "title": {
+        "full": "Unreal Tournament 3",
+        "reduced": "Unreal Tournament 3"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Epic Games, Inc.",
+    "publisher": "Midway Home Entertainment Inc.",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "Unreal Tournament® 3 unleashes the full power of Unreal® Engine 3, taking graphics, gameplay, and challenge to a whole new level.",
+        "short": "Unreal Tournament® 3 unleashes the full power of Unreal® Engine 3, taking graphics, gameplay, and challenge to a whole new level."
+    },
+    "media": [
+        {
+            "media_id": "3F5A066D",
+            "title": "Unreal Tournament III",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707f3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707f3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707f3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707f3/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D5707DB",
+                "title": "Unreal Tournament III"
+            }
+        ],
+        "related": []
+    }
+}

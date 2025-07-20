@@ -1,0 +1,35 @@
+{
+    "id": "58550C6E",
+    "title": {
+        "full": "Super Santa Slayer",
+        "reduced": "Super Santa Slayer"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Grizzly Studios",
+    "publisher": "Grizzly Studios",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=1/3, Mature Content=1/3. It's an ultimate showdown between Santa and RoboSanta. Defeat the Grunch, Snowman, a other characters as you work your way to face the Ultimate Boss. Battle your friends in 2 player mode to prove who is the true king of Krismas fighting is. Will you make it to the top or will you be Santalitized?  Featuring an all 8 bit soundtrack and vintage style old school graphics.",
+        "short": "It's an ultimate showdown between Santa and RoboSanta. Defeat the Grunch, Snowman, a other characters as you work your way to face the Ultimate Boss. Battle your friends in 2 player mode to prove who is the true king of Krismas fighting is. Will you make it to the top or will you be Santalitized?  Featuring an all 8 bit soundtrack and vintage style old school graphics."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550c6e/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C6E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c6e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C6E_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C6E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C6E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C6E_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

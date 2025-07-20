@@ -1,0 +1,63 @@
+{
+    "id": "545407D8",
+    "title": {
+        "full": "BioShock",
+        "reduced": "BioShock"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "2K Boston, 2K Austraila",
+    "publisher": "2K Games",
+    "release_date": "2010-07-06",
+    "user_rating": "4.50",
+    "description": {
+        "full": "BioShock is the first-person shooter where everything is a weapon. Set in a failed underwater utopia, BioShock gives complete freedom to turn the environment, the enemies, even water and fire into powerful tools against your foes. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "BioShock is the first-person shooter where everything is a weapon. Set in a failed underwater utopia, BioShock gives complete freedom to turn the environment, the enemies, even water and fire into powerful tools against your foes."
+    },
+    "media": [
+        {
+            "media_id": "44E704F7",
+            "title": "BioShock",
+            "edition": "Original, Classics, Platinum Hits, Steelbook, 2K Essentials Collection, BioShock & The Elder Scrolls IV: Oblivion Bundle",
+            "region": "World"
+        },
+        {
+            "media_id": "6F5C8085",
+            "title": "BioShock: Ultimate Rapture Edition (BioShock: Bonus Content)",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407d8/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

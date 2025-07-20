@@ -1,0 +1,42 @@
+{
+    "id": "315A07D2",
+    "title": {
+        "full": "WWE 2K16",
+        "reduced": "WWE 2K16"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Sports & Recreation"
+    ],
+    "developer": "Yuke's Games",
+    "publisher": "2K",
+    "release_date": "2015-10-27",
+    "user_rating": "4.75",
+    "description": {
+        "full": "NOTE: All multiplayer servers for WWE 2K16 will be shutdown as of 5/31/17. After that time, all game functions requiring online servers will no longer function.  The Games on Demand version supports English, French, Italian, German, Spanish.  Get in the ring and Raise Some Hell with WWE 2K16!  The undisputed champion of wrestling games returns with the biggest roster in WWE games history and the “Texas Rattlesnake” Stone Cold Steve Austin as its Cover Superstar!  Play as your favorite Superstars from the past, present and future and experience the most authentic, comprehensive, in-your-face WWE video game of all-time!",
+        "short": "Get in the ring and Raise Some Hell with WWE 2K16! Play as your favorite Superstars from the past, present and future and experience the most authentic, comprehensive, in-your-face WWE video game of all-time!"
+    },
+    "media": [
+        {
+            "media_id": "51FE55C7",
+            "title": "WWE 2K16",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802315a07d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802315a07d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802315a07d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802315a07d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802315a07d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802315a07d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802315a07d2/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

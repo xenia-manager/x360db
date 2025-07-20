@@ -1,0 +1,54 @@
+{
+    "id": "415607E5",
+    "title": {
+        "full": "Cabelas Safari",
+        "reduced": "Cabelas Safari"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Fun Labs",
+    "publisher": "Activision",
+    "release_date": "2010-09-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Travel to Africa, the ultimate big game hunting destination in the world in Cabela's African Safari. Experience the challenge of hunting the Dangerous Seven of African big game—lions, leopards, elephants, hippos, crocodiles, rhinos, and Cape buffalo. Live the adventure of the ultimate safari hunter as your expeditions take you from the plains of South Africa north to the Zambezi River across expansive and unforgiving country. Discover the magic of Africa with its untamed wilds, exotic wildlife, breathtaking beauty, and danger around every corner! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Safari hunting adventure game."
+    },
+    "media": [
+        {
+            "media_id": "7B4AF5D1",
+            "title": "Cabela's African Safari",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "2A37C910",
+            "title": "Cabela's African Safari",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/e2/4a/e24a8ee9-75eb-48e3-8d69-32d634d55da9.PDF?v=1#cabelaAS-en.PDF"
+        ]
+    }
+}

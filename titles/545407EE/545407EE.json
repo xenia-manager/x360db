@@ -1,0 +1,49 @@
+{
+    "id": "545407EE",
+    "title": {
+        "full": "The Darkness",
+        "reduced": "The Darkness"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Starbreeze",
+    "publisher": "2K Games",
+    "release_date": "2007-06-24",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   On his 21st birthday, the destructive powers of a timeless force known as The Darkness awaken within Jackie Estacado, a hitman for the Franchetti crime family. Jackie must learn to fully command The Darkness so he can take back control of the Franchetti family which is ruled by his “Uncle” Paulie, a despicable man who is almost universally despised. But Jackie will quickly learn that The Darkness has a will of its own…",
+        "short": "On his 21st birthday, the destructive powers of a timeless force known as The Darkness awaken within Jackie Estacado, a hitman for the Franchetti crime family. Jackie must learn to fully command The Darkness so he can take back control of the Franchetti family which is ruled by his “Uncle” Paulie, a despicable man who is almost universally despised. But Jackie will quickly learn that The Darkness has a will of its own…"
+    },
+    "media": [
+        {
+            "media_id": "0F213645",
+            "title": "The Darkness",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ee/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ee/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ee/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ee/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ee/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ee/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ee/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ee/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ee/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ee/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ee/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ee/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ee/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ee/7177/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

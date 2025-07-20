@@ -1,0 +1,35 @@
+{
+    "id": "58550C47",
+    "title": {
+        "full": "Christmas Carnage",
+        "reduced": "Christmas Carnage"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Bandana Games",
+    "publisher": "Bandana Games",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Blast your way past the enemies of Christmas in this multiplayer shooter! Battle through over 20 levels of unique enemies to unlock new game modes. Only YOU can save Christmas!",
+        "short": "Blast your way past the enemies of Christmas in this multiplayer shooter! Battle through over 20 levels of unique enemies to unlock new game modes. Only YOU can save Christmas!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550c4700000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C47_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c47/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C47_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C47_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C47_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C47_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

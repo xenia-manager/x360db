@@ -1,0 +1,38 @@
+{
+    "id": "4E4D8843",
+    "title": {
+        "full": "Body and Brain Demo",
+        "reduced": "Body and Brain Demo"
+    },
+    "genre": [
+        "Educational",
+        "Family",
+        "Kinect",
+        "Puzzle & Trivia"
+    ],
+    "developer": "BANDAI NAMCO Entertainment Inc.",
+    "publisher": "Namco Bandai Games America, Inc.",
+    "release_date": "2011-02-07",
+    "user_rating": "3.00",
+    "description": {
+        "full": "This is the demo version of BODY AND BRAIN CONNECTION for Kinect.  Recent studies have shown that moving your body works your brain more than regular brain exercises! The collection of exercises found in this game were all supervised and approved by the renowned Dr. Kawashima, and require simple movements so that everyone can participate!  In this demo, you'll be working your body and mind to play through an exercise and determine your brain's age! Up to 4 players can take turns to see who gets the best results!",
+        "short": "This is the demo version of BODY AND BRAIN CONNECTION for Kinect."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8843/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8843/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8843/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8843/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4E4D0827",
+                "title": "Body and Brain Connection"
+            }
+        ],
+        "related": []
+    }
+}

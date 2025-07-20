@@ -1,0 +1,43 @@
+{
+    "id": "5841081A",
+    "title": {
+        "full": "Super Contra",
+        "reduced": "Super Contra"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Digital Eclipse",
+    "publisher": "Konami",
+    "release_date": "2009-12-08",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Single Player, Xbox LIVE Multiplayer 1-2, Local Multiplayer 1-2, HD (High Definition). Help Lance and Bill stop Red Falcon before they take over the world.  Celebrating the 20th anniversary of Contra, this newly updated version of Super Contra features enhanced graphics, HD support, and Co-op multiplayer over Xbox LIVE.   The Alien Wars are coming... do you have what it takes to defend earth? There are no refunds for this item. For more information, see www.xbox.com/Live/accounts.",
+        "short": "The fight for freedom continues! Celebrate the 20th anniversary of Contra and destroy Red Falcon to free the world from the alien infestation.  Play through 5 different levels as Lance and Bill, heroes from the original encounter with Red Falcon.  Full version includes enhanced graphics, Xbox LIVE leaderboards, Co-op Multiplayer, and brand new achievements."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

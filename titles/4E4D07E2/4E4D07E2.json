@@ -1,0 +1,50 @@
+{
+    "id": "4E4D07E2",
+    "title": {
+        "full": "Eternal Sonata",
+        "reduced": "Eternal Sonata"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "tri-Crescendo Inc.",
+    "publisher": "Namco",
+    "release_date": "2007-10-19",
+    "user_rating": "4.50",
+    "description": {
+        "full": "On his deathbed, the famous composer, Chopin, drifts between this life and the next. In his final hours, he experiences a fantastical dream where he encounters a young girl facing a terrible destiny and the boy who will fight to save her.  On the border between dreams and reality, Chopin discovers the light that shines in all of us in this enduring tale of good and evil, love and betrayal.    Developed exclusively for the Xbox 360TM video game and entertainment system by Tri-Crescendo and featuring the music of Chopin, Eternal Sonata delivers amazingly detailed 3D graphics, a captivating storyline with over 30 hours of gameplay and an innovative action battle system. ",
+        "short": "On his deathbed, the famous composer, Chopin, drifts between this life and the next. In his final hours, he experiences a fantastical dream where he encounters a young girl facing a terrible destiny and the boy who will fight to save her.  On the border between dreams and reality, Chopin discovers the light that shines in all of us in this enduring tale of good and evil, love and betrayal. "
+    },
+    "media": [
+        {
+            "media_id": "525E9AA8",
+            "title": "Eternal Sonata",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e2/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e2/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e2/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e2/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e2/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e2/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

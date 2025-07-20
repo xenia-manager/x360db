@@ -1,0 +1,53 @@
+{
+    "id": "41560920",
+    "title": {
+        "full": "Guitar Hero Live",
+        "reduced": "Guitar Hero Live"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "FreeStyleGames",
+    "publisher": "Activision",
+    "release_date": "2015-10-20",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Music Downloads Not Rated by the ESRB  One game, two ways to play. The first mode, GH Live, lets you rock real reactive live action crowds and delivers the full emotional roller coaster of being on stage. The second mode, GHTV, is the world's first playable music video network that lets you play along to official music videos and compete against friends.  ACTIVISION MAKES NO GUARANTEES REGARDING THE AVAILABILITY OF ONLINE PLAY OR FEATURES, INCLUDING WITHOUT LIMITATION GHTV, AND MAY MODIFY OR DISCONTINUE ONLINE SERVICES IN ITS DISCRETION WITHOUT NOTICE.  © 2015 Activision Publishing, Inc. ACTIVISION, FREESTYLEGAMES, GUITAR HERO and GH are trademarks of Activision Publishing, Inc. The ESRB rating icons are registered trademarks of the Entertainment Software Association. All other trademarks and trade names are the properties of their respective owners.",
+        "short": "The all-new Guitar Hero Live features breakthrough innovations in two gameplay modes. The first mode, GH Live, lets you rock real reactive live action crowds and delivers the full emotional roller coaster of being on stage. The second mode, GHTV, is the world's first playable music video network that lets you play along to official music videos and compete against friends."
+    },
+    "media": [
+        {
+            "media_id": "7B22125D",
+            "title": "Guitar Hero Live (Disc 1) (Game Disc)",
+            "edition": "Bundled with Guitar Controller",
+            "region": "Europe"
+        },
+        {
+            "media_id": "4A135223",
+            "title": "Guitar Hero Live (Disc 2) (Install Disc)",
+            "edition": "Bundled with Guitar Controller",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560920/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560920/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560920/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560920/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560920/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560920/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560920/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560920/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560920/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560920/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560920/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560920/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560920/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

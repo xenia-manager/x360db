@@ -1,0 +1,55 @@
+{
+    "id": "5454084E",
+    "title": {
+        "full": "Duke Nukem Forever",
+        "reduced": "Duke Nukem Forever"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Gearbox Software",
+    "publisher": "2K Games",
+    "release_date": "2011-06-10",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  The King is Back!  Cocked, loaded and ready for action, Duke Nukem Forever is pure unadulterated fun. Bastard Alien hordes are stealing Earth’s women. But nothing stands between Duke and his babes. Epic ass-kicking, massive weapons, giant explosions – yes. Inappropriate, insensitive and offensive – you bet.  Get ready for the most bitchin’ and bodacious time you’re likely to ever have.",
+        "short": "The King is back! Cocked, loaded and ready for action, Duke Nukem Forever is pure unadulterated fun. Bastard Alien hordes are stealing Earth’s women. But nothing stands between Duke and his babes. Epic ass-kicking, massive weapons, giant explosions – yes. Inappropriate, insensitive and offensive – you bet.  Get ready for the most bitchin’ and bodacious time you’re likely to ever have."
+    },
+    "media": [
+        {
+            "media_id": "634BFDA4",
+            "title": "Duke Nukem Forever",
+            "edition": "Original, Promo",
+            "region": "World"
+        },
+        {
+            "media_id": "41FC9FC3",
+            "title": "Duke Nukem Forever",
+            "edition": "Original",
+            "region": "UK"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084e/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084e/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084e/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084e/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084e/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084e/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

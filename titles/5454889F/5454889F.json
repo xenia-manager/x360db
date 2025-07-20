@@ -1,0 +1,35 @@
+{
+    "id": "5454889F",
+    "title": {
+        "full": "The Darkness II Demo",
+        "reduced": "The Darkness II Demo"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Digital Extremes",
+    "publisher": "2K Games",
+    "release_date": "2012-01-17",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Embrace the Darkness and download the demo. Become Jackie Estacado and master your demons as you experience the thrill of Quad-Wielding: slash, grab and throw with your Demon Arms while simultaneously firing two weapons.",
+        "short": "Embrace the Darkness and download the demo. Become Jackie Estacado and master your demons as you experience the thrill of Quad-Wielding: slash, grab and throw with your Demon Arms while simultaneously firing two weapons."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454889f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454889f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454889f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454889f/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5454088D",
+                "title": "The Darkness II"
+            }
+        ],
+        "related": []
+    }
+}

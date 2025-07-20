@@ -1,0 +1,48 @@
+{
+    "id": "4B5607E8",
+    "title": {
+        "full": "DEAD OR ALIVE 5 Last Round",
+        "reduced": "DOA5 Last Round"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "KOEI TECMO GAMES.CO.,LTD/Team NINJA",
+    "publisher": "KOEI TECMO AMERICA Corporation",
+    "release_date": "2015-02-17",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Japanese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".    Experience the intuitive fighting system, gorgeous characters and blockbuster stages of Dead or Alive 5 in this definitive series finale! Two new characters join to make the biggest roster of ninjas, assassins, roughnecks & wrestlers in series history! Knock your opponents off an exotic waterfall, into an exploding oil rig and more in DOA's signature blockbuster stages!  The final word in fighting entertainment - Dead or Alive 5 Last Round!  ",
+        "short": "The final word in fighting entertainment - DEAD OR ALIVE 5 Last Round!  Two new playable characters join to make the largest roster in series history!"
+    },
+    "media": [
+        {
+            "media_id": "4C6BA48E",
+            "title": "Dead or Alive 5 Ultimate",
+            "edition": "Original, Collector's Edition",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607e8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607e8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607e8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607e8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607e8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607e8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607e8/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4B5607DA",
+                "title": "Dead or Alive 5"
+            }
+        ],
+        "related": [
+            "http://download.xbox.com/content/4b5607e8/360(web)_DOA5LR_EN(NA).pdf"
+        ]
+    }
+}

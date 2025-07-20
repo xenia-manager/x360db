@@ -1,0 +1,35 @@
+{
+    "id": "585505C2",
+    "title": {
+        "full": "DOTS",
+        "reduced": "DOTS"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Tucker Yates",
+    "publisher": "Tucker Yates",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. From the mind of a high school student, D.O.T.S. has a simple objective- Can you guide the purple dot to the blue dot? It may sound easy, but with multitudes of obstacles, vicious toast, and over 100 levels, this may be one of the most difficult games you ever play. Good luck.",
+        "short": "From the mind of a high school student, D.O.T.S. has a simple objective- Can you guide the purple dot to the blue dot? It may sound easy, but with multitudes of obstacles, vicious toast, and over 100 levels, this may be one of the most difficult games you ever play. Good luck."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585505c2/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505C2_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505c2/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505C2_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505C2_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505C2_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505C2_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

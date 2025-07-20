@@ -1,0 +1,45 @@
+{
+    "id": "4E4D0865",
+    "title": {
+        "full": "PAC-MAN and the Ghostly Adventures",
+        "reduced": "PAC-MAN GHOSTLY ADV"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer"
+    ],
+    "developer": "NAMCO BANDAI Studios Inc.",
+    "publisher": "NAMCO BANDAI Games America",
+    "release_date": "2013-10-29",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese, Japanese.  Pac is back in an all-new experience for a whole new generation of fans.  Featuring an original storyline inspired by the show as well as all the charming characters from the highly anticipated PAC-MAN and the Ghostly Adventures animated series created and produced by Avi Arad, acclaimed director and founder of Marvel Studios.  Pac and his 2 best friends, Spiral and Cylindria, rise to the challenge of protecting their home, all the while fighting for: Friendship, Freedom and the Future!",
+        "short": "Pac and his 2 best friends, Spiral and Cylindria, rise to the challenge of protecting their home, while fighting for: Friendship, Freedom and the Future!"
+    },
+    "media": [
+        {
+            "media_id": "146A9184",
+            "title": "Pac-Man and the Ghostly Adventures",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0865/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0865/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0865/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0865/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0865/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0865/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0865/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0865/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0865/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0865/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

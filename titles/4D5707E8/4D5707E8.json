@@ -1,0 +1,39 @@
+{
+    "id": "4D5707E8",
+    "title": {
+        "full": "Blitz The League II",
+        "reduced": "Blitz The League II"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Midway Amusement Games, LLC",
+    "publisher": "Midway Home Entertainment Inc.",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "You're In Our League Now. As the sequel to a 1.5 million unit seller and award-winning football experience, BLITZ®: THE LEAGUE II™, continues the franchise legacy as the ultimate alternative to the watered-down, licensed competition. In addition to an all-new story mode penned by Peter Egan (ESPN’s Playmakers), BLITZ: THE LEAGUE II features include: Precision-Aim Tackles, player-controlled touchdown celebrations, an enhanced on-the-field Clash Mode, online multiplayer capabilities, expanded rosters with all-new personalities, and the return of a cornerstone of the Blitz franchise...Late Hits! Football legend Lawrence Taylor returns as the game’s cover-athlete and star linebacker for the New York Nightmare, Quentin Sands, along with a star-studded supporting cast.",
+        "short": "You're In Our League Now. As the sequel to a 1.5 million unit seller and award-winning football experience, BLITZ®: THE LEAGUE II™, continues the franchise legacy as the ultimate alternative to the watered-down, licensed competition. In addition to an all-new story mode penned by Peter Egan (ESPN’s Playmakers), BLITZ: THE LEAGUE II features include: Precision-Aim Tackles, player-controlled touchdown celebrations, an enhanced on-the-field Clash Mode, online multiplayer capabilities, expanded rost"
+    },
+    "media": [
+        {
+            "media_id": "0280DAC3",
+            "title": "Blitz: The League II",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707e8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707e8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707e8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707e8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5707e8/1033/screenlg1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

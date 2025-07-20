@@ -1,0 +1,35 @@
+{
+    "id": "5855066B",
+    "title": {
+        "full": "A Shooter",
+        "reduced": "A Shooter"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "SorceryGames LLC",
+    "publisher": "SorceryGames LLC",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. . . . . . . . . . . A Pure horizontally scrolling Shooter experience. A Shmup that is easy to get into. . . . Features include :- . . . . Cooperative play with friends. .  Progressive Balanced Gameplay . . . Permanent Firepower Upgrades . . . Smart Bombs and 13 End of Level Bosses. . . . Global High scores included . . . Can you grasp the High Score? . . . www.sorcerygames.com",
+        "short": ". . . . . . . . . . A Pure horizontally scrolling Shooter experience. A Shmup that is easy to get into. . . . Features include :- . . . . Cooperative play with friends. .  Progressive Balanced Gameplay . . . Permanent Firepower Upgrades . . . Smart Bombs and 13 End of Level Bosses. . . . Global High scores included . . . Can you grasp the High Score? . . . www.sorcerygames.com"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855066b00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855066B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855066b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855066B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855066B_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855066B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855066B_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

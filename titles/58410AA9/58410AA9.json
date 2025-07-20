@@ -1,0 +1,40 @@
+{
+    "id": "58410AA9",
+    "title": {
+        "full": "Zeit²",
+        "reduced": "Zeit²"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Brightside Games",
+    "publisher": "Ubisoft",
+    "release_date": "2011-01-12",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Experience the next generation of shoot ’em ups with Zeit²! Travel through time to co-op play with a copy of yourself! Pull off amazing moves to defeat 8 massive bosses! Pace the game and improve your score with the powerful fast forward feature! Discover 6 unique game modes and beat 70 challenges in this innovative and action packed arcade game!",
+        "short": "Experience the next generation of shoot ’em ups with Zeit²! Travel through time to co-op play with a copy of yourself! Pull off amazing moves to defeat 8 massive bosses! Pace the game and improve your score with the powerful fast forward feature! Discover 6 unique game modes and beat 70 challenges in this innovative and action packed arcade game!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa9/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa9/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

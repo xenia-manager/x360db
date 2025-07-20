@@ -1,0 +1,57 @@
+{
+    "id": "5553083C",
+    "title": {
+        "full": "Camerons Avatar",
+        "reduced": "Camerons Avatar"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "release_date": "2009-12-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   In James Cameron's AVATAR™: THE GAME, you arrive on the distant moon Pandora, hand-picked for the Avatar Program, a little known science initiative launched by the RDA Corporation. You learn to pilot your own avatar, a hybrid of your DNA and that of Pandora's indigenous species, the Na'vi. As a Signals Specialist, you’re assigned to help the RDA hunt down a long-dormant holy site, a Well of Souls. If the RDA can activate this site, they can wrest control from the Na’vi. As you explore the Pandoran jungle, you’ll learn more about the many creatures of Pandora, the Na'vi, and their struggle to stop the RDA. At the flashpoint of this growing conflict, you’ll need to decide where your true allegiance lies: Do you fight alongside the RDA in a conflict spiralling out of control? ... or do you join the Na'vi, battling to protect Pandora from the onslaught of an invading force?",
+        "short": "In James Cameron's AVATAR™: THE GAME, you arrive on the distant moon Pandora, hand-picked for the Avatar Program, a little known science initiative launched by the RDA Corporation. You learn to pilot your own avatar, a hybrid of your DNA and that of Pandora's indigenous species, the Na'vi. As a Signals Specialist, you’re assigned to help the RDA hunt down a long-dormant holy site, a Well of Souls. If the RDA can activate this site, they can wrest control from the Na’vi. As you explore the Pando…"
+    },
+    "media": [
+        {
+            "media_id": "3DADF00D",
+            "title": "James Cameron's Avatar: Gra Komputerowa",
+            "edition": "Original",
+            "region": "Poland"
+        },
+        {
+            "media_id": "705BF472",
+            "title": "James Cameron's Avatar The Game",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "75002EA6",
+            "title": "James Cameron's Avatar: The Game",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083c/2057/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

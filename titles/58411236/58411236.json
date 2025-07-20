@@ -1,0 +1,36 @@
+{
+    "id": "58411236",
+    "title": {
+        "full": "Sacred Citadel",
+        "reduced": "Sacred Citadel"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Southend Interactive",
+    "publisher": "Deep Silver",
+    "release_date": "2013-03-19",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The once peaceful land of Ancaria is in grave danger. The evil Ashen empire has enslaved its population and is using the orc-like Grimmoc to wipe out the Seraphim, who swore to protect it. In order to defeat the  empire you will have to prove yourself as a warrior by riding terrifying mounts, acquiring earth shattering skills and looting  powerful weapons and valuable treasures. Grab your friends and join the resistance! ",
+        "short": "Sharpen your axe, string your bow and brew your potions!  In dark times the land of Ancaria needs warriors like you.  Grab your friends and join the resistance! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411236/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411236/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411236/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411236/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411236/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411236/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411236/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411236/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411236/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

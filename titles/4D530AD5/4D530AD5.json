@@ -1,0 +1,49 @@
+{
+    "id": "4D530AD5",
+    "title": {
+        "full": "Blinx The Time Sweeper",
+        "reduced": "Blinx The Time Sweeper"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics",
+        "Independent & Music Videos",
+        "Music and Short Videos",
+        "Platformer",
+        "Xbox 360 Exclusives",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "Artoon",
+    "publisher": "Microsoft Studios",
+    "release_date": "2018-04-17",
+    "user_rating": null,
+    "description": {
+        "full": "Blinx: The Time Sweeper is a fast-paced action game featuring a cool, clever new character in wild, warped worlds. The ability to control the flow of time provides a totally new 4-dimensional gaming experience only possible on Xbox. ",
+        "short": "Blinx: The Time Sweeper is a fast-paced action game featuring a cool, clever new character in wild, warped worlds. The ability to control the flow of time provides a totally new 4-dimensional gaming experience only possible on Xbox. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ad5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ad5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ad5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ad5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ad5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ad5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ad5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ad5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ad5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ad5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ad5/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ad5/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ad5/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ad5/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ad5/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ad5/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550D7A",
+    "title": {
+        "full": "Dark Storm Blast 360",
+        "reduced": "Dark Storm Blast 360"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "MUKAGOSOFTWARE DEVELOPMENT",
+    "publisher": "MUKAGOSOFTWARE DEVELOPMENT",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. \"Dark Storm Blast 360\" is a multi directional shooting game. The player must use both sticks to move the land fighter and destroy the target. Experience 8 levels. Copyright 2013 MUKAGOSOFTWARE DEVELOPMENT",
+        "short": "\"Dark Storm Blast 360\" is a multi directional shooting game. The player must use both sticks to move the land fighter and destroy the target. Experience 8 levels. Copyright 2013 MUKAGOSOFTWARE DEVELOPMENT"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550d7a/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D7A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d7a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D7A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D7A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D7A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D7A_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

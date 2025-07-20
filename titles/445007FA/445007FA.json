@@ -1,0 +1,51 @@
+{
+    "id": "445007FA",
+    "title": {
+        "full": "Victorious Time to Shine",
+        "reduced": "Victorious Time to Shine"
+    },
+    "genre": [
+        "Kinect",
+        "Music"
+    ],
+    "developer": "High Voltage Software ",
+    "publisher": "D3Publisher of America, Inc.",
+    "release_date": "2011-09-15",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". This game requires a Kinect™ Sensor. It's your time to shine with Tori Vega and friends as you collect items from the show and develop your talents as a member of Hollywood Arts!  Victorious: Time to Shine exclusively on the Kinect for Xbox 360 lets players take the stage and create their own performances with the Victorious cast featuring hit songs from the show.  Create a one of a kind Hollywood Arts performance with Tori and friends!  Live the ultimate fantasy of starring in a Hollywood Arts Production.  Create the perfect performance using unique Kinect controls to simulate how the singing, dancing, acting, and the set come to life.  Features all kinds of content from the show including clothes, characters, and hit songs from the Victorious soundtrack.",
+        "short": "It's your time to shine with Tori Vega and friends as you collect items from the show and develop your talents as a member of Hollywood Arts!  Victorious: Time to Shine exclusively on the Kinect for Xbox 360 lets players take the stage and create their own performances with the Victorious cast featuring hit songs from the show."
+    },
+    "media": [
+        {
+            "media_id": "17D338FD",
+            "title": "Nickelodeon Victorious: Time to Shine",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fa/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fa/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fa/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fa/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fa/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fa/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fa/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fa/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fa/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fa/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fa/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fa/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fa/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fa/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/445007fa/vic_360_MNL_BDY_mech_r1.pdf"
+        ]
+    }
+}

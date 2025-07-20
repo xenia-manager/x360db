@@ -1,0 +1,51 @@
+{
+    "id": "5454082F",
+    "title": {
+        "full": "MLB Front Office Mgr",
+        "reduced": "MLB Front Office Mgr"
+    },
+    "genre": [
+        "Sports & Recreation",
+        "Strategy & Simulation"
+    ],
+    "developer": "Blue Castle Games",
+    "publisher": "2K Games",
+    "release_date": "2009-01-26",
+    "user_rating": "3.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   MLB® Front Office Manager gives baseball fans the chance to experience their dream job. Take the reins of your favorite Major League™ team and build a championship roster.  Make trades, sign free agents, draft prospects and manage games all the way from Spring Training through the Playoffs.  With MLB® Front Office Manager, you’ll enjoy total control of an MLB® franchise.  Will you make the right call?",
+        "short": "MLB® Front Office Manager gives baseball fans the chance to experience their dream job. Take the reins of your favorite Major League™ team and build a championship roster.  Make trades, sign free agents, draft prospects and manage games all the way from Spring Training through the Playoffs.  With MLB® Front Office Manager, you’ll enjoy total control of an MLB® franchise.  Will you make the right call?"
+    },
+    "media": [
+        {
+            "media_id": "34DBF3F0",
+            "title": "MLB Front Office Manager",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082f/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082f/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082f/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082f/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082f/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082f/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082f/1033/screenlg13.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/5454082f/4ed6c48e-e1bf-4c78-a580-abb1b6b11950.PDF"
+        ]
+    }
+}

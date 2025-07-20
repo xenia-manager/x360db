@@ -1,0 +1,35 @@
+{
+    "id": "585501B3",
+    "title": {
+        "full": "Battle Bubbles - Four Corners",
+        "reduced": "Battle Bubbles - Four Corners"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "nineteen77",
+    "publisher": "nineteen77",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. What happens when you mix a multiplayer strategy game with an arcade game, and then sprinkle cool bubble physics on top?  Battle Bubbles.  It's a 4-way battle royale for domination of the game board.  Play on 10 built-in levels, or create your own!  Battle Bubbles is the most fun when you play against your friends, but there is built-in artificial intelligence just in case you're all alone.",
+        "short": "What happens when you mix a multiplayer strategy game with an arcade game, and then sprinkle cool bubble physics on top?  Battle Bubbles.  It's a 4-way battle royale for domination of the game board.  Play on 10 built-in levels, or create your own!  Battle Bubbles is the most fun when you play against your friends, but there is built-in artificial intelligence just in case you're all alone."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585501b3/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585501B3_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585501b3/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585501B3_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501B3_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501B3_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501B3_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

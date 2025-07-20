@@ -1,0 +1,42 @@
+{
+    "id": "4156081D",
+    "title": {
+        "full": "Madagascar 2",
+        "reduced": "Madagascar 2"
+    },
+    "genre": [
+        "Family",
+        "Other"
+    ],
+    "developer": "Toys For Bob",
+    "publisher": "Activision",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Your favorite characters are back in the Madagascar: Escape 2 Africa™ video game, based on the DreamWorks Animation movie! Join Alex, Marty, Melman, Gloria, those crafty penguins and their entire madcap Madagascar™ crew in an all-new action-packed journey to save the African savannah. With over 10 playable characters, 12 distinct levels, and 8 multiplayer mini-games, Madagascar: Escape 2 Africa is guaranteed to deliver a diverse, fun and wacky adventure like never before!",
+        "short": "Your favorite characters are back in the Madagascar: Escape 2 Africa™ video game, based on the DreamWorks Animation movie! Join Alex, Marty, Melman, Gloria, those crafty penguins and their entire madcap Madagascar™ crew in an all-new action-packed journey to save the African savannah. With over 10 playable characters, 12 distinct levels, and 8 multiplayer mini-games, Madagascar: Escape 2 Africa is guaranteed to deliver a diverse, fun and wacky adventure like never before!"
+    },
+    "media": [
+        {
+            "media_id": "32998317",
+            "title": "DreamWorks Madagascar: Escape 2 Africa",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156081d/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

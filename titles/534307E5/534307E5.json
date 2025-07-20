@@ -1,0 +1,44 @@
+{
+    "id": "534307E5",
+    "title": {
+        "full": "Shellshock 2",
+        "reduced": "Shellshock 2"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Rebellion",
+    "publisher": "Eidos",
+    "release_date": "2008-01-01",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Shellshock 2: Blood Trails is an ultra-violent, survival horror FPS game set against the backdrop of the Vietnam War. Gameplay is centered on the use of psychological horror and fear, relying on the power of suggestion, mood, tension and foreshadowing to immerse players in a war that is worse than hell.",
+        "short": "Shellshock 2: Blood Trails is an ultra-violent, survival horror FPS game set against the backdrop of the Vietnam War. Gameplay is centered on the use of psychological horror and fear, relying on the power of suggestion, mood, tension and foreshadowing to immerse players in a war that is worse than hell."
+    },
+    "media": [
+        {
+            "media_id": "71DC774B",
+            "title": "ShellShock 2: Blood Trails",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e5/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

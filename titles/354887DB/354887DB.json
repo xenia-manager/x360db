@@ -1,0 +1,45 @@
+{
+    "id": "354887DB",
+    "title": {
+        "full": "Deadfall Adventures Demo",
+        "reduced": "Deadfall Adventures Demo"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "The Farm 51",
+    "publisher": "Nordic Games GmbH",
+    "release_date": "2013-12-06",
+    "user_rating": "3.00",
+    "description": {
+        "full": "All things live forever,   though at times they sleep and are      forgotten.”  You are James Lee Quatermain, descendant of the legendary adventurer Allan Quatermain. Reluctantly, Quatermain agrees to help the US government find a powerful artefact before the Nazis or the Russians do. Its pieces are hidden in ancient temples across the globe, protected by deadly traps and raging mummies. Ready your guns, because the hunt is on.   Classic action-adventure story set in exotic locations around the globe – Egypt, Arctic and forgotten ruins of the Maya Inspired by the novels of H. Rider Haggard Levels full of traps, puzzles and hidden treasures Make use of your adventurer-equipment (compass, flashlight, notebook) Singleplayer campaign, plus multiple multiplayer modes: Classic Deathmatch/Team Deathmatch (12 players) Treasure Hunt Mode (2 teams – Max 6 players per team) Co-op Survival Mode (4 players)",
+        "short": "You are James Lee Quatermain, descendant of the legendary adventurer Allan Quatermain. Reluctantly, Quatermain agrees to help the US government find a powerful artefact before the Nazis or the Russians do. Its pieces are hidden in ancient temples across the globe, protected by deadly traps and raging mummies. Ready your guns, because the hunt is on."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887db/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887db/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887db/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887db/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887db/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887db/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887db/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887db/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887db/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887db/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887db/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887db/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887db/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "354807D5",
+                "title": "Deadfall Adventures"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "555308DD",
+    "title": {
+        "full": "Tom Clancys Splinter Cell Double Agent",
+        "reduced": "Splinter Cell Double Agent"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2019-06-11",
+    "user_rating": null,
+    "description": {
+        "full": "The best-selling Tom Clancy's Splinter Cell saga takes on an entirely new direction. Play as a double agent spy for the first time ever in Tom Clancy’s Splinter Cell Double Agent. Take on dual roles of covert operative and ruthless terrorist, where your choices of whom to betray and whom to protect actually affect the outcome of your game. Experience the relentless tension and gut-wrenching dilemmas of life as a double agent. Lie. Kill. Sabotage. Betray. Above all, protect the innocent. How far will you go to gain the enemy’s trust? As covert operative Sam Fisher, infiltrate a vicious terrorist group and destroy it from within. Carefully weigh the consequences of your actions—kill too many terrorists and blow your cover. Hesitate and millions will die. Do whatever it takes to complete your mission, but get out alive.",
+        "short": "The best-selling Tom Clancy's Splinter Cell saga takes on an entirely new direction. Play as a double agent spy for the first time ever in Tom Clancy’s Splinter Cell Double Agent."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308dd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308dd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308dd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308dd/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308dd/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308dd/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308dd/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

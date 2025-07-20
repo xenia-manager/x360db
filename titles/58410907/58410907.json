@@ -1,0 +1,42 @@
+{
+    "id": "58410907",
+    "title": {
+        "full": "Encleverment Experiment",
+        "reduced": "EnclevermentExperiment"
+    },
+    "genre": [
+        "Educational",
+        "Family"
+    ],
+    "developer": "Blitz Arcade",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-01-19",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Unlock the full game to offer your assistance in Professor Ivor Question's Encleverment Experiment! He's looking for people just like you to play his 16 exciting minigames, collect 60 available Mascots and create new challenges in his Home-made Game editor! Featuring support for the Big Button Controller and Live Vision Camera, the Encleverment Experiment also includes full Avatar support and LIVE play for up to four players! Unlock the full game now and massage those mental muscles! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Ready for your daily dose of cranial calibration? Then why not put your brainpower to good use and help Professor Ivor Question with his Encleverment Experiment? Enter your Avatar into 16 exciting minigames, collect 60 Mascots and create your own challenges in the Home-made Game editor! The Trial Version gives your brain a taste of things to come, with a 3-round game show to play with your friends!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410907/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410907/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410907/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410907/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410907/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410907/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410907/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410907/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410907/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410907/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410907/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410907/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410907/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410907/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

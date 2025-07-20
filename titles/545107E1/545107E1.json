@@ -1,0 +1,49 @@
+{
+    "id": "545107E1",
+    "title": {
+        "full": "Avatar TLA TBE",
+        "reduced": "Avatar TLA TBE"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Platformer"
+    ],
+    "developer": "THQ Nordic",
+    "publisher": "THQ Nordic",
+    "release_date": "2010-08-03",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) This game supports English, French, and German. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Long ago, the four nations lived together in harmony. Then, everything changed when the Fire Nation attacked. Only the Avatar, master of all four elements, could stop them. But when the world needed him most, he vanished. A hundred years passed and the new Avatar was discovered - an Airbender named Aang. And although his Airbending skills are great, he has a lot to learn before he’s ready to save anyone. Aang has learned to Waterbend and now must master the remaining elements of Earth, then Fire. Time is running out. The race is on for Aang to master all the elements before Sozin’s comet passes the earth, increasing the strength of the Fire Nation and turning it into an unconquerable force. After a great battle and victory over the Fire Nation at the Northern Water Tribe, the team find themselves flying toward the great Earth Kingdom, in the hope that Aang can find a Master Earthbender to teach him… There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Long ago, the four nations lived together in harmony.  Then, everything changed when the Fire Nation attacked. Only the Avatar, master of all four elements, could stop them.  But when the world needed him most, he vanished.  A hundred years passed and the new Avatar was discovered - an Airbender named Aang.  And although his Airbending skills are great, he has a lot to learn before he’s ready to save anyone.  Aang has learned to Waterbend and now must master the remaining elements of Earth, then"
+    },
+    "media": [
+        {
+            "media_id": "117FE50B",
+            "title": "Nickelodeon Avatar: The Last Airbender: The Burning Earth",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e1/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/545107e1/e6c04353-8d36-4530-9cae-4ead12266bcf.PDF"
+        ]
+    }
+}

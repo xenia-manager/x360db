@@ -1,0 +1,35 @@
+{
+    "id": "58550D2D",
+    "title": {
+        "full": "Murderous Market",
+        "reduced": "Murderous Market"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Anthony Freeman",
+    "publisher": "Anthony Freeman",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=2/3. Murderous Market is a party game of stealth and assassination. Each of up to four players must first find themselves in a town filled with npcs. then they must find and kill their targets quietly. Murderous Market has four game modes that use stealth in unique ways. There are outbreaks of plague, werewolves, character specific powers, and customizable settings that make every play different.",
+        "short": "Murderous Market is a party game of stealth and assassination. Each of up to four players must first find themselves in a town filled with npcs. then they must find and kill their targets quietly. Murderous Market has four game modes that use stealth in unique ways. There are outbreaks of plague, werewolves, character specific powers, and customizable settings that make every play different."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550d2d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D2D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d2d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D2D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D2D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D2D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D2D_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "58550C6F",
+    "title": {
+        "full": "8-Bit Defense",
+        "reduced": "8-Bit Defense"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "MicroGames",
+    "publisher": "MicroGames",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. 8-Bit Defense pits you against some of the galaxies nastiest aliens as they try to make claim and take over your home town.",
+        "short": "8-Bit Defense pits you against some of the galaxies nastiest aliens as they try to make claim and take over your home town."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550c6f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C6F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c6f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C6F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C6F_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

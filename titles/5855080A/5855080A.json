@@ -1,0 +1,35 @@
+{
+    "id": "5855080A",
+    "title": {
+        "full": "Can You Handle 2 At Once",
+        "reduced": "Can You Handle 2 At Once"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Stegersaurus Games",
+    "publisher": "Stegersaurus Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=3/3, Mature Content=1/3. So you think you're pretty good don't you? Got used to the old 1 on 1, but how about 2 at once? Do you have the speed, dexterity, and focus for that kind of challenge? Only one way to find out...",
+        "short": "So you think you're pretty good don't you? Got used to the old 1 on 1, but how about 2 at once? Do you have the speed, dexterity, and focus for that kind of challenge? Only one way to find out..."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855080a00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855080A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855080a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855080A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855080A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855080A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855080A_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

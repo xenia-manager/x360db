@@ -1,0 +1,35 @@
+{
+    "id": "58550D06",
+    "title": {
+        "full": "Bid Whist",
+        "reduced": "Bid Whist"
+    },
+    "genre": [
+        "Card & Board"
+    ],
+    "developer": "Browebs",
+    "publisher": "Browebs",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Bid Whist, this is a form of Rummy and had been played in Urban areas for quite some time. Tournament play makes this a must have for your game collection!",
+        "short": "Bid Whist, this is a form of Rummy and had been played in Urban areas for quite some time. Tournament play makes this a must have for your game collection!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550d06/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D06_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d06/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D06_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D06_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D06_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D06_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

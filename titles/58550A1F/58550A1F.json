@@ -1,0 +1,35 @@
+{
+    "id": "58550A1F",
+    "title": {
+        "full": "Colonies Neociv",
+        "reduced": "Colonies Neociv"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Twist-EdGames.com",
+    "publisher": "Twist-EdGames.com",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=2/3. Neociv is a perfect world were people only work on their passions.  But something is not right and you are scrambling for your life and the future of Neociv in this story-driven adventure game.",
+        "short": "Neociv is a perfect world were people only work on their passions.  But something is not right and you are scrambling for your life and the future of Neociv in this story-driven adventure game."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550a1f00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A1F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a1f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A1F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A1F_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A1F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A1F_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

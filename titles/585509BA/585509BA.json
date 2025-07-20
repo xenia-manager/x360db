@@ -1,0 +1,35 @@
+{
+    "id": "585509BA",
+    "title": {
+        "full": "Super Kablamo",
+        "reduced": "Super Kablamo"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Meh Games",
+    "publisher": "Meh Games",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=0/3. You're a flying starfish in space!  Fly around with the left analog stick and shoot with the A button.  Space is a dangerous place, especially for delicious starfish.  It is full of mutated freaks, spiders, robot drones, and they all want to kill you.  Ok, not all of them, but some do, so shoot first and ask questions later.",
+        "short": "You're a flying starfish in space!  Fly around with the left analog stick and shoot with the A button.  Space is a dangerous place, especially for delicious starfish.  It is full of mutated freaks, spiders, robot drones, and they all want to kill you.  Ok, not all of them, but some do, so shoot first and ask questions later."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585509ba/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585509BA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585509ba/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585509BA_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509BA_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509BA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509BA_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

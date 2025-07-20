@@ -1,0 +1,35 @@
+{
+    "id": "58411451",
+    "title": {
+        "full": "Chivalry Medieval Warfare",
+        "reduced": "Chivalry"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Torn Banner, Mercenary Technology",
+    "publisher": "Activision",
+    "release_date": "2014-12-03",
+    "user_rating": "4.75",
+    "description": {
+        "full": "An internet connection and a connection to Xbox Live are required to play this game.  Besiege castles and raid villages in this 12 player online experience which truly feels like a medieval battlefield! As a fresh take on the first person combat genre, we invite players to trade in their guns and grenades to test their mettle against cold hard steel.  •Wield an arsenal of 60+ brutal weapons ranging from broad swords and battle axes to longbows and javelins. •Switch between the intense combat of first-person to the tactical view of third-person anytime during battle. •Team tactics and strategy bring players together to batter down gates and assassinate enemy royalty to achieve victory. •Use a variety of siege weapons ranging from catapults, boiling oil, ballista, battering rams and more. •Deep melee combat system provides players with a range of responsive combat options.",
+        "short": "Besiege castles and raid villages in this 12 player online experience which truly feels like a medieval battlefield!  •Wield an arsenal of 60+ brutal weapons! •Switch between the intense combat of first-person to the tactical view of third-person anytime during battle. •Team tactics and strategy bring players together to batter down gates and assassinate enemy royalty to achieve victory. •Use a variety of siege weapons ranging from catapults, boiling oil, battering rams and more."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411451/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411451/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411451/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411451/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411451/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411451/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411451/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411451/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

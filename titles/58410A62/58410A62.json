@@ -1,0 +1,41 @@
+{
+    "id": "58410A62",
+    "title": {
+        "full": "Shank",
+        "reduced": "Shank"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Klei Entertainment Inc.",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2010-08-10",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Shank is a 2D cinematic brawler inspired by classic beat 'em ups and graphic novels. Embark on a tale of revenge using chainsaws, dual pistols, knives and more. Play in the storymode or cooperatively with a friend in the backstory!",
+        "short": "Shank is a 2D cinematic brawler inspired by classic beat 'em ups and graphic novels. Embark on a tale of revenge using chainsaws, dual pistols, knives and more. Play in the storymode or cooperatively with a friend in the backstory!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a62/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a62/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a62/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a62/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a62/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a62/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a62/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a62/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a62/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a62/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a62/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a62/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a62/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a62/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

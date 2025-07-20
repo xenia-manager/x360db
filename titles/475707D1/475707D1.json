@@ -1,0 +1,42 @@
+{
+    "id": "475707D1",
+    "title": {
+        "full": "Alaskan Storm",
+        "reduced": "Alaskan Storm"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Liquid Dragon Studios",
+    "publisher": "Greenwave",
+    "release_date": "2008-01-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Battle 40-foot waves, storms, ice and a nearly 100-percent crewmember injury rate in the dangerous hunt for undersea riches on the Bering Sea with the new video game Deadliest Catch Alaskan Storm, to be launched on the Xbox 360®video game and entertainment system from Microsoft and PC in April 2008.  The game was inspired by Sig, Edgar and Norman Hansen. The Hansens and the Northwestern are featured on Discovery Channel’s highest rated and Emmy®-nominated series - Deadliest Catch.  Deadliest Catch Alaskan Storm lets gamers captain their own boat in the frenzied search for an undersea jackpot. Gamers select one of five real crab boats, including the Northwestern, or create and customize their own boat. Gamers then recruit and manage their own crew from a roster of twenty real crab fishermen.  Authenticity and realism were critical to the Hansen brothers. The game’s realism is enhanced with four real Bering Sea harbors and 34,000 miles of real Bering Sea coastline created from the Uni",
+        "short": "Battle 40-foot waves, storms, ice and a nearly 100-percent crewmember injury rate in the dangerous hunt for undersea riches on the Bering Sea with the new video game Deadliest Catch Alaskan Storm, to be launched on the Xbox 360®video game and entertainment system from Microsoft and PC in April 2008.  The game was inspired by Sig, Edgar and Norman Hansen. The Hansens and the Northwestern are featured on Discovery Channel’s highest rated and Emmy®-nominated series - Deadliest Catch.  Deadliest Cat"
+    },
+    "media": [
+        {
+            "media_id": "25AFEB5B",
+            "title": "Deadliest Catch: Alaskan Storm",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475707d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475707d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475707d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475707d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475707d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475707d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475707d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475707d1/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "id": "5454082B",
+    "title": {
+        "full": "Red Dead Redemption",
+        "reduced": "Red Dead Redemption"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Rockstar San Diego",
+    "publisher": "Rockstar Games",
+    "release_date": "2010-05-18",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German and Spanish.   America, 1911. The Wild West is dying. When federal agents threaten his family, former outlaw John Marston is forced to pick up his guns again and hunt down the gang of criminals he once called friends. Experience an epic fight for survival across the sprawling expanses of the American West and Mexico, as John Marston struggles to bury his blood-stained past, one man at a time.  ©2006-2010 Rockstar Games. Rockstar Games,R*,Red Dead Redemption & other marks are trademarks of Take-Two Interactive Software.  All Rights Reserved.  This videogame is fictional; doesn’t depict any actual event/person/entity; and any similarities are coincidental.  Take Two doesn’t endorse or encourage engaging in any conduct depicted in game. Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is strictly prohibited.  Software use subject to license in manual & online at rockstargames.com/eula.  Non-transferable access to special features such as exclusive, unlockable, downloadable or online content, services, or functions may require single-use serial code, additional fee and/or online account registration (13+). Violation of EULA, Code of Conduct, or other policies may result in restriction or termination of access to game or online account.  Access to special features require internet connection, may not be available to all users, and may, upon 30 days notice, be terminated, modified, or offered under different terms. ",
+        "short": "America, 1911. The Wild West is dying.  When federal agents threaten his family, former outlaw John Marston is forced to pick up his guns again and hunt down the gang of criminals he once called friends. Experience an epic fight for survival across the sprawling expanses of the American West and Mexico, as John Marston struggles to bury his blood-stained past, one man at a time."
+    },
+    "media": [
+        {
+            "media_id": "5ED9FAEB",
+            "title": "Red Dead Redemption",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "2AAB34E2",
+            "title": "Red Dead Redemption",
+            "edition": "Original, Rockstar Games Collection: Edition 1",
+            "region": "World"
+        },
+        {
+            "media_id": "7E2A5683",
+            "title": "Red Dead Redemption: Complete Edition (Disc 1) (Single Player)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "687F9762",
+            "title": "Red Dead Redemption: Complete Edition (Disc 2) (Red Dead Redemption: Undead Nightmare & Multiplayer)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "3EE87B76",
+            "title": "Red Dead Redemption: Game of the Year Edition (Disc 1) (Red Dead Redemption Single Player)",
+            "edition": "Original, Reprint",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "26302E11",
+            "title": "Red Dead Redemption: Game of the Year Edition (Disc 2) (Undead Nightmare and Multiplayer)",
+            "edition": "Original, Reprint",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "054AB6E2",
+            "title": "Red Dead Redemption: Undead Nightmare",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "5B48AF70",
+            "title": "Red Dead Redemption: Undead Nightmare",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082b/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082b/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082b/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082b/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082b/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082b/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082b/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082b/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082b/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082b/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082b/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082b/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082b/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082b/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

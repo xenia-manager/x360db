@@ -1,0 +1,37 @@
+{
+    "id": "5553886A",
+    "title": {
+        "full": "CSI Fatal Conspiracy Demo",
+        "reduced": "CSI Fatal Consp Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Other",
+        "Puzzle & Trivia"
+    ],
+    "developer": "Telltale Games",
+    "publisher": "Ubisoft",
+    "release_date": "2010-11-16",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Download the CSI: CRIME SCENE INVESTIGATION™ FATAL CONSPIRACY demo and follow the twists and turns as the conspiracy begins to unfold when another  victim is found dead in her car. Piece together the evidence, take it to the lab for analysis and uncover the truth in the most suspenseful and chilling investigation seen yet.",
+        "short": "Explore crime scenes, analyze the evidence and team up with your favourite cast members in this CSI: CRIME SCENE INVESTIGATION™ FATAL CONSPIRACY demo."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553886a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553886a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553886a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553886a/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "55530849",
+                "title": "CSI: Fatal Conspiracy"
+            }
+        ],
+        "related": []
+    }
+}

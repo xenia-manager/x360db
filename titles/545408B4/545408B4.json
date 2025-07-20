@@ -1,0 +1,51 @@
+{
+    "id": "545408B4",
+    "title": {
+        "full": "Borderlands The Pre-Sequel",
+        "reduced": "Borderlands The Pre-Sequel"
+    },
+    "genre": [
+        "Role Playing",
+        "Shooter"
+    ],
+    "developer": "Gearbox Software",
+    "publisher": "2K",
+    "release_date": "2014-10-14",
+    "user_rating": "4.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Japanese. Launch into the Borderlands universe and shoot ‘n’ loot your way through a brand new adventure that rockets you onto Pandora’s moon! Borderlands: The Pre-Sequel is a new role-playing shooter in the critically acclaimed Borderlands series. Play as four all-new character classes while carving a path of destructive mayhem across Pandora’s never-before-seen low-gravity moonscapes with all new moves, weapons, and vehicles! Get high in low gravity and jump right in to fight alongside future megalomaniacal tyrant Handsome Jack, while preventing the destruction of Pandora and its moon. Contribute to the rise of the corrupt Hyperion Corporation and watch Handsome Jack’s transformation from a man trying to do good, into a ruthless tyrant, constantly seeking fortune, power, and infamy.",
+        "short": "Borderlands: The Pre-Sequel is a new role-playing shooter in the critically acclaimed Borderlands series. Play as four all-new character classes while carving a path of destructive mayhem across Pandora’s never-before-seen low-gravity moonscapes with all new moves, weapons, and vehicles!"
+    },
+    "media": [
+        {
+            "media_id": "3B9FF6CD",
+            "title": "Borderlands: The Pre-Sequel!",
+            "edition": "Original, Borderlands Triple Pack",
+            "region": "USA"
+        },
+        {
+            "media_id": "08F3B587",
+            "title": "Borderlands: The Pre-Sequel! Add-On Installation Disc",
+            "edition": "Borderlands Triple Pack",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b4/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

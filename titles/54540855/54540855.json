@@ -1,0 +1,37 @@
+{
+    "id": "54540855",
+    "title": {
+        "full": "MLB 2K10",
+        "reduced": "MLB 2K10"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Visual Concepts Entertainment",
+    "publisher": "Take Two Interactive",
+    "release_date": "2799-12-30",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Get ready to battle.  Major League Baseball® 2K10 celebrates baseball’s core battle: Pitchers vs. Hitters. Improved pitching mechanics and right-stick swing controls let you pound the strike zone and rake like a pro, while a totally revamped fielding system, hundreds of new signature animations and a star player rating system bring the action to life like never before.",
+        "short": "Get ready to battle.  Major League Baseball® 2K10 celebrates baseball’s core battle: Pitchers vs. Hitters. Improved pitching mechanics and right-stick swing controls let you pound the strike zone and rake like a pro, while a totally revamped fielding system, hundreds of new signature animations and a star player rating system bring the action to life like never before."
+    },
+    "media": [
+        {
+            "media_id": "66E85B29",
+            "title": "Major League Baseball 2K10",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": null,
+        "banner": null,
+        "boxart": "https://images.launchbox-app.com/a1fba673-2c71-4411-900d-6788cebcc606.jpg",
+        "icon": "http://www.xboxunity.net/Resources/Lib/Icon.php?tid=54540855",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

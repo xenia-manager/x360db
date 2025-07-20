@@ -1,0 +1,36 @@
+{
+    "id": "45418943",
+    "title": {
+        "full": "Crysis 2 Exclusive MP Test",
+        "reduced": "Crysis 2 Exclusive MP Test"
+    },
+    "genre": [
+        "Classics",
+        "Shooter"
+    ],
+    "developer": "Crytek",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-10-14",
+    "user_rating": null,
+    "description": {
+        "full": "Crytek are bringing world-class multiplayer action to the Xbox 360 - and you're invited along for the ride.  We need dedicated gamers to help us test the game by taking part in this Crysis 2 Multiplayer test.   This early Pre-Alpha access is the first step in unleashing the technology that will be found in Crysis 2, and will be followed by further tests later on in our development process.  Be sure to provide feedback to the Crytek UK team via:  http://crys.is/19",
+        "short": "Crytek are bringing world-class multiplayer action to the Xbox 360 . We need dedicated gamers to help us test the game by taking part in this Crysis 2 Multiplayer test.  There will be further tests later on in our development process.  Be sure to provide feedback to the Crytek UK team via:  http://crys.is/19"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418943/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418943/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418943/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418943/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454108E3",
+                "title": "Crysis 2"
+            }
+        ],
+        "related": []
+    }
+}

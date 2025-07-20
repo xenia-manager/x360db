@@ -1,0 +1,35 @@
+{
+    "id": "585508A3",
+    "title": {
+        "full": "Ye Olde Hangman Game",
+        "reduced": "Ye Olde Hangman Game"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "DualOpAmp29",
+    "publisher": "DualOpAmp29",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=1/3. With hand selected words and phrases listed in 7 different categories, this classic word game - set in the wondrous, medieval times - is sure to give you hours of fun gameplay.  The hangman is counting on you to save him.  Can you help him, or is he doomed?",
+        "short": "With hand selected words and phrases listed in 7 different categories, this classic word game - set in the wondrous, medieval times - is sure to give you hours of fun gameplay.  The hangman is counting on you to save him.  Can you help him, or is he doomed?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585508a300000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508A3_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508a3/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508A3_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508A3_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508A3_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508A3_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

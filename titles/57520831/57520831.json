@@ -1,0 +1,44 @@
+{
+    "id": "57520831",
+    "title": {
+        "full": "LEGO The Lord of the Rings - Demo",
+        "reduced": "LEGO Lord of the Rings - Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family"
+    ],
+    "developer": "TT Games",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "release_date": "2012-10-23",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Explore Middle-earth in an epic LEGO videogame adventure for the entire family!  Based on The Lord of the Rings motion picture trilogy, LEGO® The Lord of the Rings takes players through the epic events from the classic story, reimagined with the humor and endless variety of LEGO play.    ",
+        "short": "Explore Middle-earth in an epic and thrilling LEGO videogame adventure for the entire family!  "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520831/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520831/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520831/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520831/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520831/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520831/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520831/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520831/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520831/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520831/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520831/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5752081D",
+                "title": "LEGO® Lord of the Rings™"
+            }
+        ],
+        "related": []
+    }
+}

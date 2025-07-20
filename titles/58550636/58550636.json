@@ -1,0 +1,33 @@
+{
+    "id": "58550636",
+    "title": {
+        "full": "Device Hero",
+        "reduced": "Device Hero"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "yaystuff",
+    "publisher": "yaystuff",
+    "release_date": null,
+    "user_rating": "2.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. How fast is your storage device?  Has it aged well or has it become encumbered over time? Get informed with Device Hero.  Go online with the full version to access global high scores and taunt your friends with the brag feature.",
+        "short": "How fast is your storage device?  Has it aged well or has it become encumbered over time? Get informed with Device Hero.  Go online with the full version to access global high scores and taunt your friends with the brag feature."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855063600000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550636_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550636/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550636_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550636_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

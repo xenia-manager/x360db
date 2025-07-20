@@ -1,0 +1,48 @@
+{
+    "id": "4E4D080C",
+    "title": {
+        "full": "Magnacarta2",
+        "reduced": "Magnacarta2"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "SOFTMAX CO.,LTD.",
+    "publisher": "NAMCO BANDAI Games Inc.",
+    "release_date": "2010-01-20",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Magnacarta2 introduces an original RPG storyline driven by themes of love and hatred. With character designs by famed artist Hyung-Tae Kim, Magnacarta2 features a unique Active Turn Battle System and a striking visual style that serves a fresh and innovative RPG experience.",
+        "short": "Magnacarta2 introduces an original RPG storyline driven by themes of love and hatred. With character designs by famed artist Hyung-Tae Kim, Magnacarta2 features a unique Active Turn Battle System and a striking visual style that serves a fresh and innovative RPG experience."
+    },
+    "media": [
+        {
+            "media_id": "7BA6D7D1",
+            "title": "Magna Carta II (Disc 1)",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "245F367F",
+            "title": "Magna Carta II (Disc 2)",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d080c/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4E4D080B",
+                "title": "Magnacarta2"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "id": "53510811",
+    "title": {
+        "full": "Sleeping Dogs",
+        "reduced": "Sleeping Dogs"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "United Front Games",
+    "publisher": "Square Enix",
+    "release_date": "2012-08-14",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Online interactions are not rated by the Entertainment Software Rating Board (ESRB).  Welcome to Hong Kong, a vibrant city whose exotic locations hide one of the most powerful and dangerous criminal organizations in the world: the Triads.You play Wei Shen, an undercover cop trying to take down the Triads from the inside. You'll have to prove yourself worthy as you fight your way up the organization, taking part in brutal criminal activities without blowing your cover. In time, you will risk everything as the lines between truth, loyalty and justice become permanently blurred.",
+        "short": "Welcome to Hong Kong, a vibrant city whose exotic locations hide one of the most powerful and dangerous criminal organizations in the world: the Triads.You play Wei Shen, an undercover cop trying to take down the Triads from the inside. You'll have to prove yourself worthy as you fight your way up the organization, taking part in brutal criminal activities without blowing your cover. In time, you will risk everything as the lines between truth, loyalty and justice become permanently blurred."
+    },
+    "media": [
+        {
+            "media_id": "3C09D77D",
+            "title": "Sleeping Dogs",
+            "edition": "Original",
+            "region": "Poland"
+        },
+        {
+            "media_id": "323C0497",
+            "title": "Sleeping Dogs",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "6364795C",
+            "title": "Sleeping Dogs",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "76B40B17",
+            "title": "Sleeping Dogs",
+            "edition": "Original, Ultimate Action Triple Pack",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510811/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510811/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510811/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510811/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510811/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510811/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510811/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510811/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/53510811/0/SD_360_manual_OD_ENG_US.pdf"
+        ]
+    }
+}

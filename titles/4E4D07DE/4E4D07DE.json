@@ -1,0 +1,43 @@
+{
+    "id": "4E4D07DE",
+    "title": {
+        "full": "SMASH COURT TENNIS 3",
+        "reduced": "SMASH COURT TENNIS 3"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "（株）バンダイナムコゲームス",
+    "publisher": "Namco",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "ノンフィクションスポーツゲームの決定版、 「スマッシュコート　プロトーナメント」シリーズの 最新作がいよいよXbox 360に登場！  有名トッププロ選手に加え、将来有望な若手選手も収録。 スーパープレイを簡単に楽しめる先行入力型ショットシステム。 キャラクターのカスタマイズや育成も大きくパワーアップ。  Xbox LIVE対応で全国のプレイヤーと対戦が可能。 コートの王者を目指せ！！",
+        "short": "ノンフィクションスポーツゲームの決定版、 「スマッシュコート　プロトーナメント」シリーズの 最新作がいよいよXbox 360に登場！  有名トッププロ選手に加え、将来有望な若手選手も収録。 スーパープレイを簡単に楽しめる先行入力型ショットシステム。 キャラクターのカスタマイズや育成も大きくパワーアップ。  Xbox LIVE対応で全国のプレイヤーと対戦が可能。 コートの王者を目指せ！！"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07de/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07de/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07de/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07de/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07de/18441/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07de/18441/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07de/18441/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07de/18441/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07de/18441/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07de/18441/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07de/18441/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07de/18441/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07de/18441/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07de/18441/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07de/18441/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07de/18441/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

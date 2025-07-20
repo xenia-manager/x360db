@@ -1,0 +1,120 @@
+{
+    "id": "4D5307FA",
+    "title": {
+        "full": "Lost Odyssey",
+        "reduced": "Lost Odyssey"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Mistwalker / feelplus",
+    "publisher": "Microsoft",
+    "release_date": "2008-01-01",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Hironobu Sakaguchi of Mistwalker brings together the talents of Takehiko Inoue, Kiyoshi Shigematsu, and Nobuo Uematsu to present the next generation RPG, Lost Odyssey.",
+        "short": "Hironobu Sakaguchi of Mistwalker brings together the talents of Takehiko Inoue, Kiyoshi Shigematsu, and Nobuo Uematsu to present the next generation RPG, Lost Odyssey."
+    },
+    "media": [
+        {
+            "media_id": "612E5362",
+            "title": "Lost Odyssey (Disc 1)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "368DE6DD",
+            "title": "Lost Odyssey (Disc 1)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "39F7D748",
+            "title": "Lost Odyssey (Disc 1)",
+            "edition": "Original",
+            "region": "Europe, Asia"
+        },
+        {
+            "media_id": "1FCD93AF",
+            "title": "Lost Odyssey (Disc 2)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "1888BE4E",
+            "title": "Lost Odyssey (Disc 2)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "0EF8CEA8",
+            "title": "Lost Odyssey (Disc 2)",
+            "edition": "Original",
+            "region": "Europe, Asia"
+        },
+        {
+            "media_id": "5F6C75EB",
+            "title": "Lost Odyssey (Disc 3)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "6DD59D08",
+            "title": "Lost Odyssey (Disc 3)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "309E3386",
+            "title": "Lost Odyssey (Disc 3)",
+            "edition": "Original",
+            "region": "Europe, Asia"
+        },
+        {
+            "media_id": "7B21A91D",
+            "title": "Lost Odyssey (Disc 4)",
+            "edition": "Original",
+            "region": "Europe, Asia"
+        },
+        {
+            "media_id": "1C347005",
+            "title": "Lost Odyssey (Disc 4)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "0C0E80B5",
+            "title": "Lost Odyssey (Disc 4)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/7177/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/7177/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/7177/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/7177/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307fa/7177/screenlg16.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

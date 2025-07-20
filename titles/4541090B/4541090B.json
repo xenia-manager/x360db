@@ -1,0 +1,49 @@
+{
+    "id": "4541090B",
+    "title": {
+        "full": "Dragon Age 2",
+        "reduced": "Dragon Age 2"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "BioWare",
+    "publisher": "Electronic Arts",
+    "release_date": "2011-03-08",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Experience the epic sequel to the 2009 Game of the Year from the critically acclaimed makers of Dragon Age: Origins and Mass Effect 2. You are one of the few who escaped the destruction of your home. Now, forced to fight for survival in an ever-changing world, you must gather the deadliest of allies, amass fame and fortune, and seal your place in history. This is the story of how the world changed forever. The legend of your Rise to Power begins now.    Key Features: • Embark upon an all-new adventure that takes place across an entire decade and shapes itself around every decision you make. • Determine your rise to power from a destitute refugee to the revered champion of the land. • Think like a general and fight like a Spartan with dynamic new combat mechanics that put you right in the heart of battle whether you are a mage, rogue, or warrior. • Go deeper into the world of Dragon Age with an entirely new cinematic experience that grabs hold of you from the beginning and never lets go. • Discover a whole realm rendered in stunning detail with updated graphics and a new visual style.  ",
+        "short": "You are one of the few who escaped the destruction of your home. Now, forced to fight for survival in an ever-changing world, you must gather the deadliest of allies, amass fame and fortune, and seal your place in history. This is the story of how the world changed forever. "
+    },
+    "media": [
+        {
+            "media_id": "01433671",
+            "title": "Dragon Age II",
+            "edition": "Original, Bioware Signature Edition",
+            "region": "Europe, Australia"
+        },
+        {
+            "media_id": "14F3A730",
+            "title": "Dragon Age II",
+            "edition": "Original, Bioware Signature Edition",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

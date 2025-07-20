@@ -1,0 +1,55 @@
+{
+    "id": "53440803",
+    "title": {
+        "full": "Dead Island",
+        "reduced": "Dead Island"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing",
+        "Shooter"
+    ],
+    "developer": "Techland",
+    "publisher": "Deep Silver",
+    "release_date": "2011-10-20",
+    "user_rating": null,
+    "description": {
+        "full": "A holiday paradise gone mad after a zombie outbreak. The player’s only chance to survive is to escape from the island. Dead Island combines first-person action with a heavy focus on melee combat, character development and customization of a vast array of weapons. All of these  features are presented in a dark zombie story with a campaign that can be played with up to 4 players in co-op mode. ",
+        "short": "Terror. Violence. Madness. Bedlam. A holiday paradise gone mad. A tropical island turns into total chaos after a mysterious zombie outbreak."
+    },
+    "media": [
+        {
+            "media_id": "3789C9AB",
+            "title": "Dead Island",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "78ECD992",
+            "title": "Dead Island: Zombie of the Year Edition",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440803/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440803/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440803/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440803/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440803/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440803/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440803/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440803/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4B4D07DF",
+                "title": "Dead Island"
+            }
+        ],
+        "related": []
+    }
+}

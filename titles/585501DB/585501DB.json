@@ -1,0 +1,33 @@
+{
+    "id": "585501DB",
+    "title": {
+        "full": "Break In",
+        "reduced": "Break In"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "duality72",
+    "publisher": "duality72",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. It was supposed to be a simple arcade game, but something has broken down the barriers between game worlds. Can you resolve the mystery in this revealing Breakout-style game with a twist?",
+        "short": "It was supposed to be a simple arcade game, but something has broken down the barriers between game worlds. Can you resolve the mystery in this revealing Breakout-style game with a twist?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585501db00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585501DB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585501db/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585501DB_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501DB_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

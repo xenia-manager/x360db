@@ -1,0 +1,53 @@
+{
+    "id": "415407E2",
+    "title": {
+        "full": "Persona 4 Arena Ultimax",
+        "reduced": "P4AU"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "ATLUS/ARC SYSTEM WORKS",
+    "publisher": "ATLUS",
+    "release_date": "2014-11-21",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  ATLUS and Arc System Works team up once again to produce the next deadly broadcast on the Midnight Channel! The P-1 Grand Prix tournament is barely over, but the P-1 Climax has already begun. A mysterious red fog settles over the real world and the Persona-users assemble anew to apprehend the culprit once and for all. The time to settle accounts has come.  The events of Persona 4 Arena reach their thrilling conclusion in the massive story mode of Persona 4 Arena Ultimax! New playable characters, including fan favorites from the Persona 3 and 4 RPGs, add even more breadth to the already diverse roster.  Master new skills, systems, modes, and “Shadow” versions of characters, and challenge the world’s best players in online matches.",
+        "short": "ATLUS and Arc System Works team up once again to produce the next deadly broadcast on the Midnight Channel!  The P-1 Grand Prix tournament is barely over, but the P-1 Climax has already begun. A mysterious red fog settles over the real world and the Persona-users assemble anew to apprehend the culprit once and for all. Master new skills and challenge the players around the world!"
+    },
+    "media": [
+        {
+            "media_id": "7F941940",
+            "title": "Persona 4 Arena Ultimax",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg13.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/415407e2/P4AU_Xbx_DIG2.pdf"
+        ]
+    }
+}

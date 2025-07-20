@@ -1,0 +1,36 @@
+{
+    "id": "555388BF",
+    "title": {
+        "full": "Just Dance 4 - Demo",
+        "reduced": "Just Dance 4 - Demo"
+    },
+    "genre": [
+        "Kinect",
+        "Music"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2012-11-23",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The world’s #1 dance game brand is back with Just Dance®4! The latest edition of the record-breaking franchise takes the party to a whole new level of fun with new game modes, brand new features, coaches and stylish environments. Discover over 40 chart-topping hits from “Good Feeling” by Flo Rida, and “What Makes You Beautiful” by One Direction to legendary tracks like “Superstition” by Stevie Wonder.   Challenge your friends in 5 rounds of dance battles with the brand-new Battle mode! Go head to head to unique choreographies and music to be crowned the dance battle champion!   Browse through the latest and most popular community content with Kinect™-exclusive Just Dance TV, check out all of you and your friends’ videos, and explore the Featured video section, where the very best content is highlighted by our team. With Just Dance 4, the party never ends! Have a blast dancing, laughing, and breaking a sweat with friends and family all night long.  Download the demo!  Music credits available at  www.justdancegame.com/jd4tracklist",
+        "short": "The world’s #1 dance game brand is back with Just Dance®4!  Download the demo! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388bf/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388bf/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388bf/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388bf/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "555308B5",
+                "title": "Just Dance® 4"
+            }
+        ],
+        "related": []
+    }
+}

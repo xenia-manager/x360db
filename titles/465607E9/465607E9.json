@@ -1,0 +1,45 @@
+{
+    "id": "465607E9",
+    "title": {
+        "full": "DUNAMIS15",
+        "reduced": "DUNAMIS15"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "5pb.",
+    "publisher": "5pb.",
+    "release_date": "2011-08-08",
+    "user_rating": "0.00",
+    "description": {
+        "full": "本島から遠く離れた孤島、デュナミス・ベースに英国のカレッジを模したレンガ造りの校舎が建つ。 緑に囲まれ温かい日差しが降り注ぐ男女共学校、セレス学園。 笑顔の絶えないこの学園で生徒たちは自らの将来を語り合う……  だが、一見平穏に見える学園島の実体は……？？  戦争の影響で遺伝子異常が起こった世界で、 正常な遺伝子保存の為のの研究材料としてクローン技術が発達。 生徒たちは、その目的の為に生かされているクローンなのだった…  甘酸っぱい恋と将来の夢 期待に胸をふくらませるはずの学園生活（青春群像劇）が一変、狂気の世界へ あるきっかけから生徒たちの暴走が始まる…  希望を求めてサバイバルするサスペンス・フィクションアドベンチャー  希望の果てに解き明かされる数々の謎。驚愕の事実とは？",
+        "short": "本島から遠く離れた孤島、デュナミス・ベースに英国のカレッジを模したレンガ造りの校舎が建つ。 緑に囲まれ温かい日差しが降り注ぐ男女共学校、セレス学園。 笑顔の絶えないこの学園で生徒たちは自らの将来を語り合う……  だが、一見平穏に見える学園島の実体は……？？"
+    },
+    "media": [
+        {
+            "media_id": "65F8C27E",
+            "title": "Dunamis 15",
+            "edition": "Suuryou Genteiban",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e9/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e9/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e9/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e9/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e9/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e9/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e9/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e9/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e9/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e9/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e9/1041/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550678",
+    "title": {
+        "full": "Go",
+        "reduced": "Go"
+    },
+    "genre": [
+        "Card & Board"
+    ],
+    "developer": "ZDT Programming",
+    "publisher": "ZDT Programming",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Go is an ancient board game that involves deep thinking, strategy, and tactics. Players take turns placing their stones on a board in order to gain the most territory and capture the most enemy stones.",
+        "short": "Go is an ancient board game that involves deep thinking, strategy, and tactics. Players take turns placing their stones on a board in order to gain the most territory and capture the most enemy stones."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550678/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550678_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550678/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550678_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550678_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550678_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550678_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

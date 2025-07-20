@@ -1,0 +1,35 @@
+{
+    "id": "58550319",
+    "title": {
+        "full": "Alien Pyramid Challenge",
+        "reduced": "Alien Pyramid Challenge"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Swampopus",
+    "publisher": "Swampopus",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Awarded Indie Game of the Month by The Go (9/09), Alien Pyramid Challenge version 1.1 is back with more levels, more mummy, and more sarcasm!  In this puzzle game, you're trapped in an ancient Egyptian pyramid with a sly mummy your only companion. Move around giant limestone blocks, dangle from perilous moving platforms, and soar from shockingly-springy springs to find your way out of each room!",
+        "short": "Awarded Indie Game of the Month by The Go (9/09), Alien Pyramid Challenge version 1.1 is back with more levels, more mummy, and more sarcasm!  In this puzzle game, you're trapped in an ancient Egyptian pyramid with a sly mummy your only companion. Move around giant limestone blocks, dangle from perilous moving platforms, and soar from shockingly-springy springs to find your way out of each room!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855031900000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550319_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550319/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550319_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550319_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550319_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550319_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

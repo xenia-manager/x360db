@@ -1,0 +1,35 @@
+{
+    "id": "58550544",
+    "title": {
+        "full": "That Seagull Stole My Chips",
+        "reduced": "That Seagull Stole My Chips"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "obrox",
+    "publisher": "obrox",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. The baron is having a day in the park , he decides it's lunch time and settles down on a bench to eat some chips and alas the gulls appear. You , a friendly bystander with a .44 magnum , decide to help out by shooting this avian menace and saving the baron's chips!",
+        "short": "The baron is having a day in the park , he decides it's lunch time and settles down on a bench to eat some chips and alas the gulls appear. You , a friendly bystander with a .44 magnum , decide to help out by shooting this avian menace and saving the baron's chips!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550544/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550544_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550544/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550544_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550544_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550544_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550544_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": "594F07D7",
+    "title": {
+        "full": "Yoostar On MTV",
+        "reduced": "Yoostar On MTV"
+    },
+    "genre": [
+        "Kinect"
+    ],
+    "developer": "Blitz Games Studios",
+    "publisher": "Yoostar Entertainment Group",
+    "release_date": "2011-10-03",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Yoostar on MTV fulfills the dreams of pop culture fans and gamers alike by giving everyone the opportunity to star in the most iconic scenes to ever hit cable TV.  With a huge library of live events, news, classic, reality, and original shows to choose from, as well as the inclusion of upcoming shows to maximize its cultural relevancy, the extensive archive of trend-setting and entertaining content leaves no stone unturned.  Additionally, some of the most popular music videos in recent history will be playable in Yoostar on MTV, in which you can perform with your own voice or via lip dub.  ",
+        "short": "Yoostar on MTV lets you star in the most iconic scenes to ever hit cable TV and some of the most popular music videos in recent history."
+    },
+    "media": [
+        {
+            "media_id": "78C876B6",
+            "title": "Yoostar on MTV",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d7/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d7/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d7/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d7/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d7/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d7/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d7/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

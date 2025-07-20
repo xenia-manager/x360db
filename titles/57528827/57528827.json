@@ -1,0 +1,49 @@
+{
+    "id": "57528827",
+    "title": {
+        "full": "Batman Arkham City",
+        "reduced": "Batman Arkham City"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Platformer"
+    ],
+    "developer": "Rocksteady Studios Ltd",
+    "publisher": "WB Games Inc.",
+    "release_date": "2012-05-23",
+    "user_rating": "4.25",
+    "description": {
+        "full": "No escape from Arkham City…the sprawling super-prison in the heart of Gotham City, home to its most violent thugs and infamous super villains. With the lives of the innocent at stake, only one man can save them and bring justice to the streets of Gotham City…The Batman.",
+        "short": "No escape from Arkham City…with the lives of the innocent at stake, only one man can save them and bring justice to the streets of Gotham City…The Batman."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528827/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528827/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528827/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528827/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528827/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528827/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528827/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528827/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528827/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528827/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528827/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528827/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528827/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528827/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528827/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "57520802",
+                "title": "Batman: Arkham City"
+            }
+        ],
+        "related": []
+    }
+}

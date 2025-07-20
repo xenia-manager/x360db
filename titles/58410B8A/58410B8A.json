@@ -1,0 +1,43 @@
+{
+    "id": "58410B8A",
+    "title": {
+        "full": "Dragons Lair",
+        "reduced": "Dragons Lair"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics",
+        "Kinect"
+    ],
+    "developer": "Digital Leisure",
+    "publisher": "Microsoft Studios",
+    "release_date": "2012-05-18",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Dragon's Lair, one of the most beloved arcade games of all time can now be enjoyed from the comfort of your couch. This fully arcade authentic version is fully playable with Kinect or the Xbox 360 controller so you can really show how well you wield Dirk's sword.  Included with this ultimate edition are bonus Avatar items, Gamerpics and even a full watch feature to sit back and enjoy Don Bluth's stunning animation.  In Dragon's Lair, you play the heroic Dirk the Daring, a valiant knight on a quest to rescue the fair princess from the clutches of an evil dragon! Find your way through the castle of a dark wizard, who has enchanted it with treacherous monsters and obstacles.  Lead on adventurer. Your quest awaits!",
+        "short": "Dragon's Lair, one of the most beloved arcade games of all time can now be enjoyed from the comfort of your couch. This fully arcade authentic version is fully playable with Kinect or the Xbox 360 controller so you can really show how well you wield Dirk's sword.   Included in this ultimate edition are Avatar items, Gamerpics and a full watch feature to enjoy Don Bluth's stunning animation.  Lead on adventurer. Your quest awaits!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

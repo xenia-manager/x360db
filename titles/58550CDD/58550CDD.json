@@ -1,0 +1,35 @@
+{
+    "id": "58550CDD",
+    "title": {
+        "full": "Rise of the Ravager",
+        "reduced": "Rise of the Ravager"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Gentleman Squid Studio",
+    "publisher": "Gentleman Squid Studio",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. A God desires to be reborn, an event that would signal the End of Time. In Rise of the Ravager, seek favor from the Old Ones to prevent His avatar from destroying all.  Play alone, or invite 3 friends to blast hordes of enemies utilizing a unique combat system based on color. Large boss fights, multiple landscapes, unfolding mythology - preventing the End of Time becomes an entertaining challenge.",
+        "short": "A God desires to be reborn, an event that would signal the End of Time. In Rise of the Ravager, seek favor from the Old Ones to prevent His avatar from destroying all.  Play alone, or invite 3 friends to blast hordes of enemies utilizing a unique combat system based on color. Large boss fights, multiple landscapes, unfolding mythology - preventing the End of Time becomes an entertaining challenge."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550cdd00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CDD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550cdd/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CDD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CDD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CDD_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CDD_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

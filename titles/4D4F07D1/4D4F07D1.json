@@ -1,0 +1,43 @@
+{
+    "id": "4D4F07D1",
+    "title": {
+        "full": "Raiden IV",
+        "reduced": "Raiden IV"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "MOSS",
+    "publisher": "MOSS",
+    "release_date": "2009-09-08",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   \"Raiden IV\", the latest version in the acclaimed arcade shooter has arrived on the Xbox 360!  Fight yoru way through countless enemy squadrons using four devastating weapons types.  Connect to Xbox LIVE to upload your scores and replays. Share and watch replays and see if you stack up against the best ACES in the world.  Get ready for action in this latest version with never before seen levels and content!",
+        "short": "\"Raiden IV\", the latest version in the acclaimed arcade shooter has arrived on the Xbox 360!  Fight yoru way through countless enemy squadrons using four devastating weapons types.  Connect to Xbox LIVE to upload your scores and replays. Share and watch replays and see if you stack up against the best ACES in the world.  Get ready for action in this latest version with never before seen levels and content!"
+    },
+    "media": [
+        {
+            "media_id": "451DB7F4",
+            "title": "Raiden IV",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "2D719243",
+            "title": "Raiden IV",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4f07d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4f07d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4f07d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4f07d1/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "id": "4E4D0862",
+    "title": {
+        "full": "DRAGON BALL XENOVERSE",
+        "reduced": "DBX"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting"
+    ],
+    "developer": "Dimps Corporation",
+    "publisher": "BANDAI NAMCO Games America Inc.",
+    "release_date": "2015-02-05",
+    "user_rating": "4.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Spanish, Portuguese.  The latest Dragon Ball game lets players customize and develop their own warrior from 5 races, including male or female, and more than 450 items to be used in online and offline adventures. Create the perfect avatar, learn new skills and train under the tutelage of your favorite Dragon Ball characters. Help Trunks fight new enemies and restore the original story of the series. Join 200+ players around the world in the Toki Toki City hub and fight with or against them, and compete in online tournaments!",
+        "short": "The latest Dragon Ball game lets players customize & develop their own warrior. Create the perfect avatar, train to learn new skills & help Trunks fight new enemies to restore the original story of the series. Join 200+ players around the world in the Toki Toki City hub & fight with or against them, and compete in online tournaments!"
+    },
+    "media": [
+        {
+            "media_id": "423344A1",
+            "title": "Dragon Ball Xenoverse",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "3AEC954D",
+            "title": "Dragon Ball Xenoverse",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0862/1033/screenlg19.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

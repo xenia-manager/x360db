@@ -1,0 +1,48 @@
+{
+    "id": "513107D9",
+    "title": {
+        "full": "MotoGP15",
+        "reduced": "MotoGP15"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Milestone S.r.l.",
+    "publisher": "Bandai Namco Games America Inc.",
+    "release_date": "2015-06-24",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  The thrilling MotoGP™ series is gearing up again! Hit the tracks with all riders from the 2015 and 2014 seasons as well as legendary champions from the past. Race on all the official tracks and put your skills to the test with new game modes such as Beat The Time, Real Events 2014 offline and Split Time online; build and personalise your team in the exciting Career mode, with even more engaging options than before. Will you make it to the podium?",
+        "short": "MotoGP™15 hits the track with all the riders and all the circuits from the 2015 season of the MotoGP™."
+    },
+    "media": [
+        {
+            "media_id": "33B889C9",
+            "title": "MotoGP 15",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d9/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d9/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d9/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d9/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

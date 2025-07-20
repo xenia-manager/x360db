@@ -1,0 +1,50 @@
+{
+    "id": "415607DA",
+    "title": {
+        "full": "Marvel Ultimate Alliance",
+        "reduced": "Marvel Ult Alliance"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Role Playing"
+    ],
+    "developer": "Raven Software",
+    "publisher": "Activision",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English and Italian.  Marvel: Ultimate Alliance lets players create their ultimate team from the largest superhero alliance ever as they engage in an epic quest to determine the fate of the Marvel universe.  Players can control their own completely unique team by selecting from the largest roster of legendary superheroes ever assembled in one game.  Through the epic campaign, the heroes will battle, team-up, and interact with over 140 characters from the Marvel universe and ultimately confront notorious villains. • Use a universal team upgrade system to balance your heroes' powers, or customize each member to maximize their effectiveness.  • In addition to engaging in the epic single-player storyline, you can converge in battle, online or offline, against the world's most evil Super Villains. Switch between cooperative and competitive mode to partner or challenge up to three other players.",
+        "short": "Marvel Ultimate Alliance lets players create their ultimate team from the largest superhero alliance ever as they engage in an epic quest to determine the fate of the Marvel universe.  Players can control their own completely unique team by selecting from the largest roster of legendary superheroes ever assembled in one game.  Through the epic campaign, the heroes will battle, team-up, and interact with over 140 characters from the Marvel universe and ultimately confront notorious villains."
+    },
+    "media": [
+        {
+            "media_id": "26848425",
+            "title": "Marvel: Ultimate Alliance",
+            "edition": "Original, Bundled with Xbox 360: Marvel Ultimate Alliance + Forza Motorsport 2",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "5A20A6D4",
+            "title": "Marvel: Ultimate Alliance: Special Edition",
+            "edition": "Platinum Hits",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607da/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607da/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607da/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607da/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607da/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607da/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607da/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607da/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": "573607E3",
+    "title": {
+        "full": "Rugby World Cup 2015",
+        "reduced": "Rugby World Cup 2015"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "HB Studios",
+    "publisher": "Bigben Interactive",
+    "release_date": "2015-09-04",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish. Experience the passion of rugby in the official 2015 Rugby World Cup video game. Choose from among the 20 teams competing in the World Cup and take part in the most prestigious rugby competition to win the Webb Ellis Cup.",
+        "short": "The Games on Demand version supports English, French, Italian, German, Spanish. Experience the passion of rugby in the official 2015 Rugby World Cup video game. Choose from among the 20 teams competing in the World Cup and take part in the most prestigious rugby competition to win the Webb Ellis Cup."
+    },
+    "media": [
+        {
+            "media_id": "59AD1D22",
+            "title": "Rugby World Cup 2015",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e3/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e3/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e3/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e3/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

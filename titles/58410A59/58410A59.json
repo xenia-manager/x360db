@@ -1,0 +1,37 @@
+{
+    "id": "58410A59",
+    "title": {
+        "full": "Lara Croft and the Guardian of Light",
+        "reduced": "Lara Croft GoL"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Crystal Dynamics",
+    "publisher": "Square Enix",
+    "release_date": "2010-08-05",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Experience the first ever co-op action-adventure game featuring Lara Croft.  Team up with a friend or go at it alone as you traverse and solve deadly traps, fight hordes of undead enemies, and collect over 60 artifacts and relics.  Lara Croft and the Guardian of Light offers fast-paced action and breathtaking visuals shown through an isometric view.   There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Experience the first ever co-op action-adventure game featuring Lara Croft.   Team up with a friend or go at it alone as you traverse and solve deadly traps, fight hordes of undead enemies, and collect over 60 artifacts and relics.  Lara Croft and the Guardian of Light offers fast-paced action and breathtaking visuals shown through an isometric view."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a59/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a59/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a59/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a59/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a59/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a59/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a59/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a59/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a59/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a59/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": "53440804",
+    "title": {
+        "full": "Dragon Age II J",
+        "reduced": "Dragon Age II J"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "BioWare",
+    "publisher": "株式会社スパイク",
+    "release_date": "2012-02-02",
+    "user_rating": null,
+    "description": {
+        "full": "ダークスポーンに侵略されたフェレルデンを救うべく、立ち上がったグレイ・ウォーデン。時は竜の時代9:30年、第一次ブライトから一千年以上が経ち、五度目のブライトが地上を襲ったのだ。そして、ブライトの戦火から逃れるべくロザリングの村から避難する一つの家族がいた。フェレルデンの北に位置する自由連邦の街、カークウォールまで逃げ延びた彼らであったが、この街もまた混沌の渦に飲み込まれつつあった。セダス大陸最大の教派「アンドラステ教会」が創り出した二つの組織「サークル・オブ・メジャイ」と「テンプル騎士団」の対立構造もまた、深刻化の一途を辿っていた。テンプル騎士の圧政、魔道士たちの反乱。両者に続く緊張状態はもはや限界を迎えようとしている。この世界に、再び血が流れようとしていた――",
+        "short": "ダークスポーンに侵略されたフェレルデンを救うべく、立ち上がったグレイ・ウォーデン。時は竜の時代9:30年、第一次ブライトから一千年以上が経ち、五度目のブライトが地上を襲ったのだ。そして、ブライトの戦火から逃れるべくロザリングの村から避難する一つの家族がいた。フェレルデンの北に位置する自由連邦の街、カークウォールまで逃げ延びた彼らであったが、この街もまた混沌の渦に飲み込まれつつあった。セダス大陸最大の教派「アンドラステ教会」が創り出した二つの組織「サークル・オブ・メジャイ」と「テンプル騎士団」の対立構造もまた、深刻化の一途を辿っていた。テンプル騎士の圧政、魔道士たちの反乱。両者に続く緊張状態はもはや限界を迎えようとしている。この世界に、再び血が流れようとしていた――"
+    },
+    "media": [
+        {
+            "media_id": "0675BBD1",
+            "title": "Dragon Age II",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440804/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440804/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440804/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440804/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440804/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440804/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440804/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440804/1041/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4541090B",
+                "title": "Dragon Age 2"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "id": "445007F0",
+    "title": {
+        "full": "ドリームクラブ",
+        "reduced": "ドリームクラブ"
+    },
+    "genre": [
+        "Music",
+        "Strategy & Simulation"
+    ],
+    "developer": "TAMSOFT",
+    "publisher": "D3 PUBLISHER",
+    "release_date": "2009-12-16",
+    "user_rating": "4.75",
+    "description": {
+        "full": "このゲームの取扱説明書をダウンロードするには、http://marketplace.xbox.com でゲームを探し、[取扱説明書] を選択してください。  ようこそドリームクラブへ！ 『DREAM C CLUB』は、ピュアな心の持ち主だけが入会できる完全会員制のクラブです。 そこではキュートなホストガールたちが素敵なお客様との出会いを待っています。 偶然にも『DREAM C CLUB』の会員となったアナタは、そこでどんな体験をし、誰とどんな恋に落ちるのでしょうか？ 会員パスの有効期限は1年間のみ、はたして…！！ 2次元半くらいの世界で、これまでにない恋愛シミュレーションゲームを、ごゆるりとお楽しみ下さい。 (CERO C)",
+        "short": "ようこそドリームクラブへ！ 『DREAM C CLUB』は、ピュアな心の持ち主だけが入会できる完全会員制のクラブです。 そこではキュートなホストガールたちが素敵なお客様との出会いを待っています。 偶然にも『DREAM C CLUB』の会員となったアナタは、そこでどんな体験をし、誰とどんな恋に落ちるのでしょうか？ 会員パスの有効期限は1年間のみ、はたして…！！ 2次元半くらいの世界で、これまでにない恋愛シミュレーションゲームを、ごゆるりとお楽しみ下さい。 (CERO C)"
+    },
+    "media": [
+        {
+            "media_id": "51D88ABA",
+            "title": "Dream C Club",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f0/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

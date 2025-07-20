@@ -1,0 +1,35 @@
+{
+    "id": "585507AB",
+    "title": {
+        "full": "FIREBIES The New Zombies",
+        "reduced": "FIREBIES The New Zombies"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "LatinSoulStudio",
+    "publisher": "LatinSoulStudio",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. If you think you know everything about zombie games. You should try this one!. You would be suprised!",
+        "short": "If you think you know everything about zombie games. You should try this one!. You would be suprised!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585507ab00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585507AB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585507ab/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585507AB_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507AB_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507AB_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507AB_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

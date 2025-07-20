@@ -1,0 +1,53 @@
+{
+    "id": "4B4F07D1",
+    "title": {
+        "full": "真三國無双４ Special",
+        "reduced": "真三國無双４ Special"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "コーエー",
+    "publisher": "Koei",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "コーエー",
+        "short": "コーエー"
+    },
+    "media": [
+        {
+            "media_id": "749DBC2B",
+            "title": "Shin Sangoku Musou 4 Special",
+            "edition": "Original",
+            "region": "Asia"
+        },
+        {
+            "media_id": "3D4B73BB",
+            "title": "Shin Sangoku Musou 4 Special",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d1/18441/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d1/18441/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d1/18441/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d1/18441/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d1/18441/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d1/18441/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d1/18441/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d1/18441/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d1/18441/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

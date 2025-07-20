@@ -1,0 +1,47 @@
+{
+    "id": "573607DB",
+    "title": {
+        "full": "Truck Racer",
+        "reduced": "Truck Racer"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Kylotonn Entertainment",
+    "publisher": "Bigben Interactive",
+    "release_date": "2013-11-01",
+    "user_rating": "0.00",
+    "description": {
+        "full": "Take the wheel of a truck hurtling along at top speed, blow away your opponents and claim victory! • Drive on 48 tracks in vehicles that can be completely destroyed. • Customize every aspect of your truck, from engine to paint. • Rise to all the challenges in Championship mode and upgrade your truck. • Take on your friends online or in split screen.",
+        "short": "Take the wheel of a truck hurtling along at top speed, blow away your opponents and claim victory! • Drive on 48 tracks in vehicles that can be completely destroyed. • Customize every aspect of your truck, from engine to paint. • Rise to all the challenges in Championship mode and upgrade your truck. • Take on your friends online or in split screen."
+    },
+    "media": [
+        {
+            "media_id": "16DE1239",
+            "title": "Truck Racer",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607db/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607db/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607db/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607db/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607db/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607db/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607db/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607db/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607db/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607db/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607db/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607db/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607db/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

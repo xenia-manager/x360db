@@ -1,0 +1,35 @@
+{
+    "id": "585505B4",
+    "title": {
+        "full": "Immunogen",
+        "reduced": "Immunogen"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "CNG Studios LLC",
+    "publisher": "CNG Studios LLC",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=0/3. Immunogen tests your memory skills by having you match pills to viruses.  Nice and easy right? Let’s see if you can focus when viruses multiply faster than you can think. Tired of the same old game? Levels, music, and backgrounds in Immunogen change every time you play so the playability is mind blowing. Really, mind blowing!",
+        "short": "Immunogen tests your memory skills by having you match pills to viruses.  Nice and easy right? Let’s see if you can focus when viruses multiply faster than you can think. Tired of the same old game? Levels, music, and backgrounds in Immunogen change every time you play so the playability is mind blowing. Really, mind blowing!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585505b400000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505B4_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505b4/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505B4_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505B4_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505B4_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505B4_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "58550464",
+    "title": {
+        "full": "Ask Angela",
+        "reduced": "Ask Angela"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "DigitalDNA",
+    "publisher": "DigitalDNA",
+    "release_date": null,
+    "user_rating": "2.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=2/3, Mature Content=2/3. I don't have a crystal ball, but Angela does! If you are lucky she will tell you your future.",
+        "short": "I don't have a crystal ball, but Angela does! If you are lucky she will tell you your future."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855046400000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550464_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550464/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550464_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550464_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

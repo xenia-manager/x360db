@@ -1,0 +1,35 @@
+{
+    "id": "585506EB",
+    "title": {
+        "full": "Avatar Banker Greed is Great",
+        "reduced": "Avatar Banker Greed is Great"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "BBQ Games",
+    "publisher": "BBQ Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=1/3, Mature Content=3/3. Bankers, you know you’re going to hell! But on the way there's still time to bankrupt a few countries and fill your pockets, you may even have time for a massage at the end of a hard day off loading your debts. A one to four player game where the only thing you have to do is ruin the world and live the dream! Play with a friend for ultimate enjoyment.",
+        "short": "Bankers, you know you’re going to hell! But on the way there's still time to bankrupt a few countries and fill your pockets, you may even have time for a massage at the end of a hard day off loading your debts. A one to four player game where the only thing you have to do is ruin the world and live the dream! Play with a friend for ultimate enjoyment."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585506eb/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506EB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506eb/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506EB_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506EB_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506EB_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506EB_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

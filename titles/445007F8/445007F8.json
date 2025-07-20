@@ -1,0 +1,48 @@
+{
+    "id": "445007F8",
+    "title": {
+        "full": "Nat Geo Wild Life",
+        "reduced": "Nat Geo Wild Life"
+    },
+    "genre": [
+        "Educational",
+        "Family",
+        "Puzzle & Trivia"
+    ],
+    "developer": "Gusto Games Ltd",
+    "publisher": "D3 Publisher",
+    "release_date": "2010-11-16",
+    "user_rating": null,
+    "description": {
+        "full": "Discover the deadliest creatures, astonishing aquatic life, and all the wonders of this amazing planet in Nat Geo Challenge! Wild Life, a highly interactive, fast-paced trivia game where up to four players can compete.  Nat Geo Challenge! Wild Life offers 15 different types of entertaining quizzes throughout quiz mode, deep exploration around a 3D globe during quest mode, and a card-battle stat attacks game.  The game includes over 5000 questions, more than 2000 stunning high-resolution images, and 90 minutes of high-definition video footage from the award-winning National Geographic archives.  ",
+        "short": "Discover the deadliest creatures and all the wonders of this amazing planet in Nat Geo Challenge! Wild Life, a fast-paced trivia game where up to four players can compete.  Nat Geo Challenge! Wild Life offers 15 different types of entertaining quizzes, deep exploration around a 3D globe, and a card-battle stat attacks game.  The game includes over 5000 questions, 2000 stunning high-resolution images, and 90 minutes of HD video footage from the award-winning National Geographic archives.  "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f8/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": "354807DC",
+    "title": {
+        "full": "MX VS ATV Supercross",
+        "reduced": "MX VS ATV Supercross"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Rainbow Studios",
+    "publisher": "Nordic Games GmbH",
+    "release_date": "2014-10-07",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand Version supports English, French, Italian, German and Spanish.  Rip, jump and scrub your way around 17 tracks and try to cross the finishing line first against more than 40 official riders and harvest all that motocross glory. Choose between bikes or ATVs, multiple game modes including Career, Single races and various local and online multiplayer events with up to 12 players. Perform amazing tricks to impress your fans or just \"whip\" over jumps to finish the race first. Customize your rider with items from more than 80 licensed motocross companies and whirl up dirt and dust on your way to victory.  17 Supercross Tracks for both MX and ATV riding Career mode with 3 series More than 80 licensed motocross companies Over 40 professional riders licensed to race against New improved physics and control system including reinterpreting the fan favorite “pre-load” Multiplayer with up to 12 players Splitscreen Mode for 2 local players Motoclub Depot with regular content updates",
+        "short": "Rip, jump and scrub your way around 17 tracks and try to cross the finishing line first against more than 40 official riders and harvest all that motocross glory. Perform amazing tricks to impress your fans, customize your rider with items from more than 80 licensed motocross companies and whirl up dirt and dust on your way to victory."
+    },
+    "media": [
+        {
+            "media_id": "7466DC08",
+            "title": "MX vs. ATV Supercross",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807dc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807dc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807dc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807dc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807dc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807dc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807dc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807dc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807dc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807dc/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807dc/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807dc/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807dc/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807dc/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807dc/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807dc/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

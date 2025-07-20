@@ -1,0 +1,30 @@
+{
+    "id": "41560871",
+    "title": {
+        "full": "Guitar Hero VIP Pass",
+        "reduced": "Guitar Hero VIP Pass"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "Seven Studios",
+    "publisher": "Activision, Inc",
+    "release_date": "2010-02-03",
+    "user_rating": "3.50",
+    "description": {
+        "full": "(Music Downloads Not Rated by the ESRB) Stay up to date with all things Guitar Hero® and Band Hero®, including all-new downloadable hits and classic tracks to expand your music library.",
+        "short": "Stay up to date with all things Guitar Hero® and Band Hero®, including all-new downloadable hits and classic tracks to expand your music library."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560871/1033/background.jpg",
+        "banner": "http://avatar.xboxlive.com/global/t.41560871/marketplace/0/41560871f0000001",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560871/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560871/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

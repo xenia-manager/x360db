@@ -1,0 +1,42 @@
+{
+    "id": "4B4E07E9",
+    "title": {
+        "full": "PES2008 US",
+        "reduced": "PES2008 US"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Konami Digital Entertainment Co., Ltd.",
+    "publisher": "Konami",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Pro Evolution Soccer 2008 is the most challenging soccer game yet! An all-new revolutionary AI system - “TeamVision” - has its eye on you, reacting to your every move and continually adjusting to your style of play. Think you’ve got a flawless gameplan? Think again!",
+        "short": "Pro Evolution Soccer 2008 is the most challenging soccer game yet! An all-new revolutionary AI system - “TeamVision” - has its eye on you, reacting to your every move and continually adjusting to your style of play. Think you’ve got a flawless gameplan? Think again!"
+    },
+    "media": [
+        {
+            "media_id": "4AAF24F9",
+            "title": "PES 2008: Pro Evolution Soccer",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e9/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4B4E07E6",
+                "title": "PES2008"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "5855050F",
+    "title": {
+        "full": "Modern Pirate Hunter Ep 1",
+        "reduced": "Modern Pirate Hunter Ep 1"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "ZXB Games",
+    "publisher": "ZXB Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=2/3. Modern Pirate Hunter: Ep 1 (Nash's Revenge) is a fast-paced sea combat game with a unique style of action and depth featuring intense dog-fights, a rich 3D world to explore, a multitude of weapons and upgrades, and a thrilling campaign.",
+        "short": "Modern Pirate Hunter: Ep 1 (Nash's Revenge) is a fast-paced sea combat game with a unique style of action and depth featuring intense dog-fights, a rich 3D world to explore, a multitude of weapons and upgrades, and a thrilling campaign."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855050f00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855050F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855050f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855050F_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855050F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855050F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855050F_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

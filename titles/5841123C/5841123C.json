@@ -1,0 +1,44 @@
+{
+    "id": "5841123C",
+    "title": {
+        "full": "Mini Ninjas Adventures",
+        "reduced": "Mini Ninjas Adventures"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Kinect"
+    ],
+    "developer": "Side Kick LTD",
+    "publisher": "Square Enix LTD",
+    "release_date": "2012-06-29",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Calling all ninjas!   Get ready to swipe, kick and battle your way through 21 levels of intense ninja action as you help Hiro rescue his master and fellow ninjas from the clutches of the evil Samurai Warlord. Be prepared to face a multitude of enemies that will push your skills to the limit and test your ingenuity.   So pack your ninja stars, sword and more and get ready for adventure...a Mini Ninjas Adventure.",
+        "short": "Calling all ninjas! Sharpen your throwing stars and leap into action to help Hiro rescue his friends in the most authentic Ninja experience available for Microsoft Kinect.   Mini Ninjas adventures puts you in the shoes of Hiro, who in the wake of unleashing the evil Samurai warlord on the world, must use all his ninja training to defeat the warlord's evil armies and rescue his friends. Prove you're ninja enough and help Hiro send the Evil Warlord back where he belongs."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123c/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123c/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123c/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123c/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123c/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123c/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123c/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

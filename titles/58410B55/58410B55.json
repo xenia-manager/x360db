@@ -1,0 +1,44 @@
+{
+    "id": "58410B55",
+    "title": {
+        "full": "Who Wants To Be A Millionaire Special Editions",
+        "reduced": "Who Wants To Be A Millionaire Special Editions"
+    },
+    "genre": [
+        "Family",
+        "Independent & Music Videos",
+        "TV Shows",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "doublesix games ",
+    "publisher": "Deep Silver",
+    "release_date": "2011-11-08",
+    "user_rating": null,
+    "description": {
+        "full": "Experience the tension, drama and excitement from the TV show on your way to the million. Challenge up to 3 of your friends. This all-new experience of the Who Wants To Be A Millionaire show lets you personalise your game with a constantly expanding library of special question packs. Each pack offers hundreds of new questions and some of them will even put you in completely themed studios.",
+        "short": "Be a contestant in one of the most famous TV shows of our time! Experience the tension, drama and excitement from the TV show on your way to the million."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b55/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b55/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b55/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b55/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b55/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b55/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b55/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b55/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b55/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "584113E3",
+                "title": "Who Wants To Be A Millionaire Special Editions"
+            }
+        ],
+        "related": []
+    }
+}

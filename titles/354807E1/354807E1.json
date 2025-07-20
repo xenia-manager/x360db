@@ -1,0 +1,40 @@
+{
+    "id": "354807E1",
+    "title": {
+        "full": "Full Spectrum Warrior",
+        "reduced": "Full Spectrum Warrior"
+    },
+    "genre": [
+        "Classics",
+        "Strategy & Simulation"
+    ],
+    "developer": "Pandemic Studios",
+    "publisher": "THQ Nordic",
+    "release_date": "2018-04-26",
+    "user_rating": null,
+    "description": {
+        "full": "The U.S. Army is the most powerful ground force in the entire world. The backbone of a ground invasion is the U.S. Army Infantry, and in the midst of combat, their skills, courage, and teamwork are put to the test.      While readiness continues to be the U.S. Army's top priority, how it goes about its business is changing. Full Spectrum Warrior began as a training aid for the U.S. Army to reinforce Army doctrine and team effort within the troops. It is the most realistic portrayal of Infantry-level urban warfare via unique tactical action gameplay. Players become the Squad Leader, commanding Alpha and Bravo squads. There is potential for danger down every alley, behind every window. Watch those angles folks, we've got a job to do here. Hooah!  Unique combination of tactical and action gameplay. Authentic implementation of U.S. Army Infantry doctrine. Simple control scheme lets you command eight soldiers in real time. Squad equipment reflects real weaponry and equipment currently in use by the U.S. Army.  Immersive urban environments with danger around every corner.",
+        "short": "The U.S. Army is the most powerful ground force in the entire world. The backbone of a ground invasion is the U.S. Army Infantry, and in the midst of combat, their skills, courage, and teamwork are put to the test."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354807e1/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

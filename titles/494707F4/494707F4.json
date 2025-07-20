@@ -1,0 +1,50 @@
+{
+    "id": "494707F4",
+    "title": {
+        "full": "Ghostbusters",
+        "reduced": "Ghostbusters"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Terminal Reality",
+    "publisher": "Atari",
+    "release_date": "2009-06-16",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   “Join the Ghostbusters in an all new adventure penned by the film’s original creators.  The classic cast is back in the newest installment of the Ghostbusters saga.   Strap on your proton pack and get ready for action, the Ghostbusters are back! A mysterious force is opening cross dimensional portals into a terrifying alternate dimension, and an all new a horde of supernatural terrors is pouring through to unleash their wrath on the big apple.  It’s up to the Ghostbusters to drive this threat back, and follow this evil to its extra-dimensional source deep in the Ghost World.    As the Ghostbusters new “experimental equipment technician” you will equip a variety of new weapons and gadgets, from the explosive Shock Blaster to the sneaky Slime Tether.  It will take brains, quick reflexes and guts to track, wrangle and trap the toughest ghosts in the underworld.  When there’s something strange in your neighborhood … Who you gonna Call?”",
+        "short": "“Join the Ghostbusters in an all new adventure penned by the film’s original creators.  The classic cast is back in the newest installment of the Ghostbusters saga.   Strap on your proton pack and get ready for action, the Ghostbusters are back! A mysterious force is opening cross dimensional portals into a terrifying alternate dimension, and an all new a horde of supernatural terrors is pouring through to unleash their wrath on the big apple.  It’s up to the Ghostbusters to drive this threat …"
+    },
+    "media": [
+        {
+            "media_id": "0672B336",
+            "title": "Ghostbusters: The Video Game",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707f4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707f4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707f4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707f4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707f4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707f4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707f4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707f4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707f4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707f4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707f4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707f4/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707f4/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707f4/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/42/69/42699b59-8fd3-4475-afe3-ae90b0db39e5.PDF?v=1#ghostbusters-en."
+        ]
+    }
+}

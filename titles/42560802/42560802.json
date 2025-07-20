@@ -1,0 +1,49 @@
+{
+    "id": "42560802",
+    "title": {
+        "full": "LEGO Pirates of the Caribbean The Video Game",
+        "reduced": "LEGO Pirates of the Caribbean The Video Game"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family"
+    ],
+    "developer": "TT Games",
+    "publisher": "Disney Interactive Studios",
+    "release_date": "2011-05-10",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  An action adventure game that brings to life the Pirates of the Caribbean world and all its colorful characters in LEGO brick form.  Players will experience all the memorable scenes from the first three films, as well as those in the upcoming fourth film, “Pirates of the Caribbean: On Stranger Tides,” in the humorous and quirky LEGO video games style.",
+        "short": "An action adventure game that brings to life the Pirates of the Caribbean world and all its colorful characters in LEGO brick form.  Players will experience all the memorable scenes from the first three films, as well as those in the upcoming fourth film, “Pirates of the Caribbean: On Stranger Tides,” in the humorous and quirky LEGO video games style."
+    },
+    "media": [
+        {
+            "media_id": "14C4699D",
+            "title": "LEGO Pirates of the Caribbean: The Video Game",
+            "edition": "Original, Classics",
+            "region": "Russia"
+        },
+        {
+            "media_id": "24B81DD2",
+            "title": "LEGO Pirates of the Caribbean: The Video Game",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560802/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560802/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560802/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560802/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560802/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560802/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560802/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560802/1033/screenlg16.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

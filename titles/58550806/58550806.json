@@ -1,0 +1,35 @@
+{
+    "id": "58550806",
+    "title": {
+        "full": "AardBloxX",
+        "reduced": "AardBloxX"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Bat Country Entertainment",
+    "publisher": "Bat Country Entertainment",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. AardBloxX is a 3D puzzle game designed to exercise your mind.  Blocks are sent at you which must be fit into flat planes at an increasing pace. You will have a blast playing this game, and it will help keep you mentally sharp and improve your spatial awareness!  With two modes for both new and advanced players, it allows you to tweak gameplay to your liking for the best puzzle experience.",
+        "short": "AardBloxX is a 3D puzzle game designed to exercise your mind.  Blocks are sent at you which must be fit into flat planes at an increasing pace. You will have a blast playing this game, and it will help keep you mentally sharp and improve your spatial awareness!  With two modes for both new and advanced players, it allows you to tweak gameplay to your liking for the best puzzle experience."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550806/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550806_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550806/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550806_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550806_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550806_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550806_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550DCE",
+    "title": {
+        "full": "Critter Skater",
+        "reduced": "Critter Skater"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "ipkerq32i",
+    "publisher": "ipkerq32i",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Puzzle running game. Find the end portal beat the game. Contains JRPG train your critter to defend you from wild attacks. can you train you critter to Level 99?",
+        "short": "Puzzle running game. Find the end portal beat the game. Contains JRPG train your critter to defend you from wild attacks. can you train you critter to Level 99?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550dce00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550DCE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550dce/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550DCE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DCE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DCE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DCE_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

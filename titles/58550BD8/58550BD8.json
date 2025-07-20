@@ -1,0 +1,35 @@
+{
+    "id": "58550BD8",
+    "title": {
+        "full": "Death Orb Wars",
+        "reduced": "Death Orb Wars"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Psyodronix",
+    "publisher": "Psyodronix",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Death Orb Wars is a 2D time attack game of reflexes and virtual agility where a player survives a barrage of increasingly difficult orbs as long as they can. Beware, each type of orb has properties of its own that make it unique to the rest. Keep your ship alive as long as you can and go for the high score!",
+        "short": "Death Orb Wars is a 2D time attack game of reflexes and virtual agility where a player survives a barrage of increasingly difficult orbs as long as they can. Beware, each type of orb has properties of its own that make it unique to the rest. Keep your ship alive as long as you can and go for the high score!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550bd800000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550BD8_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550bd8/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550BD8_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BD8_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BD8_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BD8_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

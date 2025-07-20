@@ -1,0 +1,35 @@
+{
+    "id": "58550B03",
+    "title": {
+        "full": "Tiles With Buddies",
+        "reduced": "Tiles With Buddies"
+    },
+    "genre": [
+        "Card & Board"
+    ],
+    "developer": "Gazido Gaming",
+    "publisher": "Gazido Gaming",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=2/3. Your favorite word game has now arrived on the Xbox! This overhauled classic now includes: TWO different game modes, GLOBAL high scores, in depth stat comparison with EVERY player you've EVER played, and TEN player ONLINE! Do you accept the challenge?",
+        "short": "Your favorite word game has now arrived on the Xbox! This overhauled classic now includes: TWO different game modes, GLOBAL high scores, in depth stat comparison with EVERY player you've EVER played, and TEN player ONLINE! Do you accept the challenge?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550b03/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B03_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b03/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B03_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B03_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B03_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B03_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": "555308CB",
+    "title": {
+        "full": "The Crew",
+        "reduced": "The Crew"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2014-12-02",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Crew is a revolutionary action-driving MMO that connects players online like never before. The Crew takes you and your friends on a wild ride across a massive, open-world recreation of the United States that is loaded with exciting challenges. Generous in content and tailored for the connected generation, The Crew sets a new benchmark  that redefines action-driving games.",
+        "short": "The Crew is a revolutionary action-driving MMO that connects players online like never before. The Crew takes you and your friends on a wild ride across a massive, open-world recreation of the United States that is loaded with exciting challenges. Generous in content and tailored for the connected generation, The Crew sets a new benchmark  that redefines action-driving gam"
+    },
+    "media": [
+        {
+            "media_id": "406B586F",
+            "title": "The Crew (Disc 1)",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "386CD1BE",
+            "title": "The Crew (Disc 2)",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cb/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cb/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cb/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cb/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cb/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cb/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cb/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cb/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cb/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

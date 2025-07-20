@@ -1,0 +1,45 @@
+{
+    "id": "565507D8",
+    "title": {
+        "full": "Eragon",
+        "reduced": "Eragon"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Platformer",
+        "Role Playing"
+    ],
+    "developer": "Stormfront Studios",
+    "publisher": "Vivendi Universal Games",
+    "release_date": "2008-01-01",
+    "user_rating": "3.25",
+    "description": {
+        "full": "<Insert display string text>",
+        "short": "<Insert display string text>"
+    },
+    "media": [
+        {
+            "media_id": "3D8D6CF1",
+            "title": "Eragon",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507d8/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "565507E0",
+                "title": "Eragon"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "58410AF9",
+    "title": {
+        "full": "Galaga Legions DX",
+        "reduced": "Galaga Legions DX"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "BANDAI NAMCO Entertainment Inc.",
+    "publisher": "BANDAI NAMCO Entertainment Inc.",
+    "release_date": "2011-06-29",
+    "user_rating": "3.75",
+    "description": {
+        "full": "GALAGA LEGIONS returns with greater features! Three years after the release of the sensational remake; GALAGA LEGIONS.  This year marks the 30th Anniversary of GALAGA, a sequel to a classic title! Like the previous sequel, the world renowned Pac-man CEDX development team has worked on the title! With more intuitive and smoother controls, experience the great gameplay of famous battles with immense swarms! Compete with your friends for high scores! Once you start playing, you won't be able to stop! Why don't you give it a try?",
+        "short": "A sequel to the sensational remake; GALAGA LEGIONS, is now available! With more intuitive and smoother controls, experience the great gameplay through famous battles with immense swarms!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af9/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af9/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af9/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410af9/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

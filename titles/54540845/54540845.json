@@ -1,0 +1,55 @@
+{
+    "id": "54540845",
+    "title": {
+        "full": "Sid Meiers Civilization Revolution",
+        "reduced": "Civilization Revolution"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Firaxis Games",
+    "publisher": "2K Games",
+    "release_date": "2008-07-07",
+    "user_rating": null,
+    "description": {
+        "full": "The Games on Demand version supports English, Japanese. Legendary game designer Sid Meier brings the greatest strategy game of all time to the Xbox 360 console! Built from the ground up for the Xbox 360 console, Sid Meier's Civilization Revolution challenges you to lead your chosen nation from the dawn of man to the space age on your quest to rule the world. Go head to head with history's greatest leaders as you wage war, conduct diplomacy, discover new technologies and build the most powerful empire the world has ever known. The famously addictive gameplay, endless ways to play and Xbox LIVE multiplayer competitions, matchmaking, Leaderboards, Achievements and downloadable content will keep you coming back for more.",
+        "short": "Legendary game designer Sid Meier brings the greatest strategy game of all time to the Xbox 360 console! Built from the ground up for the Xbox 360 console, Sid Meier's Civilization Revolution challenges you to lead your chosen nation from the dawn of man to the space age on your quest to rule the world. Go head to head with history's greatest leaders as you wage war, conduct diplomacy, discover new technologies and build the most powerful empire the world has ever known. The famously addictive …"
+    },
+    "media": [
+        {
+            "media_id": "75A7670C",
+            "title": "Sid Meier's Civilization Revolution",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540845/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540845/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540845/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540845/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540845/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540845/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540845/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540845/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540845/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540845/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540845/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540845/1041/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540845/1041/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540845/1041/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540845/1041/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540845/1041/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "545407E5",
+                "title": "Sid Meiers Civilization Revolution"
+            }
+        ],
+        "related": []
+    }
+}

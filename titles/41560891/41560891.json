@@ -1,0 +1,44 @@
+{
+    "id": "41560891",
+    "title": {
+        "full": "Bakugan DOTC",
+        "reduced": "Bakugan DOTC"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting"
+    ],
+    "developer": "NOW PRODUCTION Co., Ltd.",
+    "publisher": "Activision",
+    "release_date": "2010-10-26",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Dutch, Swedish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  For the first time ever, ultimate monsters come to life in all-out ultimate brawls. In Bakugan™: Defenders of the Core, you’ll seize real-time control of towering Bakugan as you unleash their fury in action-packed battles. A thrilling action game that merges fighting and stealth adventure gameplay into one awesome experience, you’ll control skyscraper-sized Bakugan in your quest to save the world’s cities from the evil Spectra and his Vexos armies. The fate of humankind is in your hands!",
+        "short": "For the first time ever, seize real-time control of towering Bakugan as you unleash their fury in action-packed ultimate battles! Do you have what it takes to save the Earth from the evil Spectra and his Vexos armies?"
+    },
+    "media": [
+        {
+            "media_id": "01048E5A",
+            "title": "Bakugan: Defenders of the Core",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560891/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560891/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560891/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560891/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560891/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560891/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560891/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560891/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560891/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

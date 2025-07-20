@@ -1,0 +1,54 @@
+{
+    "id": "513107D4",
+    "title": {
+        "full": "MXGP - The Official Motocross Videogame",
+        "reduced": "MXGP"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Milestone S.r.l.",
+    "publisher": "Milestone S.r.l.",
+    "release_date": "2014-03-28",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Finally: official Motocross is back! Put yourself to the test, racing in the two MXGP championships! In the MX2 category events, and in the gruelling MX1, join the riders on the tracks! Race on the official tracks, faithfully reproduced for the first time, and get noticed during your Debut Season to attract offers from official teams. Take full control of your bike with dual stick control: the game physics lets you control the bike and the rider separately. It's all in your hands!",
+        "short": "Race in the MX1 and MX2 categories on the official tracks, launch your career and take full control of your bike with Dual Stick Control!"
+    },
+    "media": [
+        {
+            "media_id": "345F97EB",
+            "title": "MXGP: The Official Motocross Videogame",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "19FF153A",
+            "title": "MXGP: The Official Motocross Videogame",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d4/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d4/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d4/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

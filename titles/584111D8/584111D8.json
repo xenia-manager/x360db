@@ -1,0 +1,45 @@
+{
+    "id": "584111D8",
+    "title": {
+        "full": "Skulls of the Shogun",
+        "reduced": "Skulls of the Shogun"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Strategy & Simulation"
+    ],
+    "developer": "17-BIT",
+    "publisher": "Microsoft Studios",
+    "release_date": "2799-12-30",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Skulls of the Shogun is an award-winning genre mashup of turn-based tactics and arcade action, featuring 8-10 hours of epic (but tongue-in-cheek) story-driven campaign, and multiplayer modes for 2-4 players. With fast-paced tactical elements, intense action, and eye-catching graphics and animation, 17-BIT is getting back to the pick-up-and-play fun of previous generations of gaming, where the depth unfolds as you play.",
+        "short": "Skulls of the Shogun is an award-winning genre mashup of turn-based tactics and arcade action, featuring 8-10 hours of epic (but tongue-in-cheek) story-driven campaign, and multiplayer modes for 2-4 players. With fast-paced tactical elements, intense action, and eye-catching graphics and animation, 17-BIT is getting back to the pick-up-and-play fun of previous generations of gaming, where the depth unfolds as you play."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d8/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d8/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d8/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d8/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d8/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d8/1033/screenlg13.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": "58411283",
+    "title": {
+        "full": "Dollar Dash",
+        "reduced": "Dollar Dash"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics"
+    ],
+    "developer": "Candygun Games",
+    "publisher": "Kalypso Media",
+    "release_date": "2012-10-31",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Find it, rob it, and keep it. Grab the cash in this fast and frenetic top down multiplayer versus game. Dollar Dash will have you shouting for joy, as you make a dash with the cash. You must attack, defend or outrun your competitors in any of the three game modes (Dollar Dash, Save the Safe or Hit’n’Run) using unique and comedic tactics.  Stand out from the crowd by customising your character, upgrading your favourite weapon, earning perks and unlocking achievements.  You can’t stand still for a second as combat is crazy and money changes hands frequently.  Choose your weapons carefully as you challenge your friends to become the best thief in town and laugh out loud as you smash them with a huge Bolder, peck them with a Mag Pie, while protecting yourself in Jelly! ",
+        "short": "Find it, rob it, and keep it. Grab the cash in this fast and frenetic top down multiplayer versus game. Dollar Dash will have you shouting for joy, as you make a dash with the cash. You must attack, defend or outrun your competitors in any of the three game modes (Dollar Dash, Save the Safe or Hit’n’Run) using unique and comedic tactics."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411283/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411283/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411283/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411283/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411283/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411283/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411283/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411283/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411283/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411283/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411283/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411283/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411283/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411283/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

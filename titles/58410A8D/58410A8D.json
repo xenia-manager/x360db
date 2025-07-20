@@ -1,0 +1,56 @@
+{
+    "id": "58410A8D",
+    "title": {
+        "full": "DEAD RISING 2 CASE ZERO",
+        "reduced": "DR2 CASE ZERO"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Blue Castle Games Inc.",
+    "publisher": "CAPCOM CO., LTD.",
+    "release_date": "2010-08-12",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Get a taste of what Dead Rising 2 has to offer in this full-featured prologue! Chuck Greene and his daughter Katey have barely escaped the Las Vegas zombie outbreak with their lives. They arrive in the lonely desert town of Still Creek looking for some rest, but unfortunately there is no rest to be had as this sleepy town has become overrun with zombies. Chuck must kill zombies, rescue survivors and escape from the zombie nightmare that is Still Creek before time runs out. Any PP, clothing, and Combo Cards gained in CASE ZERO will carry over into your Dead Rising 2 game! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Prime your blood lust with the prologue to the eagerly awaited Dead Rising 2! Chuck Greene, professional motocross rider, must flee from the zombie hordes destroying Las Vegas with his young daughter Katey, who was bitten and infected in the outbreak.  But trouble leaves them stranded in the small town of Still Creek, Nevada. Chuck must find medication to keep Katey alive and figure out how to escape before the military arrives to quarantine the infected, all while battling plenty of zombies. F…"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a8d/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "434307EC",
+                "title": "Dead Rising 2"
+            }
+        ],
+        "related": []
+    }
+}

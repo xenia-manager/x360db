@@ -1,0 +1,44 @@
+{
+    "id": "584111EC",
+    "title": {
+        "full": "NBA JAM On Fire Edition",
+        "reduced": "NBA JAM On Fire Edition"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts",
+    "release_date": "2011-10-04",
+    "user_rating": "4.00",
+    "description": {
+        "full": "HE'S ON FIRE! NBA JAM: On Fire Edition from EA SPORTS™ is heating up and available for download!  NBA JAM: On Fire Edition is everything you love about NBA JAM, dialed up to 11! Featuring bigger rosters, 30+ unlockable secret teams, legendary players, monster dunks,  all-new online modes, and so much more. Of course, the voice of NBA JAM – Tim Kitzrow – is back with tons more original commentary.  Download today,  you’ll be on fire in no time!   ",
+        "short": "HE'S ON FIRE! NBA JAM: On Fire Edition from EA SPORTS™ is heating up and available for download! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111ec/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111ec/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111ec/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111ec/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111ec/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111ec/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111ec/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111ec/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111ec/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111ec/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111ec/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111ec/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "58410A7D",
+                "title": "NBA JAM"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": "464F0803",
+    "title": {
+        "full": "Sniper Elite 3",
+        "reduced": "Sniper Elite 3"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Rebellion Developments Ltd",
+    "publisher": "505 Games Srl",
+    "release_date": "2014-06-27",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Portuguese, Russian.   NORTH AFRICA 1942.  Germany plans to build a wonder weapon – with the power to crush any Allied forces in its path.  Sabotage their plans or the resistance is over.  As sniper Karl Fairburne you must : Observe.  Plan.  Execute.  Adapt.  Stalk the shadows in silence or go loud in the blink of an eye. Relocate away from danger and hunt on your own terms in expansive non linear levels, with more choice, longer shots and verticality than ever before.  One bullet can change history.",
+        "short": "NORTH AFRICA 1942.  Germany is building a wonder weapon with the power to crush any Allied forces. The infamous Afrika Korps stand in your way. Sabotage their plans or the resistance is over. "
+    },
+    "media": [
+        {
+            "media_id": "7DB2757E",
+            "title": "Sniper Elite III",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "4F384D1A",
+            "title": "Sniper Elite III: Ultimate Edition",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f0803/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f0803/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f0803/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f0803/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f0803/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f0803/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f0803/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f0803/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f0803/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f0803/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

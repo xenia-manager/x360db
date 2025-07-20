@@ -1,0 +1,37 @@
+{
+    "id": "494707E1",
+    "title": {
+        "full": "Asterix Olympic Games",
+        "reduced": "Asterix Olympic Games"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Etranges libellules",
+    "publisher": "Atari",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Asterix and Obelix face a daunting challenge: win all the Olympic events to ridicule Caesar's son, Brutus, who is in possession of a terrible secret weapon… he has found a way to gather to him all the Roman legionaries in the Universe…",
+        "short": "Asterix and Obelix face a daunting challenge: win all the Olympic events to ridicule Caesar's son, Brutus, who is in possession of a terrible secret weapon… he has found a way to gather to him all the Roman legionaries in the Universe…"
+    },
+    "media": [
+        {
+            "media_id": "10BAC6D4",
+            "title": "Asterix at the Olympic Games",
+            "edition": "Original",
+            "region": "Canada"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707e1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707e1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707e1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707e1/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

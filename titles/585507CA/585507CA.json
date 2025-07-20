@@ -1,0 +1,35 @@
+{
+    "id": "585507CA",
+    "title": {
+        "full": "Zombie Football Carnage",
+        "reduced": "Zombie Football Carnage"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Milkstone Studios S.L.",
+    "publisher": "Milkstone Studios S.L.",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. Violence at its finest! Fight your way through endless waves of baddies decided to rip you apart. Upgrade your gear in the shop and use more than 15 weapons at your disposal to score a bloody touchdown! This indie game has been developed by Milkstone Studios.",
+        "short": "Violence at its finest! Fight your way through endless waves of baddies decided to rip you apart. Upgrade your gear in the shop and use more than 15 weapons at your disposal to score a bloody touchdown! This indie game has been developed by Milkstone Studios."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585507ca00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585507CA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585507ca/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585507CA_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507CA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507CA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507CA_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

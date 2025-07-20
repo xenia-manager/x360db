@@ -1,0 +1,62 @@
+{
+    "id": "55530879",
+    "title": {
+        "full": "Assassins Creed Revelations",
+        "reduced": "Assassins Creed Revelations"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "release_date": "2011-11-15",
+    "user_rating": "4.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English, French, Italian, German, Spanish.  When a man’s battles have been won and his enemies destroyed, what then? Where does he find purpose and meaning? To find answers to these questions, Ezio Auditore will travel east in search of the lost library of the Assassins.  In Assassin’s Creed® Revelations, master assassin Ezio Auditore walks in the footsteps of the legendary mentor Altair, on a journey of discovery and revelation. It is a perilous path – one that will take Ezio to Constantinople, the heart of the Ottoman Empire, where a growing army of Templars threatens to destabilize the region.  In addition to Ezio’s award-winning story, a refined and expanded online multiplayer experience returns with more modes, more maps and more characters, allowing you to test your assassin skills against others from around the world. Online features are no longer available for this product.",
+        "short": "In Assassin’s Creed® Revelations, master assassin Ezio Auditore walks in the footsteps of the legendary mentor Altair, on a journey of discovery and revelation. It is a perilous path – one that will take Ezio to Constantinople, the heart of the Ottoman Empire, where a growing army of Templars threatens to destabilize the region.  In addition to Ezio’s award-winning story, a refined and expanded online multiplayer experience returns with more modes, more maps and more characters."
+    },
+    "media": [
+        {
+            "media_id": "52F94282",
+            "title": "Assassin's Creed: Revelations",
+            "edition": "Classics, Assassin's Creed: Ezio Trilogy, Assassin's Creed: Heritage Collection, Signature Edition, Special Edition",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "448936A3",
+            "title": "Assassin's Creed: Revelations",
+            "edition": "Original",
+            "region": "Korea"
+        },
+        {
+            "media_id": "37997E5B",
+            "title": "Assassin's Creed: Revelations",
+            "edition": "Original, Classics, Special Edition",
+            "region": "Europe, Australia"
+        },
+        {
+            "media_id": "357833EF",
+            "title": "Assassin's Creed: Revelations",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530879/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530879/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530879/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530879/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530879/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530879/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530879/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530879/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/55530879/AssassinsCreedRevelations_Manual_EN_Revised.pdf"
+        ]
+    }
+}

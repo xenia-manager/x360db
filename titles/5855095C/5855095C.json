@@ -1,0 +1,35 @@
+{
+    "id": "5855095C",
+    "title": {
+        "full": "Primary Potions",
+        "reduced": "Primary Potions"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Hydra Games Studios",
+    "publisher": "Hydra Games Studios",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. Awoken from a thoroughly traumatic event, you are a young mage who has endeared themselves to the Saeron, the greatest alchemist in the land! Luckily she seems to like you, so she takes you in and teaches you the art of alchemy. Through training and hard work, you learn the skills of an alchemist, mixing potions and filling the orders of the kingdom, while making money like any good shopkeeper.",
+        "short": "Awoken from a thoroughly traumatic event, you are a young mage who has endeared themselves to the Saeron, the greatest alchemist in the land! Luckily she seems to like you, so she takes you in and teaches you the art of alchemy. Through training and hard work, you learn the skills of an alchemist, mixing potions and filling the orders of the kingdom, while making money like any good shopkeeper."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855095c/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855095C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855095c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855095C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855095C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855095C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855095C_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

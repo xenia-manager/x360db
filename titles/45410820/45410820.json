@@ -1,0 +1,61 @@
+{
+    "id": "45410820",
+    "title": {
+        "full": "NHL 08",
+        "reduced": "NHL 08"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts Canada",
+    "publisher": "Electronic Arts",
+    "release_date": "2008-01-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "EA SPORTS NHL® 08  – continues to lead the charge in the next gen era with advancements in AI intelligence, innovative controls, online depth and an unmatched level of authenticity to the sport. The revolutionary Skill Stick System evolves in NHL 08 and delivers an unparalleled level of control. An all-new deking system, enhanced analog speed control and a new skating engine give you the precision and fluidity to play like you would on the ice.  No game is ever the same with NHL® 08 .",
+        "short": "EA SPORTS NHL® 08  – continues to lead the charge in the next gen era with advancements in AI intelligence, innovative controls, online depth and an unmatched level of authenticity to the sport. The revolutionary Skill Stick System evolves in NHL 08 and delivers an unparalleled level of control. An all-new deking system, enhanced analog speed control and a new skating engine give you the precision and fluidity to play like you would on the ice.  No game is ever the same with NHL® 08 ."
+    },
+    "media": [
+        {
+            "media_id": "45CE10FB",
+            "title": "NHL 08",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "601CA0DD",
+            "title": "NHL 08",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410820/1033/screenlg17.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

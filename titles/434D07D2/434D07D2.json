@@ -1,0 +1,49 @@
+{
+    "id": "434D07D2",
+    "title": {
+        "full": "LMA Manager 2007",
+        "reduced": "LMA Manager 2007"
+    },
+    "genre": [
+        "Sports & Recreation",
+        "Strategy & Simulation"
+    ],
+    "developer": "Codemasters",
+    "publisher": "Codemasters Software Company Limited",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "Manage your football team to glory. Experience the highs and lows of a real football manager. Create your tactics, train your players and play the transfer market to create a team of winners then lead them to the pitch in action-packed 3D matches. Defeat or glory is in your hands. A huge footballing world of over 1000 clubs, fully up to date with the January 2006 transfers.",
+        "short": "Manage your football team to glory. Experience the highs and lows of a real football manager. Create your tactics, train your players and play the transfer market to create a team of winners then lead them to the pitch in action-packed 3D matches. Defeat or glory is in your hands. A huge footballing world of over 1000 clubs, fully up to date with the January 2006 transfers."
+    },
+    "media": [
+        {
+            "media_id": "4A6F374B",
+            "title": "LMA Manager 2007",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07d2/2057/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07d2/2057/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07d2/2057/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07d2/2057/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07d2/2057/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07d2/2057/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07d2/2057/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07d2/2057/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07d2/2057/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07d2/2057/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

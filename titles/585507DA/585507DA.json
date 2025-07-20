@@ -1,0 +1,35 @@
+{
+    "id": "585507DA",
+    "title": {
+        "full": "Gyroball",
+        "reduced": "Gyroball"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Eccentric Duck",
+    "publisher": "Eccentric Duck",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Race across the six faces of the cube - dodging your opponents spheres while trying to cut them off with your own.  Compete against your friends on Xbox Live to see who will be the champion.  To really test your skills, play in survival mode where the AI are invincible and your challenge is to stay alive as long as possible.",
+        "short": "Race across the six faces of the cube - dodging your opponents spheres while trying to cut them off with your own.  Compete against your friends on Xbox Live to see who will be the champion.  To really test your skills, play in survival mode where the AI are invincible and your challenge is to stay alive as long as possible."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585507da/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585507DA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585507da/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585507DA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507DA_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507DA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507DA_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

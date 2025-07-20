@@ -1,0 +1,35 @@
+{
+    "id": "5855087B",
+    "title": {
+        "full": "Akane the Kunoichi",
+        "reduced": "Akane the Kunoichi"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Haruneko",
+    "publisher": "Haruneko",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=3/3, Mature Content=0/3. You are Akane, a Kunoichi ninja secretely loving her master Goro, a noble samurai. One day Goro is kidnapped by the evil Hiromi and her minions – you have to rescue him, but it won't be an easy task! Many enemies will try to stop you, and you'll have to be brave to fight against the evil ninjas and huge monsters loyal to Hiromi.",
+        "short": "You are Akane, a Kunoichi ninja secretely loving her master Goro, a noble samurai. One day Goro is kidnapped by the evil Hiromi and her minions – you have to rescue him, but it won't be an easy task! Many enemies will try to stop you, and you'll have to be brave to fight against the evil ninjas and huge monsters loyal to Hiromi."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855087b/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855087B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855087b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855087B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855087B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855087B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855087B_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

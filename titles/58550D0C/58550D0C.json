@@ -1,0 +1,35 @@
+{
+    "id": "58550D0C",
+    "title": {
+        "full": "Mini Wizards",
+        "reduced": "Mini Wizards"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Raoghard",
+    "publisher": "Raoghard",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Miniaturize your Xbox Live Avatar and battle against other Mini Wizards in this spell casting action game. Includes LIVE multiplayer and single player survival mode with global scoreboard.",
+        "short": "Miniaturize your Xbox Live Avatar and battle against other Mini Wizards in this spell casting action game. Includes LIVE multiplayer and single player survival mode with global scoreboard."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550d0c/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D0C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d0c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D0C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D0C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D0C_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D0C_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

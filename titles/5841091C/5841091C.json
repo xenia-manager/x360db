@@ -1,0 +1,41 @@
+{
+    "id": "5841091C",
+    "title": {
+        "full": "METEOS WARS",
+        "reduced": "METEOS WARS"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Q ENTERTAINMENT Inc.",
+    "publisher": "Q Entertainment",
+    "release_date": "2010-01-04",
+    "user_rating": "3.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Take a ride through this intergalactic journey where you slide, stack and ignite your blocks to blast away the world-ending Meteos! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "(Online Interactions Not Rated by the ESRB) Take a ride through this intergalactic journey where you slide, stack and ignite your blocks to blast away the world-ending Meteos!  Only you can stop them from falling and crushing your planet.  Master the combo links and power-ups to challenge your friends in intense multiplayer sessions."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091c/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091c/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091c/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091c/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091c/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

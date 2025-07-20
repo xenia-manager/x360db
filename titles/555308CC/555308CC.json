@@ -1,0 +1,45 @@
+{
+    "id": "555308CC",
+    "title": {
+        "full": "Just Dance Disney Party 2",
+        "reduced": "Just Dance Disney Party 2"
+    },
+    "genre": [
+        "Family",
+        "Music"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2015-10-22",
+    "user_rating": "3.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese.  Just Dance and Disney are back together, bringing the greatest dance game for the whole family with Just Dance®: Disney Party 2! Be ready for: ♦ The best songs from this summer’s hit movies: Dance to songs from Descendants including “Evil Like Me”, and tracks from Teen Beach Movie and Teen Beach 2, with favorites like “Cruisin’ for a Bruisin’” and new hits like “Gotta Be Me”!  ♦ The hottest tracks from top Disney Channel shows: Bust a move to songs from Violetta, Girl Meets World, K.C. Undercover, and much more!  ♦ New choreographies inspired by Disney Channel: Enjoy the best dance moves, costumes, and set designs inspired by your beloved shows and movies!  ♦ Party and family fun: Play cooperatively in multiplayer for the highest team score!  ♦ Parents’ corner: Enjoy your favorite tools, including shuffle, fitness tracker, and built-in and custom playlists!  ♦ Just Create mode returns: Create your own dance routines and be your own Disney Party star! ",
+        "short": "Just Dance and Disney are back with Just Dance®: Disney Party 2! Be ready for: ♦ Best songs from this summer’s hit movies: Descendants, Teen Beach Movie and Teen Beach 2! ♦ Tracks from top Disney channel shows: Violetta, Girl Meets World, K.C. Undercover, and much more! ♦ New choreographies inspired by Disney Channel! ♦ Party and family fun: achieve the highest team score in co-op mode! ♦ Just Create: create your own dance routines and be a Disney Party star!"
+    },
+    "media": [
+        {
+            "media_id": "1B505C2C",
+            "title": "Just Dance: Disney Party 2",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cc/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550C0E",
+    "title": {
+        "full": "Misfit Battles",
+        "reduced": "Misfit Battles"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Honor Bound Studios LLC",
+    "publisher": "Honor Bound Studios LLC",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Inspired by Shigeru Miyamoto’s Mario Bros title, Misfit Battles improves upon its spiritual predecessor by adding increased multi-player functionality, levels, monsters, and artwork culminating in the ultimate platform battle based game! *All first year proceeds go to Child’s Play charity which helps improve the lives of children in hospitals through sharing the joys of playing video games",
+        "short": "Inspired by Shigeru Miyamoto’s Mario Bros title, Misfit Battles improves upon its spiritual predecessor by adding increased multi-player functionality, levels, monsters, and artwork culminating in the ultimate platform battle based game! *All first year proceeds go to Child’s Play charity which helps improve the lives of children in hospitals through sharing the joys of playing video games"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550c0e00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C0E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c0e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C0E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C0E_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C0E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C0E_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

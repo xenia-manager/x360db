@@ -1,0 +1,39 @@
+{
+    "id": "4D538A65",
+    "title": {
+        "full": "Demo Nike Kinect Training",
+        "reduced": "Demo Nike Kinect Training"
+    },
+    "genre": [
+        "Kinect",
+        "Sports & Recreation"
+    ],
+    "developer": "Sumo Digital Ltd",
+    "publisher": "Microsoft",
+    "release_date": "2012-10-11",
+    "user_rating": "3.25",
+    "description": {
+        "full": "For the elite or the everyday athlete NIKE+ Kinect Training delivers a personalized program that evolves as you do. Minimum required play space for game: 8 ft. (2.4 m).",
+        "short": "For the elite or the everyday athlete NIKE+ Kinect Training delivers a personalized program that evolves as you do. Minimum required play space for game: 8 ft. (2.4 m)."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a65/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a65/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a65/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a65/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a65/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a65/1033/screenlg2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D53090F",
+                "title": "Nike+ Kinect Training"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": "55530848",
+    "title": {
+        "full": "Tom Clancys HAWX 2",
+        "reduced": "Tom Clancys HAWX 2"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft ",
+    "release_date": "2010-08-29",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Tom Clancy's H.A.W.X.® 2 places you in the shoes of an elite pilot with access to the most advanced and most deadly aircraft ever built ! The action packed missions take you around the world, in a race against the clock to uncover a conspiracy that threatens the safety of the world.  Dogfights are visceral, up close and personal, with engagements that bring enemies closer to you than you've ever seen before. But dogfights aren't everything: H.A.W.X.® 2 brings you all the iconic experiences that make up the life of a pilot: take off and landing, aircraft carriers and air bases bustling with life, mid-air refueling, night vision air raids, precision bombing.  New experiences are added by the new vehicles, like the devastating AC-130U Spooky or the surveillance UAVs that are used in espionage missions. H.A.W.X.® 2 features a fully playable jump in coop campaign and adversarial multiplayer where players fight each other and additional units across several uniquely set up missions.",
+        "short": "Tom Clancy's H.A.W.X.® 2 places you in the shoes of an elite pilot with access to the most advanced and most deadly aircraft ever built.  The action packed missions take you around the world, in a race against the clock to uncover a conspiracy that threatens the safety of the world.  Dogfights are visceral, up close and personal, with engagements that bring enemies closer to you than you've ever seen before. "
+    },
+    "media": [
+        {
+            "media_id": "63CD8930",
+            "title": "Tom Clancy's H.A.W.X. 2",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "0251DC2D",
+            "title": "Tom Clancy's H.A.W.X. 2",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "3F87C410",
+            "title": "Tom Clancy's H.A.W.X. 2",
+            "edition": "Original",
+            "region": "UK"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530848/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530848/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530848/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530848/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

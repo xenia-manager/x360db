@@ -1,0 +1,46 @@
+{
+    "id": "4B4D07FE",
+    "title": {
+        "full": "Escape Dead Island",
+        "reduced": "Escape Dead Island"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Fatshark",
+    "publisher": "Deep Silver",
+    "release_date": "2014-11-18",
+    "user_rating": "3.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Escape Dead Island is a Survival-Mystery adventure that follows Cliff Calo, who sets sail to document the unexplained events on Banoi. Arriving on the island of Narapela, he finds that not everything is as it seems. This title lets players delve into the Dead Island universe and unravel the origins of the zombie outbreak. Escape is just the beginning.",
+        "short": "Escape Dead Island is a Survival-Mystery adventure that lets players delve into the Dead Island universe and unravel the origins of the zombie outbreak."
+    },
+    "media": [
+        {
+            "media_id": "3D77A3F4",
+            "title": "Escape Dead Island",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fe/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fe/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fe/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fe/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fe/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fe/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fe/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fe/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fe/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fe/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fe/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fe/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

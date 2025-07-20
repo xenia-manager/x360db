@@ -1,0 +1,43 @@
+{
+    "id": "4B4F07E3",
+    "title": {
+        "full": "WARRIORS OROCHI 2",
+        "reduced": "WARRIORS OROCHI 2"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "TECMO KOEI GAMES CO., LTD.",
+    "publisher": "TECMO KOEI AMERICA Corporation",
+    "release_date": "2008-01-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, German.  Warriors Orochi is back! New dangers threaten the new-found peace of this strange land!",
+        "short": "Warriors Orochi is back! New dangers threaten the new-found peace of this strange land!"
+    },
+    "media": [
+        {
+            "media_id": "3D32F1BD",
+            "title": "Musou Orochi: Maou Sairin",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "4454AE3B",
+            "title": "Warriors Orochi 2",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07e3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07e3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07e3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07e3/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "id": "4343081D",
+    "title": {
+        "full": "Resident Evil Operation Raccoon City",
+        "reduced": "Resident Evil Operation Raccoon City"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Slant Six",
+    "publisher": "Capcom ",
+    "release_date": "2012-03-20",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English, French, Italian, German, Spanish, Dutch, Russian.  Operation Raccoon City is a unique shooter experience; a brutal three way battle set in the terrifying and twisted world of Resident Evil. After the release of the deadly T-virus biological weapon, virtually the entire population of Raccoon City’s is now dead or transformed into horrific zombies. The Umbrella Corporation cannot allow the extent of their involvement to become public.  For the first time, you play as Umbrella’s crack paramilitary unit Umbrella Security Service (USS), sent in to the dying city to ensure the truth remains buried. Zombie hordes and vicious bio-organic weapons flood the city but a bigger threat to your mission exists…. a government ‘Spec Ops’ unit has been sent in to hunt you down and capture the evidence you’re fighting to destroy.   ",
+        "short": "Operation Raccoon City is a unique and brutal three way shooter set in the terrifying world of Resident Evil. Play as Umbrella Security Service, sent in to the city to cover up Umbrella crimes.  Zombies and bio-organic weapons flood the city but a bigger threat to your mission exists: a government ‘Spec Ops’ unit has been sent in to hunt you down and capture the evidence you’re fighting to destroy "
+    },
+    "media": [
+        {
+            "media_id": "7E76E32D",
+            "title": "Biohazard: Operation Raccoon City",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "335F4A76",
+            "title": "Resident Evil: Operation Raccoon City",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "7FBD12E7",
+            "title": "Resident Evil: Operation Raccoon City",
+            "edition": "Original",
+            "region": "Germany"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081d/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081d/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081d/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4343081d/ResidentEvilORC_Manual_EN_Revised.pdf"
+        ]
+    }
+}

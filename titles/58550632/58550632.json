@@ -1,0 +1,35 @@
+{
+    "id": "58550632",
+    "title": {
+        "full": "Snake Death",
+        "reduced": "Snake Death"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Hypercube Arcade",
+    "publisher": "Hypercube Arcade",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. In a world overrun by mongooses, one snake must battle through nine dangerous pixilated levels to survive. This 1-bit game was originally developed for the TI-83 and developed for XNA in under 60 minutes.",
+        "short": "In a world overrun by mongooses, one snake must battle through nine dangerous pixilated levels to survive. This 1-bit game was originally developed for the TI-83 and developed for XNA in under 60 minutes."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550632/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550632_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550632/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550632_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550632_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550632_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550632_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

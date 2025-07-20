@@ -1,0 +1,42 @@
+{
+    "id": "54510821",
+    "title": {
+        "full": "Conan",
+        "reduced": "Conan"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "Nihilistic Software, Inc.",
+    "publisher": "THQ",
+    "release_date": "2008-01-01",
+    "user_rating": "0.00",
+    "description": {
+        "full": "If it bleeds, you can kill it. Become Conan the Barbarian, the greatest sword-swinging killing machine ever. Use any weapon and anything else you can find in the deepest combat system of the next generation.",
+        "short": "If it bleeds, you can kill it. Become Conan the Barbarian, the greatest sword-swinging killing machine ever. Use any weapon and anything else you can find in the deepest combat system of the next generation."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510821/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510821/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510821/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510821/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510821/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510821/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510821/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510821/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510821/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "545107DA",
+                "title": "Conan"
+            }
+        ],
+        "related": []
+    }
+}

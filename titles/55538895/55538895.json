@@ -1,0 +1,47 @@
+{
+    "id": "55538895",
+    "title": {
+        "full": "PowerUp Heroes Demo",
+        "reduced": "PowerUp Heroes Demo"
+    },
+    "genre": [
+        "Fighting",
+        "Kinect"
+    ],
+    "developer": "Ubisoft Quebec",
+    "publisher": "Ubisoft",
+    "release_date": "2012-01-23",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The universe is in peril, and it’s up to you to annihilate the forces of evil.   PowerUp Heroes is the ultimate full-body superhero fighting game for Kinect. Live out your dreams of becoming a hero by transforming your X360 avatar into a superhero, infusing it with powers and unleashing! Take on opponents each charged with a different set of deadly powers. Defeat them in battle to seize their super suits, strip them of their abilities, and wield their power for your next fight! Use your arms, legs and full body to dodge, punch, kick and launch deadly super attacks.   Collect up to 20 super suits and master over 40 different super assaults.  Battle it out solo, in two-player versus or go online to face-off against other aspiring superheroes. Collect rewards and achievements and display your dominance with online leaderboards.   PowerUp and Unleash!",
+        "short": "Live out your dreams of becoming the ultimate hero by transforming your Xbox360 avatar into a superhero, infusing it with powers and unleashing!   Use your entire body to dodge, punch, kick and launch deadly super attacks. Defeat your opponents in battle and strip them of their abilities, seize their super suits and wield their power in your next fight!    Battle it out solo, in two-player versus or go online and face-off against other aspiring superheroes and dominate the competition."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538895/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538895/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538895/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538895/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538895/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538895/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538895/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538895/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538895/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538895/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538895/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538895/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538895/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538895/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5553086B",
+                "title": "PowerUp Heroes"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": "45410980",
+    "title": {
+        "full": "Tiger Woods PGA TOUR 13 Early Release",
+        "reduced": "Tiger Woods PGA TOUR 13 Early Release"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA SPORTS",
+    "publisher": "Electronic Arts",
+    "release_date": "2012-03-24",
+    "user_rating": null,
+    "description": {
+        "full": "The world's #1 selling golf game is back and ready for another season of PGA TOUR golf.  All of the top players are ready to test your skills, but with the newly improved swing mechanics, you'll be able to face them like a true pro.  Tiger Woods PGA TOUR ®13 is the first controller-free, voice-enabled and body tracking sports simulation to support the Xbox 360 Kinect, tracking full body movements to create the most advanced virtual golf swing to date.  Put real-life swing in-game with Tiger Woods PGA TOUR® 13 as you take full control over your swing, experience the Tiger Woods legacy from child prodigy to golfing legend and compete against the world’s best golfers to become a Masters Champion.",
+        "short": "The world's #1 selling golf game is back and ready for another season of PGA TOUR golf. Take on many of the world's top professional golfers as you work your way to world #1 while experiencing the first fully integrated sports simulation available for the Xbox 360 Kinect. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410980/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410980/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410980/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410980/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410980/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410980/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410980/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410980/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410980/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410980/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "45410972",
+                "title": "Tiger Woods PGA TOUR® 13"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": "545108B4",
+    "title": {
+        "full": "WWE 13",
+        "reduced": "WWE 13"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "YUKE’S Co., Ltd.",
+    "publisher": "2K Sports",
+    "release_date": "2012-10-30",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  (Online Interactions Not Rated by the ESRB) Relive the Attitude Era of WWE in an all-new, breakthrough, story mode.  The new WWE Live™ presentation system features a completely overhauled audio system and Spectacular Moments.  WWE ’13 will be the boldest, smoothest, and most immersive, WWE simulation to date.",
+        "short": "(Online Interactions Not Rated by the ESRB) Relive the Attitude Era of WWE in an all-new, breakthrough, story mode.  The new WWE Live™ presentation system features a completely overhauled audio system and Spectacular Moments.  WWE ’13 will be the boldest, smoothest, and most immersive, WWE simulation to date."
+    },
+    "media": [
+        {
+            "media_id": "6829FF01",
+            "title": "WWE '13",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108b4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108b4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108b4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108b4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108b4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108b4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108b4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108b4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108b4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108b4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108b4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108b4/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108b4/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/545108b4/WWE_13_360_ONLINE_MANUAL_ENG.pdf"
+        ]
+    }
+}

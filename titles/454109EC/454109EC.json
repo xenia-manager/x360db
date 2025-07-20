@@ -1,0 +1,39 @@
+{
+    "id": "454109EC",
+    "title": {
+        "full": "EA SPORTS NHL Legacy Edition",
+        "reduced": "EA SPORTS NHL Legacy Edition"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "release_date": "2015-09-15",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, German, Czech, Finnish, Russian, Swedish. Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  EA SPORTS NHL Legacy Edition brings together the most popular modes and award-winning gameplay features from nine years of NHL hockey. Featuring updated rosters and authentic schedules, it’s the perfect experience for fans looking to get that complete hockey fix.",
+        "short": "EA SPORTS NHL Legacy Edition brings together the most popular modes and award-winning gameplay features from nine years of NHL hockey. Featuring updated rosters and authentic schedules, it’s the perfect experience for fans looking to get that complete hockey fix."
+    },
+    "media": [
+        {
+            "media_id": "3CF2A23F",
+            "title": "NHL Legacy Edition",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ec/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ec/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ec/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ec/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ec/1033/screenlg1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

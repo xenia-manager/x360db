@@ -1,0 +1,35 @@
+{
+    "id": "585503FD",
+    "title": {
+        "full": "Fight Monkey of Magic",
+        "reduced": "Fight Monkey of Magic"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "dreamwagon",
+    "publisher": "dreamwagon",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Fight Monkey of Magic is an arena fighting game/party game with a role playing \"player versus player\" feel. Use magical powers and traditional fighting techniques to fight your way up to the monkey, or play in hack and slash mode to battle for the best score. 1-4 Players.",
+        "short": "Fight Monkey of Magic is an arena fighting game/party game with a role playing \"player versus player\" feel. Use magical powers and traditional fighting techniques to fight your way up to the monkey, or play in hack and slash mode to battle for the best score. 1-4 Players."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585503fd00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585503FD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585503fd/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585503FD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503FD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503FD_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503FD_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

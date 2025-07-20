@@ -1,0 +1,39 @@
+{
+    "id": "58410983",
+    "title": {
+        "full": "Crimson Alliance",
+        "reduced": "Crimson Alliance"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "Certain Affinity",
+    "publisher": "Microsoft Studios",
+    "release_date": "2011-08-23",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Explore the mystical world of the Crimson Empire in this action-RPG adventure. Choose to play as the powerful wizard, Direwolf; the battle-hardened mercenary, Gnox; or the mysterious assassin, Moonshade.  Play Crimson Alliance co-operatively with up to 4 players on the same console or over Xbox LIVE. Work together combining your unique abilities against the nefarious Cult of the Soul Siren and the fearsome beasts they control. Can you stop them before their dark plans are complete?  ",
+        "short": "Explore the mystical world of the Crimson Empire in this action-RPG adventure. Choose to play as the powerful wizard, Direwolf; the battle-hardened mercenary, Gnox; or the mysterious assassin, Moonshade.  Play Crimson Alliance co-operatively with up to 4 players on the same console or over Xbox LIVE.  "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410983/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410983/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410983/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410983/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410983/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410983/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410983/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410983/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410983/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410983/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410983/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

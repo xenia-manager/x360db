@@ -1,0 +1,35 @@
+{
+    "id": "58550A0F",
+    "title": {
+        "full": "Silent Call 2",
+        "reduced": "Silent Call 2"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "x68ST0X20",
+    "publisher": "x68ST0X20",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=2/3, Mature Content=2/3. Take the role of Fighter, Mage or Explorer; and save your home village from the evil influence of the Empire of Jem! Fight, cast spells, dig tunnels, recruit a team of allies, complete quests, and develop the village as your home base - everything ultimately leads you to the final confrontation with Gold Rick!",
+        "short": "Take the role of Fighter, Mage or Explorer; and save your home village from the evil influence of the Empire of Jem! Fight, cast spells, dig tunnels, recruit a team of allies, complete quests, and develop the village as your home base - everything ultimately leads you to the final confrontation with Gold Rick!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550a0f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A0F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a0f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A0F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A0F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A0F_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A0F_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "id": "545107EF",
+    "title": {
+        "full": "BAJA Edge of Control",
+        "reduced": "BAJA Edge of Control"
+    },
+    "genre": [
+        "Racing & Flying",
+        "Sports & Recreation",
+        "Strategy & Simulation"
+    ],
+    "developer": "2XL Games, Inc.",
+    "publisher": "THQ",
+    "release_date": "2010-08-03",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) This game supports English only. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". From the core founding members of the MX vs ATV franchise comes the ultimate off-road racing experience, BAJA: Edge of Control. Build the ultimate off-road vehicle and conquer the toughest terrain Mother Nature has to offer in the most realistic off-road racing game ever created. Combining the best elements of the real-world sport with the right balance of arcade fun, BAJA: Edge of Control transports players to the epic open worlds and unforgiving terrain found at the pinnacle of off-road racing. Stunning visuals, vertical environments, and unpredictable terrain are crossed in over 100 square miles of drive-to-horizon landscape. Master hill-climb, circuit, and rally races to earn career sponsorships on the path to off-road supremacy. Harness the horsepower of elite Trophy Trucks, 4x4’s and Buggies to finally compete in the definitive off-road endurance challenge, the Baja 1000. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "From the core founding members of the MX vs ATV franchise comes the ultimate off-road racing experience, BAJA: Edge of Control. Build the ultimate off-road vehicle and conquer the toughest terrain Mother Nature has to offer in the most realistic off-road racing game ever created. Combining the best elements of the real-world sport with the right balance of arcade fun, BAJA: Edge of Control transports players to the epic open worlds and unforgiving terrain found at the pinnacle of off-road racing"
+    },
+    "media": [
+        {
+            "media_id": "3DE5313C",
+            "title": "Baja: Edge of Control",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "063C20B9",
+            "title": "Baja: Edge of Control",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107ef/1033/screenlg16.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/21/34/2134945a-7b58-43ef-8adc-c8c8ae7d4ad0.PDF?v=1#bajaEOC-en.PDF"
+        ]
+    }
+}

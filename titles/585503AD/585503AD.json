@@ -1,0 +1,35 @@
+{
+    "id": "585503AD",
+    "title": {
+        "full": "QbTron 3D",
+        "reduced": "QbTron 3D"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Raccoon Software Limited",
+    "publisher": "Raccoon Software Limited",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=1/3. Take on  QbTron - the Quantum  Super Computer. Bring down its ten cores by feeding Datum pieces via Data Stacks in 3D virtual space. It will not be easy as QbTron controls the Data rate and Stack Size making it evermore challenging as you progress to disable the unstable machine.  6 in-game Music tracks, 10 variable-sized Stacks, 3 levels of Difficulty and 1 very unhappy Super Computer.",
+        "short": "Take on  QbTron - the Quantum  Super Computer. Bring down its ten cores by feeding Datum pieces via Data Stacks in 3D virtual space. It will not be easy as QbTron controls the Data rate and Stack Size making it evermore challenging as you progress to disable the unstable machine.  6 in-game Music tracks, 10 variable-sized Stacks, 3 levels of Difficulty and 1 very unhappy Super Computer."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585503ad/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585503AD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585503ad/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585503AD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503AD_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503AD_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503AD_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

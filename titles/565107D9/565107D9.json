@@ -1,0 +1,42 @@
+{
+    "id": "565107D9",
+    "title": {
+        "full": "Worms The Revolution Collection",
+        "reduced": "Worms The Revolution Collection"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Team 17",
+    "publisher": "Maximum Games",
+    "release_date": "2013-10-15",
+    "user_rating": null,
+    "description": {
+        "full": "Worms: The Revolution Collection features the popular Worms Revolution and Worms 2: Armageddon, plus a total of 8 DLC packs! Get down and dirty in this crazy combination of turn-based strategy and arcade madness! Features all new cartoon carnage with the introduction of Super Sheep, Napalm Strikes, Earthquakes, and the legendary Concrete Donkey!",
+        "short": "Worms: The Revolution Collection is loaded with new features, dynamic effects and a host of explosive missions! Play Worms Revolution and Worms 2: Armageddon in this exciting collection of cartoon mayhem!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d9/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D4B07D9",
+                "title": "Worms The Revolution Collection"
+            }
+        ],
+        "related": []
+    }
+}
