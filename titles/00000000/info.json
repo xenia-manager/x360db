@@ -1,0 +1,30 @@
+{
+    "id": "00000000",
+    "title": {
+        "full": "Unknown Game",
+        "reduced": "Unknown"
+    },
+    "genre": [
+        "Unknown"
+    ],
+    "developer": "Unknown Developer",
+    "publisher": "Unknown Publisher",
+    "release_date": "2005-12-05",
+    "user_rating": "0.00",
+    "description": {
+        "full": "",
+        "short": ""
+    },
+    "media": [],
+    "artwork": {
+        "background": "",
+        "banner": "",
+        "boxart": "",
+        "icon": "",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}
