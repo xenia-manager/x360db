@@ -1,0 +1,48 @@
+{
+    "id": "334807D1",
+    "title": {
+        "full": "ゲーセンラブプラス ペンゴ",
+        "reduced": "ゲーセンラブ"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "トライアングル・サービス",
+    "publisher": "トライアングル・サービス",
+    "release_date": "2014-04-07",
+    "user_rating": null,
+    "description": {
+        "full": "ゲーム オン デマンドのバージョンは次の言語をサポートしています：日本語ゲームセンターで好評稼働中のゲームを家庭用初移植！簡単操作シンプルなルールのミニゲームをプレイする事で【ゲーマー年齢】を測定する『アクション技能検定』『シューティング技能検定』。プレイヤー数に応じて独立したゲーム画面を持つ対戦特化シューティング『コンバットージール』。当時の楽しさをそのままにアイスブロックを飛ばし合う新たな対戦要素を追加して３０年ぶりにパワーアップ復活したアクションパズルの名作『ペンゴ！』を収録！",
+        "short": "ゲーム仲間が集まればすぐ楽しめる！最高の接待ゲーム"
+    },
+    "media": [
+        {
+            "media_id": "2318A26F",
+            "title": "Geesen Love. Plus Pengo!",
+            "edition": "Genteiban",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d1/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802334807d1/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

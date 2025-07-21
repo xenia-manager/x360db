@@ -1,0 +1,48 @@
+{
+    "id": "4541089B",
+    "title": {
+        "full": "GI JOE",
+        "reduced": "GI JOE"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Double Helix",
+    "publisher": "Electronic Arts",
+    "release_date": "2009-07-10",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   The Games on Demand version supports  English, French, Spanish.  YO JOE!  G.I. JOE THE RISE OF COBRA is now available from Electronic Arts.  Take control of the elite G.I. JOE team as you fight the evil forces of COBRA!  Go beyond the blockbuster movie and experience new surprises, storylines and epic battles.  Pick up your game today!",
+        "short": "YO JOE!  G.I. JOE THE RISE OF COBRA is now available from Electronic Arts.  Take control of the elite G.I. JOE team as you fight the evil forces of COBRA!  Go beyond the blockbuster movie and experience new surprises, storylines and epic battles.  Pick up your game today!"
+    },
+    "media": [
+        {
+            "media_id": "4E792888",
+            "title": "G.I. Joe: The Rise of Cobra",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

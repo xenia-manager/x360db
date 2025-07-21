@@ -1,0 +1,37 @@
+{
+    "id": "58410A6C",
+    "title": {
+        "full": "Red Faction Battlegrounds",
+        "reduced": "Red Faction Battlegrounds"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "THQ Digital",
+    "publisher": "THQ Inc.",
+    "release_date": "2011-03-30",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) The destructive gameplay from the Red Faction franchise comes to the arcade with twin-stick shooter Red Faction: Battlegrounds! Jump into your favorite tank or mech and use Gauss Cannons, Thermobaric Rockets, and Singularity Bombs to destroy the competition in a variety of party-play style local and online multiplayer modes and single player challenges.  ",
+        "short": "(Online Interactions Not Rated by the ESRB) The destructive gameplay from the Red Faction franchise comes to the arcade with twin-stick shooter Red Faction: Battlegrounds! Jump into your favorite tank or mech and use Gauss Cannons, Thermobaric Rockets, and Singularity Bombs to destroy the competition in a variety of party-play style local and online multiplayer modes and single player challenges."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6c/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

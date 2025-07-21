@@ -1,0 +1,30 @@
+{
+    "id": "41560821",
+    "title": {
+        "full": "True Crime",
+        "reduced": "True Crime"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "United Front Games",
+    "publisher": "Activision",
+    "release_date": "2010-05-05",
+    "user_rating": "4.25",
+    "description": {
+        "full": "In a city with widespread corruption, Detective Wei Shen of the HK Triad Bureau must go deep undercover to infiltrate and take down Hong Kong’s largest and most dangerous Triad organizations. To survive, Wei must combine vicious martial arts combat, devastating weaponry, high-speed action driving and acrobatic free-running to defeat anyone that stands in the way. As Wei’s reputation and influence expands, the line between right and wrong, good and evil, duty and power, starts to blur. To become a member of the Triad, he must act like them, dress like them, and even kill like them...",
+        "short": "In a city with widespread corruption, Detective Wei Shen of the HK Triad Bureau must go deep undercover to infiltrate and take down Hong Kong’s largest and most dangerous Triad organizations. To survive, Wei must combine vicious martial arts combat, devastating weaponry, high-speed action driving and acrobatic free-running to defeat anyone that stands in the way. As Wei’s reputation and influence expands, the line between right and wrong, good and evil, duty and power, starts to blur. To become…"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560821/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560821/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560821/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560821/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

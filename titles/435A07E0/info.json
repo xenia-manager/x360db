@@ -1,0 +1,45 @@
+{
+    "id": "435A07E0",
+    "title": {
+        "full": "INSTANT BRAIN",
+        "reduced": "INSTANT BRAIN"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "CAVE Interactive CO.,LTD.",
+    "publisher": "CAVE Interactive CO.,LTD.",
+    "release_date": "2011-11-10",
+    "user_rating": null,
+    "description": {
+        "full": "ゲーム オン デマンドのバージョンは次の言語をサポートしています：日本語  未来都市東京－  主人公『原滝ゼンヤ』。東下町の雑居ビルに暮らす、しがないパパラッチ。 相棒のカメラ『エクスポジャー』を片手に、その日その日の貧乏暮らしを余儀なくされている。  だがそんな彼には『並みの人間には撮れないスクープをモノにする伝説のルポライター』と呼ばれる一面があり、そのスクープにはある特殊な秘密が・・・",
+        "short": "ゲーム オン デマンドのバージョンは次の言語をサポートしています：日本語  主人公『原滝ゼンヤ』。東下町の雑居ビルに暮らす、しがないパパラッチ。 相棒のカメラ『エクスポジャー』を片手に、その日その日の貧乏暮らしを余儀なくされている。  だがそんな彼には『並みの人間には撮れないスクープをモノにする伝説のルポライター』と呼ばれる一面があり、そのスクープにはある特殊な秘密が・・・"
+    },
+    "media": [
+        {
+            "media_id": "45028E94",
+            "title": "Instant Brain",
+            "edition": "Shokai Genteiban",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07e0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07e0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07e0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07e0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07e0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07e0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07e0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07e0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07e0/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07e0/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07e0/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

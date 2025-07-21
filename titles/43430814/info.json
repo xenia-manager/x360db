@@ -1,0 +1,64 @@
+{
+    "id": "43430814",
+    "title": {
+        "full": "Dragons Dogma Dark Arisen",
+        "reduced": "DD Dark Arisen"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "CAPCOM CO., LTD.",
+    "publisher": "CAPCOM CO., LTD.",
+    "release_date": "2013-04-23",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish,  Japanese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  An epitaph speaks of another's demise...  A mysterious island known as Bitterblack Isle appears off the coast of Gransys. Its depths have claimed the lives of many Arisen; their voices still haunt the labyrinth that lies deep beneath its surface--a labyrinth ripe with secrets waiting to be discovered.  The time to take up arms has come once again. Delve into the isle's depths and uncover its dark secret!",
+        "short": "The time to take up arms has come once again. Explore the depths of Bitterblack Isle and uncover its dark secret!"
+    },
+    "media": [
+        {
+            "media_id": "05544E32",
+            "title": "Dragon's Dogma",
+            "edition": "Original",
+            "region": "World"
+        },
+        {
+            "media_id": "0F61AFF2",
+            "title": "Dragon's Dogma: Dark Arisen (Disc 1) (Game Disc)",
+            "edition": "Original",
+            "region": "World"
+        },
+        {
+            "media_id": "596DD4A7",
+            "title": "Dragon's Dogma: Dark Arisen (Disc 2) (Install Disc)",
+            "edition": "Original",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/43430814/DDDA_360_ManGuts_ENG_0408.pdf"
+        ]
+    }
+}

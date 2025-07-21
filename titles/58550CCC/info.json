@@ -1,0 +1,35 @@
+{
+    "id": "58550CCC",
+    "title": {
+        "full": "Zombie Racer",
+        "reduced": "Zombie Racer"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "DennisMac",
+    "publisher": "DennisMac",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=1/3. Run and gun zombies in this frantic 4 player racing game. Recharge you nitro boost by slaying zombies to finish first on 8 insane tracks!",
+        "short": "Run and gun zombies in this frantic 4 player racing game. Recharge you nitro boost by slaying zombies to finish first on 8 insane tracks!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550ccc00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CCC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550ccc/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CCC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CCC_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CCC_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CCC_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

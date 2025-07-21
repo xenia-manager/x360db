@@ -1,0 +1,57 @@
+{
+    "id": "464F07F6",
+    "title": {
+        "full": "Jillian Michaels Fitness Adventure",
+        "reduced": "Jillian Michaels Fitness Adventure"
+    },
+    "genre": [
+        "Independent & Music Videos",
+        "Kinect",
+        "Music and Short Videos",
+        "Other",
+        "Xbox 360 Exclusives",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "n-Space, Inc.",
+    "publisher": "505 Games Srl",
+    "release_date": "2011-11-04",
+    "user_rating": "3.00",
+    "description": {
+        "full": "Get ready to use your entire body this time as players join Jillian on an interactive adventure, which of course is also filled with Jillian’s trademark intensity! Jillian Michaels’ Fitness Adventure, the latest iteration of the Jillian Michael's franchise, takes your fitness routine beyond a basic workout and turns it into a real adventure through a mission-based, thrill-seeking journey set in a lush jungle temple environment. The high-energy and fully customizable motion-based experience offers a results-oriented personal training experience that you can expect from teaming up with Jillian to achieve your fitness goals. The  Adventure Mode features parkour-style action, where players will be participating in both proactive and reactive running, climbing and jumping. Circuit training on the other hand comes with 10 exercise circuits that have been hand-selected by Jillian Michaels. The circuits come in three different difficulty levels, giving players the ability to customize their session.",
+        "short": "Get ready to use your entire body this time as players join Jillian on an interactive adventure, which of course is also filled with Jillian’s trademark intensity! Jillian Michaels’ Fitness Adventure, the latest iteration of the Jillian Michaels franchise, takes your fitness routine beyond a basic workout and turns it into a real adventure through a mission-based, thrill-seeking journey set in a lush jungle temple environment. "
+    },
+    "media": [
+        {
+            "media_id": "2D325CF6",
+            "title": "Jillian Michaels Fitness Adventure",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f6/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f6/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D4A07E5",
+                "title": "Jillian Michaels Fitness Adventure"
+            }
+        ],
+        "related": []
+    }
+}

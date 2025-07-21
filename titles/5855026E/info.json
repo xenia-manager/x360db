@@ -1,0 +1,35 @@
+{
+    "id": "5855026E",
+    "title": {
+        "full": "Max Fun Times",
+        "reduced": "Max Fun Times"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Claymerikorp",
+    "publisher": "Claymerikorp",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=3/3. Max Fun Times is a customizable drinking application that enhances the enjoyment of frosty cold beverages with friends. Spin the wheel and receive a command or customize your own wheel to create your own random fun generator!",
+        "short": "Max Fun Times is a customizable drinking application that enhances the enjoyment of frosty cold beverages with friends. Spin the wheel and receive a command or customize your own wheel to create your own random fun generator!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855026e00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855026E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855026e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855026E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855026E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855026E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855026E_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

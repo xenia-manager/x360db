@@ -1,0 +1,45 @@
+{
+    "id": "465307D2",
+    "title": {
+        "full": "eM -eNCHANT arM-",
+        "reduced": "eM -eNCHANT arM-"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "FROM SOFTWARE",
+    "publisher": "FromSoftware, Inc.",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "新世代RPGが始まる。  世界がそこに！ Xbox360初のＲＰＧ登場！ 新たなる冒険が今、始まる。  青年アツマの右腕に隠された秘密。 その右腕がもたらす最悪の事件とは･･･。  感情表現豊かな個性あふれるキャラクターたち、 そして100体を超える「ゴーレム」と呼ばれる 魔導人形を仲間にして、自由に成長させることができる！  質感の表現、動的な光と影の描写演出が施され、 次世代のスペックをフルに生かした、世界がまるで そこにあるかのような感覚を体験できる次世代RPG！",
+        "short": "新世代RPGが始まる。  世界がそこに！ Xbox360初のＲＰＧ登場！ 新たなる冒険が今、始まる。  青年アツマの右腕に隠された秘密。 その右腕がもたらす最悪の事件とは･･･。  感情表現豊かな個性あふれるキャラクターたち、 そして100体を超える「ゴーレム」と呼ばれる 魔導人形を仲間にして、自由に成長させることができる！  質感の表現、動的な光と影の描写演出が施され、 次世代のスペックをフルに生かした、世界がまるで そこにあるかのような感覚を体験できる次世代RPG！"
+    },
+    "media": [
+        {
+            "media_id": "5B6F4AA8",
+            "title": "[eM]: eNCHANT arM",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307d2/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

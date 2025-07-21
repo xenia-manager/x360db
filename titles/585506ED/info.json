@@ -1,0 +1,35 @@
+{
+    "id": "585506ED",
+    "title": {
+        "full": "Dogfight SKETCH",
+        "reduced": "Dogfight SKETCH"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Ali Rawashdeh",
+    "publisher": "Ali Rawashdeh",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Battle out against your fiends with Dogfight SKETCH! - the ultimate World War 2 aerial fighting contest!  Set in a world of wartime sketches and doodles, you must skilfully avoid your enemy's fire and boldly take down your foe in a blaze of victorious glory! Who will be the champion?",
+        "short": "Battle out against your fiends with Dogfight SKETCH! - the ultimate World War 2 aerial fighting contest!  Set in a world of wartime sketches and doodles, you must skilfully avoid your enemy's fire and boldly take down your foe in a blaze of victorious glory! Who will be the champion?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585506ed/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506ED_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506ed/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506ED_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506ED_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506ED_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506ED_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

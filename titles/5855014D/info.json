@@ -1,0 +1,35 @@
+{
+    "id": "5855014D",
+    "title": {
+        "full": "CarneyVale Showtime",
+        "reduced": "CarneyVale Showtime"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "gambitsg",
+    "publisher": "gambitsg",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. CarneyVale: Showtime is a vertical ragdoll platform game. In the game, you play as Slinky, a circus acrobat trying to rise up the ranks by performing acrobatic tricks and death-defying stunts through increasingly complex arenas.",
+        "short": "CarneyVale: Showtime is a vertical ragdoll platform game. In the game, you play as Slinky, a circus acrobat trying to rise up the ranks by performing acrobatic tricks and death-defying stunts through increasingly complex arenas."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855014d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855014D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855014d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855014D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855014D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855014D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855014D_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

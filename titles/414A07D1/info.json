@@ -1,0 +1,42 @@
+{
+    "id": "414A07D1",
+    "title": {
+        "full": "のーふぇいと -only the power of will-",
+        "reduced": "のーふぇいと -only the power of will-"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "株式会社サクセス",
+    "publisher": "株式会社アルケミスト",
+    "release_date": "2010-02-02",
+    "user_rating": "0.00",
+    "description": {
+        "full": "のーふぇいと! -only the power of will-",
+        "short": "【重要】ゲームオンデマンドに関する重要事項が本文の最後に記載されています。必ずお読みください。 －－－－－ 晴れ、ときどき、女の子――彼女はそらから降ってきた。 豪華声優陣によるフルボイス、マルチエンディングで綴られる異文化交流ボーイミーツガールアドベンチャー！ －－－－－ ■ このゲームの取扱説明書をダウンロードするには、http://marketplace.xbox.com/ でゲームを探し、[取扱説明書] を選択してください。■払い戻しはできません。詳しくは http://www.xbox.com/live/accounts/ をご覧ください。"
+    },
+    "media": [
+        {
+            "media_id": "5E44BE5D",
+            "title": "No Fate! Only the Power of Will",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414a07d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414a07d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414a07d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414a07d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414a07d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414a07d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414a07d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414a07d1/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

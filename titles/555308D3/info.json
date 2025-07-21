@@ -1,0 +1,56 @@
+{
+    "id": "555308D3",
+    "title": {
+        "full": "Just Dance 2016",
+        "reduced": "JD2016"
+    },
+    "genre": [
+        "Independent & Music Videos",
+        "Kinect",
+        "Music",
+        "Music Videos",
+        "Music and Short Videos",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2015-10-22",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Music Downloads Not Rated by the ESRB  The Games on Demand version supports English, French, Italian, German, Spanish, Danish, Dutch, Finnish, Norwegian, Brazilian, Swedish  The world's best-selling dance game is back! Get ready to dance to the best hits from MEGHAN TRAINOR, MARTIN GARRIX, MARK RONSON FT. BRUNO MARS, THE BLACK EYED PEAS, LADY GAGA, JASON DERULO, and much more!",
+        "short": "The world's best-selling dance game is back! Get ready to dance to the best hits from MEGHAN TRAINOR, MARTIN GARRIX, MARK RONSON FT. BRUNO MARS, THE BLACK EYED PEAS, LADY GAGA, JASON DERULO, and much more!"
+    },
+    "media": [
+        {
+            "media_id": "50E9D74F",
+            "title": "Just Dance 2016",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "3BE510A9",
+            "title": "Just Dance 2016",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

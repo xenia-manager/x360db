@@ -1,0 +1,50 @@
+{
+    "id": "545107FE",
+    "title": {
+        "full": "Destroy All Humans Path of the Furon",
+        "reduced": "Destroy All Humans Path of the Furon"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Sandblast Games",
+    "publisher": "THQ",
+    "release_date": "2008-01-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   It’s the funky 70’s… Crypto has spent most of the decade luring humans into his casino to take their cash and the precious Furon DNA locked inside their brains.  Now, Nexo Warriors from his home world attack, and Crypto is swept up in an alien conspiracy that threatens the very survival of his species.  In an epic battle to save the Furon Empire, Crypto must embark on a journey of destruction and enlightenment to face his greatest foes.  Destroy All Humans! Path of the Furon brings back the irreverent humor and Sci-Fi action gaming of previous titles.  Employ unworldly new weapons, mysterious mental abilities and devastating UFO attacks to wreak havoc on humankind.  Explore five expansive open-world levels as you uncover the insidious plot against Crypto and Pox.  The Path of the Furon awaits.",
+        "short": "It’s the funky 70’s… Crypto has spent most of the decade luring humans into his casino to take their cash and the precious Furon DNA locked inside their brains.  Now, Nexo Warriors from his home world attack, and Crypto is swept up in an alien conspiracy that threatens the very survival of his species.  In an epic battle to save the Furon Empire, Crypto must embark on a journey of destruction and enlightenment to face his greatest foes.  Destroy All Humans! Path of the Furon brings back the irr…"
+    },
+    "media": [
+        {
+            "media_id": "5F172B28",
+            "title": "Destroy All Humans! Path of the Furon",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "64B84BAD",
+            "title": "Destroy All Humans! Path of the Furon",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107fe/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107fe/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107fe/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107fe/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107fe/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107fe/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107fe/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107fe/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/545107fe/29178251-5da3-4e1e-ab50-723cf9ebd83e.PDF"
+        ]
+    }
+}

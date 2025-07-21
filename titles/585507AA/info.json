@@ -1,0 +1,35 @@
+{
+    "id": "585507AA",
+    "title": {
+        "full": "Alien Super Mega Blaster",
+        "reduced": "Alien Super Mega Blaster"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Codheadz Games",
+    "publisher": "Codheadz Games",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Alien Super Mega Blaster a classic retro shooter with a twist.    Kill the aliens and avoid the fallout.  Maximize your score with mega cascading death to the alien scrum.    Over 100 hand crafted levels of blasting fun... how far can you go?  All proceeds from this game will be donated to Action Duchenne.",
+        "short": "Alien Super Mega Blaster a classic retro shooter with a twist.    Kill the aliens and avoid the fallout.  Maximize your score with mega cascading death to the alien scrum.    Over 100 hand crafted levels of blasting fun... how far can you go?  All proceeds from this game will be donated to Action Duchenne."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585507aa/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585507AA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585507aa/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585507AA_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507AA_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507AA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507AA_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

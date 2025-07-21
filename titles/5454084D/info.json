@@ -1,0 +1,49 @@
+{
+    "id": "5454084D",
+    "title": {
+        "full": "Duke Nukem ForeverJP",
+        "reduced": "Duke Nukem ForeverJP"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Gearbox",
+    "publisher": "2K Games",
+    "release_date": "2012-03-29",
+    "user_rating": null,
+    "description": {
+        "full": "Put on your shades and prepare to step into the boots of Duke Nukem, whose legend has reached epic proportions in the years since his last adventure. The alien hordes are invading and only Duke can save the world. With hours and hours of over-the-top single player action, and a range of bodacious multiplayer modes, rest assured knowing the fun will last.",
+        "short": "Put on your shades and prepare to step into the boots of Duke Nukem, whose legend has reached epic proportions in the years since his last adventure. The alien hordes are invading and only Duke can save the world. With hours and hours of over-the-top single player action, and a range of bodacious multiplayer modes, rest assured knowing the fun will last."
+    },
+    "media": [
+        {
+            "media_id": "0406860B",
+            "title": "Duke Nukem Forever",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454084d/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5454084E",
+                "title": "Duke Nukem Forever"
+            }
+        ],
+        "related": []
+    }
+}

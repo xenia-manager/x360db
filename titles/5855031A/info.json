@@ -1,0 +1,35 @@
+{
+    "id": "5855031A",
+    "title": {
+        "full": "Tarot",
+        "reduced": "Tarot"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Scott Schaffner",
+    "publisher": "Scott Schaffner",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=3/3, Mature Content=2/3. Tarot Card Reader.  Select From 3 different types of readings: 1 Card, 3 Card, or Celtic Cross.  You can also browse the cards and their meanings.",
+        "short": "Tarot Card Reader.  Select From 3 different types of readings: 1 Card, 3 Card, or Celtic Cross.  You can also browse the cards and their meanings."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855031a00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855031A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855031a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855031A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855031A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855031A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855031A_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

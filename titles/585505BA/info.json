@@ -1,0 +1,35 @@
+{
+    "id": "585505BA",
+    "title": {
+        "full": "Four Corners",
+        "reduced": "Four Corners"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Living Creature Studios",
+    "publisher": "Living Creature Studios",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Use ninjas, witches, archers, vikings, samurai, and a slew of other units to destroy your opponent's capitol and make yourself the superior season!  You will have to conquer spires and golems as you battle and make them your own.  Design custom maps, possess units for special abilities and auras, and discover all the secrets!",
+        "short": "Use ninjas, witches, archers, vikings, samurai, and a slew of other units to destroy your opponent's capitol and make yourself the superior season!  You will have to conquer spires and golems as you battle and make them your own.  Design custom maps, possess units for special abilities and auras, and discover all the secrets!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585505ba00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505BA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505ba/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505BA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505BA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505BA_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505BA_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

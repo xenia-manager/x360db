@@ -1,0 +1,35 @@
+{
+    "id": "58550D4A",
+    "title": {
+        "full": "One Finger Death Punch",
+        "reduced": "One Finger Death Punch"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Silver Dollar Games Inc._01",
+    "publisher": "Silver Dollar Games Inc._01",
+    "release_date": null,
+    "user_rating": "4.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. Experience cinema kung-fu in the fastest, most intense brawler the world has ever seen.  With its unique 1:1 response system, players will feel the immediate feedback of every bone-crunching hit.  Combine face-to-face combat with throwing weapons to recreate complex fight choreographies.  Explore a world map with over 250 stages, 13 modes, and 3 difficulty levels.",
+        "short": "Experience cinema kung-fu in the fastest, most intense brawler the world has ever seen.  With its unique 1:1 response system, players will feel the immediate feedback of every bone-crunching hit.  Combine face-to-face combat with throwing weapons to recreate complex fight choreographies.  Explore a world map with over 250 stages, 13 modes, and 3 difficulty levels."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550d4a00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D4A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d4a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D4A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D4A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D4A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D4A_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

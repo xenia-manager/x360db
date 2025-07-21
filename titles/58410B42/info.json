@@ -1,0 +1,40 @@
+{
+    "id": "58410B42",
+    "title": {
+        "full": "Battle Los Angeles",
+        "reduced": "Battle Los Angeles"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Live Action Studios",
+    "publisher": "Konami Digital Entertainment",
+    "release_date": "2011-03-11",
+    "user_rating": "3.75",
+    "description": {
+        "full": "As the world’s great cities fall, there remains one place that becomes the last stand for mankind in a battle no one expected. It’s up to you to take on an enemy unlike any ever encountered before.",
+        "short": "As the world’s great cities fall, there remains one place that becomes the last stand for mankind in a battle no one expected. It’s up to you to take on an enemy unlike any ever encountered before."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b42/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b42/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b42/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b42/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b42/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b42/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b42/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b42/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b42/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b42/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b42/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b42/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b42/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

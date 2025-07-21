@@ -1,0 +1,40 @@
+{
+    "id": "4156088F",
+    "title": {
+        "full": "Cabelas NAA",
+        "reduced": "Cabelas NAA"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Fun Labs",
+    "publisher": "Activision",
+    "release_date": "2010-09-14",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports  English.  Bring your A-game on this hunt - you're on camera. Your best hunting moments are captured on film while an expert cameraman follows you on your adventures. It's hunting taken to the extreme with record-class opportunities in situations meant only for the pros. To make the hunt even more challenging you have to wait for the perfect shot opportunity, so the cameraman can catch all the action. You'll hunt from Alaska to Mexico, using cover and stealth to close the distance on elusive trophy game.  Hunt trophy deer and big game, turkey, upland birds, waterfowl and more - and relive the finest moments by watching an exciting video of the hunt's highlights. And for the first time in a hunting game, players can compete in four-person online multiplayer for bragging rights in fast-paced hunting action! ",
+        "short": "Bring your A-game on this hunt - you're on camera. Your best hunting moments are captured on film while an expert cameraman follows you on your adventures. It's hunting taken to the extreme with record-class opportunities in situations meant only for the pros."
+    },
+    "media": [
+        {
+            "media_id": "5A53A1CD",
+            "title": "Cabela's North American Adventures",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156088f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156088f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156088f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156088f/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4156088f/CNAA%202010%20EN%20Manual.pdf"
+        ]
+    }
+}

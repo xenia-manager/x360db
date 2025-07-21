@@ -1,0 +1,50 @@
+{
+    "id": "535507D4",
+    "title": {
+        "full": "RAIDEN FIGHTERS ACES",
+        "reduced": "RAIDEN FIGHTERS ACES"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "GULTI CO.,LTD.",
+    "publisher": "Success",
+    "release_date": "2010-04-23",
+    "user_rating": "4.75",
+    "description": {
+        "full": "The hottest battle is back after the decade!The legendary shooting arcade game, [RAIDEN FIGHTERS] is back with Xbox360!The three titles in the RAIDEN FIGHTERS series is ported into one package,which includes some new functions like Score Upload or Game Clip.Get the highest score in the world via Xbox LIVE!",
+        "short": "The hottest battle is back after the decade!The legendary shooting arcade game, [RAIDEN FIGHTERS] is back with Xbox360!The three titles in the RAIDEN FIGHTERS series is ported into one package,which includes some new functions like Score Upload or Game Clip.Get the highest score in the world via Xbox LIVE!"
+    },
+    "media": [
+        {
+            "media_id": "2BCD1F8B",
+            "title": "Raiden Fighters Aces",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d4/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d4/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d4/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d4/15369/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535507d4/15369/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550D28",
+    "title": {
+        "full": "Avatar Miner Paintball",
+        "reduced": "Avatar Miner Paintball"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "2.0 Studios",
+    "publisher": "2.0 Studios",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. A.M.P offers you the ultimate Block-Shooter with over 15 maps, including tributes to greatest FPS titles of all time! Rockets, Mines, Shotguns and more await in the classic Battle game types, but also in the most powerful Map editor ever created. Construct with the most blocks ever seen in any Block Game, and share with your friends. Zombie Survival Mode coming next update!   VERSION v1.5 UPDATE",
+        "short": "A.M.P offers you the ultimate Block-Shooter with over 15 maps, including tributes to greatest FPS titles of all time! Rockets, Mines, Shotguns and more await in the classic Battle game types, but also in the most powerful Map editor ever created. Construct with the most blocks ever seen in any Block Game, and share with your friends. Zombie Survival Mode coming next update!   VERSION v1.5 UPDATE"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550d28/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D28_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d28/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D28_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D28_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D28_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D28_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

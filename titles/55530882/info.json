@@ -1,0 +1,44 @@
+{
+    "id": "55530882",
+    "title": {
+        "full": "Raving Rabbids Alive  Kicking",
+        "reduced": "Raving Rabbids AK"
+    },
+    "genre": [
+        "Family",
+        "Kinect",
+        "Other"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2011-11-03",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish, Potuguese.  The Rabbids have already invaded the past, the world, your TV, the moon, and now they are set to invade your own home, coming out from the floor and interacting with you through ridiculous and humorous physical challenges. This year with the augmented reality, watch as the Rabbids mess with your life in front of your eyes!   For the very 1st time on Kinect, play up to four players simultaneously in a flood of crazy game modes!  Have you ever imagined getting so close to a Rabbids that you could slap it, kick it, knock it out and generally have fun with it?  You can now with the Augmented Reality enjoy that on Kinect.   Jump, roll, slap, dance and more to stop the Rabbids invasion! Go face to face against them with the craziest moves through dozen of new mini-games.",
+        "short": "The Rabbids have already invaded the past, the world, your TV, the moon, and now they are set to invade your own home, coming out from the floor and interacting with you through ridiculous and humorous physical challenges. This year with the augmented reality, watch as the Rabbids mess with your life in front of your eyes! "
+    },
+    "media": [
+        {
+            "media_id": "7D64A18D",
+            "title": "Rabbids: Alive & Kicking",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530882/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530882/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530882/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530882/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530882/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530882/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530882/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530882/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "id": "5345084D",
+    "title": {
+        "full": "SONIC FREE RIDERS",
+        "reduced": "SONIC FREE RIDERS"
+    },
+    "genre": [
+        "Kinect",
+        "Racing & Flying"
+    ],
+    "developer": "Sonic Team",
+    "publisher": "SEGA",
+    "release_date": "2010-11-10",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  This game requires a Kinect™ Sensor. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Sonic is speeding onto Kinect™ for Xbox 360  in an action-packed experience unlike any other! Become your favourite character as you jump on your board and get ready to compete in exhilarating, adrenaline-fueled races against tough competition. For the first time use full-motion body control to twist and turn your way through a range of visually stunning courses. Hi –octane fun for ‘riders’ of all ages, Sonic Free Riders brings extreme lightning-paced boarding action in a main event you won’t want to miss! ",
+        "short": "Sonic is speeding onto Kinect™ for Xbox 360  in an action-packed experience unlike any other! Become your favourite character as you jump on your board and compete in adrenaline-fueled races against tough competition. For the first time use full-motion body control to twist and turn your way through a range of stunning courses. "
+    },
+    "media": [
+        {
+            "media_id": "079D32F0",
+            "title": "Sonic Free Riders",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/screenlg18.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

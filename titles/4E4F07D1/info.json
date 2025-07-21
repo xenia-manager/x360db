@@ -1,0 +1,28 @@
+{
+    "id": "4E4F07D1",
+    "title": {
+        "full": "ZDF Mediathek",
+        "reduced": "ZDF"
+    },
+    "genre": [],
+    "developer": "ZDF - Anstalt Oeffentlichen Rechts",
+    "publisher": "ZDF - Anstalt Oeffentlichen Rechts",
+    "release_date": "2011-12-13",
+    "user_rating": null,
+    "description": {
+        "full": "ZDF Mediathek gives you access to shows and program highlights of ZDF's program offering",
+        "short": "Welcome to ZDF Mediathek for XBOX, the videoportal of ZDF."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4f07d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4f07d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4f07d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4f07d1/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

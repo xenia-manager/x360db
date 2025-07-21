@@ -1,0 +1,84 @@
+{
+    "id": "434307D2",
+    "title": {
+        "full": "DEAD RISING",
+        "reduced": "DEAD RISING"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "CAPCOM",
+    "publisher": "CAPCOM",
+    "release_date": "2010-01-26",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Unparalleled human drama unfolds in a shopping mall overrun with the undead. Welcome to hell!!",
+        "short": "Unparalleled human drama unfolds in a shopping mall overrun with the undead. Welcome to hell!!"
+    },
+    "media": [
+        {
+            "media_id": "1932E819",
+            "title": "Dead Rising",
+            "edition": "Original, Platinum Collection",
+            "region": "Japan"
+        },
+        {
+            "media_id": "633ECD10",
+            "title": "Dead Rising",
+            "edition": "Original, Classics",
+            "region": "Europe"
+        },
+        {
+            "media_id": "4F4A5078",
+            "title": "Dead Rising",
+            "edition": "Platinum Hits",
+            "region": "Korea"
+        },
+        {
+            "media_id": "346795BB",
+            "title": "Dead Rising",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "324C3C2C",
+            "title": "Dead Rising",
+            "edition": "Original, Platinum Hits, Triple Pack",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d2/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/434307d2/3e145261-acbc-42aa-80ea-1e9d5964e92f.PDF"
+        ]
+    }
+}

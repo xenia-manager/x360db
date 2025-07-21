@@ -1,0 +1,35 @@
+{
+    "id": "58550C2F",
+    "title": {
+        "full": "Alien Siege",
+        "reduced": "Alien Siege"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Lost World Creations",
+    "publisher": "Lost World Creations",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Defend your planet from the incoming enemy missiles, flying saucers and asteroids using your AMS rockets and Proton blaster . With support for 1-2 players, upgradable weapons, four different stunning worlds and three difficulty settings",
+        "short": "Defend your planet from the incoming enemy missiles, flying saucers and asteroids using your AMS rockets and Proton blaster . With support for 1-2 players, upgradable weapons, four different stunning worlds and three difficulty settings"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550c2f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C2F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c2f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C2F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C2F_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C2F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C2F_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

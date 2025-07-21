@@ -1,0 +1,39 @@
+{
+    "id": "584113F5",
+    "title": {
+        "full": "Thunder Wolves",
+        "reduced": "Thunder Wolves"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Racing & Flying",
+        "Shooter"
+    ],
+    "developer": "Most Wanted Entertainment",
+    "publisher": "bitComposer Entertainment AG",
+    "release_date": "2013-05-01",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Looking for an explosive arcade shooter? Then Thunder Wolves is the perfect game for you! Get in your helicopter, get ready, and go! The Thunder Wolves are the best helicopter pilots in the world, and they have already made it through countless battles. Every one of them is ready for action at any time, and ready to battle evil, no matter where it lurks. Get your helicopter airborne and get ready for some furious fireworks and top-class gaming action! ",
+        "short": "Take your place in the pilot’s seat of a helicopter, load your weapons, and get ready to battle evil and save the world! Join the Thunder Wolves!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f5/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

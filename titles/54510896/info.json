@@ -1,0 +1,45 @@
+{
+    "id": "54510896",
+    "title": {
+        "full": "Darksiders II",
+        "reduced": "Darksiders II"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "Vigil Games",
+    "publisher": "THQ, Inc.",
+    "release_date": "2012-08-14",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Russian. Dutch and Polish supported via text only.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  (Online Interactions Not Rated by the ESRB) Awakened by the End of Days, Death, the most feared of the legendary Four Horsemen embarks on a quest to redeem his brother's name. Become the terrifying force which everything fears but nothing can escape. ",
+        "short": "Awakened by the End of Days, Death, the most feared of the legendary Four Horsemen embarks on a quest to redeem his brother's name. Become the terrifying force which everything fears but nothing can escape. "
+    },
+    "media": [
+        {
+            "media_id": "031816B2",
+            "title": "Darksiders II",
+            "edition": "Limited Edition, Death Rides Pack",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/54510896/0/DS2_360_TRIFOLD_MAN.pdf"
+        ]
+    }
+}

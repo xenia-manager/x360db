@@ -1,0 +1,35 @@
+{
+    "id": "58550C8F",
+    "title": {
+        "full": "Ultimate Dodgeball",
+        "reduced": "Ultimate Dodgeball"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "K-dog",
+    "publisher": "K-dog",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Play 4 on 4 Dodgeball with your own avatar, or as captain of an avatar team. Perform flaming cartwheel throws, mid-air spikes and spinning backhands while dodging and catching your opponent's attacks. Challenge friends online in traditional Elimination or Deathmatch, or compete against 8 computer teams in the single player or coop Tournament mode.",
+        "short": "Play 4 on 4 Dodgeball with your own avatar, or as captain of an avatar team. Perform flaming cartwheel throws, mid-air spikes and spinning backhands while dodging and catching your opponent's attacks. Challenge friends online in traditional Elimination or Deathmatch, or compete against 8 computer teams in the single player or coop Tournament mode."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550c8f00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C8F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c8f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C8F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C8F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C8F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C8F_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

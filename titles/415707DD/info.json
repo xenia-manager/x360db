@@ -1,0 +1,53 @@
+{
+    "id": "415707DD",
+    "title": {
+        "full": "BLAZBLUE CONTINUUM SHIFT EXTEND",
+        "reduced": "BLAZBLUE CONTINUUM SHIFT EXTEND"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "ARC SYSTEM WORKS Co.,Ltd.",
+    "publisher": "Aksys Games Localization, Inc.",
+    "release_date": "2011-12-17",
+    "user_rating": "4.25",
+    "description": {
+        "full": "BLAZBLUE CONTINUUM SHIFT EXTEND is a high quality 2D fighter with outstanding graphics, an unrivalled story mode, extensive tutorials and numerous challenges for players at all levels. Using their years of fighting game experience Arc System Works have refined the battle system and have developed a network mode with multiple functions to reduce lag. Be prepared to experience high speed battles in beautiful high definition! ",
+        "short": "BLAZBLUE CONTINUUM SHIFT EXTEND is a high quality 2D fighter with outstanding graphics, an unrivalled story mode, extensive tutorials and numerous challenges for players at all levels. Using their years of fighting game experience Arc System Works have refined the battle system and have developed a network mode with multiple functions to reduce lag. Be prepared to experience high speed battles in beautiful high definition! "
+    },
+    "media": [
+        {
+            "media_id": "39D5434C",
+            "title": "BlazBlue: Continuum Shift Extend",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "66A0BFD8",
+            "title": "BlazBlue: Continuum Shift Extend",
+            "edition": "Limited Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "2251BD3C",
+            "title": "BlazBlue: Continuum Shift Extend",
+            "edition": "Original, Limited Edition",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707dd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707dd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707dd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707dd/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707dd/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707dd/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707dd/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

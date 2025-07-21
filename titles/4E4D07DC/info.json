@@ -1,0 +1,68 @@
+{
+    "id": "4E4D07DC",
+    "title": {
+        "full": "Beautiful Katamari",
+        "reduced": "Beautiful Katamari"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "NAMCO BANDAI Games Inc.",
+    "publisher": "Namco",
+    "release_date": "2010-02-15",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) This game supports English only. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Roll your katamari and collect lots of stuff in order to increase its size in this fun and quirky action game! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Roll your katamari and collect lots of stuff in order to increase its size in this fun and quirky action game!"
+    },
+    "media": [
+        {
+            "media_id": "2C479157",
+            "title": "Beautiful Katamari",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "0AD6C6D4",
+            "title": "Beautiful Katamari",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "645BCE6F",
+            "title": "Beautiful Katamari Damacy",
+            "edition": "Original, Bundled with Xbox 360",
+            "region": "Japan, Asia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/7177/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/7177/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/7177/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/7177/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/7177/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/7177/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/7177/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/7177/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/7177/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/7177/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/7177/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07dc/7177/screenlg18.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

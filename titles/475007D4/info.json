@@ -1,0 +1,52 @@
+{
+    "id": "475007D4",
+    "title": {
+        "full": "Section 8",
+        "reduced": "Section 8"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "TimeGate Studios, Inc.",
+    "publisher": "Southpeak Interactive",
+    "release_date": "2009-11-24",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English.   \"Section 8 is an intense first-person shooter that gives players unprecedented strategic control over the battlefield, employing tactical assets and on-demand vehicle deliveries to dynamically alter the flow of combat. Set in the distant future when humanity is facing a growing insurrection among its colonies, Earth dispatches the elite 8th Armored Infantry to turn the tide.\"",
+        "short": "\"Section 8 is an intense first-person shooter that gives players unprecedented strategic control over the battlefield, employing tactical assets and on-demand vehicle deliveries to dynamically alter the flow of combat. Set in the distant future when humanity is facing a growing insurrection among its colonies, Earth dispatches the elite 8th Armored Infantry to turn the tide.\""
+    },
+    "media": [
+        {
+            "media_id": "1DD7FD63",
+            "title": "Section 8",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "377B57C7",
+            "title": "Section 8",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d4/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

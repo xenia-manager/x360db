@@ -1,0 +1,45 @@
+{
+    "id": "5343080B",
+    "title": {
+        "full": "Batman Arkham Asylum Game of the Year Edition",
+        "reduced": "Batman Arkham Asylum GOTY"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Platformer"
+    ],
+    "developer": "Rocksteady Studios Ltd",
+    "publisher": "Square Enix",
+    "release_date": "2010-03-26",
+    "user_rating": "4.75",
+    "description": {
+        "full": "A hero's descent to the core of the criminally insane.",
+        "short": "A hero's descent to the core of the criminally insane."
+    },
+    "media": [
+        {
+            "media_id": "1BBF41A8",
+            "title": "Batman: Arkham Asylum: Game of the Year Edition",
+            "edition": "Platinum Hits, Batman: Arkham Dual Pack",
+            "region": "USA"
+        },
+        {
+            "media_id": "71D29B88",
+            "title": "Batman: Arkham Asylum: Game of the Year Edition",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025343080b/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025343080b/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025343080b/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025343080b/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

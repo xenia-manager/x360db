@@ -1,0 +1,50 @@
+{
+    "id": "4B5907E5",
+    "title": {
+        "full": "Omerta - City of Gangsters",
+        "reduced": "Omerta - City of Gangsters"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Haemimont Games",
+    "publisher": "Kalypso Media",
+    "release_date": "2013-01-31",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  OMERTA - CITY OF GANGSTERS puts you into the boots of a fresh-from-the-boat immigrant with dreams of the big life. Work your way up the criminal hierarchy of 1920’s Atlantic City, starting with small jobs, recruiting new gang members and expanding your empire by taking territory from other mobsters. Establish your own crime syndicate and become the de facto ruler of Atlantic City!  Features:  -Under the Boardwalk - Conquer a historically accurate Atlantic City with 20 unique districts featuring real-world landmarks in a story-driven campaign or sandbox freeplay game  -Craft a criminal empire -  Strategic real-time gameplay for planning coups, expanding your territory, extorting  the competition and bribing the authorities  -Nobody move! It’s a robbery - Lead your henchmen into elaborately planned tactical combat as they pull off bank heists, robberies, street battles and more -Join the gang - 15 unique player-controlled characters each with distinct personalities, backgrounds, skills, equipment and “RPG-lite” development trees -Keep your friends close, and enemies closer - Competitive and cooperative online multiplayer modes with persistent gangs",
+        "short": "OMERTA - CITY OF GANGSTERS puts you into the boots of a fresh-from-the-boat immigrant with dreams of the big life. Work your way up the criminal hierarchy of 1920’s Atlantic City, starting with small jobs, recruiting new gang members and expanding your empire by taking territory from other mobsters. Establish your own crime syndicate and become the de facto ruler of Atlantic City!"
+    },
+    "media": [
+        {
+            "media_id": "70A2E689",
+            "title": "Omerta: City of Gangsters",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e5/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e5/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e5/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e5/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4b5907e5/omerta_xbox_manual_us.pdf"
+        ]
+    }
+}

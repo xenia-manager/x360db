@@ -1,0 +1,35 @@
+{
+    "id": "5855027E",
+    "title": {
+        "full": "Spaceman",
+        "reduced": "Spaceman"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Akkydo",
+    "publisher": "Akkydo",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Spaceman is an original 2D adventure puzzle game.  The evil scientist Dr. Strange has kidnapped the Galactic Princess in his quest for universal domination.  You have managed to get aboard his ship where the Princess is being held.  Navigate your way through the levels to find her.  Good luck!",
+        "short": "Spaceman is an original 2D adventure puzzle game.  The evil scientist Dr. Strange has kidnapped the Galactic Princess in his quest for universal domination.  You have managed to get aboard his ship where the Princess is being held.  Navigate your way through the levels to find her.  Good luck!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855027e/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855027E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855027e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855027E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855027E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855027E_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855027E_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

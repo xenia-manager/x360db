@@ -1,0 +1,84 @@
+{
+    "id": "4541080E",
+    "title": {
+        "full": "Command  Conquer 3",
+        "reduced": "CC3"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Electronic Arts Los Angeles",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-06-29",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Control massive armies and wage war as one of as one of three rival factions in Command and Conquer 3 Tiberium Wars. Embark on an adrenaline-fueled single-player campaign that features explosive 3D special effects, an unparalleled Hollywood cast, and over 90 minutes of live-action video. Then, head onto Xbox Live for devastating multiplayer battles with five exclusive modes and Xbox Live Vision support. You alone can decide the fate of the planet in the epic war over Tiberium. Welcome back, Commander.",
+        "short": "Control massive armies and wage war as one of as one of three rival factions in Command & Conquer 3 Tiberium Wars. Embark on an adrenaline-fueled single-player campaign that features explosive 3D special effects, an unparalleled Hollywood cast, and over 90 minutes of live-action video. Then, head onto Xbox Live for devastating multiplayer battles with five exclusive modes and Xbox Live Vision support. You alone can decide the fate of the planet in the epic war over Tiberium."
+    },
+    "media": [
+        {
+            "media_id": "19D4259B",
+            "title": "Command & Conquer 3: Tiberium Wars",
+            "edition": "Original",
+            "region": "Spain"
+        },
+        {
+            "media_id": "0BD3A896",
+            "title": "Command & Conquer 3: Tiberium Wars",
+            "edition": "Original",
+            "region": "Italy"
+        },
+        {
+            "media_id": "4D3A6FAB",
+            "title": "Command & Conquer 3: Tiberium Wars",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "27497D7F",
+            "title": "Command & Conquer 3: Tiberium Wars",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "35BCE8CF",
+            "title": "Command & Conquer 3: Tiberium Wars",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080e/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4541080e/0ec5818f-12ce-4751-aeab-dc749151fdd3.PDF"
+        ]
+    }
+}

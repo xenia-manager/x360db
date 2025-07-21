@@ -1,0 +1,35 @@
+{
+    "id": "58550416",
+    "title": {
+        "full": "Football League Simulator",
+        "reduced": "Football League Simulator"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Rockingham Software Ltd",
+    "publisher": "Rockingham Software Ltd",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. An exciting simulation of English football (soccer). Sit back and follow your team through a season of hard fought matches. Fully simulates all four main leagues including promotion and relegation. Also simulates end of season playoffs. View statistics like consecutive wins, consecutive games without defeat. Great for the armchair football fan!",
+        "short": "An exciting simulation of English football (soccer). Sit back and follow your team through a season of hard fought matches. Fully simulates all four main leagues including promotion and relegation. Also simulates end of season playoffs. View statistics like consecutive wins, consecutive games without defeat. Great for the armchair football fan!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855041600000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550416_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550416/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550416_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550416_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550416_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550416_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

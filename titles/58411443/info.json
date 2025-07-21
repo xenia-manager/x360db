@@ -1,0 +1,38 @@
+{
+    "id": "58411443",
+    "title": {
+        "full": "Might  Magic Duel of Champions Forgotten Wars",
+        "reduced": "Forgotten Wars"
+    },
+    "genre": [
+        "Card & Board",
+        "Strategy & Simulation"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2014-07-23",
+    "user_rating": "3.00",
+    "description": {
+        "full": "Immerse yourself into Duel of Champions Forgotten Wars and enter the legendary universe of Might & Magic®. Experience the best strategic online card game in Forgotten Wars that offers an exciting 30+ mission solo campaign as well as an exciting multiplayer duel.  With more than 650 unique cards to collect and 100+ hours of game content to unlock and explore, the adventures you can have are unlimited!",
+        "short": "Immerse yourself in the universe of Might & Magic with Forgotten Wars - the best strategic online card game with 650+ cards and 100+ hours of game content."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411443/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411443/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411443/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411443/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411443/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411443/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411443/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411443/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411443/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411443/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

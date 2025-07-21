@@ -1,0 +1,35 @@
+{
+    "id": "58550478",
+    "title": {
+        "full": "Masters of Belial",
+        "reduced": "Masters of Belial"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Argi Baltzi",
+    "publisher": "Argi Baltzi",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. Masters of Belial is an arena type action rpg game that takes place in the ancient fantasy land of Azgoth.",
+        "short": "Masters of Belial is an arena type action rpg game that takes place in the ancient fantasy land of Azgoth."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855047800000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550478_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550478/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550478_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550478_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550478_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550478_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

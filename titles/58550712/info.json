@@ -1,0 +1,35 @@
+{
+    "id": "58550712",
+    "title": {
+        "full": "PentomiGo",
+        "reduced": "PentomiGo"
+    },
+    "genre": [
+        "Card & Board"
+    ],
+    "developer": "Solipsist Games",
+    "publisher": "Solipsist Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. A board game for two players inspired by classic Go. Spread your influence as much as you can, while diminishing that of your opponent. Play against a friend, or one of 3 computer opponents.",
+        "short": "A board game for two players inspired by classic Go. Spread your influence as much as you can, while diminishing that of your opponent. Play against a friend, or one of 3 computer opponents."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550712/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550712_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550712/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550712_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550712_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550712_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550712_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

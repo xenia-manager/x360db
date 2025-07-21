@@ -1,0 +1,55 @@
+{
+    "id": "4541096D",
+    "title": {
+        "full": "SSX",
+        "reduced": "SSX"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts",
+    "publisher": "EA SPORTS",
+    "release_date": "2012-02-28",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish, Japanese.  Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu  A modern day reinvention of one of the most critically acclaimed arcade franchises of all-time, EA SPORTS™ SSX will allow players to experience the franchise’s signature fun and adrenaline-packed gameplay across iconic mountain ranges all over the world. Utilizing NASA topographical satellite data, we’ve mapped out a Massive World for players to explore. Using a Google-Earth inspired interface, navigate throughout nine expansive mountain ranges and regions, each with multiple peaks and multiple drops. SSX packs reality-defying gameplay into every run letting players Race, Trick, and Survive down huge open mountains. In addition, Explore, Global Events and RiderNet - SSX’s recommendation engine - headline an online feature set that will revolutionize social competition for gamers, making it fun and easy to compete with friends on your schedule.",
+        "short": "SSX is the rebirth of the beloved franchise on the current generation of consoles where you can own the planet, compete online in totally new ways and defy reality across Race it, Trick it and Survive it events. "
+    },
+    "media": [
+        {
+            "media_id": "55ABAB6C",
+            "title": "SSX",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/screenlg17.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

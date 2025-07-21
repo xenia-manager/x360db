@@ -1,0 +1,60 @@
+{
+    "id": "45410850",
+    "title": {
+        "full": "Mirrors Edge",
+        "reduced": "Mirrors Edge"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "DICE",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-06-22",
+    "user_rating": "4.25",
+    "description": {
+        "full": "This game supports English, Spanish, and French. Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu. In a city where information is heavily monitored, where crime is just a memory, where most people have sacrificed freedom for a comfortable life,           Some choose to live differently. Some. like you, are Runners, phenomenally agile messengers who deliver sensitive information for a price.           You are a Runner called Faith.           Murder has come to this city. And now you are being hunted. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "In a city where information is heavily monitored, where crime is just a memory, where most people have sacrificed freedom for a comfortable life, Some choose to live differently. Some. like you, are Runners, phenomenally agile messengers who deliver sensitive information for a price. You are a Runner called Faith.  Murder has come to this city. And now you are being hunted."
+    },
+    "media": [
+        {
+            "media_id": "426CA5A2",
+            "title": "Mirror's Edge",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "75B73887",
+            "title": "Mirror's Edge",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "214A9845",
+            "title": "Mirror's Edge",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/45410850/5ce424fc-9492-48d5-a1af-daf27bb2e088.PDF"
+        ]
+    }
+}

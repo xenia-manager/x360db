@@ -1,0 +1,40 @@
+{
+    "id": "584114BB",
+    "title": {
+        "full": "Batman The Telltale Series",
+        "reduced": "Batman The Telltale Series"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Telltale Games",
+    "publisher": "Skybound Games",
+    "release_date": "2016-09-13",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Enter the fractured psyche of Bruce Wayne and discover the powerful and far-reaching consequences of your choices as the Dark Knight. In this gritty and violent new story from the award-winning creators of The Walking Dead – A Telltale Games Series, you'll make discoveries that will shatter Bruce Wayne's world, and the already fragile stability of a corrupt Gotham City.   Your actions and your choices will determine the fate of the Batman.  Download Episode One of Batman: The Telltale Series, a five part episodic game series from the creators of The Walking Dead: A Telltale Games Series, The Wolf Among Us, and Tales from the Borderlands.",
+        "short": "Enter the fractured psyche of Bruce Wayne and discover the powerful and far-reaching consequences of your choices as the Dark Knight. In this gritty and violent new story from the award-winning creators of The Walking Dead – A Telltale Games Series, you'll make discoveries that will shatter Bruce Wayne's world, and the already fragile stability of a corrupt Gotham City."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114bb/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114bb/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114bb/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114bb/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114bb/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114bb/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114bb/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114bb/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "443607DB",
+                "tile": "Batman The Telltale Series"
+            }
+        ],
+        "related": []
+    }
+}

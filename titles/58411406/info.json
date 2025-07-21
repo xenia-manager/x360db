@@ -1,0 +1,42 @@
+{
+    "id": "58411406",
+    "title": {
+        "full": "Syberia 2",
+        "reduced": "Syberia 2"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "© 2015 Anuman Interactive",
+    "publisher": "BANDAI NAMCO Entertainement Europe S.A.S.",
+    "release_date": "2015-05-13",
+    "user_rating": "3.00",
+    "description": {
+        "full": "Following Syberia's resounding success, Benoît Sokal invites you to dive back into the crazy Kate Walker saga. An epic adventure on the edge of the world of dreams and imagination.  Forming an unlikely duo, Kate Walker and the old, eccentric Hans Voralberg are now setting off on a journey in search of a long-forgotten world, home to the last of the fabled Syberian mammoths.  Against all odds, a mystical Syberia awaits their arrival...",
+        "short": "Following Syberia's success, Benoît Sokal invites you to dive back into this epic adventure on the edge of the world of dreams and imagination."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411406/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411406/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411406/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411406/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411406/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411406/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411406/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411406/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411406/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411406/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411406/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411406/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411406/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411406/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411406/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

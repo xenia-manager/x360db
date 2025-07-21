@@ -1,0 +1,44 @@
+{
+    "id": "58410A6B",
+    "title": {
+        "full": "Fusion Genesis",
+        "reduced": "Fusion Genesis"
+    },
+    "genre": [
+        "Role Playing",
+        "Shooter"
+    ],
+    "developer": "Starfire Studio",
+    "publisher": "Microsoft Studios",
+    "release_date": "2011-11-09",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Unravel a sinister conspiracy in a galaxy on the brink of civil war. Choose your side. Expose the truth. Become a hero.  Follow six epic storylines as a trader, mercenary, peacekeeper, soldier, or seeker Explore an \"always connected\" dynamic environment Complete 100s of solo and co-op quests across 23 levels Fly over 100 ships with 1000s of upgrades Acquire 40 combat skills and 200 weapons Enjoy cooperative (1-4) and PvP (1-8) gameplay Connect with Fusion: Sentient on Windows Phone 7",
+        "short": "Unravel a sinister conspiracy in a galaxy on the brink of civil war. Choose your side. Expose the truth. Become a hero.  Follow six epic storylines as a trader, mercenary, peacekeeper, soldier, or seeker Explore an \"always connected\" dynamic environment Complete 100s of solo and co-op quests across 23 levels Fly over 100 ships with 1000s of upgrades Acquire 40 combat skills and 200 weapons Enjoy cooperative (1-4) and PvP (1-8) gameplay Connect with Fusion: Sentient on Windows Phone 7"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6b/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6b/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6b/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6b/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6b/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6b/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6b/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6b/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6b/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6b/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6b/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6b/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6b/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6b/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6b/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a6b/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

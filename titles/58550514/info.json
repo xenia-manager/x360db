@@ -1,0 +1,35 @@
+{
+    "id": "58550514",
+    "title": {
+        "full": "MoonShine",
+        "reduced": "MoonShine"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "RBG Entertainment",
+    "publisher": "RBG Entertainment",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=3/3, Mature Content=3/3. Immerse yourself in the underworld of the 1920s era prohibition period. 6 Unique game modes, a custom game mode editor, upgradable GUI, unlockable Milestones, and many other features will test your trading skills for a long time to come.",
+        "short": "Immerse yourself in the underworld of the 1920s era prohibition period. 6 Unique game modes, a custom game mode editor, upgradable GUI, unlockable Milestones, and many other features will test your trading skills for a long time to come."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550514/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550514_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550514/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550514_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550514_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550514_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550514_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

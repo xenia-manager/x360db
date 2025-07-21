@@ -1,0 +1,35 @@
+{
+    "id": "58550C5E",
+    "title": {
+        "full": "Jigsaw Jumble Xmas 2012",
+        "reduced": "Jigsaw Jumble Xmas 2012"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Lost World Creations",
+    "publisher": "Lost World Creations",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Jigsaw Jumble is back with 15 more puzzles in this special Christmas themed edition. Play cooperatively with a friend and solve the puzzles together or play alone for a greater challenge. Features 3 difficulty modes for each puzzle and the ability to resume a puzzle at a later date. With Christmas music included and custom track support.",
+        "short": "Jigsaw Jumble is back with 15 more puzzles in this special Christmas themed edition. Play cooperatively with a friend and solve the puzzles together or play alone for a greater challenge. Features 3 difficulty modes for each puzzle and the ability to resume a puzzle at a later date. With Christmas music included and custom track support."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550c5e/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C5E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c5e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C5E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C5E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C5E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C5E_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

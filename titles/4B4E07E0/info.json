@@ -1,0 +1,37 @@
+{
+    "id": "4B4E07E0",
+    "title": {
+        "full": "Rock Revolution",
+        "reduced": "Rock Revolution"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "Zoë Mode",
+    "publisher": "Konami",
+    "release_date": "2008-01-01",
+    "user_rating": "2.25",
+    "description": {
+        "full": "Rock Revolution lets you release your inner rockstar or allows your friends the privilege of picking up an axe or pounding the skins with you to 41 mind bending rock tracks! Unleash your creative juices in the Studio Mode where you can create your own music in a state of the art multi-track studio! This is the musical revolution the world has been waiting for!",
+        "short": "Rock Revolution lets you release your inner rockstar or allows your friends the privilege of picking up an axe or pounding the skins with you to 41 mind bending rock tracks! Unleash your creative juices in the Studio Mode where you can create your own music in a state of the art multi-track studio! This is the musical revolution the world has been waiting for!"
+    },
+    "media": [
+        {
+            "media_id": "279E1655",
+            "title": "Rock Revolution",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e0/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

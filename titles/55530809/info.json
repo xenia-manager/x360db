@@ -1,0 +1,47 @@
+{
+    "id": "55530809",
+    "title": {
+        "full": "CSI-Hard Evidence",
+        "reduced": "CSI-Hard Evidence"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Telltale Games, Inc.",
+    "publisher": "UbiSoft",
+    "release_date": "2007-09-25",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   In CSI: CRIME SCENE INVESTIGATION™ Hard Evidence you’ll unravel longer cases, search bigger crime scenes and uncover hidden evidence in unique locations. Break down the crime scene and bring suspects to justice in five all-new, bizarre cases. Master new forensic tools and use the new Garage Lab to examine large pieces of evidence like cars and trucks. Recreate gunfights with ballistic lasers; uncover shocking secrets with video analysis, and much more. The new redesigned user interface makes exploring crime scenes and processing evidence more intuitive and more like the show than ever. Join forces with the CSI team and tackle Las Vegas’ most disturbing murders - from a gruesome arson attack to a frenzied shootout, it’s all about the evidence, and more like the hit TV show than ever before.",
+        "short": "In CSI: CRIME SCENE INVESTIGATION™ Hard Evidence you’ll unravel longer cases, search bigger crime scenes and uncover hidden evidence in unique locations. Break down the crime scene and bring suspects to justice in five all-new, bizarre cases. Master new forensic tools and use the new Garage Lab to examine large pieces of evidence like cars and trucks. Recreate gunfights with ballistic lasers; uncover shocking secrets with video analysis, and much more. The new redesigned user interface makes exp"
+    },
+    "media": [
+        {
+            "media_id": "19A20917",
+            "title": "CSI: Crime Scene Investigation: Hard Evidence",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530809/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530809/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530809/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530809/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530809/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530809/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530809/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530809/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530809/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530809/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530809/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/0f/48/0f48ac94-cfd0-4d4c-9de1-6f718fed560c.PDF?v=1#csi4HE-en.PDF"
+        ]
+    }
+}

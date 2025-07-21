@@ -1,0 +1,37 @@
+{
+    "id": "4C5307D8",
+    "title": {
+        "full": "Superstars V8 NC",
+        "reduced": "Superstars V8 NC"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Milestone",
+    "publisher": "Lago",
+    "release_date": "2009-12-16",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Superstars® V8 Next Challenge",
+        "short": "Superstars® V8 Next Challenge"
+    },
+    "media": [
+        {
+            "media_id": "1F0D0E41",
+            "title": "Superstars V8: Next Challenge",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307d8/1033/boxartlg.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.4c5307d8/icon/0/8000",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

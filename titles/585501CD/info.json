@@ -1,0 +1,35 @@
+{
+    "id": "585501CD",
+    "title": {
+        "full": "Go Go UFO Smackdown",
+        "reduced": "Go Go UFO Smackdown"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "FrogSlayer Studios",
+    "publisher": "FrogSlayer Studios",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. Fly into outer space in order to defend your planet from destruction!  But, beware. In this four-sided celestial brawl, everyone is fighting for their own survival.  Be the last planet standing by bouncing the onslaught of oncoming comets into your neighbors.  When the mushroom-clouds settle, only the vicious and the quick will remain!",
+        "short": "Fly into outer space in order to defend your planet from destruction!  But, beware. In this four-sided celestial brawl, everyone is fighting for their own survival.  Be the last planet standing by bouncing the onslaught of oncoming comets into your neighbors.  When the mushroom-clouds settle, only the vicious and the quick will remain!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585501cd/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585501CD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585501cd/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585501CD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501CD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501CD_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501CD_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

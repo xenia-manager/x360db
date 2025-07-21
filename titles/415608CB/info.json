@@ -1,0 +1,91 @@
+{
+    "id": "415608CB",
+    "title": {
+        "full": "Call of Duty Modern Warfare 3",
+        "reduced": "Modern Warfare 3"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Infinity Ward and Sledgehammer Games",
+    "publisher": "Activision",
+    "release_date": "2011-11-08",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English.  Modern Warfare® is back. The best-selling first person action series of all-time returns with the epic sequel to multiple \"Game of the Year\" award winner, \"Call of Duty®: Modern Warfare 2.\" In the world’s darkest hour, are you willing to do what is necessary? Prepare yourself for a cinematic thrill-ride as only Call of Duty can deliver. Online, the definitive Multiplayer experience returns bigger and better than ever, loaded with new maps, modes and features. Co-Op play has evolved with all-new Spec-Ops missions and leaderboards, as well as Survival Mode, an action-packed combat progression unlike any other.",
+        "short": "Modern Warfare® is back. The best-selling first person action series of all-time returns with the epic sequel to \"Game of the Year\" winner \"Call of Duty: Modern Warfare 2,\" thrusting players on a cinematic thrill-ride. Online, the definitive Multiplayer experience returns bigger than ever, loaded with new maps, modes and features. In addition to all-new missions, Spec-Ops now introduces Survival Mode, an action-packed combat progression unlike any other."
+    },
+    "media": [
+        {
+            "media_id": "2FA96040",
+            "title": "Call of Duty: Modern Warfare 3",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "274AAC23",
+            "title": "Call of Duty: Modern Warfare 3",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "58E2EB4F",
+            "title": "Call of Duty: Modern Warfare 3",
+            "edition": "Jimakuban",
+            "region": "Japan"
+        },
+        {
+            "media_id": "76E13362",
+            "title": "Call of Duty: Modern Warfare 3",
+            "edition": "Fukikaeban",
+            "region": "Japan"
+        },
+        {
+            "media_id": "3359A52A",
+            "title": "Call of Duty: Modern Warfare 3",
+            "edition": "Original",
+            "region": "Italy"
+        },
+        {
+            "media_id": "3B46AE32",
+            "title": "Call of Duty: Modern Warfare 3",
+            "edition": "Original, Call of Duty: Modern Warfare Trilogy",
+            "region": "USA, Korea"
+        },
+        {
+            "media_id": "20344957",
+            "title": "Call of Duty: Modern Warfare 3",
+            "edition": "Original",
+            "region": "Spain"
+        },
+        {
+            "media_id": "30775D59",
+            "title": "Call of Duty: Modern Warfare 3",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "7550171B",
+            "title": "Call of Duty: Modern Warfare 3",
+            "edition": "Original",
+            "region": "France"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/415608cb/CODMW3_Manual_EN_Revised.pdf"
+        ]
+    }
+}

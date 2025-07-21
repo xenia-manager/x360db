@@ -1,0 +1,57 @@
+{
+    "id": "555308B5",
+    "title": {
+        "full": "Just Dance 4",
+        "reduced": "Just Dance 4"
+    },
+    "genre": [
+        "Kinect",
+        "Music"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2013-01-08",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor.  The world’s #1 dance game brand is back with Just Dance®4! The latest edition of the record-breaking franchise takes the party to a whole new level of fun with new game modes, brand new features, coaches and stylish environments. Discover over 40 chart-topping hits from “Good Feeling” by Flo Rida, and “What Makes You Beautiful” by One Direction to legendary tracks like “Superstition” by Stevie Wonder.   Challenge your friends in 5 rounds of dance battles with the brand-new Battle mode! Go head to head to unique choreographies and music to be crowned the dance battle champion!   Browse through the latest and most popular community content with Kinect™-exclusive Just Dance TV, check out all of you and your friends’ videos, and explore the Featured video section, where the very best content is highlighted by our team. With Just Dance 4, the party never ends! Have a blast dancing, laughing, and breaking a sweat with friends and family all night long.",
+        "short": "The world’s #1 dance game brand is back with Just Dance®4! The latest edition of the record-breaking franchise takes the party to a whole new level of fun with new game modes, coaches and stylish environments. Discover over 40 chart-topping hits from “Good Feeling” by Flo Rida, and “What Makes You Beautiful” by One Direction to legendary tracks like “Superstition” by Stevie Wonder.  Challenge your friends with the all-new Battle mode to be crowned the dance battle champion! "
+    },
+    "media": [
+        {
+            "media_id": "1EA8B3A3",
+            "title": "Just Dance 4",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "3E2E5826",
+            "title": "Just Dance 4",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "52A42E86",
+            "title": "Just Dance 4",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b5/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/555308b5/PPS_CMYK_JD4_360_manual_UK_graphicstudio_CMYK.pdf"
+        ]
+    }
+}

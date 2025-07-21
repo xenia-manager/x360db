@@ -1,0 +1,98 @@
+{
+    "id": "45410993",
+    "title": {
+        "full": "Medal of Honor Warfighter",
+        "reduced": "Medal of Honor Warfighter"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Danger Close Games",
+    "publisher": "Electronic Arts",
+    "release_date": "2012-10-23",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Written by active U.S. Tier 1 Operators while deployed overseas and inspired by real world threats, Medal of Honor™ Warfighter  delivers an aggressive, gritty, and authentic experience that puts gamers in the boots of today’s most precise and disciplined warrior. Medal of Honor Warfighter is an up close and personal look at today’s battlefield and the fight against the ongoing global terror threat.    Medal of Honor Warfighter tells the story of U.S. Tier 1 Operator, “Preacher” as he returns home from overseas only to find his family torn apart from years of deployment. Trying to pick up the pieces to salvage what remains of his marriage, Preacher is reminded of what he’s fighting for - family. But when an extremely deadly explosive (PETN) penetrates civilian borders and his two worlds collide, Preacher and his fellow teammates are sent in to solve the problem. They take the fight to the enemy and do whatever it takes to protect their loved ones from harm.",
+        "short": "Medal of Honor™ Warfighter delivers an aggressive, gritty, and authentic experience that puts gamers in the boots of today’s most precise and disciplined warrior. Medal of Honor Warfighter is an up close and personal look at today’s battlefield and the fight against the ongoing global terror threat.   "
+    },
+    "media": [
+        {
+            "media_id": "4B2596C1",
+            "title": "Medal of Honor: Warfighter (Disc 1)",
+            "edition": "Platinum Hits, Limited Edition",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "4CA3DE59",
+            "title": "Medal of Honor: Warfighter (Disc 1)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "0DA226E4",
+            "title": "Medal of Honor: Warfighter (Disc 1)",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "77AB2D5D",
+            "title": "Medal of Honor: Warfighter (Disc 1)",
+            "edition": "Original",
+            "region": "Poland"
+        },
+        {
+            "media_id": "74B71237",
+            "title": "Medal of Honor: Warfighter (Disc 1) (Multiplayer)",
+            "edition": "Limited Edition",
+            "region": "Korea"
+        },
+        {
+            "media_id": "5FAC0534",
+            "title": "Medal of Honor: Warfighter (Disc 2)",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "07AF593B",
+            "title": "Medal of Honor: Warfighter (Disc 2)",
+            "edition": "Platinum Hits, Limited Edition",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "2D22C382",
+            "title": "Medal of Honor: Warfighter (Disc 2)",
+            "edition": "Original",
+            "region": "Poland"
+        },
+        {
+            "media_id": "0BC70BC5",
+            "title": "Medal of Honor: Warfighter (Disc 2)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "7766B9A7",
+            "title": "Medal of Honor: Warfighter (Disc 2) (Single-Player Campaign)",
+            "edition": "Limited Edition",
+            "region": "Korea"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410993/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410993/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410993/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410993/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410993/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410993/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410993/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410993/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410993/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410993/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

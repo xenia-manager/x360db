@@ -1,0 +1,41 @@
+{
+    "id": "4B4D07FD",
+    "title": {
+        "full": "Risen 3 Titan Lords",
+        "reduced": "Risen 3 Titan Lords"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Piranha Bytes",
+    "publisher": "Deep Silver",
+    "release_date": "2014-08-12",
+    "user_rating": "3.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  The world has been abandoned by its gods and is scarred from the rampage of the Titans. Humanity is struggling to regain strength and rally its forces. You, however, have more pressing concerns: your own life has been shattered and you must set off to reclaim what is lost amidst the darkness that is spreading throughout the world.  Step into a classic hand-crafted role-playing world - full of rugged charm, colorful characters and demonic dangers. From quaint medieval-style towns to delving deep into the dank dark of mines, to the supernatural shadow world, there is a wealth of possibilities waiting to be explored. Magic is back! Crystal magic has returned, bringing with it devastating new combat abilities. Freedom of choice: Choose when and where you want to go and experience consequences for the actions you take. Choose to ally yourself with one of three distinct guilds, each offering unique skills, armouries and quests allowing you to approach your quest in very different ways. ",
+        "short": "The world has been abandoned by its gods and is scarred from the rampage of the Titans. Humanity is struggling to regain strength and rally its forces. You, however, have more pressing concerns: your own life has been shattered and you must set off to reclaim what is lost amidst the darkness that is spreading throughout the world. Three threads of destiny lie before you. Three ways to rise up against the Titans and regain your soul. Which path will you take?"
+    },
+    "media": [
+        {
+            "media_id": "1E0F385F",
+            "title": "Risen 3: Titan Lords",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fd/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fd/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fd/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fd/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

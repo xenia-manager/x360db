@@ -1,0 +1,33 @@
+{
+    "id": "58550161",
+    "title": {
+        "full": "Jordans Asteroids",
+        "reduced": "Jordans Asteroids"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Melted Moose Studios",
+    "publisher": "Melted Moose Studios",
+    "release_date": null,
+    "user_rating": null,
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Play retro asteroids by yourself, or with up to three other people! Jordans Asteroids includes ten fun and challenging levels of asteroids.",
+        "short": "Play retro asteroids by yourself, or with up to three other people! Jordans Asteroids includes ten fun and challenging levels of asteroids."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855016100000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550161_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550161/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550161_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550161_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

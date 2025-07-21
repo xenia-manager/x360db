@@ -1,0 +1,35 @@
+{
+    "id": "58550421",
+    "title": {
+        "full": "Titamus Attack",
+        "reduced": "Titamus Attack"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Golconda",
+    "publisher": "Golconda",
+    "release_date": null,
+    "user_rating": "2.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. Titamus Attack is a first person shooter game. Spaceship Hydrae B attacked by monsters. Shoot them up and rescue the ship. As the levels progress you move from chamber to chamber in the ship. Watch for different monster behaviors and different hurdles as you progress. Easy, Medium and Hard modes challenge you with 27 levels.",
+        "short": "Titamus Attack is a first person shooter game. Spaceship Hydrae B attacked by monsters. Shoot them up and rescue the ship. As the levels progress you move from chamber to chamber in the ship. Watch for different monster behaviors and different hurdles as you progress. Easy, Medium and Hard modes challenge you with 27 levels."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550421/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550421_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550421/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550421_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550421_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550421_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550421_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

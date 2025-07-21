@@ -1,0 +1,64 @@
+{
+    "id": "45410872",
+    "title": {
+        "full": "NHL 09",
+        "reduced": "NHL 09"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts Canada",
+    "publisher": "Electronic Arts",
+    "release_date": "2008-01-01",
+    "user_rating": "4.50",
+    "description": {
+        "full": "EA SPORTS™ welcomes you to NHL®09, the series that is coming off of 7 “Sports Game of the Year” awards. NHL 09  continues to lead sports gaming innovation with enhanced controls, added depth and accessibility.  A new Be A Pro mode allows gamers to step on the ice as themselves and progress from the AHL to the NHL in a quest to become the next great NHL superstar. NHL09 will also be the first true console sports massively multiplayer online game,  allowing you to assemble a team online featuring your created player and five friends in the new EA SPORTS Hockey League.  The game also features an all new defensive skill stick that allows for stick sweeps, better poke checks and the ability to lift an opponent’s stick to prevent a shot.  If you love sports games, you will love NHL 09.",
+        "short": "EA SPORTS™ welcomes you to NHL®09, the series that is coming off of 7 “Sports Game of the Year” awards. NHL 09  continues to lead sports gaming innovation with enhanced controls, added depth and accessibility.  A new Be A Pro mode allows gamers to step on the ice as themselves and progress from the AHL to the NHL in a quest to become the next great NHL superstar. NHL09 will also be the first true console sports massively multiplayer online game,  allowing you to assemble a team online featuring "
+    },
+    "media": [
+        {
+            "media_id": "10719FCC",
+            "title": "NHL 09",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "3028CBC1",
+            "title": "NHL 09",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410872/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

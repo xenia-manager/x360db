@@ -1,0 +1,35 @@
+{
+    "id": "58550D5E",
+    "title": {
+        "full": "GORY CYBER WEST",
+        "reduced": "GORY CYBER WEST"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "SIACTRO",
+    "publisher": "SIACTRO",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=3/3. This is THE best cyber western duel simulator 2013!",
+        "short": "This is THE best cyber western duel simulator 2013!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550d5e00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D5E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d5e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D5E_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D5E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D5E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D5E_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

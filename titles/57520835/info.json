@@ -1,0 +1,40 @@
+{
+    "id": "57520835",
+    "title": {
+        "full": "LEGO Marvel Super Heroes",
+        "reduced": "LEGO Marvel"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family"
+    ],
+    "developer": "TT Games",
+    "publisher": "WB Games",
+    "release_date": "2013-10-22",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Danish, Dutch, Polish, Russian.  LEGO® Marvel™ Super Heroes features an original story crossing the entire Marvel Universe. Players take control of Iron Man, Spider-Man, the Hulk, Captain America, Wolverine and many more Marvel characters as they unite to stop Loki and a host of other Marvel villains from assembling a super-weapon capable of destroying the world.",
+        "short": "LEGO® Marvel™ Super Heroes features an original story crossing the entire Marvel Universe."
+    },
+    "media": [
+        {
+            "media_id": "2B718CEF",
+            "title": "LEGO Marvel Super Heroes",
+            "edition": "Original, Bundled with Marvel Animation 2013 Bonus Disc",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520835/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520835/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520835/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520835/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520835/1033/screenlg1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

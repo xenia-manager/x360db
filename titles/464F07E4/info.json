@@ -1,0 +1,44 @@
+{
+    "id": "464F07E4",
+    "title": {
+        "full": "Supremacy MMA",
+        "reduced": "Supremacy MMA"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Kung Fu Factory",
+    "publisher": "505 Games",
+    "release_date": "2011-08-11",
+    "user_rating": "0.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  No holds barred MMA action.  Play against your friends and the world on your path to Supremacy.",
+        "short": "No holds barred MMA action."
+    },
+    "media": [
+        {
+            "media_id": "4C3A2250",
+            "title": "Supremacy MMA",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e4/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

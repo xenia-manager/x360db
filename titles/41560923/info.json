@@ -1,0 +1,48 @@
+{
+    "id": "41560923",
+    "title": {
+        "full": "TRANSFORMERS Devastation",
+        "reduced": "TRANSFORMERS Dev"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "PlatinumGames",
+    "publisher": "Activision",
+    "release_date": "2015-10-06",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  The TRANSFORMERS are back, and this time they’re in the hands of acclaimed developer PlatinumGames, who has married their over-the-top brawler action with comic book inspired art to create a TRANSFORMERS game like none other.   - Surprise the enemy: PlatinumGames signature fast action allows instant robot to vehicle attacks, slam downs, counterattacks, and infinite combos for a unique master combat system. - Five playable AUTOBOTS:  Wreak havoc on the DECEPTICONS as OPTIMUS PRIME, BUMBLEBEE, SIDESWIPE, WHEELJACK and GRIMLOCK. - Actors from the original TV series: Reprising their roles are Peter Cullen (OPTIMUS PRIME), Dan Gilvezan (BUMBLEBEE), Frank Welker (MEGATRON and SOUNDWAVE), and more. - Play again and again: 5 difficulty levels with overhauls in enemy composition, combined with a deep customization system, means hours of intense gameplay.",
+        "short": "The TRANSFORMERS are back, and this time they’re in the hands of acclaimed developer PlatinumGames, who has married their over-the-top brawler action with comic book inspired art to create a TRANSFORMERS game like none other.   - Five playable AUTOBOTS:  OPTIMUS PRIME, BUMBLEBEE, SIDESWIPE, WHEELJACK and GRIMLOCK. - 5 difficulty levels with overhauls in enemy composition, combined with a deep customization system, means hours of intense gameplay."
+    },
+    "media": [
+        {
+            "media_id": "1864A1C5",
+            "title": "Transformers: Devastation",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560923/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560923/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560923/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560923/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560923/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560923/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560923/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560923/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560923/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560923/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560923/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560923/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560923/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560923/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

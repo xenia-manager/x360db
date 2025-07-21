@@ -1,0 +1,35 @@
+{
+    "id": "5855074E",
+    "title": {
+        "full": "Alien Hunter",
+        "reduced": "Alien Hunter"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Ghere Game Studios",
+    "publisher": "Ghere Game Studios",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. Collect all of the parts needed to activate the teleporter while taking care of the aliens that have abducted you.  First person alien shooter game.  Endless levels, pickups and powerups.",
+        "short": "Collect all of the parts needed to activate the teleporter while taking care of the aliens that have abducted you.  First person alien shooter game.  Endless levels, pickups and powerups."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855074e00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855074E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855074e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855074E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855074E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855074E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855074E_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

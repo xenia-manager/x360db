@@ -1,0 +1,67 @@
+{
+    "id": "45410860",
+    "title": {
+        "full": "Command & Conquer - Red Alert 3",
+        "reduced": "CC Red Alert 3"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Electronic Arts Los Angeles",
+    "publisher": "Electronic Arts",
+    "release_date": "2008-10-30",
+    "user_rating": "4.00",
+    "description": {
+        "full": "After years of conflict, the Allies are finally on the brink of victory. Cowering behind the walls of the Kremlin, the Soviets decide to turn to one last act of desperation – the use of an experimental time travel device. The mission: to go back in time to eliminate Albert Einstein before he creates the technologies that will lead the Allies to ultimate victory. After a successful mission, the Soviets return to the present, discovering the Allied position has indeed been weakened. But before they can truly celebrate, they find out their actions have spawned a new threat and global superpower, the mysterious, technologically advanced Empire of the Rising Sun. Welcome to World War III.",
+        "short": "After years of conflict, the Allies are finally on the brink of victory. Cowering behind the walls of the Kremlin, the Soviets decide to turn to one last act of desperation – the use of an experimental time travel device. The mission: to go back in time to eliminate Albert Einstein before he creates the technologies that will lead the Allies to ultimate victory."
+    },
+    "media": [
+        {
+            "media_id": "50E8CF7A",
+            "title": "Command & Conquer: Alarmstufe Rot 3",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "397ABF44",
+            "title": "Command & Conquer: Red Alert 3",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "4F876E34",
+            "title": "Command & Conquer: Red Alert 3",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "44F45C72",
+            "title": "Command & Conquer: Red Alert 3",
+            "edition": "Original",
+            "region": "Italy"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410860/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410860/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410860/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410860/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410860/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410860/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410860/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410860/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410860/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410860/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410860/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410860/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410860/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410860/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410860/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

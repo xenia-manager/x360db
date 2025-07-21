@@ -1,0 +1,56 @@
+{
+    "id": "555307D3",
+    "title": {
+        "full": "Peter Jacksons King Kong",
+        "reduced": "King Kong"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2005-11-21",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Acclaimed game creator Michel Ancel and the Montpellier studio have teamed with Academy Award-winning filmmaker Peter Jackson and visual-effects company Weta Ltd. to develop Peter Jackson's King Kong The Official Game Of The Movie. Capturing the imagination, vision, and emotion of this epic, you will delve deeper into the film, playing as both Jack Driscoll and the great Kong himself. Experience these alternative viewpoints to truly feel the tension of the adventure.",
+        "short": "Capturing the imagination, vision, and emotion of this epic, you will delve deeper into the film, playing as both Jack Driscoll and the great Kong himself. Experience these alternative viewpoints to truly feel the tension of the adventure."
+    },
+    "media": [
+        {
+            "media_id": "1BEDBA64",
+            "title": "Peter Jackson's King Kong: The Official Game of the Movie",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "11654B18",
+            "title": "Peter Jackson's King Kong: The Official Game of the Movie",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d3/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d3/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d3/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/555307d3/819e543f-f2e9-4ef6-88ac-c81834057695.PDF"
+        ]
+    }
+}

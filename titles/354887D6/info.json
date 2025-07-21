@@ -1,0 +1,48 @@
+{
+    "id": "354887D6",
+    "title": {
+        "full": "Painkiller Hell  Damnation Demo",
+        "reduced": "Painkiller Hell  Damnation Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "The Farm 51",
+    "publisher": "Nordic Games GmbH",
+    "release_date": "2013-05-27",
+    "user_rating": "2.75",
+    "description": {
+        "full": "Heaven's Hitman is Back... With a Vengeance  Evil has returned! Demonic powers are manifesting themselves as a myriad of dark creatures, fighting over the fates of imprisoned souls caught in Purgatory.  Once again, it is up to Daniel Garner, in the unenviable position of being the Curse of Darkness and the Toy of Light, to fight his way past hordes of demons and fiends.  Questions remain… “Can he stop the powerful creatures that stand in his way? Will he ever leave the hell of Purgatory and be reunited with his wife Catherine?”  Painkiller Hell & Damnation is a fast-paced, thrilling modern remake of an all-action shooter Classic!",
+        "short": "Evil has returned! Demonic powers are manifesting themselves as a myriad of dark creatures, fighting over the fates of imprisoned souls caught in Purgatory.  Painkiller Hell & Damnation is a fast-paced, thrilling modern remake of an all-action shooter Classic!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887d6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887d6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887d6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887d6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887d6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887d6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887d6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887d6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887d6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887d6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887d6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887d6/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887d6/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887d6/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802354887d6/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "354807D1",
+                "title": "Painkiller Hell & Damnation"
+            }
+        ],
+        "related": []
+    }
+}

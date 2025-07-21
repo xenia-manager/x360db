@@ -1,0 +1,43 @@
+{
+    "id": "584111FB",
+    "title": {
+        "full": "Shoot Many Robots",
+        "reduced": "Shoot Many Robots"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing",
+        "Shooter"
+    ],
+    "developer": "Demiurge",
+    "publisher": "Ubisoft",
+    "release_date": "2012-03-14",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Shoot Many Robots is a 4-player co-op run-n’-gun action game starring robot slayer and gun aficionado, P. Walter Tugnut. From a gun that shoots garden gnome missiles to a tutu that boosts speed and damage, there are hundreds of crazy guns and gear to unlock that boost Walter’s stats – not to mention, make him look pretty. You and three friends can team up to exterminate a zillion robots while progressing through tons of missions, facing uncomfortably epic bosses, and leveling up along the way.",
+        "short": "Shoot Many Robots is a 4-player online co-op, run-n’-gun RPG starring P. Walter Tugnut, a lovable hillbilly who’s been stock-piling his RV with guns and ammo for the robot apocalypse. He’s also a bit of a drunk and uses beer to replenish his health.  Unlock hundreds of items to affect Walter’s attributes giving him special abilities. Don’t forget killing robots gives you XP, XP makes you stronger, and the stronger you are, the more robots you can kill. It’s all one big cycle of robot murder."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

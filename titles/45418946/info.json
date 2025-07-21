@@ -1,0 +1,49 @@
+{
+    "id": "45418946",
+    "title": {
+        "full": "Crysis 2 Multiplayer Demo",
+        "reduced": "Crysis 2 Multiplayer Demo"
+    },
+    "genre": [
+        "Classics",
+        "Shooter"
+    ],
+    "developer": "Crytek",
+    "publisher": "Electronic Arts",
+    "release_date": "2011-01-25",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Aliens are decimating New York City, with a full invasion force bent on the annihilation of mankind. Neither paramilitary law enforcement nor the might of the US military can stand against the invaders. Only you have the technology to survive: with the unique Nanosuit 2, tackle the alien menace in ways a regular soldier could only dream of. • Nanosuit 2: Customize your Nanosuit and weapons then adapt your combat tactics in real time using Stealth, Armor and Power abilities.  • New York, New York: Crysis® 2 is set to redefine the visual benchmark for console and PC platforms in the urban jungle of New York City. • Amazing Aliens and AI: Lethal enemies employ best-in-class AI with unique group coordination and behavior for realistic, challenging responses to your actions. • Multiplayer: The next big leap in multiplayer gives you nearly unlimited ways to approach the dynamic combat environment.",
+        "short": "Aliens are decimating New York City, with a full invasion force bent on the total annihilation of mankind. Neither paramilitary law enforcement nor the might of the US military can stand against the invaders. Only you have the technology to survive: with the unique Nanosuit 2, tackle the alien menace in ways a regular soldier could only dream of. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418946/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418946/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418946/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418946/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418946/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418946/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418946/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418946/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418946/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418946/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418946/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418946/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418946/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418946/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418946/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418946/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454108E3",
+                "title": "Crysis 2"
+            }
+        ],
+        "related": []
+    }
+}

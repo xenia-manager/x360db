@@ -1,0 +1,35 @@
+{
+    "id": "58550C5A",
+    "title": {
+        "full": "Concept Coaster Craft",
+        "reduced": "Concept Coaster Craft"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Squarebananas",
+    "publisher": "Squarebananas",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Design, build and ride your very own roller coasters. Choose between a wide variety of different carriages & environments and also paint the track as you like. Once you are happy with your roller coaster you can then share it with the world over Xbox Live. Roller coasters others have shared will also be available for you to download, ride and rate. Start constructing today!",
+        "short": "Design, build and ride your very own roller coasters. Choose between a wide variety of different carriages & environments and also paint the track as you like. Once you are happy with your roller coaster you can then share it with the world over Xbox Live. Roller coasters others have shared will also be available for you to download, ride and rate. Start constructing today!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550c5a00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C5A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c5a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C5A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C5A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C5A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C5A_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

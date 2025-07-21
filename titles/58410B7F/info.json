@@ -1,0 +1,38 @@
+{
+    "id": "58410B7F",
+    "title": {
+        "full": "Dungeon Fighter LIVE Fall Of Hendon Myre",
+        "reduced": "Dungeon Fighter LIVE Fall Of Hendon Myre"
+    },
+    "genre": [
+        "Fighting",
+        "Role Playing"
+    ],
+    "developer": "NEXON Korea Corporation / Neople Inc. / Softmax Co., Ltd.",
+    "publisher": "Microsoft Studios",
+    "release_date": "2012-07-13",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Hack-and-slash action and 2D side scrolling meet multiplayer mania in Dungeon Fighter LIVE: Fall of Hendon Myre. Take on the role of three classic Dungeon Fighters—Slayer, Gunner, and Fighter—to defend Hendon Myre from monsters spreading Phantasmalia. Customize your heroes by creating and enhancing gear, and deliver unique attacks by chaining and combining skills, all while playing with up to 4 players on the same console or via Xbox LIVE!",
+        "short": "Hack-and-slash action and 2D side scrolling meet multiplayer mania in Dungeon Fighter LIVE: Fall of Hendon Myre. Take on the role of three classic Dungeon Fighters—Slayer, Gunner, and Fighter—to defend Hendon Myre from monsters spreading Phantasmalia. Customize your heroes by creating and enhancing gear, and deliver unique attacks by chaining and combining skills, all while playing with up to 4 players on the same console or via Xbox LIVE!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7f/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

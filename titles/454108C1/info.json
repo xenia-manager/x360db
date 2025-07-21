@@ -1,0 +1,50 @@
+{
+    "id": "454108C1",
+    "title": {
+        "full": "NBA LIVE 10",
+        "reduced": "NBA LIVE 10"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts Canada",
+    "publisher": "Electronic Arts",
+    "release_date": "2009-10-22",
+    "user_rating": "4.00",
+    "description": {
+        "full": "NBA LIVE 10 includes major improvements to player movement, gameplay, controls, and an all new broadcast presentation package. All new features include Dynamic Season, updated Dynamic DNA, adidas LIVE Run, and Playoffs Mode.",
+        "short": "NBA LIVE 10 includes major improvements to player movement, gameplay, controls, and an all new broadcast presentation package. All new features include Dynamic Season, updated Dynamic DNA, adidas LIVE Run, and Playoffs Mode."
+    },
+    "media": [
+        {
+            "media_id": "21FB96CC",
+            "title": "NBA Live 10",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "42AAB515",
+            "title": "NBA Live 10",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108c1/7177/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

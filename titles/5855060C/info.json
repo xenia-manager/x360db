@@ -1,0 +1,35 @@
+{
+    "id": "5855060C",
+    "title": {
+        "full": "BLASTER AND MORIONブラスターアンドモリオン",
+        "reduced": "BLASTER AND MORIONブラスターアンドモリオン"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "MUKAGOSOFTWARE DEVELOPMENT",
+    "publisher": "MUKAGOSOFTWARE DEVELOPMENT",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. BLASTER AND MORION is a twin-stick shooter where you struggle to fend off violent attack of strange enemies. Experience 7 stages. Copyright 2010 MUKAGOSOFTWARE DEVELOPMENT",
+        "short": "BLASTER AND MORION is a twin-stick shooter where you struggle to fend off violent attack of strange enemies. Experience 7 stages. Copyright 2010 MUKAGOSOFTWARE DEVELOPMENT"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855060c/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855060C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855060c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855060C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855060C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855060C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855060C_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

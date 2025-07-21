@@ -1,0 +1,30 @@
+{
+    "id": "58410AFA",
+    "title": {
+        "full": "Beyond Good & Evil HD",
+        "reduced": "Beyond Good & Evil HD"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2011-03-02",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Beyond Good & Evil™, the award-winning action-adventure game is back!  This time play through this innovative thriller in full high-definition graphics.   Play as Jade, a young investigative reporter, and expose a terrible government conspiracy.  It is up to you and your loyal pig friend Pey'j to save your planet and its inhabitants.",
+        "short": "Play the award-winning and innovative action adventure game Beyond Good & Evil™, now with fully remastered HD graphics."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410afa/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410afa/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410afa/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410afa/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

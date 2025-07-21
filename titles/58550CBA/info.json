@@ -1,0 +1,35 @@
+{
+    "id": "58550CBA",
+    "title": {
+        "full": "Ball Guy",
+        "reduced": "Ball Guy"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Kinekid",
+    "publisher": "Kinekid",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=1/3, Mature Content=1/3. Help navigate Ball Guy through the perilous dangers of inter-dimensional time travel, or something like that.  Defeat the Evil Ball and save Pinky, or maybe everything isn't what it seems.  Try to collect the hourglasses in all the stages within the given amount of boosts and enjoy some fun facts along the way.",
+        "short": "Help navigate Ball Guy through the perilous dangers of inter-dimensional time travel, or something like that.  Defeat the Evil Ball and save Pinky, or maybe everything isn't what it seems.  Try to collect the hourglasses in all the stages within the given amount of boosts and enjoy some fun facts along the way."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550cba00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CBA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550cba/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CBA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CBA_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CBA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CBA_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

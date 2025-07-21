@@ -1,0 +1,42 @@
+{
+    "id": "555308D0",
+    "title": {
+        "full": "Rabbids Invasion The Interactive TV Show",
+        "reduced": "Rabbids Invasion The Interactive TV Show"
+    },
+    "genre": [
+        "Family"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2014-11-18",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Portuguese, Russian. This game requires a Kinect™ Sensor.  Rabbids® Invasion, the kids’ hit animated TV show, is now a video game!  Kids can actively play on a selection of episodes to become both an actor and a spectator of their favorite TV show.  Play Through 20 Rabbids® Invasion Episodes Watch, play and interact with the Rabbids while the episode is running.  Have Fun With Over 400 Wacky Full-Motion Activities Have a virtual egg battle with the Rabbids, try to quickly match their silly poses, play against the timer, scream out the iconic Rabbids “bwaah”…   Play With Family and Friends Enjoy hilarious times with your friends and unlock new content while competing for the highest score. You can also challenge them and try to become champion of the episode!  Let the Rabbids Invade Your Living Room Interact and dance with the Rabbids in your own living thanks to augmented reality.  Collect Memorable Moments in the Rabbids Photo Album Take selfies with the Rabbids using Kinect ",
+        "short": "RABBIDS® INVASION, the kids’ hit animated TV show, is now a video game! Kids can watch a selection of 20 episodes to play and interact with the Rabbids.  Over 400 Wacky Full-Motion Activities to play with family and friends Have a virtual egg battle, try to match the Rabbids’ poses, scream out the iconic “bwaah”…  Augmented Reality Interact and dance with the Rabbids in your own living room! "
+    },
+    "media": [
+        {
+            "media_id": "1337D9A3",
+            "title": "Rabbids Invasion: The Interactive TV Show",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d0/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

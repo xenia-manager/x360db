@@ -1,0 +1,46 @@
+{
+    "id": "4156085C",
+    "title": {
+        "full": "Band Hero",
+        "reduced": "Band Hero"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "Neversoft Entertainment",
+    "publisher": "Activision, Inc",
+    "release_date": "2009-09-04",
+    "user_rating": "3.00",
+    "description": {
+        "full": "Join the Band  - Enjoy a whole new genre of music focused on today’s hottest hits and classic anthems that everyone will know and love - Take the stage and rock out as Taylor Swift, No Doubt, and Adam Levine of Maroon 5 - Create your own band - play with any combination of instruments you want, even up to 4 lead singers - Join the party at any time with the click of a button in Party Play Mode - Enter Sing-Along Mode, where players can simply plug in one controller and up to three microphones and sing together, Karaoke style, on any song in the game - Explore your originality and create music with ease in the new and improved GH™Studio - Expand your music collection by Importing your Guitar Hero® World Tour and Guitar Hero® 5 Downloadable Content straight into Band Hero™. *Does not apply to a limited number of songs.",
+        "short": "Join the Band  - Enjoy a whole new genre of music focused on today’s hottest hits and classic anthems that everyone will know and love - Take the stage and rock out as Taylor Swift, No Doubt, and Adam Levine of Maroon 5 - Create your own band - play with any combination of instruments you want, even up to 4 lead singers - Join the party at any time with the click of a button in Party Play Mode - Enter Sing-Along Mode, where players can simply plug in one controller and up to three microph…"
+    },
+    "media": [
+        {
+            "media_id": "428806E4",
+            "title": "Band Hero",
+            "edition": "Original, Bundled with Guitar Controller, Drum Set & Microphone",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156085c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156085c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156085c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156085c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156085c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156085c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156085c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156085c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156085c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156085c/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156085c/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156085c/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

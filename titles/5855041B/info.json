@@ -1,0 +1,35 @@
+{
+    "id": "5855041B",
+    "title": {
+        "full": "Hypno Vol 1",
+        "reduced": "Hypno Vol 1"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Andrew Gaubatz",
+    "publisher": "Andrew Gaubatz",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=3/3. Take the role of a dangerously powerful hypnotist in this dark story-driven experience.  Use your abilities to cut a bloody swath through the city by ripping the intentions from one person and branding them down on others. Wherever you go, the people around you are your weapons – use them through 17 varied missions of assassination, interrogation, and mayhem as you exact your revenge on the world.",
+        "short": "Take the role of a dangerously powerful hypnotist in this dark story-driven experience.  Use your abilities to cut a bloody swath through the city by ripping the intentions from one person and branding them down on others. Wherever you go, the people around you are your weapons – use them through 17 varied missions of assassination, interrogation, and mayhem as you exact your revenge on the world."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855041b/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855041B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855041b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855041B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855041B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855041B_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855041B_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

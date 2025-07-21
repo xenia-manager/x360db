@@ -1,0 +1,56 @@
+{
+    "id": "443607D2",
+    "title": {
+        "full": "The Walking Dead",
+        "reduced": "The Walking Dead"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Telltale Games",
+    "publisher": "Telltale Games",
+    "release_date": "2012-12-04",
+    "user_rating": "4.50",
+    "description": {
+        "full": "A five-part game series set in the same universe as Robert Kirkman’s award-winning comic book series. Play as Lee Everett, a convicted criminal, who has been given a second chance at life in a world devastated by the undead. Experience events, meet people and visit locations that foreshadow the story of Deputy Sheriff Rick Grimes. A tailored game experience – actions, choices and decisions you make will affect how your story plays out across the entire series.",
+        "short": "A five-part game series set in the same universe as Robert Kirkman’s award-winning comic book series. "
+    },
+    "media": [
+        {
+            "media_id": "0AFE844E",
+            "title": "The Walking Dead: A Telltale Games Series",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "4C787814",
+            "title": "The Walking Dead: A Telltale Games Series",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "1E579DC0",
+            "title": "The Walking Dead: A Telltale Games Series: Game of the Year Edition",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d2/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

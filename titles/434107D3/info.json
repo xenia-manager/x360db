@@ -1,0 +1,55 @@
+{
+    "id": "434107D3",
+    "title": {
+        "full": "Vampire Rain",
+        "reduced": "Vampire Rain"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "ARTOON",
+    "publisher": "AQ INTERACTIVE Inc.",
+    "release_date": "2008-01-01",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Vampire Rain combines stealth, survival horror and shooter aspects of your favorite games as you lead a black ops unit to secretly eliminate the deadliest supernatural enemies you've ever faced. Nightwalkers are intensely fast with super agility and they are converting humans to their kind at an alarming rate. Traverse all areas of an eerie and rain soaked city by moving across rooftops and through back alleys to avoid detection and enable the best strategic use of your weapons. It's up to you to protect the innocent and find the evil source of this invasion before it's too late. Want to experience the power of a Nightwalker first hand? Just hop on Xbox Live with your friends for a team or head to head multiplayer experience unlike any other.",
+        "short": "Vampire Rain combines stealth, survival horror and shooter aspects of your favorite games as you lead a black ops unit to secretly eliminate the deadliest supernatural enemies you've ever faced. Nightwalkers are intensely fast with super agility and they are converting humans to their kind at an alarming rate. Traverse all areas of an eerie and rain soaked city by moving across rooftops and through back alleys to avoid detection and enable the best strategic use of your weapons. It's up to you t"
+    },
+    "media": [
+        {
+            "media_id": "5704CC51",
+            "title": "Vampire Rain",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "0AE10D8C",
+            "title": "Vampire Rain",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d3/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d3/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d3/7177/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d3/7177/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

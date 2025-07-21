@@ -1,0 +1,35 @@
+{
+    "id": "5855077F",
+    "title": {
+        "full": "龍炎高校伝説",
+        "reduced": "龍炎高校伝説"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "HUNTERS",
+    "publisher": "HUNTERS",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=2/3. This game is action. Character becomes strong by meal. And, Character learn the skill by a book. Let's defeat an enemy with the various skill.",
+        "short": "This game is action. Character becomes strong by meal. And, Character learn the skill by a book. Let's defeat an enemy with the various skill."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855077f00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855077F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855077f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855077F_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855077F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855077F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855077F_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

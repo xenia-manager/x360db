@@ -1,0 +1,49 @@
+{
+    "id": "57528846",
+    "title": {
+        "full": "LEGO BATMAN 3 BEYOND GOTHAM DEMO",
+        "reduced": "BEYOND GOTHAM DEMO"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family"
+    ],
+    "developer": "Traveller's Tale",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "release_date": "2014-11-11",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Calling all Justice League members!  The Legion of Doom has taken over the Justice League Watchtower and taken Martian Manhunter hostage. Batman must join forces with the super heroes of DC Comics universe to reclaim the watchtower.  Build the Bat Rocket and go on a galactic shoot-out against Joker missiles and bombs.  Fly in Batman’s space suit, zoom around enemies as Flash, and fire off laser beams while disguised as a washing machine in Cyborg’s stealth suit.",
+        "short": "Calling all Justice League members!  The Legion of Doom has taken over the Justice League Watchtower and taken Martian Manhunter hostage. Batman must join forces with the super heroes of DC Comics universe to reclaim the watchtower.  Build the Bat Rocket and go on a galactic shoot-out against Joker missiles and bombs.  Fly in Batman’s space suit, zoom around enemies as Flash, and fire off laser beams while disguised as a washing machine in Cyborg’s stealth suit."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528846/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528846/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528846/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528846/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528846/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528846/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528846/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528846/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528846/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528846/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528846/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528846/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528846/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528846/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528846/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528846/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "57520845",
+                "title": "BEYOND GOTHAM"
+            }
+        ],
+        "related": []
+    }
+}

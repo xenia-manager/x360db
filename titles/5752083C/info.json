@@ -1,0 +1,35 @@
+{
+    "id": "5752083C",
+    "title": {
+        "full": "Batman Arrkham City Origins Tech Beta Parent Product",
+        "reduced": "Batman Arrkham City Origins Tech Beta Parent Prod"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Developer String",
+    "publisher": "Publisher String",
+    "release_date": "2010-11-01",
+    "user_rating": null,
+    "description": {
+        "full": "Please download this content",
+        "short": "Please download this content"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752083c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752083c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752083c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752083c/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "57520828",
+                "title": "Batman: Arkham Origins"
+            }
+        ],
+        "related": []
+    }
+}

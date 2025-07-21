@@ -1,0 +1,35 @@
+{
+    "id": "5855021E",
+    "title": {
+        "full": "Angry Barry",
+        "reduced": "Angry Barry"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Arrogancy Games",
+    "publisher": "Arrogancy Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=3/3. Angry Barry is a sidescrolling, political parody, 1-2 player 2D beat 'em up in the tradition of many classic arcade games. Take control of Barry as he tries to take over the Presidency of the United States!",
+        "short": "Angry Barry is a sidescrolling, political parody, 1-2 player 2D beat 'em up in the tradition of many classic arcade games. Take control of Barry as he tries to take over the Presidency of the United States!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855021e/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855021E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855021e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855021E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855021E_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855021E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855021E_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

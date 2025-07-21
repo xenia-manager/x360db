@@ -1,0 +1,55 @@
+{
+    "id": "455607D6",
+    "title": {
+        "full": "Janes Advanced Strike Fighters",
+        "reduced": "JASF"
+    },
+    "genre": [
+        "Racing & Flying",
+        "Strategy & Simulation"
+    ],
+    "developer": "Trickstar Games",
+    "publisher": "Evolved Games",
+    "release_date": "2013-02-19",
+    "user_rating": "3.25",
+    "description": {
+        "full": "J.A.S.F. Jane’s Advanced Strike Fighters is set in the fictional country of Azbaristan; the once-great nation has been torn apart by a decade of civil war, followed by almost a decade of uneasy peace.  The Southern Azbaristan Democratic Front of South Azbaristan has only managed to hold off the North with the aid of the West, which supplies military and logistical aid to the tiny state in return for the oil exports from their vast reserves. Players will have the chance to assume the role of squadron leader Razor and lead fight to reunify Azbaristan and protect the West’s vital interests.  J.A.S.F. the videogame is an intense modern flight action sim featuring an epic 16 mission story gaming experience that will take air combat to the next level with engaging enemies, flight battles, expansive battlefields and 30 authentic licensed fighters ",
+        "short": "J.A.S.F. the videogame is an intense modern flight action sim featuring an epic 16 mission story gaming experience that will take air combat to the next level with engaging enemies, flight battles, expansive battlefields and 30 authentic licensed fighters. "
+    },
+    "media": [
+        {
+            "media_id": "0661616E",
+            "title": "JASF: Jane's Advanced Strike Fighters",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802455607d6/1033/screenlg16.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

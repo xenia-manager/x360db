@@ -1,0 +1,52 @@
+{
+    "id": "434D07DB",
+    "title": {
+        "full": "DiRT",
+        "reduced": "DiRT"
+    },
+    "genre": [
+        "Racing & Flying",
+        "Sports & Recreation",
+        "Strategy & Simulation"
+    ],
+    "developer": "Codemasters Software Company Limited",
+    "publisher": "Codemasters Software Company Limited",
+    "release_date": "2010-08-03",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". DiRT™ is an off-road racing game. The player’s role is to race their way through the world of off-road motor sport, increasing their fame and prestige on their way to becoming the ultimate Off-Road Champion of Champions. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "DiRT™ is an off-road racing game. The player’s role is to race their way through the world of off-road motor sport, increasing their fame and prestige on their way to becoming the ultimate Off-Road Champion of Champions."
+    },
+    "media": [
+        {
+            "media_id": "4C388B90",
+            "title": "DiRT",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07db/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07db/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07db/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07db/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07db/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07db/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07db/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07db/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07db/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07db/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07db/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07db/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07db/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07db/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/5c/58/5c58b6fa-cc90-4af7-9f62-d12e77868c83.PDF?v=1#us-dirtmanual.PD"
+        ]
+    }
+}

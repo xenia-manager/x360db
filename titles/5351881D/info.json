@@ -1,0 +1,40 @@
+{
+    "id": "5351881D",
+    "title": {
+        "full": "LRFF13 Demo ver",
+        "reduced": "LRFF13 Demo ver"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "release_date": "2013-11-26",
+    "user_rating": "4.50",
+    "description": {
+        "full": "This is the LRFFXIII playable demo. The last of the FINAL FANTASY XIII trilogy, this installment offers a brand-new battle feature with lots of customization options. Don't forget to activate Outerworld services and submit your battle score to receive the garb Siegfried that can be used in LRFFXIII.",
+        "short": "This is the LRFFXIII playable demo. The last of the trilogy offers a fun new battle feature with lots of customization options."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025351881d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025351881d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025351881d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025351881d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025351881d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025351881d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025351881d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025351881d/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5351081B",
+                "title": "LIGHTNING RETURNS FFXIII"
+            }
+        ],
+        "related": []
+    }
+}

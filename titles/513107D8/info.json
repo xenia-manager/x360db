@@ -1,0 +1,48 @@
+{
+    "id": "513107D8",
+    "title": {
+        "full": "RIDE",
+        "reduced": "RIDE"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Milestone S.r.l.",
+    "publisher": "BANDAI NAMCO Entertainment America Inc.",
+    "release_date": "2015-04-10",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Spanish, Portuguese.  RIDE lets you choose from over 100 accessories to customise your bike and rider. Collect over 100 bike models from 14 different motorcycle manufacturers. Race in 15 different locations around the world and follow the World Tour, participating in the Motorbike Festivals. Win every race to become the best rider in the world!",
+        "short": "Bikes from the most popular motorcycle manufacturers, thrilling races, and a round-the-world journey: this is the explosive mix that creates the RIDE videogame!"
+    },
+    "media": [
+        {
+            "media_id": "1C95BECA",
+            "title": "Ride",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d8/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d8/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802513107d8/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

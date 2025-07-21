@@ -1,0 +1,50 @@
+{
+    "id": "4D5308CE",
+    "title": {
+        "full": "Halo Waypoint",
+        "reduced": "Halo Waypoint"
+    },
+    "genre": [
+        "Behind the Scenes",
+        "Game Tips and Support Videos",
+        "Gaming Community Videos",
+        "Independent & Music Videos",
+        "Music and Short Videos",
+        "Other",
+        "Shooter",
+        "Xbox 360 Exclusives",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "343 Industries",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-09-09",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Visit Halo Waypoint to see detailed stats on your Spartan-IV career and unlock extra in-game awards. Stay current with the latest Halo news and activities. Access interviews, trailers, Challenges, stats, exclusive video footage, community content, and more!",
+        "short": "Visit Halo Waypoint to see detailed stats on your Spartan-IV career and unlock extra in-game awards. Stay current with the latest Halo news and activities. Access interviews, trailers, Challenges, stats, exclusive video footage, community content, and more!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ce/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ce/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ce/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ce/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ce/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ce/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ce/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ce/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ce/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ce/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ce/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ce/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ce/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ce/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ce/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

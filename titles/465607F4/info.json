@@ -1,0 +1,58 @@
+{
+    "id": "465607F4",
+    "title": {
+        "full": "DISORDER6",
+        "reduced": "DISORDER6"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "株式会社MAGES.",
+    "publisher": "株式会社MAGES.",
+    "release_date": "2013-08-22",
+    "user_rating": "0.00",
+    "description": {
+        "full": "DISORDER6は、テキストを読み進め、選択肢を選ぶことによってストーリーが分岐するアドベンチャーゲームです。 雨が降る夜、少年は倉庫のような場所で目を覚ます。 右手には重厚な手錠。その鎖の先はシーナと名乗る不思議な少女の左手に繋がっていた。 彼女は少年のことを「ジョー」と呼ぶが、自分にはその記憶がない。それどころか今までの記憶全てが抜け落ちていた。 状況が飲み込めないまま出口を探しているうちに、二人は白衣の女性の死体を発見する。 愕然とする中、明かりとして灯していた火が倉庫の荷物に燃え移り、二人は命からがらその建物を後にする。 外に出て彷徨っていると、一人の警察官に遭遇する。 彼女は二人を殺人事件の重要参考人として連行しようとするが、目が覚める直前の記憶のない二人には不利だと判断し彼女の前から逃亡。 そして二人は容疑者として追われることになったのだった。 『鎖で繋がれた男女』『記憶喪失』『逃亡』 失われた記憶から手繰り寄せた真実とは――？",
+        "short": "DISORDER6は、サスペンス・フィクションアドベンチャーゲームです。 手錠で繋がれた記憶を失った男女が、ある殺人事件の容疑者になってしまい、繰り広げられる逃亡劇になります。 『鎖で繋がれた男女』『記憶喪失』『逃亡』 失われた記憶から手繰り寄せた真実とは――？"
+    },
+    "media": [
+        {
+            "media_id": "22CFFD22",
+            "title": "Disorder 6",
+            "edition": "Limited Edition",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f4/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

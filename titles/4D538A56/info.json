@@ -1,0 +1,52 @@
+{
+    "id": "4D538A56",
+    "title": {
+        "full": "Kinect Sports Ultimate Collection",
+        "reduced": "KS Ultimate"
+    },
+    "genre": [
+        "Avatar",
+        "Family",
+        "Kinect",
+        "Sports & Recreation"
+    ],
+    "developer": "Rare",
+    "publisher": "Microsoft Studios",
+    "release_date": "2799-12-30",
+    "user_rating": null,
+    "description": {
+        "full": "This ultimate collection has two best-selling* Kinect™ games wrapped into one – putting 13 great sporting games at your fingertips.  So grab your friends and compete for a personal best or jump in and out of the action in team Party Mode!  Anyone can play in these controller-free, full-body sports games.  With your body as the controller, nothing comes between you and the action! *Best-selling based on U.S. sales as of March 2012, reported by the NPD Group/Retail Tracking Service.",
+        "short": "Including: Soccer, Football, Golf, Skiing, Tennis, Boxing, Darts, Baseball, Bowling, Track & Field, Table Tennis, Beach Volleyball and Basketball activities."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a56/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a56/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a56/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a56/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a56/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a56/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a56/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a56/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a56/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a56/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a56/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a56/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a56/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a56/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a56/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a56/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a56/1033/screenlg13.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D530A55",
+                "title": "KS Ultimate "
+            }
+        ],
+        "related": []
+    }
+}

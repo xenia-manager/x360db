@@ -1,0 +1,60 @@
+{
+    "id": "4E4D07F1",
+    "title": {
+        "full": "Enslaved Odyssey to the West",
+        "reduced": "Enslaved"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Ninja Theory Ltd.",
+    "publisher": "BANDAI NAMCO Entertainment Inc.",
+    "release_date": "2010-10-05",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Follow a gripping, surprise-filled journey as two dissimilar characters form an uneasy partnership in order to survive through a perilous, post-apocalyptic America where few humans are left and nature has reclaimed the world. Play as Monkey, a strong brutish loner who has been captured by a mysterious slave ship. Trip, a technologically savvy young woman and fellow prisoner, hacks a slave headband and commands Monkey to help her get home. If she dies, he dies, and her journey has now become his.",
+        "short": "Follow a gripping, surprise-filled journey as two dissimilar characters form an uneasy partnership in order to survive through a perilous, post-apocalyptic America where few humans are left and nature has reclaimed the world. Play as Monkey, a strong brutish loner who has been captured by a mysterious slave ship. Trip, a technologically savvy young woman and fellow prisoner, hacks a slave headband and commands Monkey to help her get home. If she dies, he dies, and her journey has now become his."
+    },
+    "media": [
+        {
+            "media_id": "68F2B28B",
+            "title": "Enslaved: Odyssey to the West",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f1/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4e4d07f1/Enslaved_Manual_EN_Revised.pdf"
+        ]
+    }
+}

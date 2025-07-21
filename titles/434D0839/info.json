@@ -1,0 +1,57 @@
+{
+    "id": "434D0839",
+    "title": {
+        "full": "Bodycount",
+        "reduced": "Bodycount"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Codemasters",
+    "publisher": "Codemasters",
+    "release_date": "2011-08-23",
+    "user_rating": "3.75",
+    "description": {
+        "full": "BODYCOUNT reboots the First Person Shooter with a single-minded focus on delivering best-in-class gunplay. Ensnared in a clandestine global power struggle that rages under the cover of conventional war zones in Africa and Asia, players must eliminate a relentlessly evil enemy known only as ‘The Target’ on behalf of the ‘Network’. After being dropped into chaotic areas of operations, gamers deploy a mouth-watering selection of contemporary firearms to tear through environments and enemies, chaining kills and earning power ups. Complimented by co-operative and multiplayer modes, BODYCOUNT will set new standards for intense, outrageous arcade action and put the fun back into the FPS. ",
+        "short": "Fall in love with firepower as Bodycount blasts intense arcade firefights from both barrels. Shred enemies and cover, perform skill kills and chain combos."
+    },
+    "media": [
+        {
+            "media_id": "41DAC51E",
+            "title": "Bodycount",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0839/1033/screenlg19.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

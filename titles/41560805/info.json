@@ -1,0 +1,44 @@
+{
+    "id": "41560805",
+    "title": {
+        "full": "Battle for the Pacific",
+        "reduced": "Battle for the Pacific"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Cauldron",
+    "publisher": "Activision",
+    "release_date": "2008-01-01",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Experience Battle for the Pacific.",
+        "short": "Experience Battle for the Pacific."
+    },
+    "media": [
+        {
+            "media_id": "1E9C5CBA",
+            "title": "The History Channel: Battle for the Pacific",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "1DC8EA74",
+            "title": "The History Channel: Battle for the Pacific",
+            "edition": "Original",
+            "region": "USA, Australia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560805/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560805/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560805/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560805/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

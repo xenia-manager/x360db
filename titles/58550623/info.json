@@ -1,0 +1,35 @@
+{
+    "id": "58550623",
+    "title": {
+        "full": "Codex",
+        "reduced": "Codex"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Good Guy Robot",
+    "publisher": "Good Guy Robot",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Test your spatial logic reasoning skills!  Collect the most Gold medals by solving the puzzle in the least amount of moves.  This game supports music visualization for your own music tracks shared through Windows Media Connect and USB devices.",
+        "short": "Test your spatial logic reasoning skills!  Collect the most Gold medals by solving the puzzle in the least amount of moves.  This game supports music visualization for your own music tracks shared through Windows Media Connect and USB devices."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550623/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550623_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550623/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550623_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550623_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550623_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550623_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

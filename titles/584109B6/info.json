@@ -1,0 +1,42 @@
+{
+    "id": "584109B6",
+    "title": {
+        "full": "DOOM II Classic",
+        "reduced": "DOOM II Classic"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "id Software",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2010-05-24",
+    "user_rating": "4.50",
+    "description": {
+        "full": "(ONLINE INTERACTIONS NOT RATED BY THE ESRB) To save Earth, you must descend into the stygian depths of hell. Battle nastier, deadlier demons and monsters with your trusty Super Shotgun. Survive more mind-blowing explosions and take part in the bloodiest, fiercest, most awesome blastfest ever. Recruit your friends and plow through 9 all-new levels in the new episode, No Rest for the Living! Play solo or multiplayer over Xbox LIVE with up to 4 players. DOOM II for XBLA includes split screen co-op over Xbox LIVE, Game clips, 5.1 Surround Sound, enhanced graphics, and HD display support. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "(ONLINE INTERACTIONS NOT RATED BY THE ESRB) To save Earth, you must descend into the stygian depths of hell. Survive more mind-blowing explosions and take part in the bloodiest, fiercest, most awesome blastfest ever. Recruit your friends and plow through 9 all-new levels in the new episode, No Rest for the Living! Play solo or multiplayer over Xbox LIVE with up to 4 players. There are no refunds for this item. For more information, see www.xbox.com/live/accounts."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b6/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b6/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b6/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": "545A07D2",
+    "title": {
+        "full": "DoDonPachi Resurrection",
+        "reduced": "DoDonPachi Resurrection"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Cave",
+    "publisher": "Rising Star Games",
+    "release_date": "2011-10-28",
+    "user_rating": "0.00",
+    "description": {
+        "full": "The Games on Demand version supports  English.  Dash from enemy to enemy to string together long combos and send your score into the stratosphere!",
+        "short": "Dash from enemy to enemy to string together long combos and send your score into the stratosphere!"
+    },
+    "media": [
+        {
+            "media_id": "47FE1FD2",
+            "title": "DoDonPachi Resurrection",
+            "edition": "Deluxe Edition",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d2/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/545a07d2/DoDonPachi%20Resurrection%20ENG%20Manual.pdf"
+        ]
+    }
+}

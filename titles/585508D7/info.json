@@ -1,0 +1,33 @@
+{
+    "id": "585508D7",
+    "title": {
+        "full": "Math Cruncher",
+        "reduced": "Math Cruncher"
+    },
+    "genre": [
+        "Educational"
+    ],
+    "developer": "Bluebomber128",
+    "publisher": "Bluebomber128",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Math Cruncher has the player race around a grid trying to complete math problems without being eaten by the monsters and not making more than three mistakes. There are five modes: Multiples, Factors, Primes, Equality, and Inequality. The player tries to complete five stages and can post local high scores.",
+        "short": "Math Cruncher has the player race around a grid trying to complete math problems without being eaten by the monsters and not making more than three mistakes. There are five modes: Multiples, Factors, Primes, Equality, and Inequality. The player tries to complete five stages and can post local high scores."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585508d7/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508D7_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508d7/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508D7_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508D7_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

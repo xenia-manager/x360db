@@ -1,0 +1,152 @@
+{
+    "id": "425307EC",
+    "title": {
+        "full": "RAGE",
+        "reduced": "RAGE"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "id Software",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2011-10-04",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, and Spanish.  After an asteroid impacts Earth, humanity attempts to rebuild. Sheltered in cryogenic lifeboats, survivors emerge years after impact to a devastated planet where some of mankind survived in struggling settlements or murderous bandit clans, while horrific mutants roam the dead cities. And a mysterious tyrannical government is on the hunt… for you.",
+        "short": "Rule the Wasteland in RAGE - the new title from the Inventors of the First-Person Shooter, id Software."
+    },
+    "media": [
+        {
+            "media_id": "2703326D",
+            "title": "Rage (Disc 1)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "0267A573",
+            "title": "Rage (Disc 1)",
+            "edition": "Anarchy Edition",
+            "region": "USA"
+        },
+        {
+            "media_id": "62E99DE4",
+            "title": "Rage (Disc 1)",
+            "edition": "Anarchy Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "40074843",
+            "title": "Rage (Disc 1)",
+            "edition": "Anarchy Edition",
+            "region": "Russia"
+        },
+        {
+            "media_id": "0A5883E2",
+            "title": "Rage (Disc 1)",
+            "edition": "Anarchy Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "16DAC4A0",
+            "title": "Rage (Disc 1)",
+            "edition": "Original",
+            "region": "Asia"
+        },
+        {
+            "media_id": "5933D487",
+            "title": "Rage (Disc 2)",
+            "edition": "Anarchy Edition",
+            "region": "USA"
+        },
+        {
+            "media_id": "4FD6FB39",
+            "title": "Rage (Disc 2)",
+            "edition": "Anarchy Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "3277646A",
+            "title": "Rage (Disc 2)",
+            "edition": "Anarchy Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "4D14C029",
+            "title": "Rage (Disc 2)",
+            "edition": "Original",
+            "region": "Asia"
+        },
+        {
+            "media_id": "5260353C",
+            "title": "Rage (Disc 2)",
+            "edition": "Anarchy Edition",
+            "region": "Russia"
+        },
+        {
+            "media_id": "0D996645",
+            "title": "Rage (Disc 2)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "4432176E",
+            "title": "Rage (Disc 3)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "3CC13A9D",
+            "title": "Rage (Disc 3)",
+            "edition": "Anarchy Edition",
+            "region": "Russia"
+        },
+        {
+            "media_id": "1077064D",
+            "title": "Rage (Disc 3)",
+            "edition": "Anarchy Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "4D174B43",
+            "title": "Rage (Disc 3)",
+            "edition": "Anarchy Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "15A34843",
+            "title": "Rage (Disc 3)",
+            "edition": "Original",
+            "region": "Asia"
+        },
+        {
+            "media_id": "513E3495",
+            "title": "Rage (Disc 3)",
+            "edition": "Anarchy Edition",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ec/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ec/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ec/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ec/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ec/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ec/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ec/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ec/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ec/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ec/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ec/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ec/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ec/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ec/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ec/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

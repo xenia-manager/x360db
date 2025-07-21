@@ -1,0 +1,49 @@
+{
+    "id": "57520812",
+    "title": {
+        "full": "LEGO Harry Potter Years 5-7",
+        "reduced": "LEGO Harry Potter Years 5-7"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "TT Games",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "release_date": "2011-11-07",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Russian, and Portuguese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  The Battle is Building! Based on the last three Harry Potter books and final four films, LEGO Harry Potter: Years 5-7 takes players through Harry Potter's heroic adventures in the Muggle and wizarding worlds. From Privet Drive in Little Whinging to Diagon Alley, Hogsmeade and Hogwarts™, players will encounter new faces, new challenges and more magic, preparing them for the ultimate face-off with Lord Voldemort™!",
+        "short": "LEGO Harry Potter: Years 5-7 takes players through Harry Potter's heroic adventures in the Muggle and wizarding worlds. Encounter new faces, new challenges and more magic, to prepare for the ultimate face-off with Lord Voldemort™!"
+    },
+    "media": [
+        {
+            "media_id": "61D8E1DE",
+            "title": "LEGO Harry Potter: Years 5-7",
+            "edition": "Original, Classics",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520812/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520812/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520812/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520812/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520812/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520812/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520812/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520812/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520812/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520812/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520812/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520812/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520812/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/57520812/LHP2_XB360_DIGITAL_DL_MANUAL_UK_LR_v1.pdf"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "58410B83",
+    "title": {
+        "full": "Charlie Murder",
+        "reduced": "Charlie Murder"
+    },
+    "genre": [
+        "Fighting",
+        "Platformer"
+    ],
+    "developer": "Ska Studios",
+    "publisher": "Microsoft Studios",
+    "release_date": "2013-06-04",
+    "user_rating": "4.25",
+    "description": {
+        "full": "It’s a punk rock apocalypse! Team up with your friends to lead embattled punk rock band Charlie Murder in their epic quest to save the world from rival death metalers Gore Quaffer and their legions of evil.  RPG it up as you hoard insane loot to buff your character (and look excellent), earn fans to unlock powerful finishers and teamup moves, get tattoos to channel your “Anar-Chi,” and uncover mysterious relics of modern myth!",
+        "short": "It’s a punk rock apocalypse! Team up with your friends to lead embattled punk rock band Charlie Murder in their epic quest to save the world from rival death metalers Gore Quaffer and their legions of evil.  RPG it up as you hoard insane loot to buff your character (and look excellent), earn fans to unlock powerful finishers and teamup moves, get tattoos to channel your “Anar-Chi,” and uncover mysterious relics of modern myth!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b83/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b83/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b83/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b83/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b83/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b83/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b83/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b83/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b83/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b83/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b83/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b83/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "id": "434307EC",
+    "title": {
+        "full": "Dead Rising 2",
+        "reduced": "Dead Rising 2"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Blue Castle Games Inc.",
+    "publisher": "CAPCOM CO., LTD.",
+    "release_date": "2010-09-24",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  (Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   In the long-awaited sequel to Dead Rising, players step into the shoes of Chuck Greene, professional motorcycle racer. Surrounded by a horde of hungry zombies in the spectacular casino town of Fortune City, Chuck finds himself in a race against time to find Zombrex, the one thing that can keep Katey, his young daughter, alive. Can he protect her and make it out of Fortune City alive? Chuck's desperate struggle for survival unfolds in this, the long awaited sequel to Dead Rising!",
+        "short": "In the long-awaited sequel to Dead Rising, players step into the shoes of Chuck Greene, professional motorcycle racer. Surrounded by a horde of hungry zombies in the spectacular casino town of Fortune City, Chuck finds himself in a race against time to find Zombrex, the one thing that can keep Katey, his young daughter, alive. Can he protect her and make it out of Fortune City alive? Chuck's desperate struggle for survival unfolds in this, the long awaited sequel to Dead Rising!"
+    },
+    "media": [
+        {
+            "media_id": "7DF4A079",
+            "title": "Dead Rising 2",
+            "edition": "Original, Promo, Zombrex Edition",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307ec/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

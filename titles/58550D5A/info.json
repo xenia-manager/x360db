@@ -1,0 +1,35 @@
+{
+    "id": "58550D5A",
+    "title": {
+        "full": "Tokyo Hosto",
+        "reduced": "Tokyo Hosto"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Baller Industries",
+    "publisher": "Baller Industries",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=3/3, Mature Content=3/3. Your name is Jayson Traish, and you have just graduated from high school. You failed your exams horribly and you face a life of menial work. Your only recourse is to try get a job at a host bar, where your duties include, hitting on women, drinking copious amounts of alcohol and cleaning the toilets.",
+        "short": "Your name is Jayson Traish, and you have just graduated from high school. You failed your exams horribly and you face a life of menial work. Your only recourse is to try get a job at a host bar, where your duties include, hitting on women, drinking copious amounts of alcohol and cleaning the toilets."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550d5a/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D5A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d5a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D5A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D5A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D5A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D5A_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

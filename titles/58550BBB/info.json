@@ -1,0 +1,34 @@
+{
+    "id": "58550BBB",
+    "title": {
+        "full": "Burning Rubber",
+        "reduced": "Burning Rubber"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "studio meow games",
+    "publisher": "studio meow games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=1/3. Burning Rubber is a fast paced retro racing game where the player must fight the other drivers while trying to come 1st place. The game includes 24 different race tracks over 3 difficulty modes, a mix of different weapons and upgrades to buy for your car and random encounters where the player can either win or lose money.",
+        "short": "Burning Rubber is a fast paced retro racing game where the player must fight the other drivers while trying to come 1st place. The game includes 24 different race tracks over 3 difficulty modes, a mix of different weapons and upgrades to buy for your car and random encounters where the player can either win or lose money."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550bbb00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550BBB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550bbb/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550BBB_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BBB_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BBB_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

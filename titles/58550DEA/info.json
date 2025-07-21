@@ -1,0 +1,35 @@
+{
+    "id": "58550DEA",
+    "title": {
+        "full": "Cubicity",
+        "reduced": "Cubicity"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Aly Ameen",
+    "publisher": "Aly Ameen",
+    "release_date": null,
+    "user_rating": "4.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Part action/adventure, part puzzle/strategy, Cubicity is a unique 2D physics-based game with a twist! Maneuver your way through 60 challenging levels, acquiring new weapons and learning new strategies to solve the increasingly difficult puzzles that block your path. You'll need to be both smart and quick-fingered to reach the end. Are you up for the challenge?",
+        "short": "Part action/adventure, part puzzle/strategy, Cubicity is a unique 2D physics-based game with a twist! Maneuver your way through 60 challenging levels, acquiring new weapons and learning new strategies to solve the increasingly difficult puzzles that block your path. You'll need to be both smart and quick-fingered to reach the end. Are you up for the challenge?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550dea00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550DEA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550dea/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550DEA_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DEA_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DEA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DEA_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

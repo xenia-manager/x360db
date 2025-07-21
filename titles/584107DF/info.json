@@ -1,0 +1,38 @@
+{
+    "id": "584107DF",
+    "title": {
+        "full": "Gauntlet",
+        "reduced": "Gauntlet"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Digital Eclipse",
+    "publisher": "Xbox LIVE Arcade",
+    "release_date": "2010-01-05",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Single Player, Xbox Live Multiplayer 1-4, Local Multiplayer 1-4, HD (High Definition) Journey forth, brave traveler, whether warrior, valkyrie, elf or wizard ye be. Gauntlet--the original role-playing arcade game--lets up to four adventurers explore together as Thor, Thrya, Merlin and Questor, each with unique traits. Thor possesses unmatched strength, while Questor relies on swiftness and agility. Resilient Thyra excels at close-range combat, and Merlin’s magic proves powerful from afar. Traverse the darkest of mazes, destroying vile beasts and claiming gold as your reward. Consume food to regain your strength, collect keys to journey deeper into the dungeon, and seek out potions to help you defeat your most powerful foes. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Revisit the classic arcade game Gauntlet. Now for the first time, play on Xbox Live in the Co-Op game mode."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107df/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107df/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107df/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107df/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107df/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107df/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107df/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107df/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107df/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107df/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107df/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": "4B4E07E2",
+    "title": {
+        "full": "KR AI Encore",
+        "reduced": "KR AI Encore"
+    },
+    "genre": [
+        "Family",
+        "Music"
+    ],
+    "developer": "Blitz Games",
+    "publisher": "Konami",
+    "release_date": "2009-08-07",
+    "user_rating": "2.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) A USB Microphone is required to play this game title. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Plug in the microphone and live out your dream as a singing sensation! Sing for the American Idol judges or just for fun.  Compete online and offline in tournaments and head-to-head contests or just grab a second mic and belt out a Duet with a friend.  Do you have what it takes to become the next American Idol? There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Plug in the microphone and live out your dream as a singing sensation! Sing for the American Idol judges or just for fun.  Compete online and offline in tournaments and head-to-head contests or just grab a second mic and belt out a Duet with a friend.  Do you have what it takes to become the next American Idol?"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e2/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e2/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07e2/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://nxeassets.xbox.com/shaxam/0201/ae/4c/ae4cafe6-b7c4-472e-b086-962563d4edf0.PDF?v=1#kraiemanUS."
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "5855084F",
+    "title": {
+        "full": "Minions",
+        "reduced": "Minions"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Turtle Toss Studio",
+    "publisher": "Turtle Toss Studio",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=0/3. Minions! is a mission-based shooter that can be played from both top-down and third-person perspectives.  You create a hero, accompanied by a wide range of different minions to help you complete each mission.  As the challenges get tougher, your hero will unlock points to spend on upgrades and customized minions.",
+        "short": "Minions! is a mission-based shooter that can be played from both top-down and third-person perspectives.  You create a hero, accompanied by a wide range of different minions to help you complete each mission.  As the challenges get tougher, your hero will unlock points to spend on upgrades and customized minions."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855084f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855084F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855084f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855084F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855084F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855084F_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855084F_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

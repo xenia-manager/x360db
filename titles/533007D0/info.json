@@ -1,0 +1,50 @@
+{
+    "id": "533007D0",
+    "title": {
+        "full": "Caladrius",
+        "reduced": "Caladrius"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "MOSS Co., Ltd.",
+    "publisher": "MOSS Co., Ltd.",
+    "release_date": "2013-04-25",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports both English and Japanese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Experience entrancing graphics that bring the game world to life, impressive sound, a grand story, and characters that tie it all together! Introducing a new gothic horror shooting game that shatters the boundaries of existing shooters to bring you new levels of excitement and satisfaction! Packed with innovative and exciting gameplay elements such as the \"elemental shot\" system that allows you to strategically upgrade your weapons, and \"Shame break\" that expose your character's secrets! Features a variety of game modes, including Boss Rush and Score Attack, as well as a Gallery that allows you to fully enjoy the game's setting and characters.",
+        "short": "Experience entrancing graphics that bring the game world to life, impressive sound, a grand story, and characters that tie it all together! Introducing a new gothic horror shooting game that shatters the boundaries of existing shooters to bring you new levels of excitement and satisfaction! Packed with innovative and exciting gameplay elements such as the \"elemental shot\" system that allows you to strategically upgrade your weapons, and \"Shame break\" that expose your character's secrets!"
+    },
+    "media": [
+        {
+            "media_id": "5BECDD9A",
+            "title": "Caladrius",
+            "edition": "Genteiban",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/533007d0/CaladriusEN_GonD_20150212.pdf"
+        ]
+    }
+}

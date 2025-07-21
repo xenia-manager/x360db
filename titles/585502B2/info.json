@@ -1,0 +1,35 @@
+{
+    "id": "585502B2",
+    "title": {
+        "full": "1337 Ship Deathmatch",
+        "reduced": "1337 Ship Deathmatch"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "sharknice",
+    "publisher": "sharknice",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. 1337 Ship Deathmatch is a top down mutliplayer shooter. Battle with 1-4 players or bots in a free for all deathmatch. Features 3D graphics rendered in full HD 1080p, 5.1 surround sound, finely tuned controls and controller vibration. The advanced dynamic artificial intelligence learns from your play and adapts to beat you.",
+        "short": "1337 Ship Deathmatch is a top down mutliplayer shooter. Battle with 1-4 players or bots in a free for all deathmatch. Features 3D graphics rendered in full HD 1080p, 5.1 surround sound, finely tuned controls and controller vibration. The advanced dynamic artificial intelligence learns from your play and adapts to beat you."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585502b2/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585502B2_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585502b2/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585502B2_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585502B2_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585502B2_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585502B2_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

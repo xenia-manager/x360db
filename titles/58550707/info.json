@@ -1,0 +1,35 @@
+{
+    "id": "58550707",
+    "title": {
+        "full": "Alpha Blasters",
+        "reduced": "Alpha Blasters"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Alternate Development",
+    "publisher": "Alternate Development",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Enjoy frantic fast paced action in this 2d shooter with two distinct game modes. In Currency War you take control of a Yen ship and try to survive against an onslaught of opposing forces. In Alpha Roids, try to smash the bigger rocks before getting smashed to bits! Online High Scores let you see how you stack up against the world!",
+        "short": "Enjoy frantic fast paced action in this 2d shooter with two distinct game modes. In Currency War you take control of a Yen ship and try to survive against an onslaught of opposing forces. In Alpha Roids, try to smash the bigger rocks before getting smashed to bits! Online High Scores let you see how you stack up against the world!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550707/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550707_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550707/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550707_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550707_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550707_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550707_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

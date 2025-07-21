@@ -1,0 +1,54 @@
+{
+    "id": "5553084F",
+    "title": {
+        "full": "Your Shape Fitness Evolved",
+        "reduced": "Your Shape  Fitness Evolved"
+    },
+    "genre": [
+        "Kinect",
+        "Sports & Recreation"
+    ],
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "release_date": "2010-11-04",
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game requires a Kinect™ Sensor. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Jump into the first fitness game that puts you into the game. The Kinect™ Sensor tracks over 50,000 points on your body to see you perfectly. You'll burn calories while having fun, either with a personal trainer, taking classes or by playing gym games. Receive instant and accurate feedback as you exercise, so you know you’re doing each move correctly. Your workouts are created for you based on your specific fitness level and the goals you're setting for yourself to get the most out of it.",
+        "short": "Jump into the first fitness game that puts you into the game. The Kinect™ Sensor tracks over 50,000 points on your body to see you perfectly. You'll burn calories while having fun, either with a personal trainer, taking classes or by playing gym games. Receive instant and accurate feedback as you exercise, so you know you’re doing each move correctly. Your workouts are created for you based on your specific fitness level and the goals you're setting for yourself to get the most out of it."
+    },
+    "media": [
+        {
+            "media_id": "59112007",
+            "title": "Your Shape: Fitness Evolved",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "52B66B73",
+            "title": "Your Shape: Fitness Evolved",
+            "edition": "Original",
+            "region": "Asia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084f/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084f/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084f/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

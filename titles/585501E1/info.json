@@ -1,0 +1,35 @@
+{
+    "id": "585501E1",
+    "title": {
+        "full": "Rabid Gophers",
+        "reduced": "Rabid Gophers"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "QuantumSquid Interactive",
+    "publisher": "QuantumSquid Interactive",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=0/3. Kill the gophers. Save the farm. Rabid Gophers is a series of reaction based mini-games where players blast, detonate and snipe away rabid gophers in order to achieve the best time. Play for hours to master each mini-game and attain LIVE Leaderboard bragging rights, or just hop in and play some quick games when you only have a few minutes. Share best times locally and over Xbox Live.",
+        "short": "Kill the gophers. Save the farm. Rabid Gophers is a series of reaction based mini-games where players blast, detonate and snipe away rabid gophers in order to achieve the best time. Play for hours to master each mini-game and attain LIVE Leaderboard bragging rights, or just hop in and play some quick games when you only have a few minutes. Share best times locally and over Xbox Live."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585501e100000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585501E1_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585501e1/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585501E1_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501E1_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501E1_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501E1_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

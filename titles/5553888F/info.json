@@ -1,0 +1,42 @@
+{
+    "id": "5553888F",
+    "title": {
+        "full": "DRIVER San Francisco Multi Player Demo",
+        "reduced": "DRIVER SF - MP Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Racing & Flying"
+    ],
+    "developer": "Ubisoft Reflections",
+    "publisher": "Ubisoft",
+    "release_date": "2011-08-17",
+    "user_rating": "4.50",
+    "description": {
+        "full": "As Detective John Tanner, discover the open world of San Francisco in over 200 exciting missions, on 210 miles of roads with over 120 licensed cars, including iconic muscle cars. Compete against other drivers in 19 frantic Multiplayer Modes including Co-op & Leaderboard challenges.  Rock yourself and get the first place at qualifying sessions Challenge other players on 2 of our breathtaking competitive modes: - Tag: Touch the tagged vehicle to get tag, and keep it as long as you can to score - Trail Blazer: Follow the yellow vehicle and battle to stay in the trails to score  Language of the demo: English Subtitles: English, French, German, Italian, Spanish",
+        "short": "Rock yourself and get the first place at qualifying sessions Challenge other players on 2 of our breathtaking competitive modes: - Tag: Touch the tagged vehicle to get tag, and keep it as long as you can to score - Trail Blazer: Follow the yellow vehicle and battle to stay in the trails to score"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553888f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553888f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553888f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553888f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553888f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553888f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553888f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553888f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553888f/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5553087E",
+                "title": "Driver San Francisco"
+            }
+        ],
+        "related": []
+    }
+}

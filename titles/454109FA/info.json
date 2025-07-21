@@ -1,0 +1,35 @@
+{
+    "id": "454109FA",
+    "title": {
+        "full": "SSX 3",
+        "reduced": "SSX 3"
+    },
+    "genre": [
+        "Classics",
+        "Sports & Recreation"
+    ],
+    "developer": "EA Vancouver",
+    "publisher": "Electronic Arts",
+    "release_date": "2018-04-17",
+    "user_rating": null,
+    "description": {
+        "full": "Life begins at the summit of the first peak, where a daunting mountain awaits you—ride it … explore it … beat it! Featuring all-new freestyle events and racecourses, jaw-dropping tricks, and a cast of cool customizable characters, SSX 3 is yours to conquer.",
+        "short": "Life begins at the summit of the first peak, where a daunting mountain awaits you—ride it … explore it … beat it! Featuring all-new freestyle events and racecourses, jaw-dropping tricks, and a cast of cool customizable characters, SSX 3 is yours to conquer."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fa/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fa/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fa/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fa/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fa/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fa/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fa/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

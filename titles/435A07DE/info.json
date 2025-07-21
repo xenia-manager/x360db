@@ -1,0 +1,39 @@
+{
+    "id": "435A07DE",
+    "title": {
+        "full": "むちむちポークピンクスゥイーツ",
+        "reduced": "むちむちポークピンクスゥイーツ"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "CAVE Interactive CO.,LTD.",
+    "publisher": "CAVE Interactive CO.,LTD.",
+    "release_date": "2011-02-24",
+    "user_rating": "0.00",
+    "description": {
+        "full": "ゲーム オン デマンドのバージョンは次の言語をサポートしています：日本語  元祖むっちり系シューティングの「むちむちポーク！」と、 超エロカワイイ系シューティングの「ピンクスゥイーツ ～鋳薔薇それから～」 の２タイトルが１パッケージに収録されて登場！アレンジモードも搭載されて、 遊び応え十分な内容でみなさまにお届けします！ ",
+        "short": "ゲーム オン デマンドのバージョンは次の言語をサポートしています：日本語  元祖むっちり系シューティングの「むちむちポーク！」と、 超エロカワイイ系シューティングの「ピンクスゥイーツ ～鋳薔薇それから～」 の２タイトルが１パッケージに収録されて登場！アレンジモードも搭載されて、 遊び応え十分な内容でみなさまにお届けします！ "
+    },
+    "media": [
+        {
+            "media_id": "57A4DC35",
+            "title": "Muchi Muchi Pork! & Pink Sweets",
+            "edition": "Original, Cave Shooting Collection",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07de/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07de/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07de/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07de/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07de/1033/screenlg1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

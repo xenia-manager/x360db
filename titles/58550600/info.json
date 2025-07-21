@@ -1,0 +1,35 @@
+{
+    "id": "58550600",
+    "title": {
+        "full": "Spherendipity",
+        "reduced": "Spherendipity"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Gogs",
+    "publisher": "Gogs",
+    "release_date": null,
+    "user_rating": "2.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Action packed, dual stick sphere controlled fun.",
+        "short": "Action packed, dual stick sphere controlled fun."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550600/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550600_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550600/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550600_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550600_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550600_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550600_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

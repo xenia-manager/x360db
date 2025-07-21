@@ -1,0 +1,50 @@
+{
+    "id": "5454082E",
+    "title": {
+        "full": "NHL 2K9",
+        "reduced": "NHL 2K9"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Visual Concepts",
+    "publisher": "2K Sports",
+    "release_date": "2008-09-09",
+    "user_rating": "3.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Do you long for the days when hockey video games didn't require an engineering degree to master? 2K Sports has listened to the masses by bringing the fun back to hockey video games with an intuitive control scheme, and hard-hitting action in NHL® 2K9. Developed by award-winning Visual Concepts studios, NHL 2K9 brings a rebuilt-from-the-ground-up NHL experience to life with a brand-new in-game presentation system, fresh player animations, and controls that you will enjoy from the moment you play your first game, yet still appreciate as you become a seasoned veteran. Further adding an unmatched level of fun and celebrating the NHL's uniqueness are an all-new Zamboni™ mini-game, playoff beards, a new fighting engine, new commentary, a user-friendly franchise mode, upgraded online features, and more!",
+        "short": "Do you long for the days when hockey video games didn't require an engineering degree to master? 2K Sports has listened to the masses by bringing the fun back to hockey video games with an intuitive control scheme, and hard-hitting action in NHL® 2K9. "
+    },
+    "media": [
+        {
+            "media_id": "5D21B25C",
+            "title": "NHL 2K9",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/28/f5/28f527dc-9004-4f4a-80b8-a54b3d56f7d3.PDF?v=1#nhl2k9-en.PDF"
+        ]
+    }
+}

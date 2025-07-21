@@ -1,0 +1,35 @@
+{
+    "id": "58550676",
+    "title": {
+        "full": "The Tribes of Ursea",
+        "reduced": "The Tribes of Ursea"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Orlin R Georgiev",
+    "publisher": "Orlin R Georgiev",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. The land of Ursea is in turmoil. Join the defense of your ancestral grounds against the invading Black tribe. Choose your character among the two very different races: centaurs and hyrons.",
+        "short": "The land of Ursea is in turmoil. Join the defense of your ancestral grounds against the invading Black tribe. Choose your character among the two very different races: centaurs and hyrons."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855067600000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550676_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550676/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550676_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550676_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550676_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550676_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "5855055C",
+    "title": {
+        "full": "Avatar Blaster",
+        "reduced": "Avatar Blaster"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Akkydo",
+    "publisher": "Akkydo",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Back to the basics old school space shooter that's extremely difficult.",
+        "short": "Back to the basics old school space shooter that's extremely difficult."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855055c00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855055C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855055c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855055C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855055C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855055C_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855055C_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

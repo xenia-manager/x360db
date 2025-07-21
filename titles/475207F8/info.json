@@ -1,0 +1,43 @@
+{
+    "id": "475207F8",
+    "title": {
+        "full": "旋光の輪舞DUO",
+        "reduced": "旋光の輪舞DUO"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Shooter"
+    ],
+    "developer": "グレフ",
+    "publisher": "グレフ",
+    "release_date": "2011-04-27",
+    "user_rating": null,
+    "description": {
+        "full": "【重要】ゲームオンデマンドに関する重要事項が本文の最後に記載されています。必ずお読みください。  ---新たな輪舞（ロンド）は二重奏（デュオ）で幕を開ける--- 「弾幕対戦アクションシューティング」という独自のゲームシステムで高い評価を得た「旋光の輪舞 Rev.X」の続編「旋光の輪舞DUO」が登場！ADV形式のストーリーモードはフルボイス収録！スコアアタックモードやトレーニングモードなどの追加要素も充実！対戦相手に回避不能の弾幕を叩き込め！  ■ このゲームの取扱説明書をダウンロードするには、http://marketplace.xbox.com/ でゲームを探し、[取扱説明書] を選択してください。■払い戻しはできません。詳しくは http://www.xbox.com/live/accounts/ をご覧ください。",
+        "short": "【重要】ゲームオンデマンドに関する重要事項が本文の最後に記載されています。必ずお読みください。  ---新たな輪舞（ロンド）は二重奏（デュオ）で幕を開ける--- 「弾幕対戦アクションシューティング」という独自のゲームシステムで高い評価を得た「旋光の輪舞 Rev.X」の続編「旋光の輪舞DUO」が登場！ADV形式のストーリーモードはフルボイス収録！スコアアタックモードやトレーニングモードなどの追加要素も充実！対戦相手に回避不能の弾幕を叩き込め！  ■ このゲームの取扱説明書をダウンロードするには、http://marketplace.xbox.com/ でゲームを探し、[取扱説明書] を選択してください。■払い戻しはできません。詳しくは http://www.xbox.com/live/accounts/ をご覧ください。"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475207f8/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475207f8/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475207f8/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475207f8/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475207f8/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475207f8/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475207f8/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475207f8/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475207f8/1041/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "475207F9",
+                "title": "旋光の輪舞 DUO"
+            }
+        ],
+        "related": []
+    }
+}

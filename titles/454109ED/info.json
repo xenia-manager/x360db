@@ -1,0 +1,41 @@
+{
+    "id": "454109ED",
+    "title": {
+        "full": "Battlefield Hardline Beta",
+        "reduced": "Battlefield Hardline Beta"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Visceral Games",
+    "publisher": "Electronic Arts",
+    "release_date": "2015-02-03",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Get a piece of the action in the Battlefield™ Hardline Beta. Experience 2 of the new “Cops and Criminals” oriented modes with Heist and Hotwire or jump in a classic match of Battlefield Conquest in 26-player thrilling battles. • Heist is all about pulling off that big job or that perfect score. The criminals are trying to break into a vault, and the cops must stop them.  • In Hotwire, the criminals are trying to steal a list of marked cars while the cops are trying to repossess them. Use your driving skills to catch up with the enemy, and bring a friend riding shotgun to take them down. • A Battlefield staple, Conquest is based on the idea of controlling a base. Capture a base by standing near a control point on foot, in a vehicle or in the skies. The first team to run out of tickets loses. ",
+        "short": "Get a piece of the action in the Battlefield™ Hardline Beta. Experience 2 of the new “Cops and Criminals” oriented modes with Heist and Hotwire or jump in a classic match of Battlefield Conquest in 26-player thrilling battles."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ed/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ed/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ed/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ed/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ed/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ed/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ed/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ed/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ed/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454109E0",
+                "title": "Battlefield Hardline"
+            }
+        ],
+        "related": []
+    }
+}

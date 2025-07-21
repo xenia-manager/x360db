@@ -1,0 +1,41 @@
+{
+    "id": "4541099C",
+    "title": {
+        "full": "NHL 13 Early Release",
+        "reduced": "NHL 13 Early Release"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA SPORTS™ ",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2012-09-11",
+    "user_rating": "4.75",
+    "description": {
+        "full": "Featuring the biggest innovation for the franchise in six years, NHL® 13 will deliver a revamped gameplay experience that accurately captures the speed, creativity and strategy of today’s NHL headlined by all-new True Performance Skating, and supported by EA SPORTS™ Hockey I.Q. NHL 13 will also deliver new experiences that connect hockey fans to their friends and the real world of hockey with the all-new GM Connected and NHL Moments Live game modes. With core gameplay innovation, connected experiences, and the deepest feature set ever in an EA SPORTS NHL title, NHL 13 is truly the definitive hockey experience. ",
+        "short": "Featuring the biggest innovation for the franchise in six years, NHL® 13 delivers a revamped gameplay experience that accurately captures the speed, creativity, and strategy of today’s NHL headlined by all-new True Performance Skating. New social experiences also connect hockey fans to the real world of hockey with the all-new GM Connected and NHL Moments Live. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541099c/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4541099B",
+                "title": "NHL®13"
+            }
+        ],
+        "related": []
+    }
+}

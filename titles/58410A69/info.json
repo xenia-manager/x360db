@@ -1,0 +1,41 @@
+{
+    "id": "58410A69",
+    "title": {
+        "full": "Deadliest Warrior",
+        "reduced": "Deadliest Warrior"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Pipeworks Software",
+    "publisher": "Spike",
+    "release_date": "2010-07-27",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Deadliest Warrior: The Game allows you to choose from history's greatest warriors, equip them with signature weapons and go head to head against the greatest fighters that ever lived.  Featuring 5 play modes,  customizable warriors and true to life action with interactive environments, Deadliest Warrior is a unique fighting game that is easy to play and hard to master.  Severe limbs, decapitate heads and taunt your enemy's lifeless corpse as you build up ranking points with each victory and compete on a global scale to determine who truly is the Deadliest Warrior.",
+        "short": "Deadliest Warrior: The Game allows you to choose from history's greatest warriors, equip them with signature weapons and go head to head against the greatest fighters that ever lived.  Featuring 5 play modes,  customizable warriors and true to life action with interactive environments, Deadliest Warrior is a unique fighting game that is easy to play and hard to master.  Severe limbs, decapitate heads and taunt your enemy's lifeless corpse as you build up ranking points with each victory and com…"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a69/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a69/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a69/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a69/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a69/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a69/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a69/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a69/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a69/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a69/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a69/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a69/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a69/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a69/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

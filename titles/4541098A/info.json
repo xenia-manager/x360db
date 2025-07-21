@@ -1,0 +1,42 @@
+{
+    "id": "4541098A",
+    "title": {
+        "full": "NCAA Football 13",
+        "reduced": "NCAA Football 13"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Tiburon",
+    "publisher": "EA SPORTS",
+    "release_date": "2012-07-10",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English.  Take your team to victory with a former Heisman Trophy winner on your team with NCAA Football 13. With one of 10 former Heisman winners on your roster, see if you have the confidence and poise to utilize his legendary skill set to capture the Heisman Trophy—this time for your school. Experience the game like never before with an all-new passing game where players track and fight for the ball, and feel the excitement of gameday as ESPN Studio Updates bring the game to life in a dynamic football environment. Make your mark and lead your team to glory with NCAA Football 13.",
+        "short": "Take your team to victory with a former Heisman Trophy winner on your team with NCAA Football 13. With one of 10 former Heisman winners on your roster, see if you have the confidence and poise to utilize his legendary skill set to once again capture the Heisman Trophy—this time for your school."
+    },
+    "media": [
+        {
+            "media_id": "1289F079",
+            "title": "NCAA Football 13",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541098a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541098a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541098a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541098a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541098a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541098a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541098a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541098a/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

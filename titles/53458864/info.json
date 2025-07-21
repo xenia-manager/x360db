@@ -1,0 +1,39 @@
+{
+    "id": "53458864",
+    "title": {
+        "full": "MAX ANARCHY 体験版",
+        "reduced": "MAX ANARCHY 体験版"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "PlatinumGames",
+    "publisher": "SEGA",
+    "release_date": "2012-05-31",
+    "user_rating": null,
+    "description": {
+        "full": "「MAX ANARCHY 体験版」は、ストーリーモードとネットワークモードの一部を収録しています。  ストーリーモードは、“ジャック”と“レオ”という対照的なふたりのキャラクターによる、2通りの物語「BLACK SIDE」「WHITE SIDE」の一部ミッションが楽しめ、難易度はEASY/NORMALから選択できます。  ネットワークモードは、多種多彩な対戦ルールの中から、4人の拳と拳が火花を散らす個人戦の「デスマッチ」、4人対4人のふたつのチームに分かれて戦う「チームデスマッチ」を楽しむことができます。  ※本体験版の仕様は製品版とは異なる場合がございます。",
+        "short": "「MAX ANARCHY 体験版」は、“ジャック”と“レオ”という対照的なふたりのキャラクターによる、2通りの物語が楽しめるストーリーモードの一部ミッションに加え、ネットワークモードの「デスマッチ」(4人の個人戦)と「チームデスマッチ」(4人対4人のチーム戦)を楽しむことができます。"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253458864/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253458864/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253458864/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253458864/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253458864/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253458864/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253458864/1041/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5345083F",
+                "title": "ANARCHY REIGNS"
+            }
+        ],
+        "related": []
+    }
+}

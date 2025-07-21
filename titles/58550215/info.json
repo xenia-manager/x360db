@@ -1,0 +1,35 @@
+{
+    "id": "58550215",
+    "title": {
+        "full": "Sqong",
+        "reduced": "Sqong"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Mexond",
+    "publisher": "Mexond",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Now with GLOBAL SCOREBOARD (Gold members only)! An exiting new mash-up of two classic arcade games. Get the best high score and unlock all the game badges. Play with your friends, meet them in an action filled battle or join together in cooperative mode for the highest score possible.",
+        "short": "Now with GLOBAL SCOREBOARD (Gold members only)! An exiting new mash-up of two classic arcade games. Get the best high score and unlock all the game badges. Play with your friends, meet them in an action filled battle or join together in cooperative mode for the highest score possible."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550215/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550215_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550215/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550215_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550215_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550215_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550215_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

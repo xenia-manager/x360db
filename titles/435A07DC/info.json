@@ -1,0 +1,53 @@
+{
+    "id": "435A07DC",
+    "title": {
+        "full": "怒首領蜂 大復活 ver 15",
+        "reduced": "怒首領蜂 大復活 ver 15"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "CAVE Interactive CO.,LTD.",
+    "publisher": "CAVE Interactive CO.,LTD.",
+    "release_date": "2010-10-25",
+    "user_rating": null,
+    "description": {
+        "full": "ゲーム オン デマンドのバージョンは次の言語をサポートしています：日本語  ”大往生”したなどと誰が決めたのか。  　ルナポリスでの大規模な戦闘行為が終結して、 ６年後のある日、月の首領蜂隊本部は時空の微細な乱れを感知する。  　時空間を移動するジャンプゲートが作動する際に発生する、些細な時空間の乱れ。 だがその、ほんの微細な時空の乱れに隠れる違和感に気付かない大佐ではなかった。  　その違和感を辿る事は困難を極めたが、 何者かが過去に大量に沢山の物資を送っていた事を突き止める。  　…そのものは膨大なデータの海の中に残っていた、 始めはウィルスのようなわずかなプログラムだったモノ。 時間をかけて自己増殖し、進化した者。  　さらにそのプログラムを解析する首領蜂隊。 出自を特定するパーソナルコードは あろうことかエレメントドール・エクスイのそれであった…。  　大佐は不快感を隠せなかった。 歴史を書き換えるなどありえない。 人類を護るために、いや、我が無敵の軍隊を護るために、 完璧を目指す過程で生まれた排泄物によって作られたヒトガタに そんな小癪なことはさせはしない。 　また、密かにこうも思った。 「過去からやりなおす…。その手があったか。」  　緊急出動する首領蜂隊。 次々とジャンプゲートよりエクスイを追って過去に飛ぶ。 だが敵も追撃は想定していた。 ジャンプゲート内より始まる戦闘。  　予想以上に激しい戦闘になり、過去に辿り着けたのは母艦１艦と艦載機が数機。 越えた先の時間は、２００８年　５月　日本。   　戦火を無くす為に、再び戦火が起きる。 蜂の羽音はいまだ止まりはしない。",
+        "short": "ゲーム オン デマンドのバージョンは次の言語をサポートしています：日本語  ”大往生”したなどと誰が決めたのか。  戦火を無くす為に、再び戦火が起きる。 蜂の羽音はいまだ止まりはしない。"
+    },
+    "media": [
+        {
+            "media_id": "595EA2C2",
+            "title": "DoDonPachi Daifukkatsu Ver 1.5",
+            "edition": "Original, Cave Shooting Collection",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07dc/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

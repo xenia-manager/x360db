@@ -1,0 +1,35 @@
+{
+    "id": "58410ABD",
+    "title": {
+        "full": "DEAD RISING 2 CASE ZERO",
+        "reduced": "DEAD RISING 2 CASE ZERO"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Blue Castle Games Inc.",
+    "publisher": "CAPCOM CO., LTD.",
+    "release_date": "2010-09-08",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Get a taste of what Dead Rising 2 has to offer in this full-featured prologue! Chuck Greene and his daughter Katey have barely escaped the Las Vegas zombie outbreak with their lives. They arrive in the lonely desert town of Still Creek looking for some rest, but unfortunately there is no rest to be had as this sleepy town has become overrun with zombies. Chuck must kill zombies, rescue survivors and escape from the zombie nightmare that is Still Creek before time runs out. Any PP, clothing, and Combo Cards gained in CASE ZERO will carry over into your Dead Rising 2 game!",
+        "short": "Prime your blood lust with the prologue to the eagerly awaited Dead Rising 2! Chuck Greene, professional motocross rider, must flee from the zombie hordes destroying Las Vegas with his young daughter Katey, who was bitten and infected in the outbreak.  But trouble leaves them stranded in the small town of Still Creek, Nevada. Chuck must find medication to keep Katey alive and figure out how to escape before the military arrives to quarantine the infected, all while battling plenty of zombies. F…"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abd/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abd/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abd/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abd/1041/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "434307EC",
+                "title": "Dead Rising 2"
+            }
+        ],
+        "related": []
+    }
+}

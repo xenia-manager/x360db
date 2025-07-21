@@ -1,0 +1,37 @@
+{
+    "id": "584113CF",
+    "title": {
+        "full": "God Mode",
+        "reduced": "God Mode"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Old School Games",
+    "publisher": "ATLUS",
+    "release_date": "2013-04-19",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Do you like running?  How about gunning?  What if special abilities are thrown into the mix?  Upgradable weapons?  Let's say there’re dozens of on-screen enemies to unleash this firepower on, and as your reward for dispatching them you get experience and gold to collect that can be used for character customization and new equipment--all the while playing alongside friends in 4-player cooperative play!  If you like the sound of all this, then you'll love God Mode.   Retro shooter action and RPG elements are combined in this new downloadable third-person shooter. God Mode combines non-linear gameplay, fast and frantic shooting, hordes of on-screen enemies, a fully functional online coop mode, and features visuals and gameplay that rival that of a full-priced boxed title. Matches rarely--if ever--play out the same, as dozens of in-game modifiers can significantly alter the gameplay on the fly. Characters are fully customizable, both in appearance and equipment, which continually evolve. Gold and experience are constantly accrued and used to unlock new and satisfying weaponry and unique powerful abilities, both of which can be further upgraded. ",
+        "short": "Do you like running?  How about gunning?  What if special abilities are thrown into the mix?  Upgradable weapons?  Let's say there’re dozens of on-screen enemies to unleash this firepower on, and as your reward for dispatching them you get experience and gold to collect that can be used for character customization and new equipment--all the while playing alongside friends in 4-player cooperative play!  If you like the sound of all this, then you'll love God Mode. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113cf/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113cf/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113cf/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113cf/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113cf/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113cf/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113cf/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113cf/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113cf/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113cf/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

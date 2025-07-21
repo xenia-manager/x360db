@@ -1,0 +1,44 @@
+{
+    "id": "4D4B07D4",
+    "title": {
+        "full": "Serious Sam HD The First and Second Encounters",
+        "reduced": "Serious Sam HD The First and Second Encounters"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Croteam",
+    "publisher": "Mastertronic Group Ltd.",
+    "release_date": "2011-03-04",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Serious Sam is back to claim his throne as the king of first-person shooter mayhem! Re-worked from the ground up, the indie sensation from Croteam returns with spectacularly upgraded visuals and an overhauled multiplayer focus.  Battle against the relentless hordes of Mental’s army!  Watch absolute chaos unfold online with up to 8 players in over 15 groundbreaking co-op and death-match modes.   Fight across four different spectacular worlds.",
+        "short": "Serious Sam is back to claim his throne as the king of first-person shooter mayhem! Re-worked from the ground up, the indie sensation from Croteam returns with spectacularly upgraded visuals and an overhauled multiplayer focus.  Battle against the relentless hordes of Mental’s army!  Watch absolute chaos unfold online with up to 8 players in over 15 groundbreaking co-op and death-match modes.   Fight across four different spectacular worlds."
+    },
+    "media": [
+        {
+            "media_id": "12AA7E23",
+            "title": "Serious Sam HD",
+            "edition": "Promo",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d4/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "id": "435A07D5",
+    "title": {
+        "full": "DEATHSMILES",
+        "reduced": "DEATHSMILES"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "CAVE",
+    "publisher": "CAVE",
+    "release_date": "2010-06-17",
+    "user_rating": "5.00",
+    "description": {
+        "full": "The Games on Demand version supports  Japanese.  The gothic horror action shooter. Into a city, shrouded in fear and despair, these lovely Angels descended... \"Death Smiles\"  depicts their battle against the powers of darkness.",
+        "short": "ゲーム オン デマンドのバージョンは次の言語をサポートしています：日本語 ゴシックホラー配合のアクションシューティング。 恐怖と絶望に包まれた街に、可憐な天使が舞い降りる… 「デススマイルズ」は、その少女たちと魔物との闘いを描いたシューティングゲームです。 ゲーム オン デマンド には、各種ダウンロード コンテンツは含まれておりません。"
+    },
+    "media": [
+        {
+            "media_id": "0F6DF8CF",
+            "title": "Deathsmiles",
+            "edition": "Cave Shooting Collection",
+            "region": "Japan"
+        },
+        {
+            "media_id": "7468403C",
+            "title": "Deathsmiles",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d5/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d5/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d5/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d5/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d5/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d5/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d5/1033/screenlg13.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "545A07D1",
+                "title": "DEATHSMILES"
+            }
+        ],
+        "related": []
+    }
+}

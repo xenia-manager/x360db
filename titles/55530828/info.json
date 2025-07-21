@@ -1,0 +1,50 @@
+{
+    "id": "55530828",
+    "title": {
+        "full": "Brothers in Arms HH GR",
+        "reduced": "Brothers in Arms HH"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter",
+        "Strategy & Simulation"
+    ],
+    "developer": "Gearbox Software",
+    "publisher": "UbiSoft",
+    "release_date": "2010-05-01",
+    "user_rating": null,
+    "description": {
+        "full": "Buy Brothers in Arms: Hell's Highway!",
+        "short": "Buy Brothers in Arms: Hell's Highway!"
+    },
+    "media": [
+        {
+            "media_id": "230DB5EF",
+            "title": "Brothers in Arms: Hell's Highway",
+            "edition": "Original",
+            "region": "Germany"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530828/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530828/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530828/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530828/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530828/1031/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530828/1031/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530828/1031/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530828/1031/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530828/1031/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "555307EA",
+                "title": "Brothers in Arms HH"
+            }
+        ],
+        "related": []
+    }
+}

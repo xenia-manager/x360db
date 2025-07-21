@@ -1,0 +1,42 @@
+{
+    "id": "555388A4",
+    "title": {
+        "full": "Your Shape Fitness Evolved 2012 Demo",
+        "reduced": "Your Shape Fitness Evolved 2012 Demo"
+    },
+    "genre": [
+        "Family",
+        "Kinect",
+        "Other"
+    ],
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "release_date": "2011-11-22",
+    "user_rating": null,
+    "description": {
+        "full": "Your Shape Fitness Evolved 2012 is the personalized fitness game on Xbox Kinect that delivers serious results.  With this demo, check out the intensity of Bootcamp, the engaging fun of Jumprope and the rhythms of African Dance.  With over 90 hours of customizable activities, Your Shape allows you to workout your way!  The state-of-the-art motion tracking technology provides enhanced feedback on your exercises, and now monitors floor movements for exercises like push-ups and sit-ups.  Tailor your workout by using the in-game personal trainer, focusing on specific muscle groups or building a routine around your time limits.  And tap into the Your Shape Center community to share and compete with players around the world.",
+        "short": "Your Shape Fitness Evolved 2012 is the personalized fitness game on Xbox Kinect that delivers serious results.  With this demo, check out the intensity of Bootcamp, the engaging fun of Jumprope and the rhythms of African Dance.  With over 90 hours of customizable activities, Your Shape allows you to workout your way!  The state-of-the-art motion tracking technology provides enhanced feedback on your exercises, and now monitors floor movements for exercises like push-ups and sit-ups.  "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a4/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "55530886",
+                "title": "Your Shape™ Fitness Evolved 2012"
+            }
+        ],
+        "related": []
+    }
+}

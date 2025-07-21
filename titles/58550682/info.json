@@ -1,0 +1,35 @@
+{
+    "id": "58550682",
+    "title": {
+        "full": "DeadlySpace",
+        "reduced": "DeadlySpace"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Hotshot10101",
+    "publisher": "Hotshot10101",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. DeadlySpace is a game set in the far reaches of a distant galaxy. Choose your faction, build your towers, defend your Starbase. How long can you last? 1-4 Player Coop Split-Screen Action. Master 6 Different Factions. Conquer 60+ maps. Discover 25+ Towers. Musical soundtrack written just for DeadlySpace.",
+        "short": "DeadlySpace is a game set in the far reaches of a distant galaxy. Choose your faction, build your towers, defend your Starbase. How long can you last? 1-4 Player Coop Split-Screen Action. Master 6 Different Factions. Conquer 60+ maps. Discover 25+ Towers. Musical soundtrack written just for DeadlySpace."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855068200000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550682_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550682/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550682_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550682_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550682_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550682_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550E1C",
+    "title": {
+        "full": "7 Quests of the Hero",
+        "reduced": "7 Quests of the Hero"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "INGENIOUSFUN",
+    "publisher": "INGENIOUSFUN",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=3/3, Mature Content=2/3. Seven maidens have been kidnapped and held prisoner by an evil sorcerer… Your mission is to locate and rescue them back to the safety of the castle and then keep them amused for the duration of their stay! hours of game play – buy special items from the shop to help your quest – buy gifts for the maidens to make them happy! release your inner Hero!",
+        "short": "Seven maidens have been kidnapped and held prisoner by an evil sorcerer… Your mission is to locate and rescue them back to the safety of the castle and then keep them amused for the duration of their stay! hours of game play – buy special items from the shop to help your quest – buy gifts for the maidens to make them happy! release your inner Hero!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550e1c/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E1C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e1c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E1C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E1C_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E1C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E1C_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

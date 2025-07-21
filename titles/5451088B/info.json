@@ -1,0 +1,46 @@
+{
+    "id": "5451088B",
+    "title": {
+        "full": "Puss in Boots",
+        "reduced": "Puss in Boots"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family",
+        "Kinect"
+    ],
+    "developer": "Blitz Game Studios",
+    "publisher": "THQ Inc.",
+    "release_date": "2011-11-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Step into the boots of the, Puss In Boots, and your sword fighting moves and sly skills to become the legendary hero!   On the XBOX 360 Kinect, master the style and charm of Puss in Boots in a full-body swashbuckling experience. Duel banditos with style and flair, use cat-like sneaking skills to fool your foes, and team with characters from the film to catch the Golden Goose. It’s the adventure of nine lifetimes!  Key Features: - Play as Puss in Boots – the legendary hero! - Master the sword as you duel with swashbuckling style and flair -Use cat-like skills to perform acrobatic moves, sneak past enemies, claw your way out of tense situations, and charm the señoritas along the way. -Experience the characters, story and locations from the film as you travel from Puss' hometown, up the beanstalk, and to the Giant's castle in the sky, plus everywhere in between!",
+        "short": "Step into the boots of the, Puss In Boots, and your sword fighting moves and sly skills to become the legendary hero!   On the XBOX 360 Kinect, master the style and charm of Puss in Boots in a full-body swashbuckling experience. Duel banditos with style and flair, use cat-like sneaking skills to fool your foes, and team with characters from the film to catch the Golden Goose … plus, strum your guitar to serenade the señoritas along the way! It’s the adventure of nine lifetimes! "
+    },
+    "media": [
+        {
+            "media_id": "39BED7F4",
+            "title": "DreamWorks Puss in Boots",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451088b/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451088b/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451088b/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451088b/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451088b/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451088b/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451088b/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451088b/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/5451088b/PussInBoots_Manual_EN.pdf"
+        ]
+    }
+}

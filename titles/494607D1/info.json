@@ -1,0 +1,60 @@
+{
+    "id": "494607D1",
+    "title": {
+        "full": "Spectral Force 3",
+        "reduced": "Spectral Force 3"
+    },
+    "genre": [
+        "Role Playing",
+        "Strategy & Simulation"
+    ],
+    "developer": "Xpec",
+    "publisher": "Idea Factory/InterFM",
+    "release_date": "2008-01-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "일본의 롤프레잉 게임을 즐기는 게이머라면 “스펙트럴 포스” 시리즈를 모르는 사람이 없을 것이다. 비록 “파이널 판타지”나 “드래곤 퀘스트” 시리즈 만큼 유명하지는 않지만 15년의 역사를 지닌 전략 RPG 게임으로 무시할 수 없는 탄탄한 매니아층을 구축하고 있으며 최신작 “스펙트럴 포스3 ~ 이노센트 레이지”는 Xbox 360용으로 출시될 예정이다. 이는 보다 다양한 일본 게임을Xbox 360용으로 개발하여 폭 넓은 게이머 층을 확보하려는 Xbox 360의 노력을 엿볼 수 있는 부분이기도 하다.",
+        "short": "일본의 롤프레잉 게임을 즐기는 게이머라면 “스펙트럴 포스” 시리즈를 모르는 사람이 없을 것이다. 비록 “파이널 판타지”나 “드래곤 퀘스트” 시리즈 만큼 유명하지는 않지만 15년의 역사를 지닌 전략 RPG 게임으로 무시할 수 없는 탄탄한 매니아층을 구축하고 있으며 최신작 “스펙트럴 포스3 ~ 이노센트 레이지”는 Xbox 360용으로 출시될 예정이다. 이는 보다 다양한 일본 게임을Xbox 360용으로 개발하여 폭 넓은 게이머 층을 확보하려는 Xbox 360의 노력을 엿볼 수 있는 부분이기도 하다."
+    },
+    "media": [
+        {
+            "media_id": "525FCBE3",
+            "title": "Spectral Force 3: Innocent Rage",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "34DB441C",
+            "title": "Spectral Force 3: Innocent Rage",
+            "edition": "Original",
+            "region": "Korea"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d1/1028/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d1/1028/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d1/1028/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "415407D3",
+                "title": "Spectral Force 3"
+            }
+        ],
+        "related": []
+    }
+}

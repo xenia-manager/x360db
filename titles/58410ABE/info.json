@@ -1,0 +1,39 @@
+{
+    "id": "58410ABE",
+    "title": {
+        "full": "Renegade Ops",
+        "reduced": "Renegade Ops"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Avalanche",
+    "publisher": "SEGA",
+    "release_date": "2011-08-13",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Praised by critics, 8.5/10 IGN and 8/10 Eurogamer, Renegade Ops is the most explosive experience on Xbox LIVE. Control five different vehicles on land and air, each with unique abilities in stunning environments. Power up your skills for the ultimate in destruction. Play alone or team up offline with two player split screen and experience the chaos of 4-Player online Co-op with your friends. Renegade Ops is a blast!",
+        "short": "High-octane co-op shooter loaded with devastating weapons and vehicles – Destruction Just Got Awesome! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

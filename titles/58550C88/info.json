@@ -1,0 +1,35 @@
+{
+    "id": "58550C88",
+    "title": {
+        "full": "Storage Warfare",
+        "reduced": "Storage Warfare"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "24kt_Studios",
+    "publisher": "24kt_Studios",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=2/3, Mature Content=2/3. Have you ever heard of a Storage Auction? Well Storage Auctions are modern day treasure hunts. In Storage Warfare, you attend storage auctions and your goal is to locate the treasures buried within the storage units, and then turn a profit!  Keep a close eye on what is in each unit, so that you have the best chance to turn a profit. Outbid, Outsmart and Defeat your opponents in Storage Warfare!",
+        "short": "Have you ever heard of a Storage Auction? Well Storage Auctions are modern day treasure hunts. In Storage Warfare, you attend storage auctions and your goal is to locate the treasures buried within the storage units, and then turn a profit!  Keep a close eye on what is in each unit, so that you have the best chance to turn a profit. Outbid, Outsmart and Defeat your opponents in Storage Warfare!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550c8800000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C88_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c88/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C88_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C88_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C88_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C88_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

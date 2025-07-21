@@ -1,0 +1,43 @@
+{
+    "id": "5345082A",
+    "title": {
+        "full": "Aliens vs Predator",
+        "reduced": "Aliens vs Predator"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Rebellion",
+    "publisher": "SEGA",
+    "release_date": "2014-09-26",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Experience a war like never before between two of sci-fi's most iconic characters.",
+        "short": "Aliens vs Predator. Experience a war like never before between two of sci-fi's most iconic characters."
+    },
+    "media": [
+        {
+            "media_id": "496CECB4",
+            "title": "Aliens vs. Predator",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "5C19C70F",
+            "title": "Aliens vs. Predator",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345082a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345082a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345082a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345082a/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

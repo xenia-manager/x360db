@@ -1,0 +1,35 @@
+{
+    "id": "58550912",
+    "title": {
+        "full": "Zombies ruined my day",
+        "reduced": "Zombies ruined my day"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "mancebo",
+    "publisher": "mancebo",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=1/3. This is the story of how the best day of your life can become a nightmare full of zombies. Survive in a hostile environment using all sorts of weapons, defend your position with barricades, blow up zombies with grenades, sweep the area away with a Gatling and more! All in a fully action packed game with colorful backgrounds and fearsome monsters. Show us that you're more than a snack for zombies!",
+        "short": "This is the story of how the best day of your life can become a nightmare full of zombies. Survive in a hostile environment using all sorts of weapons, defend your position with barricades, blow up zombies with grenades, sweep the area away with a Gatling and more! All in a fully action packed game with colorful backgrounds and fearsome monsters. Show us that you're more than a snack for zombies!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855091200000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550912_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550912/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550912_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550912_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550912_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550912_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "58410B90",
+    "title": {
+        "full": "BurgerTime World Tour",
+        "reduced": "BurgerTime World Tour"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Monkeypaw Games",
+    "publisher": "Konami Digital Entertainment, Inc.",
+    "release_date": "2011-11-02",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  An all-time arcade favorite gets a second helping as BurgerTime World Tour elevates classic gaming to the next-gen universe.  Hero Peter Pepper returns and traverses the globe challenging chefs from around the world. Gamers will tackle 50 total levels and boss fights in each of the four environments. For the first time ever, the game will also feature online and split-screen multiplayer modes for four players with online leaderboard and avatar support. BurgerTime has never been more meaty!",
+        "short": "An all-time arcade favorite gets a second helping as BurgerTime World Tour elevates classic gaming to the next-gen universe. Gamers will tackle 50 total levels and boss fights in each of the four environments. The game will also feature online and split-screen multiplayer modes for four players with online leaderboard and avatar support. BurgerTime has never been more meaty!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b90/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b90/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b90/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b90/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b90/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b90/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b90/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b90/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b90/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b90/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b90/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b90/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b90/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b90/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

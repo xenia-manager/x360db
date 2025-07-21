@@ -1,0 +1,46 @@
+{
+    "id": "545987D4",
+    "title": {
+        "full": "Defiance",
+        "reduced": "Defiance"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Trion Worlds, Inc.",
+    "publisher": "Trion Worlds, Inc.",
+    "release_date": "2012-12-04",
+    "user_rating": null,
+    "description": {
+        "full": "Lock, load, and log on! Join an evolving online world where thousands of Ark Hunters together explore a transformed Bay Area in search of alien technology. Create a unique character with a customizable arsenal of futuristic weapons, vehicles, and amazing abilities, and event impact the Syfy Defiance TV series! ",
+        "short": "Lock, load, and let loose! Join an evolving online world where thousands of Ark Hunters battle the environment – and each other – looking for alien treasure. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545987d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545987d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545987d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545987d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545987d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545987d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545987d4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545987d4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545987d4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545987d4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545987d4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545987d4/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545987d4/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545987d4/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "545907D1",
+                "title": "Defiance™"
+            }
+        ],
+        "related": []
+    }
+}

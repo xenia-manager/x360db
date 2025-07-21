@@ -1,0 +1,35 @@
+{
+    "id": "58550472",
+    "title": {
+        "full": "Space Nuggets",
+        "reduced": "Space Nuggets"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Steve G",
+    "publisher": "Steve G",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Pilot your own space ship.  On each planet, you must get in, get the Space Nugget, and get out!  Featuring crisp, clean graphics, the full game includes 40 levels with varying gravity settings and a system to exchange high scores with other online players so that you can become the best Space Nugget collector.",
+        "short": "Pilot your own space ship.  On each planet, you must get in, get the Space Nugget, and get out!  Featuring crisp, clean graphics, the full game includes 40 levels with varying gravity settings and a system to exchange high scores with other online players so that you can become the best Space Nugget collector."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855047200000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550472_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550472/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550472_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550472_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550472_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550472_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "42560836",
+    "title": {
+        "full": "Star Wars Battlefront",
+        "reduced": "Star Wars Battlefront"
+    },
+    "genre": [
+        "Classics",
+        "Shooter"
+    ],
+    "developer": "Pandemic Studios",
+    "publisher": "LucasArts",
+    "release_date": "2018-04-26",
+    "user_rating": null,
+    "description": {
+        "full": "Fight as a soldier on the front lines where every weapon and vehicle you see is yours.  Take the Empire head on or crush the Rebellion - by yourself or with an army behind you!",
+        "short": "Live the Battles"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560836/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560836/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560836/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560836/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

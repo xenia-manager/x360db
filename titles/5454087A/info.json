@@ -1,0 +1,58 @@
+{
+    "id": "5454087A",
+    "title": {
+        "full": "NBA 2K11",
+        "reduced": "NBA 2K11"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Visual Concepts Entertainment",
+    "publisher": "2K Sports",
+    "release_date": "2010-08-10",
+    "user_rating": "4.25",
+    "description": {
+        "full": "NOTE: ONLINE MULTIPLAYER SUPPORT FOR THIS TITLE WAS TERMINATED ON 3/31/2012.  ONLINE/MULTIPLAYER FEATURES ARE NOT ACTIVE OR INCLUDED.   When you're the #1 selling and #1 rated NBA videogame, and have collaborated with back-to-back NBA champions, Kevin Garnett (2K9) and Kobe Bryant (2K10) – what is NBA 2K11 to do for the next act?  Simple: Michael Jordan.  The greatest of all time debuts for the first time in this hardware generation and brings his passion for the game to NBA 2K11 in a variety of new and exciting ways.  NBA 2K11 also features improvements to core gameplay elements – including all-new Iso-Motion dribbling controls, deeper My Player mode with a new My Career feature, all-new breathtaking visuals, and much more.  This year BECOME THE GREATEST with NBA 2K11.",
+        "short": "When you're the #1 selling and #1 rated NBA videogame, and have collaborated with back-to-back NBA champions, Kevin Garnett (2K9) and Kobe Bryant (2K10) – what is NBA 2K11 to do for the next act?  Simple: Michael Jordan.  The greatest of all time debuts for the first time in this hardware generation and brings his passion for the game to NBA 2K11 in a variety of new and exciting ways.  NBA 2K11 also features improvements to core gameplay elements – including all-new Iso-Motion dribbling control…"
+    },
+    "media": [
+        {
+            "media_id": "758FC84B",
+            "title": "NBA 2K11",
+            "edition": "Original",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454087a/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

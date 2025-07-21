@@ -1,0 +1,35 @@
+{
+    "id": "465687E6",
+    "title": {
+        "full": "ファントムブレイカー Demo2",
+        "reduced": "ファントムブレイカー Demo2"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "5pb.",
+    "publisher": "SOFTMAX Co., Ltd.",
+    "release_date": "2011-06-02",
+    "user_rating": null,
+    "description": {
+        "full": "5pb.が贈る完全新作対戦格闘ゲーム『ファントムブレイカー』の体験版第2弾です。演出やゲームバランスが製品版と同等のバージョンでお楽しみいただけます。",
+        "short": "5pb.が贈る完全新作対戦格闘ゲーム『ファントムブレイカー』の体験版第2弾です。演出やゲームバランスが製品版と同等のバージョンでお楽しみいただけます。"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687e6/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687e6/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687e6/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687e6/1041/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "535007ED",
+                "title": "Phantom Breaker"
+            }
+        ],
+        "related": []
+    }
+}

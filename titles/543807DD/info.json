@@ -1,0 +1,38 @@
+{
+    "id": "543807DD",
+    "title": {
+        "full": "Dead or Alive 3",
+        "reduced": "Dead or Alive 3"
+    },
+    "genre": [
+        "Classics",
+        "Fighting"
+    ],
+    "developer": "Team Ninja",
+    "publisher": "Tecmo Co., Ltd",
+    "release_date": "2021-11-15",
+    "user_rating": null,
+    "description": {
+        "full": "Dead or Alive® 3, the latest installment in the popular fighting series from Tecmo, is available exclusively for Xbox. Dead or Alive 3 offers a host of new features, including new characters, lighting effects, muscle and clothing movement, interactive environments and more. Players can choose from a variety of new and returning characters to engage in hours upon hours of frenzied fighting. Up to four players can battle it out in multiplayer mode while single-player mode offers many expansive levels to explore.",
+        "short": "Dead or Alive 3 offers a host of new features, including new characters, lighting effects, muscle and clothing movement, interactive environments and more."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807dd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807dd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807dd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807dd/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807dd/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807dd/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807dd/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807dd/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807dd/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807dd/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

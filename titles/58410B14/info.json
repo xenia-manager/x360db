@@ -1,0 +1,41 @@
+{
+    "id": "58410B14",
+    "title": {
+        "full": "Crimson Dragon",
+        "reduced": "Crimson Dragon"
+    },
+    "genre": [
+        "Kinect",
+        "Shooter"
+    ],
+    "developer": "Grounding Inc. / LAND HO! CO., LTD",
+    "publisher": "Xbox LIVE Arcade",
+    "release_date": "2011-10-17",
+    "user_rating": "3.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Several generations have passed since the human colonists of Planet Draco lost contact with Earth, and they have reached an uneasy truce with the native dragons. Now they face the return of an old threat, a colossal destroyer known as the White Phantom. In \"Crimson Dragon,\" use Kinect to control your dragon and fight off the violent enemy life forms. Teach your dragon new skills, and train it to become strong enough to face combat in harder missions. Bring your trained dragon online to take on missions in co-op. Now, embark on your journey to Planet Draco!",
+        "short": "Several generations have passed since the human colonists of Planet Draco lost contact with Earth. Now they face the return of an old threat, a colossal destroyer known as the White Phantom. In \"Crimson Dragon,\" use Kinect to control your dragon and fight off the violent enemy life forms. Teach your dragon new skills, and train it to face combat in harder missions. Bring your trained dragon online to take on missions in co-op. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

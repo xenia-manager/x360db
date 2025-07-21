@@ -1,0 +1,35 @@
+{
+    "id": "5855025E",
+    "title": {
+        "full": "Fireworks HD",
+        "reduced": "Fireworks HD"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Squimball Studios",
+    "publisher": "Squimball Studios",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Unleash the awesome power and beauty of an infinite supply of mortar shells.  Take command or just use it as a screen saver.  The choice is yours!  The full version features rumble support, more simultaneous launches, 16 awesome backgrounds, and more!",
+        "short": "Unleash the awesome power and beauty of an infinite supply of mortar shells.  Take command or just use it as a screen saver.  The choice is yours!  The full version features rumble support, more simultaneous launches, 16 awesome backgrounds, and more!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855025e00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855025E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855025e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855025E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855025E_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855025E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855025E_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

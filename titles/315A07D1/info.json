@@ -1,0 +1,41 @@
+{
+    "id": "315A07D1",
+    "title": {
+        "full": "NBA 2K16",
+        "reduced": "NBA 2K16"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Visual Concepts",
+    "publisher": "2K",
+    "release_date": "2015-09-29",
+    "user_rating": "4.50",
+    "description": {
+        "full": "NOTE: All multiplayer servers for NBA 2K16 will be shutdown as of 12/31/2017. After that time, all game functions requiring online servers will no longer function.  The Games on Demand version supports English, French, Italian, German, Spanish, Japanese, Chinese.  The NBA 2K franchise is back with the most true-to-life NBA experience to date with NBA 2K16. Guide your MyPLAYER through the complete NBA journey, take control of an entire NBA franchise, or hone your skills online competing against gamers from around the world. With animations that provide smoother movement and more realistic articulation, it's certain to be the most authentic NBA gaming experience yet.",
+        "short": "NOTE: All multiplayer servers for NBA 2K16 will be shutdown as of 12/31/2017. After that time, all game functions requiring online servers will no longer function.  The NBA 2K franchise is back with NBA 2K16. Guide your MyPLAYER through the complete NBA journey, take control of an entire NBA franchise, or hone your skills online competing against gamers from around the world."
+    },
+    "media": [
+        {
+            "media_id": "3AC236C5",
+            "title": "NBA 2K16",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802315a07d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802315a07d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802315a07d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802315a07d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802315a07d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802315a07d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802315a07d1/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

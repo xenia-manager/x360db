@@ -1,0 +1,35 @@
+{
+    "id": "585505A8",
+    "title": {
+        "full": "Comet",
+        "reduced": "Comet"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Baaad Dad",
+    "publisher": "Baaad Dad",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Comet!  It's a classic arcade game and a modern puzzler - in the back seat at a drive in B-movie.  A deceptively simple game of flying saucers, space mines, alien worlds and, of course, comets!  Comet! features high-speed action gameplay, unique but intuitive controls, extensive stat tracking, classic sci-fi flair, millions of points and lots of explosions.",
+        "short": "Comet!  It's a classic arcade game and a modern puzzler - in the back seat at a drive in B-movie.  A deceptively simple game of flying saucers, space mines, alien worlds and, of course, comets!  Comet! features high-speed action gameplay, unique but intuitive controls, extensive stat tracking, classic sci-fi flair, millions of points and lots of explosions."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585505a8/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505A8_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505a8/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505A8_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505A8_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505A8_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505A8_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

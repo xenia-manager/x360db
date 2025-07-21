@@ -1,0 +1,37 @@
+{
+    "id": "4D5389EA",
+    "title": {
+        "full": "The Gunstringer",
+        "reduced": "The Gunstringer"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Kinect",
+        "Shooter"
+    ],
+    "developer": "Twisted Pixel Games",
+    "publisher": "Microsoft Game Studios",
+    "release_date": "2011-05-24",
+    "user_rating": null,
+    "description": {
+        "full": "Twisted Pixel Games, creators of The Maw, Splosion Man and  Comic Jumper, proudly present our latest original IP: The  Gunstringer! We're bringing you an all-new type of Kinect  game where you'll puppeteer an awesome skeleton cowboy  marionette with your hands. Brace yourself for an  action-packed production of gunplay on the vengeance trail! ",
+        "short": "Twisted Pixel Games, creators of The Maw, Splosion Man and  Comic Jumper, proudly present our latest original IP: The  Gunstringer! We're bringing you an all-new type of Kinect  game where you'll puppeteer an awesome skeleton cowboy  marionette with your hands. Brace yourself for an  action-packed production of gunplay on the vengeance trail! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ea/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ea/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ea/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ea/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D5309DF",
+                "title": "The Gunstringer"
+            }
+        ],
+        "related": []
+    }
+}

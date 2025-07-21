@@ -1,0 +1,42 @@
+{
+    "id": "543807DB",
+    "title": {
+        "full": "Manhunt",
+        "reduced": "Manhunt"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics"
+    ],
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "release_date": "2021-11-10",
+    "user_rating": null,
+    "description": {
+        "full": "In Manhunt, you’re James Earl Cash, and you are the sport. You are a death row inmate who has been sentenced to death by lethal injection. However, in a twist of fate, you awake to the sound of your own panicked breath. They gave you your life back. Now, they are going to hunt you down. You must run, hide, and fight to survive. If you can stay alive long enough, you may find out who did this to you.",
+        "short": "In Manhunt you are James Earl Cash, and in this sport you are the prey. If you stay alive long enough, you may be able to find out who did this to you."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807db/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807db/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807db/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807db/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807db/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807db/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807db/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807db/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807db/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807db/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807db/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807db/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807db/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807db/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

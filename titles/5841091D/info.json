@@ -1,0 +1,39 @@
+{
+    "id": "5841091D",
+    "title": {
+        "full": "Fable II Pub Games",
+        "reduced": "Fable II Pub Games"
+    },
+    "genre": [
+        "Card & Board"
+    ],
+    "developer": "Xbox LIVE Productions",
+    "publisher": "Microsoft Studios",
+    "release_date": "2009-12-01",
+    "user_rating": "3.25",
+    "description": {
+        "full": "HD (High Definition). Unlock the full version of the Fable® II Pub Games and you’ll get all three great pub games that will also be in Fable® II!  Each game has multiple variants, plus the ability to earn and transfer gold and unique items to your character in Fable® II (assuming, of course, that you also have Fable® II). Either way, you’ll also get access to minigames, leaderboards, achievements, and all the fun of these backroom games of chance! This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "In taverns and pubs across the world of Albion, heroes and villagers alike gather for a pint of ale and a game of chance. Join them for a few hands of Fortune’s Tower, a round or two of Keystone, or a game of Spinnerbox. The gold and unique items you earn here can even be transferred to your character in Fable® II!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841091d/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

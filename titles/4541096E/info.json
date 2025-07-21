@@ -1,0 +1,45 @@
+{
+    "id": "4541096E",
+    "title": {
+        "full": "Fuse",
+        "reduced": "Fuse"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Insomniac Games",
+    "publisher": "Electronic Arts",
+    "release_date": "2013-05-28",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, German, Spanish.  Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  What happens when humans gain access to powerful alien technology they were never meant to have? When a volatile energy source called Fuse falls into the wrong hands, the CIA calls in an elite contact team to retrieve it: Overstrike 9. Join up to three friends in team-based co-op play as you take down the rogue paramilitary corporation behind the theft. Use lethal teamwork, coordinate devastating attacks, and provide cover for one another with fringe-tech weapons and gadgets. The unique LEAP feature lets you instantly shift from agent to agent during combat, allowing you to take advantage of each one’s special arsenal. You’ll need your teammates and their firepower to stop a global arms race from spinning out of control. ",
+        "short": "When a volatile alien energy source called Fuse falls into the wrong hands, the CIA calls in an elite contact team to retrieve it: Overstrike 9. Join up to three friends in co-op play as you deploy lethal teamwork and fringe-tech weapons to take down the rogue paramilitary corporation behind the theft.  "
+    },
+    "media": [
+        {
+            "media_id": "566B2842",
+            "title": "Fuse",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096e/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "id": "555307FE",
+    "title": {
+        "full": "Blazing Angels 2",
+        "reduced": "Blazing Angels 2"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Strategy & Simulation"
+    ],
+    "developer": "Ubisoft Romania",
+    "publisher": "UbiSoft",
+    "release_date": "2007-09-18",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Developed by Ubisoft's Romania studio, Blazing Angels® 2: Secret Missions of WWII is an intense action-adventure air combat game.  You are the leader of Operation Wildcard, an undercover and elite squad of pilots secretly created by the American government. Your mission is to sabotage and destroy the Third Reich's evil plans to create a weapon of mass destruction. During this mission, you and your team discover that the bad guys also have an elite team of their own. Participate in movie-like spy missions in some of the world's most exotic locations using experimental weapons and flying never-before-seen prototype aircraft. ",
+        "short": "Participate in movie-like spy missions in some of the world's most exotic locations using experimental weapons and flying never-before-seen prototype aircraft."
+    },
+    "media": [
+        {
+            "media_id": "1EFA4E75",
+            "title": "Blazing Angels 2: Secret Missions of WWII",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "7F53D994",
+            "title": "Blazing Angels 2: Secret Missions of WWII",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/7177/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/7177/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/7177/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/7177/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/7177/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fe/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/555307fe/d949a092-cb16-48ad-aee6-54ce28ca49db.PDF"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": "555308CE",
+    "title": {
+        "full": "Assassins Creed Rogue",
+        "reduced": "Assassins Creed Rogue"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2014-11-11",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese.  North America, 18th century. Amid the chaos and violence of the French and Indian War, Shay Patrick Cormac, a fearless young member of the Assassin Brotherhood, undergoes a dark transformation that will forever shape the future of the colonies. After a dangerous mission goes tragically wrong, Shay turns his back on the Assassins who, in response, attempt to end his life. Cast aside by those he once called brothers, Shay sets out on a mission to wipe out all who turned against him and to ultimately become the most feared Assassin hunter in history.  Introducing Assassin’s Creed® Rogue, the darkest chapter in the Assassin’s Creed® franchise yet. As Shay, you will experience the slow transformation from Assassin to Assassin hunter. Follow your own creed and set off on an extraordinary journey through New York City, the wild river valley, and far away to the icy cold waters of the North Atlantic in pursuit of your ultimate goal, to bring down the Assassins.",
+        "short": "Amid the chaos and violence of the French and Indian War, Shay Patrick Cormac, a fearless young member of the Assassin brotherhood, will undergo a dark transformation that will shape the future of the brotherhood forever.  As Shay, experience the slow transformation from Assassin to Assassin Hunter and use all your skills to take down those you once called brothers"
+    },
+    "media": [
+        {
+            "media_id": "08BFBC34",
+            "title": "Assassin's Creed: Rogue",
+            "edition": "Limited Edition, Collector's Edition",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "4A93DCC4",
+            "title": "Assassin's Creed: Rogue",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ce/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ce/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ce/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ce/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ce/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ce/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ce/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ce/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ce/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

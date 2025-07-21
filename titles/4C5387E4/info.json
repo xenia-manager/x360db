@@ -1,0 +1,36 @@
+{
+    "id": "4C5387E4",
+    "title": {
+        "full": "WRC - FIA WORLD RALLY CHAMPIONSHIP DEMO",
+        "reduced": "WRC 2010 DEMO"
+    },
+    "genre": [
+        "Racing & Flying",
+        "Sports & Recreation"
+    ],
+    "developer": "Milestone",
+    "publisher": "Leader spa",
+    "release_date": "2010-09-15",
+    "user_rating": null,
+    "description": {
+        "full": "Fasten your seatbelts and release the power of the hottest rally cars on the planet! With WRC you can finally step into the most spectacular cars from the rally championship and challenge the world’s greatest rally champions. Only WRC FIA World Rally Championship lets you tackle the official 300 horsepower cars and put your off-road driving skills to the test through the 13 circuits of the 2010 season.",
+        "short": "Fasten your seatbelts and release the power of the hottest rally cars on the planet! With WRC you can finally step into the most spectacular cars from the rally championship and challenge the world’s greatest rally champions. Only WRC FIA World Rally Championship lets you tackle the official 300 horsepower cars and put your off-road driving skills to the test through the 13 circuits of the 2010 season."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387e4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387e4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387e4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387e4/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4C5307DD",
+                "title": "WRC 2010"
+            }
+        ],
+        "related": []
+    }
+}

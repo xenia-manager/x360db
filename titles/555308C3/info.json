@@ -1,0 +1,48 @@
+{
+    "id": "555308C3",
+    "title": {
+        "full": "Rayman Legends",
+        "reduced": "Rayman Legends"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2013-08-29",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, Russian.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  The Glade of Dreams is in trouble once again! During a 100-year nap, the nightmares multiplied and spread, creating new monsters even more terrifying than before! These creatures are the stuff of legend… Dragons, giant toads, sea monsters, and even evil luchadores. With the help of Murfy, Rayman and Globox awake and must now help fight these nightmares and save the Teensies! Online features are no longer available for this product.",
+        "short": "The Glade of Dreams is in trouble once again! During a 100-year nap, nightmares have multiplied and spread, creating new monsters even scarier than before!"
+    },
+    "media": [
+        {
+            "media_id": "4B3EB1F6",
+            "title": "Rayman Legends",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c3/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c3/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/555308c3/Rayman_Legends_360_manual_dig_UK.pdf"
+        ]
+    }
+}

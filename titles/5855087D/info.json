@@ -1,0 +1,35 @@
+{
+    "id": "5855087D",
+    "title": {
+        "full": "Astro Cluster",
+        "reduced": "Astro Cluster"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Scott Lowther",
+    "publisher": "Scott Lowther",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Dominate the galaxy in this unusual multiplayer twin-stick shooter.  Destroy your enemies, take their clusters and navigate cosmic dangers across a wide variety of levels and game modes.  Improve your skills in the co-op campaign then take the fight online to prove who is the Cluster Master!",
+        "short": "Dominate the galaxy in this unusual multiplayer twin-stick shooter.  Destroy your enemies, take their clusters and navigate cosmic dangers across a wide variety of levels and game modes.  Improve your skills in the co-op campaign then take the fight online to prove who is the Cluster Master!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855087d/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855087D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855087d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855087D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855087D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855087D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855087D_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "5855073A",
+    "title": {
+        "full": "CuBlocks",
+        "reduced": "CuBlocks"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Stinky Badger Games",
+    "publisher": "Stinky Badger Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Rotate the gems to form clusters of four or more within the time limit, then hit the targets to make it into the next round. Every few rounds the bar is raised. Two players can go head to head in an attempt to remove more gems then their opponent. Doing so will allow your avatar to attack. Knock out your adversary to win!",
+        "short": "Rotate the gems to form clusters of four or more within the time limit, then hit the targets to make it into the next round. Every few rounds the bar is raised. Two players can go head to head in an attempt to remove more gems then their opponent. Doing so will allow your avatar to attack. Knock out your adversary to win!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855073a00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855073A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855073a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855073A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855073A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855073A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855073A_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

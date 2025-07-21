@@ -1,0 +1,42 @@
+{
+    "id": "415407D5",
+    "title": {
+        "full": "キャサリン",
+        "reduced": "キャサリン"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "アトラス",
+    "publisher": "アトラス",
+    "release_date": "2010-09-08",
+    "user_rating": "0.00",
+    "description": {
+        "full": "The Games on Demand version supports  Japanese.  Explore the pleasures and horrors of love as Vincent, a man with a hard choice to make: marry his longtime girlfriend Katherine or move on to the incredible blonde he just woke up next to—named Catherine! But beware! Make the wrong choice, and you could end up dead. Delving into themes of free will, and the delicate nature of relationships and the choices we make within them, this action-adventure/puzzle game is an experience wholly unlike any to come before it.",
+        "short": "アトラス、ペルソナチームのＨＤ機作品第一 弾！仕事にも恋にも野心を持たない草食系の 主人公ヴィンセントは、恋人がいる身であり ながらある夜謎の美女キャサリンと一夜を共 にしてしまう。その晩からヴィンセントは奇 妙な悪夢にうなされ始める。これはもしや町 で噂されている「覚めなければ死んでしまう」 という悪夢なのか？恋人と浮気相手、二人の キャサリンの間を迷走しながらヴィンセント は死の悪夢から逃げ切ることができるのか!?"
+    },
+    "media": [
+        {
+            "media_id": "48A8C7D0",
+            "title": "Catherine",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d5/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "415407D7",
+                "title": "Catherine"
+            }
+        ],
+        "related": []
+    }
+}

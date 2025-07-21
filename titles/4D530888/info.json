@@ -1,0 +1,108 @@
+{
+    "id": "4D530888",
+    "title": {
+        "full": "Lips",
+        "reduced": "Lips"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "iNiS",
+    "publisher": "Microsoft",
+    "release_date": "2010-03-01",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Lips™ is the ultimate interactive singing experience. Two wireless motion-sensitive microphones pulse and shine as you and your friends sing and party to the hottest songs from the hottest artists. Got flow? Rap to epic hits like “Bust A Move” by Young MC. Got soul? Wow friends on hot new hits like “Mercy” from Duffy. Plus, get more tunes from top artists on Xbox LIVE®, and sing to your DRM-free songs on select music players. Got backup? Get a friend to pick up a mic and sing with you. And, when you’re ready to rest your chords, keep the beat with an Xbox 360® Controller.  The music and the party never end!",
+        "short": "Lips™ is the ultimate interactive singing experience. Two wireless motion-sensitive microphones pulse and shine as you and your friends sing and party to the hottest songs from the hottest artists. Got flow? Rap to epic hits like “Bust A Move” by Young MC. Got soul? Wow friends on hot new hits like “Mercy” from Duffy. Plus, get more tunes from top artists on Xbox LIVE®, and sing to your DRM-free songs on select music players. Got backup? Get a friend to pick up a mic and sing with you. And, whe…"
+    },
+    "media": [
+        {
+            "media_id": "39B3E0C8",
+            "title": "Lips",
+            "edition": "Bundled with Wireless Microphones",
+            "region": "Russia"
+        },
+        {
+            "media_id": "39B3E0C9",
+            "title": "Lips",
+            "edition": "Bundled with Wireless Microphones",
+            "region": "Europe"
+        },
+        {
+            "media_id": "39B3E0CD",
+            "title": "Lips",
+            "edition": "Bundled with Wireless Microphones",
+            "region": "Spain"
+        },
+        {
+            "media_id": "39B3E0CE",
+            "title": "Lips",
+            "edition": "Bundled with Wireless Microphones",
+            "region": "Italy"
+        },
+        {
+            "media_id": "39B3E0CB",
+            "title": "Lips",
+            "edition": "Bundled with Wireless Microphones",
+            "region": "Europe"
+        },
+        {
+            "media_id": "39B3E0D2",
+            "title": "Lips: Canta en Español",
+            "edition": "Original",
+            "region": "Spain"
+        },
+        {
+            "media_id": "39B3E0D1",
+            "title": "Lips: Deutsche Partyknaller",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "39B3E0D7",
+            "title": "Lips: I Love the 80s",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "39B3E0D0",
+            "title": "Lips: Number One Hits",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "39B3E0D3",
+            "title": "Lips: Party Classics",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530888/1033/screenlg16.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

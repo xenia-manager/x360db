@@ -1,0 +1,35 @@
+{
+    "id": "58550C6A",
+    "title": {
+        "full": "Revenge of the Sammich 2",
+        "reduced": "Revenge of the Sammich 2"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Jacob's Ladder Entertainment LLC",
+    "publisher": "Jacob's Ladder Entertainment LLC",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Welcome to the coninuting adventures of lunch time combat in Revenge of the Sammich 2. Take control of an intrepid Carrot facing off against a hoard of Wheat and Rye. Pick up powerful weapons like the shotgun, the magnum, and the all powerful shockwave.",
+        "short": "Welcome to the coninuting adventures of lunch time combat in Revenge of the Sammich 2. Take control of an intrepid Carrot facing off against a hoard of Wheat and Rye. Pick up powerful weapons like the shotgun, the magnum, and the all powerful shockwave."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550c6a/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C6A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c6a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C6A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C6A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C6A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C6A_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

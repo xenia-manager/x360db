@@ -1,0 +1,30 @@
+{
+    "id": "584112A9",
+    "title": {
+        "full": "Avatar FameStar",
+        "reduced": "Avatar FameStar"
+    },
+    "genre": [
+        "Avatar"
+    ],
+    "developer": "Microsoft Studios",
+    "publisher": "Microsoft Studios",
+    "release_date": "2012-08-03",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Avatar FameStar is a new program from Microsoft Studios that delivers new and exciting ways to play online with your friends and compete for social recognition!  Dress your Avatar with exclusive new outfits and items, and show your achievements off to your friends and competitors. Avatar FameStar puts you in the spotlight, bringing Avatar FameStar games together to reward people who play and compete!",
+        "short": "Avatar FameStar is a new program from Microsoft Studios that delivers new and exciting ways to play online with your friends and compete for social recognition!  Dress your Avatar with exclusive new outfits and items, and show your achievements off to your friends and competitors. Avatar FameStar puts you in the spotlight, bringing Avatar FameStar games together to reward people who play and compete!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112a9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112a9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112a9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112a9/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

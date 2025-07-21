@@ -1,0 +1,47 @@
+{
+    "id": "435907D4",
+    "title": {
+        "full": "Sniper Ghost Warrior 2",
+        "reduced": "Sniper Ghost Warrior 2"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "City Interactive",
+    "publisher": "City Interactive",
+    "release_date": "2013-03-12",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, , Polish, Russian.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  You are the deadliest sniper in the elite Ghost Warrior unit. Positioned deep within enemy territory, deliver precision firepower and test your skills in an epic story of intrigue and betrayal. Feel the kill as you control your breathing and experience a realistic ballistics system. Epic single player campain and multiplayer sniper battles. Powered by cutting-edge CryENGINE® 3 technology. ",
+        "short": "You are the deadliest sniper in the elite Ghost Warrior unit. Positioned deep within enemy territory, deliver precision firepower and test your skills in an epic story of intrigue and betrayal."
+    },
+    "media": [
+        {
+            "media_id": "079424BE",
+            "title": "Sniper: Ghost Warrior 2",
+            "edition": "Original, Limited Edition, Sniper: Ghost Warrior Double Pack, Bulletproof Steelbook Edition",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d4/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/435907d4/4/Sniper2_X360_MNL_BDY_6_0_GOND_EN.pdf"
+        ]
+    }
+}

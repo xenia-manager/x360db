@@ -1,0 +1,35 @@
+{
+    "id": "58550223",
+    "title": {
+        "full": "The Towers of Cedrick",
+        "reduced": "The Towers of Cedrick"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Andrew Wilson",
+    "publisher": "Andrew Wilson",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Can you reach the sixth tower and save the Universe? Six increasingly difficult towers to solve under the watchful gaze of anthropomorphosized fruit and vegetables. The classic game of The Towers of Hanoi comes to XNA with the extra twist of Six anthropomorphosized deity's, unusual audio accompaniment, and if you can hack it, an ending that quite frankly defies all rational explanation.",
+        "short": "Can you reach the sixth tower and save the Universe? Six increasingly difficult towers to solve under the watchful gaze of anthropomorphosized fruit and vegetables. The classic game of The Towers of Hanoi comes to XNA with the extra twist of Six anthropomorphosized deity's, unusual audio accompaniment, and if you can hack it, an ending that quite frankly defies all rational explanation."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855022300000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550223_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550223/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550223_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550223_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550223_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550223_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

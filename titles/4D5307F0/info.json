@@ -1,0 +1,37 @@
+{
+    "id": "4D5307F0",
+    "title": {
+        "full": "Everyparty",
+        "reduced": "Everyparty"
+    },
+    "genre": [
+        "Family"
+    ],
+    "developer": "Game Republic",
+    "publisher": "Microsoft",
+    "release_date": "2008-01-01",
+    "user_rating": "0.00",
+    "description": {
+        "full": "Everyparty™ is a fun party game you can enjoy with your friends and family! Anyone can simply pick up a controller and play this game and, at the same time, enjoy elements that will please those who enjoy strategically planning their next move. Play this game alone or with your friends, play mini-games, accessorize your characters, and even play on Xbox Live! Rediscover the fun of playing games with everyone’s Everyparty!",
+        "short": "Everyparty™ is a fun party game you can enjoy with your friends and family! Anyone can simply pick up a controller and play this game and, at the same time, enjoy elements that will please those who enjoy strategically planning their next move. Play this game alone or with your friends, play mini-games, accessorize your characters, and even play on Xbox Live! Rediscover the fun of playing games with everyone’s Everyparty!"
+    },
+    "media": [
+        {
+            "media_id": "775397F1",
+            "title": "Everyparty",
+            "edition": "Original",
+            "region": "Asia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307f0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307f0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307f0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307f0/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

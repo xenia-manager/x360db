@@ -1,0 +1,44 @@
+{
+    "id": "454109C1",
+    "title": {
+        "full": "Madden NFL 25",
+        "reduced": "Madden NFL 25"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Tiburon",
+    "publisher": "Electronic Arts",
+    "release_date": "2013-08-27",
+    "user_rating": "4.75",
+    "description": {
+        "full": "The Games on Demand version supports English.  Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  Unlock the power, precision, and creativity of the NFL ballcarrier.  Whether you’re a slashing running-back, dual-threat QB, or ball-hawking safety, unleash 30 new moves and string together devastating combos with the all-new precision modifier.  Become the ultimate sports tycoon as you take the reins of your favorite team in the all-new Connected Franchise.  Also, with the addition of Infinity Engine 2 gameplay, an all-new mode in Ultimate Team, and the new Madden Share system, Madden NFL 25 celebrates twenty-five years of authenticity and innovation.",
+        "short": "Celebrating 25 years of innovation, Madden NFL 25 unlocks the power, precision, and creativity of the NFL ball-carrier.  Whether you’re a slashing running-back, dual-threat QB, or ball-hawking safety, unleash 30 new moves and string together devastating combos with the all-new precision modifier in Madden NFL 25."
+    },
+    "media": [
+        {
+            "media_id": "26607375",
+            "title": "Madden NFL 25",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c1/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

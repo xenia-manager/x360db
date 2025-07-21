@@ -1,0 +1,44 @@
+{
+    "id": "45410911",
+    "title": {
+        "full": "EA SPORTS Active 2",
+        "reduced": "EA SPORTS Active 2"
+    },
+    "genre": [
+        "Kinect",
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts Canada",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2010-07-23",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The multiplayer functionality of this title is no longer available.  You will only have access to the single player aspects of the game after download  EA SPORTS Active 2 includes a new suite of fitness programs and includes the Total Body Tracking system that utilizes a heart rate monitor to ensure the best possible workout with accurate, measurable results.  Using heart rate data that is displayed on-screen throughout the workout, users will be able to capture the intensity of their workout, allowing them to optimize their performance and reach their fitness goals quicker. Users will now also be able to track and share both their workout and heart rate data on the new EA SPORTS Active web journal; allowing them to track their progress over time and stay motivated.  EA SPORTS Active 2 will make working out simple, effective and will go with you wherever you are.",
+        "short": "EA SPORTS Active 2 includes a new suite of fitness programs and includes the Total Body Tracking system that utilizes a heart rate monitor to ensure the best possible workout with accurate, measurable results.  Using heart rate data that is displayed on-screen throughout the workout, users will be able to capture the intensity of their workout, allowing them to optimize their performance and reach their fitness goals quicker."
+    },
+    "media": [
+        {
+            "media_id": "7F6ABE8B",
+            "title": "EA Sports Active 2: Personal Trainer",
+            "edition": "Bundled with Heart Rate Monitor",
+            "region": "Europe"
+        },
+        {
+            "media_id": "3E33E5F4",
+            "title": "EA Sports Active 2: Personal Trainer",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410911/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410911/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410911/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410911/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

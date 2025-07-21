@@ -1,0 +1,43 @@
+{
+    "id": "534507EF",
+    "title": {
+        "full": "Condemned 2 - Bloodshot",
+        "reduced": "Condemned 2 Bloodshot"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Shooter"
+    ],
+    "developer": "Monolith Productions, Inc.",
+    "publisher": "Sega",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Condemned 2: Bloodshot is the next chapter in the terrifying series that began with the award-winning and critically-acclaimed Condemned. Featuring an all-new fighting mechanic and online multiplayer functionality, Condemned 2: Bloodshot is a first-person action thriller which immerses players in a world of psychological terror. Following a string of gruesome murders, players must use their deductive skills and brute force to track down sadistic serial killers.",
+        "short": "Condemned 2: Bloodshot is the next chapter in the terrifying series that began with the award-winning and critically-acclaimed Condemned. Featuring an all-new fighting mechanic and online multiplayer functionality, Condemned 2: Bloodshot is a first-person action thriller which immerses players in a world of psychological terror. Following a string of gruesome murders, players must use their deductive skills and brute force to track down sadistic serial killers."
+    },
+    "media": [
+        {
+            "media_id": "2FAB9433",
+            "title": "Condemned 2: Bloodshot",
+            "edition": "Original, Promo",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ef/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ef/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ef/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ef/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ef/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ef/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ef/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

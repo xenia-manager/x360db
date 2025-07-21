@@ -1,0 +1,35 @@
+{
+    "id": "58550625",
+    "title": {
+        "full": "Castle Ninja",
+        "reduced": "Castle Ninja"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "H125",
+    "publisher": "H125",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Help a ninja on his adventure through plains, forests, caves and mountains collecting treasure on his way to the ultimate prize at the castle!",
+        "short": "Help a ninja on his adventure through plains, forests, caves and mountains collecting treasure on his way to the ultimate prize at the castle!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855062500000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550625_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550625/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550625_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550625_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550625_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550625_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

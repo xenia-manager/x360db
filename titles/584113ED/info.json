@@ -1,0 +1,39 @@
+{
+    "id": "584113ED",
+    "title": {
+        "full": "ARES Extinction Agenda EX",
+        "reduced": "ARES"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer"
+    ],
+    "developer": "Extend Studio;Origo Games",
+    "publisher": "Aksys Games",
+    "release_date": "2013-09-04",
+    "user_rating": "3.00",
+    "description": {
+        "full": "A.R.E.S. Extinction Agenda EX, an action-packed side-scrolling game from Extend Studios, takes players on a thrilling sci-fi adventure!  Take control of combat specialist Ares, or the new playable character, Tarus, to battle deadly machines with a variety of powerful weapons and armor. Your goal: Save Minos Space Station’s survivors and uncover the nefarious Zytron’s extinction agenda!",
+        "short": "A.R.E.S. Extinction Agenda EX, an action-packed side-scrolling game from Extend Studios, takes players on a thrilling sci-fi adventure!  Take control of combat specialist Ares, or the new playable character, Tarus, to battle deadly machines with a variety of powerful weapons and armor. Your goal: Save Minos Space Station’s survivors and uncover the nefarious Zytron’s extinction agenda!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

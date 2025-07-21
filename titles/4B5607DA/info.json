@@ -1,0 +1,60 @@
+{
+    "id": "4B5607DA",
+    "title": {
+        "full": "Dead or Alive 5",
+        "reduced": "Dead or Alive 5"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "TECMO KOEI GAMES.CO.,LTD/Team NINJA",
+    "publisher": "TECMO KOEI AMERICA Corporation",
+    "release_date": "2012-09-28",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Japanese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Experience blockbuster stages as you knock your opponents off an exotic waterfall, into an exploding oil rig and more. Over 20 of the hottest characters in fighting games including ninjas, assassins, roughnecks & wrestlers! The rich story and training modes will get newcomers used to the signature DOA Triangle System, and the full-featured online modes will let the best fighters in the world compete with each other. This is fighting entertainment! This is Dead or Alive!",
+        "short": "The hottest fighters in gaming are back. Crazy action, technical fighting & blockbuster stages! This is fighting entertainment! This is Dead or Alive!"
+    },
+    "media": [
+        {
+            "media_id": "7A5FC94F",
+            "title": "Dead or Alive 5",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "566D7D7D",
+            "title": "Dead or Alive 5",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "0363A924",
+            "title": "Dead or Alive 5",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607da/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607da/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607da/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607da/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607da/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607da/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607da/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607da/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607da/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607da/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607da/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607da/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4b5607da/DOA5_XBX_MG_ENG.pdf"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": "534307EF",
+    "title": {
+        "full": "ConflictDeniedOpsDE",
+        "reduced": "ConflictDeniedOpsDE"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter",
+        "Strategy & Simulation"
+    ],
+    "developer": "Pivotal Games",
+    "publisher": "Eidos",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "Worst of friends. Best of enemies. Agents Graves and Lang must track a deadly cargo across three continents to prevent it falling into the hands of a vicious dictator. That's if they don't kill each other first.....  Learn more at www.conflictdeniedops.com and www.pivotalgames.com.  Tactical FPS / Single player / 2-player Online & Split-screen Co-op / 4-player Split-screen Multiplayer / 16-player Online Multiplayer.",
+        "short": "Worst of friends. Best of enemies. Agents Graves and Lang must track a deadly cargo across three continents to prevent it falling into the hands of a vicious dictator. That's if they don't kill each other first.....  Learn more at www.conflictdeniedops.com and www.pivotalgames.com.  Tactical FPS / Single player / 2-player Online & Split-screen Co-op / 4-player Split-screen Multiplayer / 16-player Online Multiplayer."
+    },
+    "media": [
+        {
+            "media_id": "42ADC11B",
+            "title": "Conflict: Denied Ops",
+            "edition": "Original",
+            "region": "Germany"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307ef/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307ef/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307ef/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307ef/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307ef/1031/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307ef/1031/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307ef/1031/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307ef/1031/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307ef/1031/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307ef/1031/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307ef/1031/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307ef/1031/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "534307D3",
+                "title": "Conflict Denied Ops"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "584108B4",
+    "title": {
+        "full": "MLB Stickball Full Version",
+        "reduced": "MLB Stickball"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Gaia Industries",
+    "publisher": "2K",
+    "release_date": "2010-06-28",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Xbox Live Multiplayer 1-4, Local Multiplayer 1-4, HD  (High Definition). Play ball! It's the classic game of stickball on Xbox LIVE Arcade.  The pros from the MLB take to the streets in a game for the baseball enthusiast and casual fans alike. Win games, hit home runs, shut down batters, trip car alarms and burst water towers to unlock pro players and flesh out your team. Each neighborhood has its own rules, from the streets of Brooklyn to the beach in Los Angeles. Confound batters with an array of pitches, including the classic stickball bounce pitch. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Play a game of stickball with the pros."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108b4/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

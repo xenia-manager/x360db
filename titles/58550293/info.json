@@ -1,0 +1,35 @@
+{
+    "id": "58550293",
+    "title": {
+        "full": "Chaos",
+        "reduced": "Chaos"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Borderline Interactive",
+    "publisher": "Borderline Interactive",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Chaos is a unique and addictive single- and multiplayer game. To advance in arcade mode slow down the surrounding antimatter particles with your forcefield until their trails disappear. In deathmatch, manipulate surrounding antimatter to destroy your opponents. Deathmatches are against human players or against an increasingly difficult roaster of AI-driven bots.",
+        "short": "Chaos is a unique and addictive single- and multiplayer game. To advance in arcade mode slow down the surrounding antimatter particles with your forcefield until their trails disappear. In deathmatch, manipulate surrounding antimatter to destroy your opponents. Deathmatches are against human players or against an increasingly difficult roaster of AI-driven bots."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550293/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550293_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550293/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550293_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550293_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550293_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550293_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

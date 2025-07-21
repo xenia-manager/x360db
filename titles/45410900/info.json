@@ -1,0 +1,45 @@
+{
+    "id": "45410900",
+    "title": {
+        "full": "NCAA Football 11",
+        "reduced": "NCAA Football 11"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts - Tiburon",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2010-06-12",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Feel the emotion of authentic college football more than ever with NCAA® Football 11. From running the ‘no-huddle’ spread offense to walking out of the tunnel locking arms, everything you do and see will be original to your favorite school. With an all-new locomotion engine and real assignment A.I., only NCAA® Football 11 gives you 120 ways to win!",
+        "short": "Feel the emotion of authentic college football more than ever with NCAA® Football 11. From running the ‘no-huddle’ spread offense to walking out of the tunnel locking arms, everything you do and see will be original to your favorite school. With an all-new locomotion engine and real assignment A.I., only NCAA® Football 11 gives you 120 ways to win!"
+    },
+    "media": [
+        {
+            "media_id": "3034C74B",
+            "title": "NCAA Football 11",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410900/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410900/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410900/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410900/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410900/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410900/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410900/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410900/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410900/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410900/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410900/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

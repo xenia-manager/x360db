@@ -1,0 +1,57 @@
+{
+    "id": "55530804",
+    "title": {
+        "full": "Dark Messiah of Might and Magic Elements",
+        "reduced": "DMMMElements"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "UbiSoft",
+    "release_date": "2008-02-12",
+    "user_rating": "3.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Dark Messiah of Might and Magic™: Elements, powered by an enhanced version of the award-winning Source™ Engine, lets gamers experience brutal sword & sorcery combat, highly detailed and interactive environments in the dark fantasy world of Might and Magic. Players embody the young hero Sareth, who has been trained in the arts of magic and war in order to battle the prophetic Dark Messiah. Players will have the choice to become expert warriors, mages, archers or assassins, each with their own arsenal of devastating weapons and spells while using the environment as a weapon to outsmart the most vicious monsters. Through combat, players will unlock new skills and equipment, advancing Sareth’s experience and improving his performances, battle combos, hits, spells and techniques and setting his course to fulfil his destiny. In Multiplayer, enlist with the humans or undeads and choose to play as an archer, priestess, mage or knight with up to 10 players. Use mighty skills and magic powers",
+        "short": "Dark Messiah of Might and Magic™: Elements, powered by an enhanced version of the award-winning Source™ Engine, lets gamers experience brutal sword & sorcery combat, highly detailed and interactive environments in the dark fantasy world of Might and Magic. Players embody the young hero Sareth, who has been trained in the arts of magic and war in order to battle the prophetic Dark Messiah. Players will have the choice to become expert warriors, mages, archers or assassins, each with their own ars"
+    },
+    "media": [
+        {
+            "media_id": "76109BCD",
+            "title": "Dark Messiah: Might and Magic: Elements",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "599CD70E",
+            "title": "Dark Messiah: Might and Magic: Elements",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "5C7709BB",
+            "title": "Dark Messiah: Might and Magic: Elements",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530804/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530804/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530804/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530804/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530804/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530804/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530804/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530804/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530804/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/0f/c0/0fc012d6-a4e0-4297-9ec8-5340e6fd66aa.PDF?v=1#darkmesiah-en.PD"
+        ]
+    }
+}

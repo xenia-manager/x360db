@@ -1,0 +1,35 @@
+{
+    "id": "5855099F",
+    "title": {
+        "full": "Avatar Punch",
+        "reduced": "Avatar Punch"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Bionic-Thumbs",
+    "publisher": "Bionic-Thumbs",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Compete with your avatar to manage to be the best boxer of all times across his 4 game modes or fight against a friend!",
+        "short": "Compete with your avatar to manage to be the best boxer of all times across his 4 game modes or fight against a friend!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855099f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855099F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855099f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855099F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855099F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855099F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855099F_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

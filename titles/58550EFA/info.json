@@ -1,0 +1,35 @@
+{
+    "id": "58550EFA",
+    "title": {
+        "full": "Zombie Adventure",
+        "reduced": "Zombie Adventure"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Chris Antoni",
+    "publisher": "Chris Antoni",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=3/3. In the middle of the zombie apocalypse, danger lurks around every corner and nobody can be trusted. Will you survive despite the odds being stacked against you? Will you help others or selfishly go it alone? Decide your fate in Zombie Adventure. Combines text adventures with old school RPG's.",
+        "short": "In the middle of the zombie apocalypse, danger lurks around every corner and nobody can be trusted. Will you survive despite the odds being stacked against you? Will you help others or selfishly go it alone? Decide your fate in Zombie Adventure. Combines text adventures with old school RPG's."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550efa/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550EFA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550efa/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550EFA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EFA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EFA_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EFA_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

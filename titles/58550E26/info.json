@@ -1,0 +1,35 @@
+{
+    "id": "58550E26",
+    "title": {
+        "full": "Vixenized",
+        "reduced": "Vixenized"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Golconda",
+    "publisher": "Golconda",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=3/3, Mature Content=1/3. Survive the vicious attacks of the Vixens on a remote tropical island.  With two featured game modes, bring back your old skill with bow and arrows.",
+        "short": "Survive the vicious attacks of the Vixens on a remote tropical island.  With two featured game modes, bring back your old skill with bow and arrows."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550e26/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E26_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e26/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E26_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E26_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E26_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E26_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

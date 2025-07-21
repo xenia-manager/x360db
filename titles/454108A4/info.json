@@ -1,0 +1,39 @@
+{
+    "id": "454108A4",
+    "title": {
+        "full": "NCAA Football 10",
+        "reduced": "NCAA Football 10"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts - Tiburon",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2009-09-11",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Now you can settle who has the most school pride once and for all with NCAA Football 10. The all-new Season Showdown ensures that everything you do counts toward your goal of helping your school become the best in the nation. From all-new risk-reward strategic gameplay options to the revolutionary online create-a-school feature TeamBuilder, make a historic run for the national championship with NCAA Football 10.  Some multi-player functionalities may no longer be supported.",
+        "short": "Now you can settle who has the most school pride once and for all with NCAA Football 10. The all-new Season Showdown ensures that everything you do counts toward your goal of helping your school become the best in the nation. From all-new risk-reward strategic gameplay options to the revolutionary online create-a-school feature TeamBuilder, make a historic run for the national championship with NCAA Football 10.  Some multi-player functionalities may no longer be supported."
+    },
+    "media": [
+        {
+            "media_id": "7C68CB75",
+            "title": "NCAA Football 10",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": null,
+        "banner": null,
+        "boxart": "https://images.launchbox-app.com/250dbf32-74e4-4024-b95e-29a434e8c308.jpg",
+        "icon": null,
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/11/ee/11ee8ebc-0ba3-4796-9c2d-1955ebbcae54.PDF?v=1#NCAA10-en.PDF"
+        ]
+    }
+}

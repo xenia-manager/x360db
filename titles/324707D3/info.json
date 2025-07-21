@@ -1,0 +1,52 @@
+{
+    "id": "324707D3",
+    "title": {
+        "full": "ラブトレ　Bitter",
+        "reduced": "ラブトレBitter"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Kinect"
+    ],
+    "developer": "BOOST ON",
+    "publisher": "BOOST ON",
+    "release_date": "2013-01-31",
+    "user_rating": null,
+    "description": {
+        "full": "Kinect+萌え！ 踊るアドベンチャーゲーム、『ラブ☆トレ Bitter』  ようやくチームワークが芽生えたダンス部の、次なる目標は世界大会！？ でも、『自分たちのダンス』を表現するためには、まだまだ部員が足りない！ ちょっとヘンな一年生や、意外なあの人までも部員に加え・・・。 汗と根性と眼鏡が溢れるダンス部はクライマックスへ！",
+        "short": "Kinect+萌え！ 踊るアドベンチャーゲーム、『ラブ☆トレ Bitter』  ４人のヒロインたちと、ダンスやトレーニング、カラオケ、ミニゲームなどを通じて再びダンス部の大会での成功を目指しましょう。 "
+    },
+    "media": [
+        {
+            "media_id": "4B370D6E",
+            "title": "Love Tore: Bitter",
+            "edition": "Genteiban",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802324707d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802324707d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802324707d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802324707d3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802324707d3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802324707d3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802324707d3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802324707d3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802324707d3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802324707d3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802324707d3/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802324707d3/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802324707d3/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802324707d3/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802324707d3/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802324707d3/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802324707d3/1033/screenlg13.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

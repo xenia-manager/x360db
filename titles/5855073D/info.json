@@ -1,0 +1,35 @@
+{
+    "id": "5855073D",
+    "title": {
+        "full": "Space Gladiator",
+        "reduced": "Space Gladiator"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Creaturesoft",
+    "publisher": "Creaturesoft",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=0/3. Enter the space gladiator arena. Can you (and your friends) conquer all 13 battles and earn your freedom? Take on the role of a gladiator pilot who must overcome enemy ships, creatures, bosses, and deadly asteroids. Advance through the battles; upgrade your ship's speed, shields, life and more!  1-4 Players, 2-4 player co-op.",
+        "short": "Enter the space gladiator arena. Can you (and your friends) conquer all 13 battles and earn your freedom? Take on the role of a gladiator pilot who must overcome enemy ships, creatures, bosses, and deadly asteroids. Advance through the battles; upgrade your ship's speed, shields, life and more!  1-4 Players, 2-4 player co-op."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855073d/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855073D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855073d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855073D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855073D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855073D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855073D_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

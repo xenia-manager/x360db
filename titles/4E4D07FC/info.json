@@ -1,0 +1,59 @@
+{
+    "id": "4E4D07FC",
+    "title": {
+        "full": "TEKKEN 6",
+        "reduced": "TEKKEN 6"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "BANDAI NAMCO Entertainment Inc.",
+    "publisher": "NAMCO BANDAI Games America Inc.",
+    "release_date": "2009-11-23",
+    "user_rating": "4.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   With over 34 million copies sold worldwide, TEKKEN is the #1 fighting game franchise.　 The series appears on the Xbox 360 console for the first time with the latest installment, TEKKEN 6!　  A large roster of unique characters, fast-paced action, a deep level of strategy, and the rich background story have all helped make the TEKKEN series the top in its genre.  TEKKEN 6 has the largest character roster to date, Online VS Battle, and other new content created for the home version. Use the improved, more in-depth character customization options to customize your favorite characters and face off against rivals online!",
+        "short": "With over 34 million copies sold worldwide, TEKKEN is the #1 fighting game franchise.　 The series appears on the Xbox 360 console for the first time with the latest installment, TEKKEN 6!　  A large roster of unique characters, fast-paced action, a deep level of strategy, and the rich background story have all helped make the TEKKEN series the top in its genre.  TEKKEN 6 has the largest character roster to date, Online VS Battle, and other new content created for the home version. Use the i…"
+    },
+    "media": [
+        {
+            "media_id": "2087A9ED",
+            "title": "Tekken 6",
+            "edition": "Original, SoulCalibur IV / Tekken 6",
+            "region": "World"
+        },
+        {
+            "media_id": "7E3BCAE2",
+            "title": "Tekken 6",
+            "edition": "Fighting Edition",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07fc/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

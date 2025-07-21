@@ -1,0 +1,35 @@
+{
+    "id": "58550D1B",
+    "title": {
+        "full": "Indiemon Card Adventure",
+        "reduced": "Indiemon Card Adventure"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "RicolaVG",
+    "publisher": "RicolaVG",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Indie Island needs a new Defender to protect it. Play as Rik, a kid from a small town. Play through different areas to collect new cards to build your deck and train to get stronger. Become the new Defender of Indie Island in this multi-genre game!",
+        "short": "Indie Island needs a new Defender to protect it. Play as Rik, a kid from a small town. Play through different areas to collect new cards to build your deck and train to get stronger. Become the new Defender of Indie Island in this multi-genre game!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550d1b/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D1B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d1b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D1B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D1B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D1B_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D1B_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": "435A07D9",
+    "title": {
+        "full": "DeathSmiles2 X",
+        "reduced": "DeathSmiles2 X"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "CAVE Interactive CO.,LTD.",
+    "publisher": "CAVE Interactive CO.,LTD.",
+    "release_date": "2010-05-03",
+    "user_rating": "4.00",
+    "description": {
+        "full": "This game supports Japanese only.  \"DeathSmiles\" comes back as \"DeathSmiles2X\"! This time it takes place at Christmas. Angels fight at snowing Gilverado.   \"DeathSmiles2X\" is a sequel to the Horizontal side scrolling STG \"DeathSmiles\". Check out the new \"DeathSmiles\". ",
+        "short": "\"DeathSmiles\" come back as \"DeathSmiles2X\"! This time it take place at Christmas. Angels fight at snowing Gilverado.   \"DeathSmiles2X\" is a sequel to Horizontal side scrolling STG \"DeathSmiles\". Check out the revolved new \"DeathSmiles\". "
+    },
+    "media": [
+        {
+            "media_id": "085D397C",
+            "title": "Deathsmiles II X: Makai no Merry Christmas",
+            "edition": "Original, Shokai Genteiban, Cave Shooting Collection",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d9/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d9/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d9/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

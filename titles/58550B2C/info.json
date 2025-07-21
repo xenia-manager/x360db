@@ -1,0 +1,35 @@
+{
+    "id": "58550B2C",
+    "title": {
+        "full": "Heroes of Hat",
+        "reduced": "Heroes of Hat"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Utah Game Forge",
+    "publisher": "Utah Game Forge",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Heroes of Hat is a multiplayer 3D puzzle platformer where you use the power of hats to traverse levels, solve puzzles, and fight enemy forces.  You'll have to tie all of your hat abilities together to make it through levels and conquer what lies at the end.",
+        "short": "Heroes of Hat is a multiplayer 3D puzzle platformer where you use the power of hats to traverse levels, solve puzzles, and fight enemy forces.  You'll have to tie all of your hat abilities together to make it through levels and conquer what lies at the end."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550b2c/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B2C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b2c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B2C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B2C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B2C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B2C_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

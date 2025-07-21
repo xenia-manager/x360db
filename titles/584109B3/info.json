@@ -1,0 +1,39 @@
+{
+    "id": "584109B3",
+    "title": {
+        "full": "Bloody Good Time",
+        "reduced": "Bloody Good Time"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Outerlight ltd",
+    "publisher": "Ubisoft",
+    "release_date": "2010-10-27",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Welcome to Hollywood! The home of fame and fortune!  That’s what the flyer said anyway. The reality hasn’t proven quite so fruitful. All you need is one shot, and you’ll do whatever it takes to get it.  Up to 8 players can play simultaneously on this exclusively multiplayer first person shooter. Choose your character and shoot down your competitors in 4 game modes (Hunt, Elimination, Revenge, Death Match) and on 3 Hollywood sets. Be prepared to run for fame and succeed at any cost or die trying!",
+        "short": "(Online Interactions Not Rated by the ESRB) Welcome to Hollywood! The home of fame and fortune!  That’s what the flyer said anyway. The reality hasn’t proven quite so fruitful. All you need is one shot, and you’ll do whatever it takes to get it.  Up to 8 players can play simultaneously on this exclusively multiplayer first person shooter."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b3/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b3/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

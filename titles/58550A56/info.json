@@ -1,0 +1,35 @@
+{
+    "id": "58550A56",
+    "title": {
+        "full": "Dont Die Dateless Dummy",
+        "reduced": "Dont Die Dateless Dummy"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "cupholder",
+    "publisher": "cupholder",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=3/3, Mature Content=3/3. Man up and get a girlfriend! Choose your route carefully and win the heart of a special girl or you might end up a level 30 wizard.",
+        "short": "Man up and get a girlfriend! Choose your route carefully and win the heart of a special girl or you might end up a level 30 wizard."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550a5600000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A56_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a56/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A56_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A56_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A56_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A56_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

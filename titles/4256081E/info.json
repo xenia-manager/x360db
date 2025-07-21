@@ -1,0 +1,57 @@
+{
+    "id": "4256081E",
+    "title": {
+        "full": "Disney Infinity",
+        "reduced": "Disney Infinity"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer"
+    ],
+    "developer": "Avalanche Software",
+    "publisher": "Disney Interactive",
+    "release_date": "2013-08-18",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Unlock the freedom to play with some of your favorite Disney and Disney/Pixar worlds like never before!  The more you play, the more you unlock so the story never ends. It’s up to you and your imagination – infinite possibilities, infinite ways to inspire your imagination!",
+        "short": "Unlock the freedom to play with some of your favorite Disney and Disney/Pixar worlds like never before!  The more you play, the more you unlock so the story never ends. It’s up to you and your imagination – infinite possibilities, infinite ways to inspire your imagination!"
+    },
+    "media": [
+        {
+            "media_id": "5596D458",
+            "title": "Disney Infinity",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "5D82171A",
+            "title": "Disney Infinity",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "7D521BB5",
+            "title": "Disney Infinity",
+            "edition": "Starter Pack",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256081e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256081e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256081e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256081e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256081e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256081e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256081e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256081e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256081e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256081e/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

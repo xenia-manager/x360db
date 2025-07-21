@@ -1,0 +1,68 @@
+{
+    "id": "4541083A",
+    "title": {
+        "full": "Command & Conquer 3 - Kanes Wrath",
+        "reduced": "CC3 Kanes Wrath"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Electronic Arts Los Angeles",
+    "publisher": "Electronic Arts",
+    "release_date": "2008-06-24",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Choose your army and conquer the world in the latest installment of the legendary Command & Conquer saga. Take your part in an epic two-decade conflict told through high-definition video sequences starring Natasha Henstridge, Carl Lumbly, and Joe Kucan as Kane. Command & Conquer 3(tm): Kane's Wrath includes all the units, structures, and superpowers from Command & Conquer 3 Tiberium Wars(tm), plus all-new, game-changing Epic Units and the Xbox 360 console-exclusive mode Kane's Challenge. Choose from nine armies and storm the battlefield solo, or take the fight online and demolish your friends in the name of Kane across 50 multiplayer maps. Waging epic warfare on the Xbox 360 console has never been easier as you execute complex orders with a simple flick of your thumb using the all-new CommandStick interface. Your army awaits your command.",
+        "short": "Choose your army and conquer the world in the latest installment of the legendary Command & Conquer saga. Take your part in an epic two-decade conflict told through high-definition video sequences starring Natasha Henstridge, Carl Lumbly, and Joe Kucan as Kane. Command & Conquer 3(tm): Kane's Wrath includes all the units, structures, and superpowers from Command & Conquer 3 Tiberium Wars(tm), plus all-new, game-changing Epic Units and the Xbox 360 console-exclusive mode Kane's Challenge. Choose "
+    },
+    "media": [
+        {
+            "media_id": "00F071F5",
+            "title": "Command & Conquer 3: Kanes Rache",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "3FF4C4B3",
+            "title": "Command & Conquer 3: Kane's Wrath",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "48800EC9",
+            "title": "Command & Conquer 3: Kane's Wrath",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "4C361D93",
+            "title": "Command & Conquer 3: L'Ira di Kane",
+            "edition": "Original",
+            "region": "Italy"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083a/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083a/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083a/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083a/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083a/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083a/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083a/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

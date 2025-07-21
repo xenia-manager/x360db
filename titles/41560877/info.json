@@ -1,0 +1,44 @@
+{
+    "id": "41560877",
+    "title": {
+        "full": "HowToTrainYourDragon",
+        "reduced": "HowToTrainYourDragon"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Etranges Libellules",
+    "publisher": "Activision",
+    "release_date": "2010-02-06",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Battle your friends in this all-new adventure based on the world of How To Train Your Dragon™! With countless ways to customize, you’ll design the coolest dragons to ever live on the Island of Berk. Explore this epic world as Hiccup or Astrid in Story mode or experience fierce battle action in Arcade mode as you fight and fire your way to victory!",
+        "short": "Battle your friends in this all-new adventure based on the world of How To Train Your Dragon™! With countless ways to customize, you’ll design the coolest dragons to ever live on the Island of Berk. Explore this epic world as Hiccup or Astrid in Story mode or experience fierce battle action in Arcade mode as you fight and fire your way to victory!"
+    },
+    "media": [
+        {
+            "media_id": "51E732F7",
+            "title": "DreamWorks How to Train Your Dragon",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560877/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560877/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560877/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560877/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560877/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560877/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560877/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560877/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560877/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560877/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

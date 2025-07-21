@@ -1,0 +1,40 @@
+{
+    "id": "584107F6",
+    "title": {
+        "full": "Texas Hold em",
+        "reduced": "Texas Holdem"
+    },
+    "genre": [
+        "Card & Board"
+    ],
+    "developer": "TikGames, LLC.",
+    "publisher": "Microsoft Studios",
+    "release_date": "2009-12-02",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Single Player, Xbox LIVE Multiplayer 2-8, HD (High Definition), Xbox LIVE Vision. Upgrade to the full game! Test your skills in Xbox LIVE tournaments and custom matches, or simply enjoy a friendly game with your pals. Measure your progress with our unique bankroll system, and track your stats by profile. Texas Hold'em features advanced AI, multiple configurable game modes, and Xbox LIVE Vision camera support. There are no refunds for this item. For more information, see www.xbox.com/LIVE/accounts.",
+        "short": "Experience the most realistic poker around. Whether you draw a perfect hand, deliver the ultimate stone-faced bluff, fold 'em, or hold 'em - it's your call!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

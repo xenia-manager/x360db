@@ -1,0 +1,35 @@
+{
+    "id": "58550B4B",
+    "title": {
+        "full": "37 Days to Die",
+        "reduced": "37 Days to Die"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "NamicGames_0",
+    "publisher": "NamicGames_0",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=1/3, Mature Content=1/3. In order to save her mother, sexy Kim Brooks must fight off hordes of bad-ass aliens in a televised event known as Annihilator. So put on your space boots and shoot aliens in the face!",
+        "short": "In order to save her mother, sexy Kim Brooks must fight off hordes of bad-ass aliens in a televised event known as Annihilator. So put on your space boots and shoot aliens in the face!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550b4b/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B4B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b4b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B4B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B4B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B4B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B4B_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

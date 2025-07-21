@@ -1,0 +1,39 @@
+{
+    "id": "45418958",
+    "title": {
+        "full": "NCAA Football 12 Demo",
+        "reduced": "NCAA Football 12 Demo"
+    },
+    "genre": [
+        "Independent & Music Videos",
+        "Music and Short Videos",
+        "Sports",
+        "Sports & Recreation",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "Electronic Arts - Tiburon",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2011-06-07",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Experience the pride and pageantry of gameday like never before with the NCAA Football 12 demo. With an enhanced in-game presentation, new traditions, and an all-new tackling system, make an impact by leading your team to victory. Play in two exciting match-ups as Alabama takes on Florida State and Oregon battles Texas. Get details on other great improvements to NCAA Football 12, and share the demo with a friend to unlock 5 Nike Pro Combat uniforms for use in the full retail version of the game.",
+        "short": "Experience the pride and pageantry of gameday like never before with the NCAA Football 12 demo. With an enhanced in-game presentation, new traditions, and an all-new tackling system, make an impact by leading your team to victory. Play in two exciting match-ups as Alabama takes on Florida State and Oregon battles Texas. Get details on other great improvements to NCAA Football 12, and share the demo with a friend to unlock 5 Nike Pro Combat uniforms for use in the full retail version of the game."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418958/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418958/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418958/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418958/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4541094E",
+                "title": "NCAA® Football 12"
+            }
+        ],
+        "related": []
+    }
+}

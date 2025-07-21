@@ -1,0 +1,35 @@
+{
+    "id": "5855052A",
+    "title": {
+        "full": "Avatars Skate - Old Spice",
+        "reduced": "Avatars Skate - Old Spice"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "GouldComputing",
+    "publisher": "GouldComputing",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Race your avatar around the icy tracks of Matterhorn and the warm beaches of Fiji. Attribute system gives seven areas to increase abilities, each affecting performance around the track. Increase your attributes by collecting Old Spice boosters, slow down the competition with multiple ammo types, and cross the finish line the Old Spice Champion!",
+        "short": "Race your avatar around the icy tracks of Matterhorn and the warm beaches of Fiji. Attribute system gives seven areas to increase abilities, each affecting performance around the track. Increase your attributes by collecting Old Spice boosters, slow down the competition with multiple ammo types, and cross the finish line the Old Spice Champion!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855052a00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855052A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855052a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855052A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855052A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855052A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855052A_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

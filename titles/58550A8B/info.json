@@ -1,0 +1,35 @@
+{
+    "id": "58550A8B",
+    "title": {
+        "full": "Super Zombie Smash",
+        "reduced": "Super Zombie Smash"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Daydalus",
+    "publisher": "Daydalus",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. Battle the zombie horde with up to 4 players.  Use 9 weapons on 5 unique stages to destroy thousands of zombies and accumulate the highest score!  Super Zombie Smash!",
+        "short": "Battle the zombie horde with up to 4 players.  Use 9 weapons on 5 unique stages to destroy thousands of zombies and accumulate the highest score!  Super Zombie Smash!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550a8b/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A8B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a8b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A8B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A8B_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A8B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A8B_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

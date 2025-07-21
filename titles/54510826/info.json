@@ -1,0 +1,51 @@
+{
+    "id": "54510826",
+    "title": {
+        "full": "SmackDown vs RAW 2009",
+        "reduced": "SmackDown vs RAW 2009"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Sports & Recreation"
+    ],
+    "developer": "\"YUKE�S Co. Ltd.\"",
+    "publisher": "2K Sports",
+    "release_date": "2010-07-23",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) This game supports English, French, Italian, German, and Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Have more fun playing with friends. Alone you're great, but together you're unstoppable! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Have more fun playing with friends. Alone you're great, but together you're unstoppable!"
+    },
+    "media": [
+        {
+            "media_id": "7AFA4596",
+            "title": "WWE SmackDown vs. Raw 2009",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510826/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510826/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510826/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510826/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510826/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510826/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510826/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510826/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510826/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510826/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510826/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510826/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510826/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510826/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510826/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

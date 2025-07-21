@@ -1,0 +1,35 @@
+{
+    "id": "585507EC",
+    "title": {
+        "full": "ETMD",
+        "reduced": "ETMD"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "thedeadstu",
+    "publisher": "thedeadstu",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. ETMD - ExtraTerrestrials Must Die is an old school style shoot em up where you must defeat the hordes of evil aliens intent on destroying you. As you progress through the 20 levels you can gain many unlockable weapons and powers to help fight off the alien menace.",
+        "short": "ETMD - ExtraTerrestrials Must Die is an old school style shoot em up where you must defeat the hordes of evil aliens intent on destroying you. As you progress through the 20 levels you can gain many unlockable weapons and powers to help fight off the alien menace."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585507ec00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585507EC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585507ec/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585507EC_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507EC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507EC_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507EC_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": "4B4E884B",
+    "title": {
+        "full": "Blades of Time DEMO Version",
+        "reduced": "Blades of Time DEMO Version"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Gaijin Entertainment",
+    "publisher": "Konami Digital Entertainment",
+    "release_date": "2012-03-06",
+    "user_rating": "3.00",
+    "description": {
+        "full": "Experience Time-Rewind gameplay, allowing the beautiful sword-wielding heroine Ayumi, to turn back time and produce a clone of herself to help solve puzzles, tackle hordes of enemies and more! With a host of intriguing characters, monstrous fiends, eye-popping visual appeal, tons of treasure and a huge variety of combat skills to master, Blades of Time will satisfy gamers’ hunger for an entertaining yet deep action game, that even gamers new to the hack-and-slash genre will enjoy.",
+        "short": "Experience Time-Rewind gameplay, allowing the beautiful sword-wielding heroine Ayumi, to turn back time and produce a clone of herself to help solve puzzles, tackle hordes of enemies and more! With a host of intriguing characters, monstrous fiends, eye-popping visual appeal, tons of treasure and a huge variety of combat skills to master, Blades of Time will satisfy gamers’ hunger for an entertaining yet deep action game, that even gamers new to the hack-and-slash genre will enjoy."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884b/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884b/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884b/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884b/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884b/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884b/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884b/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884b/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884b/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884b/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884b/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884b/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884b/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4B4E0838",
+                "title": "Blades of Time "
+            }
+        ],
+        "related": []
+    }
+}

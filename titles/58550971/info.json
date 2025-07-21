@@ -1,0 +1,33 @@
+{
+    "id": "58550971",
+    "title": {
+        "full": "A Pimp RPG",
+        "reduced": "A Pimp RPG"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "HobbiSoft",
+    "publisher": "HobbiSoft",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=1/3, Mature Content=2/3. Help the city of Oakland by being the cool guy on the street to remove the evil Mayor from office and get Oakland back to normal.  This is a fun and funny standard RPG.",
+        "short": "Help the city of Oakland by being the cool guy on the street to remove the evil Mayor from office and get Oakland back to normal.  This is a fun and funny standard RPG."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550971/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550971_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550971/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550971_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550971_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

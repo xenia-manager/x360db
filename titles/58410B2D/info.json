@@ -1,0 +1,52 @@
+{
+    "id": "58410B2D",
+    "title": {
+        "full": "DEAD RISING 2 CASE WEST",
+        "reduced": "DEAD RISING 2 CASE WEST"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Blue Castle Games Inc.",
+    "publisher": "CAPCOM CO,. LTD.",
+    "release_date": "2010-12-26",
+    "user_rating": null,
+    "description": {
+        "full": "Frank West and Chuck Greene fight side by side in this explosive addition to Dead Rising 2! Chuck Greene has lost the evidence that would have cleared his name. In his darkest hour Frank West appears and offers one last chance for Chuck to redeem himself. Together, the pair heads to a secret Zombrex research facility where they hope to uncover evidence that will exonerate Chuck, and shed some light on Phenotrans' sinister plot. Case West re-introduces the ability to take pictures in-game. Two players can also play together as Chuck and Frank in the full-featured co-op mode!",
+        "short": "Dive into the zombie-infested world of Dead Rising 2 with this fully-featured, stand-alone game!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b2d/1033/screenlg16.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "434307EC",
+                "title": "Dead Rising 2"
+            }
+        ],
+        "related": []
+    }
+}

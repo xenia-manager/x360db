@@ -1,0 +1,35 @@
+{
+    "id": "585504C7",
+    "title": {
+        "full": "Ace Gals Tennis",
+        "reduced": "Ace Gals Tennis"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Haruneko",
+    "publisher": "Haruneko",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=3/3, Mature Content=0/3. The new Ace Gals tennis championship is starting right now! There are 8 different players, each one with her own attitude and skills. Select your favorite one as your Avatar's trainer and win the others throughout 36 tournaments. Will you win the championship?",
+        "short": "The new Ace Gals tennis championship is starting right now! There are 8 different players, each one with her own attitude and skills. Select your favorite one as your Avatar's trainer and win the others throughout 36 tournaments. Will you win the championship?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585504c700000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585504C7_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585504c7/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585504C7_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504C7_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504C7_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504C7_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

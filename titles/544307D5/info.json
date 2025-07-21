@@ -1,0 +1,64 @@
+{
+    "id": "544307D5",
+    "title": {
+        "full": "NINJA GAIDEN II",
+        "reduced": "NINJA GAIDEN II"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Independent & Music Videos",
+        "Music and Short Videos",
+        "Xbox 360 Exclusives",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "Team NINJA",
+    "publisher": "Tecmo",
+    "release_date": "2009-07-29",
+    "user_rating": "4.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English, French, Italian, German, Spanish, Japanese, Korean, Chinese.  This long-awaited sequel to the best-selling Xbox action game pits legendary ninja Ryu Hayabusa against hordes of malicious enemies as he sets out on a journey that will determine the fate of the human race. With an assortment of new weapons, moves, enemies, and locations, Ninja Gaiden II redefines the action game genre, providing a visceral, thrilling experience that just can't be found anywhere else.",
+        "short": "This long-awaited sequel to the best-selling Xbox action game pits legendary ninja Ryu Hayabusa against hordes of malicious enemies as he sets out on a journey that will determine the fate of the human race. With an assortment of new weapons, moves, enemies, and locations, Ninja Gaiden II redefines the action game genre, providing a visceral, thrilling experience that just can't be found anywhere else."
+    },
+    "media": [
+        {
+            "media_id": "69F555CB",
+            "title": "Ninja Gaiden II",
+            "edition": "Original, Promo",
+            "region": "World"
+        },
+        {
+            "media_id": "0E6FB1CE",
+            "title": "Ninja Gaiden II",
+            "edition": "Original, Platinum Collection",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/7177/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/7177/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/7177/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/7177/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/7177/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/7177/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/7177/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/7177/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/7177/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/7177/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d5/7177/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

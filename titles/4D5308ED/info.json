@@ -1,0 +1,67 @@
+{
+    "id": "4D5308ED",
+    "title": {
+        "full": "Kinect Adventures",
+        "reduced": "Kinect Adventures"
+    },
+    "genre": [
+        "Kinect",
+        "Other"
+    ],
+    "developer": "Good Science Studio",
+    "publisher": "Microsoft Game Studios",
+    "release_date": "2010-11-04",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English, French, Italian, German, Spanish, Potuguese, Russian, Japanese, Korean, Chinese.  Kinect Adventures! is a full-featured Kinect game where you and your friends will explore the world – and beyond – through 20 active adventures to achieve the ultimate reward: Expert Adventurer status! Jump, duck and dodge your way through roaring rapids and challenging obstacle courses. Use your skills to save a leaky underwater laboratory. Get creative by showing off and sharing your accomplishments online with Photo Moments and Living Statues.  The spirit of adventure awaits!",
+        "short": "Explore the world – and beyond – through 20 active adventures in Kinect Adventures! Navigate roaring rapids, duck and dodge mountaintop obstacle courses and float in outer space. Get creative by showing off and sharing your accomplishments online with Photo Moments and Living Statues.  The spirit of adventure awaits!"
+    },
+    "media": [
+        {
+            "media_id": "6D571F26",
+            "title": "Kinect Adventures!",
+            "edition": "Bundled with Kinect",
+            "region": "World"
+        },
+        {
+            "media_id": "1353A8A0",
+            "title": "Kinect Adventures!",
+            "edition": "Bundled with Kinect, Bundled with Xbox 360",
+            "region": "Europe, Asia"
+        },
+        {
+            "media_id": "6C5090A4",
+            "title": "Kinect Adventures!",
+            "edition": "Bundled with Kinect",
+            "region": "Japan, Europe"
+        },
+        {
+            "media_id": "07D0D54E",
+            "title": "Kinect Adventures!",
+            "edition": "Bundled with Kinect",
+            "region": "USA"
+        },
+        {
+            "media_id": "35400105",
+            "title": "Kinect Adventures!",
+            "edition": "Bundled with Kinect",
+            "region": "Asia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ed/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ed/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ed/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ed/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ed/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ed/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ed/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ed/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

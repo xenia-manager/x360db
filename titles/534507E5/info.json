@@ -1,0 +1,50 @@
+{
+    "id": "534507E5",
+    "title": {
+        "full": "Golden AxeBeast Rider",
+        "reduced": "Golden AxeBeast Rider"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Secret Level",
+    "publisher": "Sega",
+    "release_date": "2008-01-01",
+    "user_rating": "3.50",
+    "description": {
+        "full": "One of SEGA's most popular franchises storms onto the Xbox 360® video game and entertainment system. As the unstoppable Tyris Flare, half-Gladiator/half-Barbarian , players will engage in vicious melee combat both on foot and atop massive mythical beasts while savaging enemies with blades and magic on a quest for vengeance. This highly-anticipated re-imagination is guaranteed to leave the fans reeling with incredible graphics and never-before seen character skills and abilities.",
+        "short": "One of SEGA's most popular franchises storms onto the Xbox 360® video game and entertainment system. As the unstoppable Tyris Flare, half-Gladiator/half-Barbarian , players will engage in vicious melee combat both on foot and atop massive mythical beasts while savaging enemies with blades and magic on a quest for vengeance. This highly-anticipated re-imagination is guaranteed to leave the fans reeling with incredible graphics and never-before seen character skills and abilities."
+    },
+    "media": [
+        {
+            "media_id": "2DC89BDF",
+            "title": "Golden Axe: Beast Rider",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e5/1033/tile.png",
+        "gallery": [
+            "http://mktplassets.xbox.com/NR/rdonlyres/FD8E4B9A-A763-49FC-A048-4A6EB602CD75/0/simgoldenAxeBeastrider00.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/A1F30131-BBDB-409E-85B5-FFBB9DE709B1/0/simgoldenAxeBeastrider01.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/B3BE8A73-EF84-4CE9-8193-AACA0BEC378F/0/simgoldenAxeBeastrider02.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/6AB7580B-ADD7-468B-B5DD-6DD2442BECC0/0/simgoldenAxeBeastrider03.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/8476BEB3-E9C0-4A07-9080-11C3201F6B94/0/simgoldenAxeBeastrider04.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/E1F3F612-7F22-4844-BAF5-53876872EED6/0/simgoldenAxeBeastrider05.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e5/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

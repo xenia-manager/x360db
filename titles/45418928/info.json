@@ -1,0 +1,37 @@
+{
+    "id": "45418928",
+    "title": {
+        "full": "MySims SkyHeroes Demo",
+        "reduced": "MySims SkyHeroes Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family",
+        "Racing & Flying"
+    ],
+    "developer": "Artificial Mind & Movement",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-09-22",
+    "user_rating": "3.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Take to the sky to lead the resistance against Morcubus and his drone army and to stop his plans to take over the skyways! MySims SkyHeroes is an all new adventure that brings the thrill and high-speed action of flying to the creative, immersive world of MySims.  Go from unknown pilot to celebrated hero as you defeat dangerous enemies in aerial dogfights, test your reflexes in fast-paced speed challenges, and take on massive enemy bosses that demand all your skill as a pilot to survive. As you progress, you build, customize and tune your aircraft to give you an edge in combat – upgrade your wings for swifter maneuvers, switch out your engine for a speed boost, or change the paint job to camouflage your plane and avoid enemy fire.",
+        "short": "(Online Interactions Not Rated by the ESRB) Take off as Pilots. Land as Heroes!  Take to the sky to lead the resistance against Morcubus and his drone army and to stop his plans to take over the skyways! MySims SkyHeroes is an all new adventure that brings the thrill and high-speed action of flying to the creative, immersive world of MySims."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418928/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418928/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418928/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418928/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454108E5",
+                "title": "MySims SkyHeroes™"
+            }
+        ],
+        "related": []
+    }
+}

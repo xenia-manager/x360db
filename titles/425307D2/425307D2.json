@@ -1,0 +1,38 @@
+{
+    "id": "425307D2",
+    "title": {
+        "full": "Star Trek Legacy",
+        "reduced": "Star Trek Legacy"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Strategy & Simulation"
+    ],
+    "developer": "Mad Doc Software",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2008-01-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Star Trek combat like you've never seen before. Five Captains. Three Eras. One Legacy.",
+        "short": "Star Trek combat like you've never seen before. Five Captains. Three Eras. One Legacy."
+    },
+    "media": [
+        {
+            "media_id": "2E05061C",
+            "title": "Star Trek: Legacy",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": null,
+        "banner": null,
+        "boxart": null,
+        "icon": null,
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

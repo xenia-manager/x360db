@@ -1,0 +1,35 @@
+{
+    "id": "585502D2",
+    "title": {
+        "full": "シャイニング　ブラッド shining blood",
+        "reduced": "シャイニング　ブラッド shining blood"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "TEA",
+    "publisher": "TEA",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. This is a 3D robot shooter game.  Fight till the end in a magnificent red lit and shining world.  The shields, throwing back the attacks, are key to victory.  Exhilarating high-speed combat. Defeat the boss to win the battle.",
+        "short": "This is a 3D robot shooter game.  Fight till the end in a magnificent red lit and shining world.  The shields, throwing back the attacks, are key to victory.  Exhilarating high-speed combat. Defeat the boss to win the battle."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585502d200000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585502D2_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585502d2/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585502D2_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585502D2_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585502D2_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585502D2_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550746",
+    "title": {
+        "full": "Xenocide",
+        "reduced": "Xenocide"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "MStar Games",
+    "publisher": "MStar Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. Blast your way through THE classic space shooter with a minty fresh smell of tomorrow!  Unique styling, global highscores, and a punch up the thorax for aliens across the universe!",
+        "short": "Blast your way through THE classic space shooter with a minty fresh smell of tomorrow!  Unique styling, global highscores, and a punch up the thorax for aliens across the universe!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855074600000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550746_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550746/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550746_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550746_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550746_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550746_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

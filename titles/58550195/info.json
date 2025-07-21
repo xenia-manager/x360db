@@ -1,0 +1,35 @@
+{
+    "id": "58550195",
+    "title": {
+        "full": "bricks4ever",
+        "reduced": "bricks4ever"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Running Pixel",
+    "publisher": "Running Pixel",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. A whole new light on the breakout style games and considered one of the best bricks breaking games on Xbox. Play with the amazing double stick mode, enjoy the coop modes and the 50 levels. Play for ever with the neverending mode and the relaxing Zen mode; hours of fun for all the blocks/bricks games fans! Ready for the challenge?",
+        "short": "A whole new light on the breakout style games and considered one of the best bricks breaking games on Xbox. Play with the amazing double stick mode, enjoy the coop modes and the 50 levels. Play for ever with the neverending mode and the relaxing Zen mode; hours of fun for all the blocks/bricks games fans! Ready for the challenge?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550195/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550195_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550195/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550195_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550195_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550195_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550195_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

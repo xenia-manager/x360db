@@ -1,0 +1,35 @@
+{
+    "id": "58550257",
+    "title": {
+        "full": "GamerbotsThird-Robot Shooting",
+        "reduced": "GamerbotsThird-Robot Shooting"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Hotwave Games",
+    "publisher": "Hotwave Games",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Gamerbots come with rich shooting and combat experience! Customize your Gamerbot with stylish heads, limbs, colors and your Gamer Picture. Defeat the robotic enemies with various upgradable guns and powerful swords. Play with friends on LIVE multiplayer deathmatch and cooperative missions.",
+        "short": "Gamerbots come with rich shooting and combat experience! Customize your Gamerbot with stylish heads, limbs, colors and your Gamer Picture. Defeat the robotic enemies with various upgradable guns and powerful swords. Play with friends on LIVE multiplayer deathmatch and cooperative missions."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855025700000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550257_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550257/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550257_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550257_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550257_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550257_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

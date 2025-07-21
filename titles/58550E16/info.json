@@ -1,0 +1,35 @@
+{
+    "id": "58550E16",
+    "title": {
+        "full": "Kollosus Roar",
+        "reduced": "Kollosus Roar"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Grizzly Studios",
+    "publisher": "Grizzly Studios",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=1/3, Mature Content=0/3. This game has 4 levels with different gameplay in each one, featuring in-your-face cut scenes WARNING! This game is extremely difficult. Do you have what it takes? You really have to ask yourself this question.  Rock out to an original soundtrack containing various styles of music such as chiptune, dubstep, trance, and trap. In space no one can hear you scream, but they can FEEL THE ROAR!!!!",
+        "short": "This game has 4 levels with different gameplay in each one, featuring in-your-face cut scenes WARNING! This game is extremely difficult. Do you have what it takes? You really have to ask yourself this question.  Rock out to an original soundtrack containing various styles of music such as chiptune, dubstep, trance, and trap. In space no one can hear you scream, but they can FEEL THE ROAR!!!!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550e16/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E16_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e16/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E16_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E16_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E16_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E16_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "45410969",
+    "title": {
+        "full": "Madden NFL 12",
+        "reduced": "Madden NFL 12"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "ELECTRONIC ARTS",
+    "publisher": "ELECTRONIC ARTS",
+    "release_date": "2011-07-15",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Madden NFL 12 continues the rich tradition of the storied franchise by bringing fans closer to the NFL than ever before. Featuring all 32 teams, stadiums, and all your favorite players in the league, Madden NFL 12 is True to the Game. Ride the highs and battle the lows with all-new Dynamic Player Performance. Experience all-new authentic team run-outs, real-life broadcast cameras, and more. Play with some of the best legends in the game as you build your Madden Ultimate Team.",
+        "short": "Madden NFL 12 continues the rich tradition of the storied franchise by bringing fans closer to the NFL than ever before. Featuring all 32 teams, stadiums, and all your favorite players in the league, Madden NFL 12 is True to the Game. Ride the highs and battle the lows with all-new Dynamic Player Performance. Experience all-new authentic team run-outs, real-life broadcast cameras, and more. Play with some of the best legends in the game as you build your Madden Ultimate Team."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410969/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410969/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410969/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410969/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "45410937",
+                "title": "Madden NFL 12"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": "445407D3",
+    "title": {
+        "full": "Divinity II",
+        "reduced": "Divinity II"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "Larian Studios",
+    "publisher": "dtp entertainment AG",
+    "release_date": "2009-10-02",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Divinity II - Ego Draconis   Many years have passed since the darkness of Damian’s armies was repelled and he was banished from the world of Rivellon. While men enjoy their first years of real peace, Damian breaks free from his bonds and returns to take vengeance. And with him come the dragons...  You are the only thing that stands in the way of evil. In this new installment of the award-winning Divinity series, you must face your destiny and become one of the world’s most mysterious and powerful beings: a Dragon Knight.  Fight as both human and dragon, use your powerful battle tower as your base of operations, create your own creatures to support you in battle, and delve deep into a story that unfolds depending on your choices. Your decisions will determine the fate of Rivellon.",
+        "short": "Divinity II - Ego Draconis   Many years have passed since the darkness of Damian’s armies was repelled and he was banished from the world of Rivellon. While men enjoy their first years of real peace, Damian breaks free from his bonds and returns to take vengeance. And with him come the dragons...  You are the only thing that stands in the way of evil. In this new installment of the award-winning Divinity series, you must face your destiny and become one of the world’s most mysterious and po…"
+    },
+    "media": [
+        {
+            "media_id": "",
+            "title": "Divinity II: Ego Draconis",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "6DA3119F",
+            "title": "Divinity II: Ego Draconis",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d3/15369/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d3/15369/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d3/15369/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d3/15369/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d3/15369/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445407d3/15369/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "585507FC",
+    "title": {
+        "full": "Abronium Tournament",
+        "reduced": "Abronium Tournament"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Mexond",
+    "publisher": "Mexond",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Join the Abronium cyber world for a hot thrilling tournament competition. Gather friends/family and build your own cool tournament using 35 different maps from 10 different game modes (EG: Race, CTF, Soccer, Chase & Fetch). With up to 16 players in a local game you’ll have the perfect party booster. Play one-to-one or gather up in teams to see who will score the most or get knocked out.",
+        "short": "Join the Abronium cyber world for a hot thrilling tournament competition. Gather friends/family and build your own cool tournament using 35 different maps from 10 different game modes (EG: Race, CTF, Soccer, Chase & Fetch). With up to 16 players in a local game you’ll have the perfect party booster. Play one-to-one or gather up in teams to see who will score the most or get knocked out."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585507fc/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585507FC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585507fc/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585507FC_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507FC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507FC_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507FC_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

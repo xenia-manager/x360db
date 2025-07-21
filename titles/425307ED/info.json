@@ -1,0 +1,36 @@
+{
+    "id": "425307ED",
+    "title": {
+        "full": "HuntedJ",
+        "reduced": "HuntedJ"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "inXile",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2011-08-25",
+    "user_rating": null,
+    "description": {
+        "full": "『Hunted: The Demon's Forge 』は、パートナーと協力しながら迫りくる凶悪な敵に立ち向かっていく、ダークな世界で繰り広げられるファンタジー・アクション。 　長距離攻撃を得意とするE'laraと、剣の達人Caddocを操作しながら様々な武器や魔法を使い、不穏なダンジョン、複雑に広がる廃墟、虐げられた街へと潜入していきます。 　邪悪な世界を探検し、パートナーと協力しながらダークな世界の謎を解き明かそう。 ",
+        "short": "『Hunted: The Demon's Forge 』は、パートナーと協力しながら迫りくる凶悪な敵に立ち向かっていく、ダークな世界で繰り広げられるファンタジー・アクション。 　長距離攻撃を得意とするE'laraと、剣の達人Caddocを操作しながら様々な武器や魔法を使い、不穏なダンジョン、複雑に広がる廃墟、虐げられた街へと潜入していきます。 　邪悪な世界を探検し、パートナーと協力しながらダークな世界の謎を解き明かそう。 "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ed/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ed/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ed/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ed/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ed/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ed/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ed/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ed/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ed/1041/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "585505CA",
+    "title": {
+        "full": "Chemical Chaos",
+        "reduced": "Chemical Chaos"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "FauxRoboStudios",
+    "publisher": "FauxRoboStudios",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. Dr. Ludacki tried to engineer a crop that replicates the flavor of bacon dubbed “Facon”, Scientists and bacon enthusiasts worldwide ridiculed him. Ludacki vowed revenge. He would create a steak sauce that when released into society would turn any who ate it into mutants. Help the mad scientist by carefully blending chemicals to create his evil concoction and destroy mankind.",
+        "short": "Dr. Ludacki tried to engineer a crop that replicates the flavor of bacon dubbed “Facon”, Scientists and bacon enthusiasts worldwide ridiculed him. Ludacki vowed revenge. He would create a steak sauce that when released into society would turn any who ate it into mutants. Help the mad scientist by carefully blending chemicals to create his evil concoction and destroy mankind."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585505ca/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505CA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505ca/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505CA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505CA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505CA_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505CA_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

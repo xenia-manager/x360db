@@ -1,0 +1,41 @@
+{
+    "id": "41560927",
+    "title": {
+        "full": "Destiny The Taken King - Legendary Edition",
+        "reduced": "Legendary Edition"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Bungie",
+    "publisher": "Activision",
+    "release_date": "2015-09-01",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Destiny: The Taken King Legendary Edition includes Destiny,  Expansions I and II, and The Taken King at one great price. It also includes a character boost to get you immediately battle ready.  Includes:  • Destiny: The Taken King  • Destiny  • Expansion I  • Expansion II  • Level 25 Character Boost • April Activities Update: New Challenges and Rewards   NOTE: This content must only be downloaded via this bundle app after purchase of the Legendary Edition bundle. Do not purchase any content individually from the Xbox Store or you will be charged again for the content and will not receive any refund. If you already own one of the items, you will not receive a refund or discount for that content by purchasing this bundle.  30 GB available hard drive storage space required as of 09.15.  Storage space subject to change.  After 09.15 visit www.destinythegame.com/size-requirements  for current requirements. Additional storage may be required for mandatory updates, setup and features. Users are responsible for broadband access and usage fees. Various elements and functionality of Xbox 360 Destiny Game require subscription to Xbox Live, sold separately. Please see www.destinythegame.com for further details. Activision may modify or discontinue online services without notice. Terms and conditions apply.  Using the software constitutes acceptance of the Destiny Software License Agreement available at http://support.activision.com/license and the Terms of Service and Privacy Policy available at www.bungie.net/eula.",
+        "short": "Destiny: The Taken King Legendary Edition includes Destiny,  Expansions I and II, and The Taken King at one great price. It also includes a character boost to get you immediately battle ready."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560927/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560927/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560927/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560927/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560927/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560927/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560927/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560927/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560927/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "415608F8",
+                "title": "Destiny"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": "415487DD",
+    "title": {
+        "full": "The Cursed Crusade Demo",
+        "reduced": "The Cursed Crusade Demo"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Kylotonn Games",
+    "publisher": "Atlus",
+    "release_date": "2011-10-11",
+    "user_rating": "3.50",
+    "description": {
+        "full": "It is a newly begun Fourth Crusade, and Denz and Esteban must quest across western Europe as soldiers seeking deliverance from a terrible curse that threatens to consume their immortal souls. Embark on a contentious quest for retribution in this 2-player co-operative adventure. Avail yourself of the powers of the Templar’s Curse at the high cost of your humanity.",
+        "short": "It is a newly begun Fourth Crusade, and Denz and Esteban must quest across western Europe as soldiers seeking deliverance from a terrible curse that threatens to consume their immortal souls."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415487dd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415487dd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415487dd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415487dd/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415487dd/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415487dd/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415487dd/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415487dd/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415487dd/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415487dd/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415487dd/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415487dd/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415487dd/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415487dd/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415487dd/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "415407D6",
+                "title": "The Cursed Crusade"
+            }
+        ],
+        "related": []
+    }
+}

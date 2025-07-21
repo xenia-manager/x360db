@@ -1,0 +1,35 @@
+{
+    "id": "58550EFB",
+    "title": {
+        "full": "Avatar Laser Attack",
+        "reduced": "Avatar Laser Attack"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Strange Games",
+    "publisher": "Strange Games",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Defend the space station with your trusty blaster or a host of automatic laser weapons.  Play online against your friends or offline against computer controlled opponents. Rank up to unlock weapons and perks in this all out laser attack!",
+        "short": "Defend the space station with your trusty blaster or a host of automatic laser weapons.  Play online against your friends or offline against computer controlled opponents. Rank up to unlock weapons and perks in this all out laser attack!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550efb00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550EFB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550efb/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550EFB_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EFB_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EFB_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EFB_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

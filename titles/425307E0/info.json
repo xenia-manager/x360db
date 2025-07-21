@@ -1,0 +1,98 @@
+{
+    "id": "425307E0",
+    "title": {
+        "full": "Fallout New Vegas",
+        "reduced": "Fallout New Vegas"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing",
+        "Shooter"
+    ],
+    "developer": "Obsidian Entertainment",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2010-10-19",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Experience all the sights and sounds of fabulous New Vegas, brought to you by Vault-Tec, America's First Choice in Post Nuclear Simulation. Explore the treacherous wastes of the Great Southwest from the safety and comfort of your very own vault: Meet new people, confront terrifying creatures, and arm yourself with the latest high-tech weaponry as you make a name for yourself on a thrilling new journey across the Mojave wasteland. A word of warning, however - while Vault-Tec engineers have prepared for every contingency,* in Vegas, fortunes can change in an instant. Enjoy your stay. * Should not be construed as a legally-binding claim.",
+        "short": "Experience all the sights and sounds of fabulous New Vegas, brought to you by Vault-Tec, America's First Choice in Post Nuclear Simulation. Explore the treacherous wastes of the Great Southwest from the safety and comfort of your very own vault: Meet new people, confront terrifying creatures, and arm yourself with the latest high-tech weaponry as you make a name for yourself on a thrilling new journey across the Mojave wasteland. A word of warning, however - while Vault-Tec engineers have prepa…"
+    },
+    "media": [
+        {
+            "media_id": "35BEE673",
+            "title": "Fallout: New Vegas",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "62B46A44",
+            "title": "Fallout: New Vegas",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "78FF7252",
+            "title": "Fallout: New Vegas",
+            "edition": "Ultimate Edition (Disque 1)",
+            "region": "France"
+        },
+        {
+            "media_id": "2453771D",
+            "title": "Fallout: New Vegas",
+            "edition": "Original, Ultimate Edition (Disc 1)",
+            "region": "Austria, Switzerland"
+        },
+        {
+            "media_id": "4AC955AA",
+            "title": "Fallout: New Vegas",
+            "edition": "Original",
+            "region": "Spain"
+        },
+        {
+            "media_id": "28D1E279",
+            "title": "Fallout: New Vegas",
+            "edition": "Original, Ultimate Edition (Disco 1)",
+            "region": "Italy"
+        },
+        {
+            "media_id": "6470401C",
+            "title": "Fallout: New Vegas",
+            "edition": "Original, Promo, Ultimate Edition (Disc 1), Ultimate Edition: Platinum Hits (Disc 1), Ultimate Edition: Reprint (Disc 1)",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e0/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/425307e0/b313972c-4c2e-4dca-8e68-b26290e7b142.PDF"
+        ]
+    }
+}

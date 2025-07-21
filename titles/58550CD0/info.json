@@ -1,0 +1,35 @@
+{
+    "id": "58550CD0",
+    "title": {
+        "full": "Legioner",
+        "reduced": "Legioner"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "bagrationa",
+    "publisher": "bagrationa",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=0/3. Cool shooter. Fight, collect money, upgrade weapons. Unleash hell on enemies… Enjoy.",
+        "short": "Cool shooter. Fight, collect money, upgrade weapons. Unleash hell on enemies… Enjoy."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550cd000000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CD0_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550cd0/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CD0_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CD0_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CD0_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CD0_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

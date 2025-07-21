@@ -1,0 +1,38 @@
+{
+    "id": "4256083A",
+    "title": {
+        "full": "STAR WARS Knights of the Old Republic II The Sith Lords",
+        "reduced": "STAR WARS KOTOR II"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics",
+        "Role Playing"
+    ],
+    "developer": "Obsidian Entertainment",
+    "publisher": "LucasArts",
+    "release_date": "2004-12-06",
+    "user_rating": null,
+    "description": {
+        "full": "This time your choices affect everyone around you  It is a time of darkness, five years after the events of the award-winning KOTOR.  The Sith Lords have hunted the Jedi Order to the edge of extinction and a lone Jedi Knight remains - you.  As you struggle to reconnect with the Force, your decisions will lead you to the light or dark side and will affect everyone around you.  The fate of the galaxy rests in your hands!",
+        "short": "The fate of the galaxy rests in your hands!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083a/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": "435907D1",
+    "title": {
+        "full": "Sniper Ghost Warrior",
+        "reduced": "Sniper Ghost Warrior"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "City Interactive S.A",
+    "publisher": "City Interactive S.A.",
+    "release_date": "2010-06-08",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish, Polish, Russian.  As a Ghost Warrior, an elite sniper in a highly trained special ops unit, your unique skills in the art of stalking, target detection, surveillance and shooting accuracy will determine mission success. The current government of a US backed small-island nation has been overthrown by a hostile military regime and your specialized sniping... ",
+        "short": "Sniper: Ghost Warrior"
+    },
+    "media": [
+        {
+            "media_id": "764843D4",
+            "title": "Sniper: Ghost Warrior",
+            "edition": "Original, Sniper: Ghost Warrior Double Pack",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "40097C64",
+            "title": "Sniper: Ghost Warrior",
+            "edition": "Original",
+            "region": "Germany"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d1/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

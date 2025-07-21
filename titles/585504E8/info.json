@@ -1,0 +1,35 @@
+{
+    "id": "585504E8",
+    "title": {
+        "full": "Text Zedventure",
+        "reduced": "Text Zedventure"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Zedventure Games",
+    "publisher": "Zedventure Games",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=2/3. In this text-only adventure, you must escape a city ravaged by a mysterious infection. Explore a deserted residence, train station and shopping centre in three unique chapters with multiple endings. Colourblind friendly. A percentage of all sales will be donated to animal conservation charity Save The Rhino.",
+        "short": "In this text-only adventure, you must escape a city ravaged by a mysterious infection. Explore a deserted residence, train station and shopping centre in three unique chapters with multiple endings. Colourblind friendly. A percentage of all sales will be donated to animal conservation charity Save The Rhino."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585504e800000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585504E8_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585504e8/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585504E8_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504E8_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504E8_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504E8_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": "4E4D0811",
+    "title": {
+        "full": "마그나카르타2",
+        "reduced": "마그나카르타2"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "SOFTMAX CO.,LTD.",
+    "publisher": "NAMCO BANDAI Games Inc.",
+    "release_date": "2009-12-08",
+    "user_rating": "4.50",
+    "description": {
+        "full": "마그나카르타2는 전작과 다른 세계관으로 새로운 스토리를 제공하며, 일신한 시스템으로, 필드와 전투의 구분이 없는 상쾌한 심리스 배틀, 다양하고 폭넓은 퀘스트, 아름다운 무비와 화려한 스킬을 제공하는 RPG입니다.",
+        "short": "마그나카르타2는 전작과 다른 세계관으로 새로운 스토리를 제공하며, 일신한 시스템으로, 필드와 전투의 구분이 없는 상쾌한 심리스 배틀, 다양하고 폭넓은 퀘스트, 아름다운 무비와 화려한 스킬을 제공하는 RPG입니다."
+    },
+    "media": [
+        {
+            "media_id": "4C23BE53",
+            "title": "Magnacarta II (Disc 1)",
+            "edition": "Original",
+            "region": "Korea"
+        },
+        {
+            "media_id": "4D4C6B53",
+            "title": "Magnacarta II (Disc 2)",
+            "edition": "Original",
+            "region": "Korea"
+        }
+    ],
+    "artwork": {
+        "background": null,
+        "banner": null,
+        "boxart": null,
+        "icon": null,
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4E4D080B",
+                "title": "Magnacarta2"
+            }
+        ],
+        "related": []
+    }
+}

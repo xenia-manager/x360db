@@ -1,0 +1,35 @@
+{
+    "id": "585509DC",
+    "title": {
+        "full": "CastleMiner Z",
+        "reduced": "CastleMiner Z"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "DigitalDNA Games",
+    "publisher": "DigitalDNA Games",
+    "release_date": null,
+    "user_rating": "4.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=2/3. CastleMiner Z is an online coop survival horror game in a block based environment. Travel as your Avatar with your friends in a huge, ever-changing world and craft modern weapons to defend yourself from dragons and the zombie horde! If you enjoy the survival aspects of games like Minecraft, then find out why CastleMiner Z is the best selling Xbox Indie Game of all time. Castle Miner Zombie Dragon",
+        "short": "CastleMiner Z is an online coop survival horror game in a block based environment. Travel as your Avatar with your friends in a huge, ever-changing world and craft modern weapons to defend yourself from dragons and the zombie horde! If you enjoy the survival aspects of games like Minecraft, then find out why CastleMiner Z is the best selling Xbox Indie Game of all time. Castle Miner Zombie Dragon"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585509dc00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585509DC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585509dc/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585509DC_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509DC_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509DC_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509DC_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

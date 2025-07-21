@@ -1,0 +1,43 @@
+{
+    "id": "5454082A",
+    "title": {
+        "full": "The Darkness",
+        "reduced": "The Darkness"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Starbreeze",
+    "publisher": "2K Games",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "The Darkness",
+        "short": "The Darkness"
+    },
+    "media": [
+        {
+            "media_id": "3EE419CA",
+            "title": "The Darkness",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082a/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "545407EE",
+                "title": "The Darkness"
+            }
+        ],
+        "related": []
+    }
+}

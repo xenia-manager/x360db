@@ -1,0 +1,47 @@
+{
+    "id": "494607D7",
+    "title": {
+        "full": "クロスエッジ ダッシュ",
+        "reduced": "クロスエッジ ダッシュ"
+    },
+    "genre": [
+        "Role Playing",
+        "Strategy & Simulation"
+    ],
+    "developer": "アイディアファクトリー株式会社",
+    "publisher": "アイディアファクトリー株式会社",
+    "release_date": "2009-08-07",
+    "user_rating": "4.25",
+    "description": {
+        "full": "このゲームの取扱説明書をダウンロードするには、http://marketplace.xbox.com でゲームを探し、[取扱説明書] を選択してください。  【重要】ゲームオンデマンドに関する重要事項が本文の最後に記載されています。必ずお読みください。 －－－－－ 5つのメーカーによる究極コラボレーションがXbox360で再登場！ 超人気キャラクターたちにより描かれる伝説をその目で確かめよ！ －－－－－ ■ このゲームの取扱説明書をダウンロードするには、http://marketplace.xbox.com/ でゲームを探し、[取扱説明書] を選択してください。■払い戻しはできません。詳しくは http://www.xbox.com/live/accounts/ をご覧ください。 ",
+        "short": "【重要】ゲームオンデマンドに関する重要事項が本文の最後に記載されています。必ずお読みください。 －－－－－ 5つのメーカーによる究極コラボレーションがXbox360で再登場！ 超人気キャラクターたちにより描かれる伝説をその目で確かめよ！ －－－－－ ■ このゲームの取扱説明書をダウンロードするには、http://marketplace.xbox.com/ でゲームを探し、[取扱説明書] を選択してください。■払い戻しはできません。詳しくは http://www.xbox.com/live/accounts/ をご覧ください。 "
+    },
+    "media": [
+        {
+            "media_id": "3567E1C3",
+            "title": "X Edge Dash",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d7/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d7/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d7/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d7/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

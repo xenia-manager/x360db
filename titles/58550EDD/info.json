@@ -1,0 +1,35 @@
+{
+    "id": "58550EDD",
+    "title": {
+        "full": "Press X to Not Die",
+        "reduced": "Press X to Not Die"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "All Seeing Eye Games",
+    "publisher": "All Seeing Eye Games",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=3/3. Experience a thrilling live-action interactive movie featuring over 30 minutes of HD footage!  You wake up to find your town in chaos.  Everyone has gone crazy and is just attacking each other!  A cryptic message is the secret to survival-- Press X to not die!  Uncover the secrets behind the madness!  Fight a clown!  Make out with your girlfriend!  But most importantly, press buttons!",
+        "short": "Experience a thrilling live-action interactive movie featuring over 30 minutes of HD footage!  You wake up to find your town in chaos.  Everyone has gone crazy and is just attacking each other!  A cryptic message is the secret to survival-- Press X to not die!  Uncover the secrets behind the madness!  Fight a clown!  Make out with your girlfriend!  But most importantly, press buttons!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550edd/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550EDD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550edd/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550EDD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EDD_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EDD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EDD_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

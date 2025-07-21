@@ -1,0 +1,32 @@
+{
+    "id": "585506EA",
+    "title": {
+        "full": "Death",
+        "reduced": "Death"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Zebra Games_0",
+    "publisher": "Zebra Games_0",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=2/3. Can you cling on to your life? (online highscores)",
+        "short": "Can you cling on to your life? (online highscores)"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585506ea/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506EA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506ea/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506EA_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": "54540842",
+    "title": {
+        "full": "MLB 2K9",
+        "reduced": "MLB 2K9"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Visual Concepts Entertainment",
+    "publisher": "2K Sports",
+    "release_date": "2009-06-25",
+    "user_rating": "4.00",
+    "description": {
+        "full": "NOTE: ONLINE MULTIPLAYER SUPPORT FOR THIS TITLE WAS TERMINATED ON 12/31/2009.  ONLINE/MULTIPLAYER FEATURES ARE NOT ACTIVE OR INCLUDED.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Major League Baseball(R) 2K9 captures the essence of baseball down to some of the most minute, player-specific details including batting stances, pitching windups and signature swings. 2K Sports has gone above and beyond the call of duty to deliver this in true major league fashion. Additionally, gameplay enhancements in pitching, batting, fielding and baserunning promise this year’s installment to be user-friendly and enjoyable for rookies or veterans. New commentary and presentation provide the icing to this ultimate baseball experience. If you really want to Play Ball, this is the game for you.",
+        "short": "NOTE: ONLINE MULTIPLAYER SUPPORT FOR THIS TITLE WAS TERMINATED ON 12/31/2009.  ONLINE/MULTIPLAYER FEATURES ARE NOT ACTIVE OR INCLUDED.  Major League Baseball(R) 2K9 captures the essence of baseball down to some of the most minute, player-specific details including batting stances, pitching windups and signature swings. 2K Sports has gone above and beyond the call of duty to deliver this in true major league fashion. "
+    },
+    "media": [
+        {
+            "media_id": "52D01B1E",
+            "title": "Major League Baseball 2K9",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540842/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540842/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540842/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540842/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540842/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540842/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540842/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540842/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540842/7177/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540842/7177/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540842/7177/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540842/7177/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/54540842/c2c07d45-12db-4bea-9a27-b36f5807b651.PDF"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": "58410B72",
+    "title": {
+        "full": "Sega Vintage Collection Monster World",
+        "reduced": "Sega Vintage Collection Monster World"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics",
+        "Platformer"
+    ],
+    "developer": "M2",
+    "publisher": "SEGA",
+    "release_date": "2012-05-23",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Bring peace back to Monster World in these three classic action RPG titles: Wonder Boy in Monster Land, Wonder Boy in Monster World, and for the first time outside of Japan, Monster World IV!  Now available for download on Xbox LIVE, the Monster World saga features all new achievements, challenging new trial modes,  Xbox LIVE Leaderboards, and recordable and downloadable game sessions!",
+        "short": "Bring peace back to Monster World in these three classic action RPG titles: Wonder Boy in Monster Land, Wonder Boy in Monster World, and for the first time outside of Japan, Monster World IV!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b72/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b72/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b72/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b72/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b72/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b72/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b72/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b72/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b72/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b72/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b72/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b72/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b72/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b72/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b72/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b72/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b72/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b72/1033/screenlg14.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

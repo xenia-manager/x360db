@@ -1,0 +1,47 @@
+{
+    "id": "4541097C",
+    "title": {
+        "full": "Family Game Night 4 The Game Show",
+        "reduced": "Family Game Night 4 The Game Show"
+    },
+    "genre": [
+        "Family",
+        "Kinect"
+    ],
+    "developer": "Wahoo Studios, Inc.",
+    "publisher": "Electronic Arts, Inc.",
+    "release_date": "2011-10-25",
+    "user_rating": "0.00",
+    "description": {
+        "full": "Now you’re part of the action! In FAMILY GAME NIGHT 4: THE GAME SHOW, you can experience the fun and excitement of the popular TV show right in your own living room! This time you’re playing with larger-than-life pieces in re-imagined versions of your favorite Hasbro games. CONNECT 4 Basketball is more fun than ever as you shoot hoops to get 4 balls in a row and YAHTZEE! Bowling puts a whole new spin on the popular dice game. You’ll also find fun new versions of BOGGLE Flash, SORRY! Sliders, and BOP IT Boptagon, and win MONOPOLY Crazy Cash, just like the game show! Play with friends and family and compete to prove your family is the best!",
+        "short": "In FAMILY GAME NIGHT 4: THE GAME SHOW you can experience the fun and excitement of the popular TV show right in your own living room! Play larger-than-life versions of CONNECT 4 Basketball, BOP-IT Boptagon, BOGGLE Flash, YAHTZEE! Bowling, and SORRY! Sliders, and win MONOPOLY Crazy Cash, just like the game show! "
+    },
+    "media": [
+        {
+            "media_id": "672E1213",
+            "title": "Hasbro Family Game Night 4: The Game Show",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541097c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541097c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541097c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541097c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541097c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541097c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541097c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541097c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541097c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541097c/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541097c/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541097c/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "465387E6",
+    "title": {
+        "full": "ARMORED CORE VD NTVer",
+        "reduced": "ARMORED CORE VD NTVer"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "株式会社フロム・ソフトウェア",
+    "publisher": "株式会社フロム・ソフトウェア",
+    "release_date": "2013-07-29",
+    "user_rating": null,
+    "description": {
+        "full": "アーマード・コア　ヴァーディクトデイ　ネットワークテストバージョンです。  ネットワークテストとは、正式なサービス開始に先立ち、テスターとして当選された方にゲームをプレイしていただく検証テストです。 大規模なネットワーク負荷テストを実施することで、オンラインシステムの様々な技術検証を行います。  製品の品質向上のためのテストで、ネットワークテストのプレイは無料になります。  皆様のご協力をお待ちしております。   【主な検証内容】  ・サーバー負荷の検証  ・多人数プレイの検証  ・ゲームバランスの最適化 ・ゲームデータ連携サービスの検証",
+        "short": "アーマード・コア　ヴァーディクトデイ　ネットワークテストバージョンです。  ネットワークテストとは、正式なサービス開始に先立ち、テスターとして当選された方にゲームをプレイしていただく検証テストです。 大規模なネットワーク負荷テストを実施することで、オンラインシステムの様々な技術検証を行います。"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e6/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4E4D0864",
+                "title": "ARMORED CORE VERDICT DAY"
+            }
+        ],
+        "related": []
+    }
+}

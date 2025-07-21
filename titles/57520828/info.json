@@ -1,0 +1,65 @@
+{
+    "id": "57520828",
+    "title": {
+        "full": "Batman Arkham Origins",
+        "reduced": "Batman Arkham Origins"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "WB Games Montréal",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "release_date": "2013-10-25",
+    "user_rating": "4.75",
+    "description": {
+        "full": "As of December 4, 2016, the online services portion of Batman: Arkham Origins will be retired. We thank those that have joined us to battle over the last 3 years. The Single player campaign may still be played and enjoyed offline. For any questions relating to Batman: Arkham Origins, please contact WB Games customer service http://support.wbgames.com/.  Batman™: Arkham Origins features an expanded Gotham City and introduces an original prequel storyline set several years before the events of Batman™: Arkham Asylum and Batman™: Arkham City, the first two critically acclaimed games of the franchise.  Taking place before the rise of Gotham City’s most dangerous criminals, the game showcases a young, unrefined Batman as he faces the defining moment of his early career and sets his path to becoming the Dark Knight. ",
+        "short": "Batman™: Arkham Origins showcases a young, unrefined Batman as he faces the defining moment of his early career and sets his path to becoming the Dark Knight.  "
+    },
+    "media": [
+        {
+            "media_id": "1E1F12E7",
+            "title": "Batman: Arkham Origins (Disc 1)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "7F06EB44",
+            "title": "Batman: Arkham Origins (Disc 2)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "37F6291D",
+            "title": "Batman: Arkham Origins (Disco 1)",
+            "edition": "Original",
+            "region": "Brazil"
+        },
+        {
+            "media_id": "4A372682",
+            "title": "Batman: Arkham Origins (Disco 2)",
+            "edition": "Original",
+            "region": "Brazil"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520828/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520828/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520828/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520828/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520828/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520828/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520828/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520828/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520828/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520828/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520828/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520828/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520828/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

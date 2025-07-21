@@ -1,0 +1,46 @@
+{
+    "id": "464707D1",
+    "title": {
+        "full": "AQUAZONE",
+        "reduced": "AQUAZONE"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "FRONTIERGROOVE",
+    "publisher": "FRONTIERGROOVE",
+    "release_date": "2008-01-01",
+    "user_rating": "0.00",
+    "description": {
+        "full": "本格的な熱帯魚の飼育が出来る 3D熱帯魚飼育シミュレーター 滑らかな泳ぎのアニメーション 他の魚とのテリトリー争い 病気で色が落ちたり動きが鈍る 様子等　じつに表現豊かな 魚たちの生活を鑑賞できます 愛情を持って世話をすれば いずれつがいを作り 新しい生命の誕生を 観察する事ができます。",
+        "short": "本格的な熱帯魚の飼育が出来る 3D熱帯魚飼育シミュレーター 滑らかな泳ぎのアニメーション 他の魚とのテリトリー争い 病気で色が落ちたり動きが鈍る 様子等　じつに表現豊かな 魚たちの生活を鑑賞できます 愛情を持って世話をすれば いずれつがいを作り 新しい生命の誕生を 観察する事ができます。"
+    },
+    "media": [
+        {
+            "media_id": "18AE8C26",
+            "title": "Aquazone: Life Simulator",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464707d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464707d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464707d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464707d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464707d1/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464707d1/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464707d1/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464707d1/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464707d1/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464707d1/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464707d1/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464707d1/1041/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

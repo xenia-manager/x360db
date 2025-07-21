@@ -1,0 +1,35 @@
+{
+    "id": "585505FE",
+    "title": {
+        "full": "Zombie Arena",
+        "reduced": "Zombie Arena"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Golconda",
+    "publisher": "Golconda",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=1/3. Zombies, Arrows, Special Powers and Shields! Featuring Campaign and Survival modes of challenging and nonstop zombie killing action.",
+        "short": "Zombies, Arrows, Special Powers and Shields! Featuring Campaign and Survival modes of challenging and nonstop zombie killing action."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585505fe/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505FE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505fe/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505FE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505FE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505FE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505FE_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

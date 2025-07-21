@@ -1,0 +1,30 @@
+{
+    "id": "4D530AA2",
+    "title": {
+        "full": "Fable Trilogy",
+        "reduced": "Fable Trilogy"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Lionhead Studios",
+    "publisher": "Microsoft Studios",
+    "release_date": "2014-02-04",
+    "user_rating": "4.50",
+    "description": {
+        "full": "This bundle includes three full Xbox 360 games: Fable Anniversary, Fable II and Fable III.  NOTE: These games must only be downloaded via this bundle app after purchase of the Fable Trilogy bundle.  Do not purchase any game individually from the Xbox Store or you will be charged again for that game and will not receive any refund.  If you already own one of the games, you will not receive a refund or discount for that game by purchasing this bundle.  Downloading this app and all three games requires 16.9 GB hard drive space.  These games support English.",
+        "short": "This bundle includes three full Xbox 360 games: Fable Anniversary, Fable II and Fable III."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa2/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

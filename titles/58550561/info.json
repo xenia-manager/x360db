@@ -1,0 +1,34 @@
+{
+    "id": "58550561",
+    "title": {
+        "full": "Muvizzle",
+        "reduced": "Muvizzle"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "no3y3h4nd",
+    "publisher": "no3y3h4nd",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=1/3. Simple to pick up but difficult to master, Muvizzle uses one of the simplest of concepts in number puzzling, but one that offers endless possibilities for strategy and replay. Tired of in game muzak? Muvizzle bundles an interface to YOUR music collections and a background visualisation to gee you along. Put on the music that YOU want to listen to, relax and perfect your scores in Muvizzle.",
+        "short": "Simple to pick up but difficult to master, Muvizzle uses one of the simplest of concepts in number puzzling, but one that offers endless possibilities for strategy and replay. Tired of in game muzak? Muvizzle bundles an interface to YOUR music collections and a background visualisation to gee you along. Put on the music that YOU want to listen to, relax and perfect your scores in Muvizzle."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855056100000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550561_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550561/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550561_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550561_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550561_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

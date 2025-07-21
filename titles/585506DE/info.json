@@ -1,0 +1,35 @@
+{
+    "id": "585506DE",
+    "title": {
+        "full": "radiangames Fireball",
+        "reduced": "radiangames Fireball"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "radiangames",
+    "publisher": "radiangames",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. **Dodge, Trigger, Destroy!**   Be the Fireball as you set off huge explosion combos across 8 waves and 5 unique challenges. Compare your scores to the best in the world using the online scoreboards.  Update 1.1 includes a new challenge, new music track, and other improvements.  Fireball is the fifth game in the radiangames series.",
+        "short": "**Dodge, Trigger, Destroy!**   Be the Fireball as you set off huge explosion combos across 8 waves and 5 unique challenges. Compare your scores to the best in the world using the online scoreboards.  Update 1.1 includes a new challenge, new music track, and other improvements.  Fireball is the fifth game in the radiangames series."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585506de/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506DE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506de/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506DE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506DE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506DE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506DE_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

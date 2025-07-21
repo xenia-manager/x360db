@@ -1,0 +1,57 @@
+{
+    "id": "43430819",
+    "title": {
+        "full": "RESIDENT EVIL 6",
+        "reduced": "RESIDENT EVIL 6"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "CAPCOM CO., LTD.",
+    "publisher": "CAPCOM CO., LTD.",
+    "release_date": "2012-10-02",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Portuguese, Russian, Japanese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  The bioterrorism nightmare is more chilling than ever, as outbreaks in America, eastern Europe, and China threaten to plunge the world into chaos. Multiple heroes will rise to meet the threat of this new viral outbreak. As their fates intertwine, the story races forward to its conclusion. Experience the very best of dramatic horror with Resident Evil 6!",
+        "short": "The bioterrorism nightmare continues. As the world teeters on the brink of destruction, what fate will await our heroes?"
+    },
+    "media": [
+        {
+            "media_id": "4EA1CC2E",
+            "title": "Resident Evil 6 ~ Biohazard 6 (Disc 1) (Game)",
+            "edition": "Original, Steelbook, Walmart, Resident Evil 6 Archives",
+            "region": "World"
+        },
+        {
+            "media_id": "5A8E12D6",
+            "title": "Resident Evil 6 (Disc 1) (Game Disc)",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "40BF802C",
+            "title": "Resident Evil 6 (Disc 2) (Voice Over Pack)",
+            "edition": "Original, Steelbook, Walmart, Resident Evil 6 Archives",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/43430819/RE6_360_DMNL_EN.pdf"
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "id": "4D5389BA",
+    "title": {
+        "full": "Kinect Sports",
+        "reduced": "Kinect Sports"
+    },
+    "genre": [
+        "Family",
+        "Kinect",
+        "Sports & Recreation"
+    ],
+    "developer": "Rare",
+    "publisher": "Microsoft Games Studios",
+    "release_date": "2010-11-04",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Kinect Sports sends you, your friends and family into the stadium to bring out your potential as sporting legends. Experience all the thrills of six major events: Soccer, Bowling, Track & Field, Boxing, Beach Volleyball and Table Tennis.  No controller required - your body is all you need. From delivering a supreme serve to vaulting the final hurdle, the Kinect sensor tracks all your movements. Play solo to boost your personal best, tackle computer-controlled opponents, send challenges across the globe via Xbox LIVE or gather around the TV for lively living room competition. There's even a mascot-packed Party Play option for those times when everyone wants in on the action!",
+        "short": "Kinect Sports sends you, your friends and family into the stadium to bring out your potential as sporting legends. Experience all the thrills of six major events: Soccer, Bowling, Track & Field, Boxing, Beach Volleyball and Table Tennis."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ba/1033/screenlg18.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D5308C9",
+                "title": "Kinect Sports"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "58411266",
+    "title": {
+        "full": "Home Run Stars",
+        "reduced": "Home Run Stars"
+    },
+    "genre": [
+        "Kinect",
+        "Sports & Recreation"
+    ],
+    "developer": "Smoking Gun Interactive Inc.",
+    "publisher": "Microsoft Studios",
+    "release_date": "2799-12-30",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Step up to the plate and swing for the fence in Home Run Stars, featuring Avatar Fame Star! Progress through the League mode through all three unique stadiums! Each one features a vast number of spectacular targets to aim for and earn big points. Compete with your friends in multiplayer for the highest score. Use your device supported by SmartGlass to compete in a Duel with a friend!",
+        "short": "Step up to the plate and swing for the fence in Home Run Stars, featuring Avatar Fame Star! Progress through the League mode through all three unique stadiums! Each one features a vast number of spectacular targets to aim for and earn big points. Compete with your friends in multiplayer for the highest score. Use your device supported by SmartGlass to compete in a Duel with a friend!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411266/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411266/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411266/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411266/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411266/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411266/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411266/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411266/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411266/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411266/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411266/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "585506BF",
+    "title": {
+        "full": "Way of the Exploding Balls",
+        "reduced": "Way of the Exploding Balls"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Gogs",
+    "publisher": "Gogs",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Shoot you way along the way of the exploding balls. Don't let any hit you else it's game over. Move left/right in/out with one thumb-stick and push forward with the other to shoot at the oncoming spheres. Compete against a buddy to see who can rack up the most points.",
+        "short": "Shoot you way along the way of the exploding balls. Don't let any hit you else it's game over. Move left/right in/out with one thumb-stick and push forward with the other to shoot at the oncoming spheres. Compete against a buddy to see who can rack up the most points."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585506bf00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506BF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506bf/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506BF_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506BF_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506BF_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506BF_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

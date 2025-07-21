@@ -1,0 +1,49 @@
+{
+    "id": "5553084E",
+    "title": {
+        "full": "Fighters Uncaged",
+        "reduced": "Fighters Uncaged"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Kinect"
+    ],
+    "developer": "AMA Studios",
+    "publisher": "Ubisoft",
+    "release_date": "2010-11-04",
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game requires a Kinect™ Sensor. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Turn Your Body Into The Ultimate Fighting Weapon! Charge head first into the vicious world of illegal free fighting tournaments, where you will use every muscle in your body to battle your way to the top.  Forced into a secret tournament,  Simon must use what he learnt from his father, an ex-boxing champ as he faces off against violent combatants who will brutally unleash a range of mixed martial arts attacks to take him down.  No guns.  No blades.  Your body is the deadly weapon!",
+        "short": "Turn Your Body Into The Ultimate Fighting Weapon! Charge head first into the vicious world of illegal free fighting tournaments, where you will use every muscle in your body to battle your way to the top.  Forced into a secret tournament,  Simon must use what he learnt from his father, an ex-boxing champ as he faces off against violent combatants who will brutally unleash a range of mixed martial arts attacks to take him down.  No guns.  No blades.  Your body is the deadly weapon!"
+    },
+    "media": [
+        {
+            "media_id": "412A95E4",
+            "title": "Fighters Uncaged",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084e/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084e/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084e/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084e/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

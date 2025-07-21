@@ -1,0 +1,35 @@
+{
+    "id": "58550AD7",
+    "title": {
+        "full": "Wanderer",
+        "reduced": "Wanderer"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Room 109",
+    "publisher": "Room 109",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Wander the depths of space in this gravity-based platformer.  Travel from planet to planet collecting stars to clear your path, and dodging dangerous enemies and asteroids.  Go at your own pace, but it'll take both puzzle-solving skills and quick reflexes to progress from level to level.",
+        "short": "Wander the depths of space in this gravity-based platformer.  Travel from planet to planet collecting stars to clear your path, and dodging dangerous enemies and asteroids.  Go at your own pace, but it'll take both puzzle-solving skills and quick reflexes to progress from level to level."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550ad700000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550AD7_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550ad7/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550AD7_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AD7_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AD7_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AD7_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

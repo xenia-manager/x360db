@@ -1,0 +1,35 @@
+{
+    "id": "584107DB",
+    "title": {
+        "full": "Outpost Kaloki",
+        "reduced": "Outpost Kaloki X"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "NinjaBee",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-01-04",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Single Player, HD (High Definition) Everyone loves galactic lemonade… which means big space bucks for you! But how are you going to supply power to your lemonade stand? Better build a solar windmill… But how will you pay for the windmill with no space dollars??? Outpost Kaloki X is the light-hearted space-station tycoon game filled with clever characters and wacky storylines, where it’s your job to keep the visiting aliens happy and rake in the cash! Play the Adventure Story, the War Story or any one of 11 different Scenarios. Chat with your patrons to find out what they really want… and to get hot tips on cool expansions. Complete lower-level expansions to unlock more advanced ones. Can you juggle the needs of your station, the desires of your clients and your own hopes for cash and glory? There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Solve challenges, entertain visiting aliens, and rake in the money in this light-hearted space station tycoon game!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

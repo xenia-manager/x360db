@@ -1,0 +1,35 @@
+{
+    "id": "585508ED",
+    "title": {
+        "full": "Plague",
+        "reduced": "Plague"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Contagious Games",
+    "publisher": "Contagious Games",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=2/3, Mature Content=2/3. A devastating computer virus has brought the world to its knees. As the world's only functioning anti-virus, it's up to you to save the world, one computer at a time.",
+        "short": "A devastating computer virus has brought the world to its knees. As the world's only functioning anti-virus, it's up to you to save the world, one computer at a time."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585508ed00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508ED_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508ed/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508ED_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508ED_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508ED_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508ED_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

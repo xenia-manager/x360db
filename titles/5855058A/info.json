@@ -1,0 +1,35 @@
+{
+    "id": "5855058A",
+    "title": {
+        "full": "Vampire Rage",
+        "reduced": "Vampire Rage"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "tricktale",
+    "publisher": "tricktale",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=1/3. Cursed for an eternity with the loss of a loved one. Revenge is a dish best served cold! Vampire Rage is a fast paced shooter, themed around vampires and the undead.  Can you handle the RAGE?!",
+        "short": "Cursed for an eternity with the loss of a loved one. Revenge is a dish best served cold! Vampire Rage is a fast paced shooter, themed around vampires and the undead.  Can you handle the RAGE?!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855058a00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855058A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855058a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855058A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855058A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855058A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855058A_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

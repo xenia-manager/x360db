@@ -1,0 +1,35 @@
+{
+    "id": "58550E1B",
+    "title": {
+        "full": "Decay The Mare - Episode 2",
+        "reduced": "Decay The Mare - Episode 2"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Shining Gate Software",
+    "publisher": "Shining Gate Software",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=3/3. A new psychological horror adventure game from the creators of the successful Decay series. Sam has ended up in an institution named \"Reaching Dreams\" to get rid of his drug addiction and his miserable life. But during the first night, something happens and he gets stuck in a nightmare that never seems to end ...",
+        "short": "A new psychological horror adventure game from the creators of the successful Decay series. Sam has ended up in an institution named \"Reaching Dreams\" to get rid of his drug addiction and his miserable life. But during the first night, something happens and he gets stuck in a nightmare that never seems to end ..."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550e1b/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E1B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e1b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E1B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E1B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E1B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E1B_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

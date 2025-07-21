@@ -1,0 +1,47 @@
+{
+    "id": "555307DB",
+    "title": {
+        "full": "Blazing Angels",
+        "reduced": "Blazing Angels"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Strategy & Simulation"
+    ],
+    "developer": "Ubisoft Romania",
+    "publisher": "UbiSoft",
+    "release_date": "2006-03-23",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Experience the most gripping and famous battles of WWII through the eyes of a squadron commander and ace fighter pilot. From the Battle of Britain to the invasion of the Philippines, to the battle of Berlin, your pilot skills will create WWII history. Dominate the skies of Western Europe, North Africa, and the Pacific and bring your squadron of back alive.  ",
+        "short": "Experience the most gripping and famous battles of WWII through the eyes of a squadron commander and ace fighter pilot. From the Battle of Britain to the invasion of the Philippines, to the battle of Berlin, your pilot skills will create WWII history. Dominate the skies of Western Europe, North Africa, and the Pacific and bring your squadron of back alive.  "
+    },
+    "media": [
+        {
+            "media_id": "4AAE0934",
+            "title": "Blazing Angels: Squadrons of WWII",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307db/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307db/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307db/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307db/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307db/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307db/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307db/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307db/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307db/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/555307db/1ff62691-6816-4ccc-a3aa-cb0d6d0ab37b.PDF"
+        ]
+    }
+}

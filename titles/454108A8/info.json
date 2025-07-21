@@ -1,0 +1,77 @@
+{
+    "id": "454108A8",
+    "title": {
+        "full": "Battlefield Bad Company 2",
+        "reduced": "Battlefield Bad Company 2"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Digital Illusions CE AB",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-03-02",
+    "user_rating": "4.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) VIP Access is not included with Games on Demand purchase. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Battlefield: Bad Company™ 2 brings the award-winning Battlefield gameplay to the forefront of Xbox 360 console with best-in-class vehicular combat and unexpected \"Battlefield moments.\" New vehicles like the ATV and a transport helicopter allow for all-new multiplayer tactics on the Battlefield. With the Frostbite-enabled Destruction 2.0 system, you can take down entire buildings and create your own fire points by blasting holes through cover. You can also compete in four-player teams in two squad-only game modes, fighting together to unlock exclusive awards and achievements. Battles are set across expansive maps, each with a different tactical focus. The game also sees the return of the B Company squad in a more mature single-player campaign.",
+        "short": "Battlefield: Bad Company™ 2 brings the award-winning Battlefield gameplay to the forefront of Xbox 360 console with best-in-class vehicular combat and unexpected \"Battlefield moments.\" New vehicles like the ATV and a transport helicopter allow for all-new multiplayer tactics on the Battlefield. With the Frostbite-enabled Destruction 2.0 system, you can take down entire buildings and create your own fire points by blasting holes through cover. You can also compete in four-player teams in two squ…"
+    },
+    "media": [
+        {
+            "media_id": "3EDAE1BF",
+            "title": "Battlefield: Bad Company 2",
+            "edition": "Original, Promo",
+            "region": "Europe"
+        },
+        {
+            "media_id": "1016DA55",
+            "title": "Battlefield: Bad Company 2",
+            "edition": "Limited Edition",
+            "region": "USA"
+        },
+        {
+            "media_id": "30C4C914",
+            "title": "Battlefield: Bad Company 2",
+            "edition": "Limited Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "0441C646",
+            "title": "Battlefield: Bad Company 2",
+            "edition": "Original, Platinum Collection, Ultimate Edition",
+            "region": "Japan"
+        },
+        {
+            "media_id": "19C39442",
+            "title": "Battlefield: Bad Company 2",
+            "edition": "Original",
+            "region": "USA, Korea"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108a8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108a8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108a8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108a8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108a8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108a8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108a8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108a8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108a8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108a8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108a8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108a8/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108a8/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108a8/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108a8/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108a8/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/454108A8/17535950-7aa8-4f28-ab7a-e3ae0e654838.PDF"
+        ]
+    }
+}

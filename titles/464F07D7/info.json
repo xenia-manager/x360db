@@ -1,0 +1,39 @@
+{
+    "id": "464F07D7",
+    "title": {
+        "full": "MorphX",
+        "reduced": "MorphX"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Targem Games",
+    "publisher": "505 Games",
+    "release_date": "2010-04-19",
+    "user_rating": "3.25",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish, Russian.  The swarm attacked all at once, killing millions in mere seconds. The retaliation was swift but futile. The invaders have survived...the Earth now a wasteland...  You are part of the insignificant resistance, weak and powerless. But you are different... With the ability to manipulate your own DNA, and assimilate alien powers into your own being, face the ultimate choice… Do you retain your humanity and fight alongside your comrades, or do you embrace the alien powers but at the cost of gradually turning into a monster?",
+        "short": "The swarm attacked all at once, killing millions in mere seconds. The retaliation was swift but futile. The invaders have survived...the Earth now a wasteland...  You are part of the insignificant resistance, weak and powerless. But you are different... With the ability to manipulate your own DNA, and assimilate alien powers into your own being, face the ultimate choice… Do you retain your humanity and fight alongside your comrades, or do you embrace the alien powers but at the cost of gradu…"
+    },
+    "media": [
+        {
+            "media_id": "686650A7",
+            "title": "MorphX",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d7/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/464f07d7/1/MorphX_Manual_EN_revised.pdf"
+        ]
+    }
+}

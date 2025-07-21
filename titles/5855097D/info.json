@@ -1,0 +1,32 @@
+{
+    "id": "5855097D",
+    "title": {
+        "full": "Devil Blood",
+        "reduced": "Devil Blood"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "thelostone",
+    "publisher": "thelostone",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=3/3. Journey to the dark citadel of Nethermorne in a quest to kill demons and fulfill your destiny.  Learn spells, upgrade weapons and loot powerful items to aid you on your epic quest.",
+        "short": "Journey to the dark citadel of Nethermorne in a quest to kill demons and fulfill your destiny.  Learn spells, upgrade weapons and loot powerful items to aid you on your epic quest."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855097d/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855097D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855097d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855097D_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

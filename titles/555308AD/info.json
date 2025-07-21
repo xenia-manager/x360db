@@ -1,0 +1,45 @@
+{
+    "id": "555308AD",
+    "title": {
+        "full": "Marvel Avengers Battle for Earth",
+        "reduced": "Marvel Avengers Battle for Earth"
+    },
+    "genre": [
+        "Kinect"
+    ],
+    "developer": "Ubisoft Quebec",
+    "publisher": "Ubisoft",
+    "release_date": "2012-10-30",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish and Portuguese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor.  The ultimate super hero brawler, Marvel Avengers™: Battle for Earth features 20 different characters including the Avengers: Iron Man, Hulk, Captain America and Thor as well as other fan favorite characters from the Marvel Universe.",
+        "short": "Unleash your inner Super Hero in Marvel Avengers™: Battle for Earth."
+    },
+    "media": [
+        {
+            "media_id": "4E9388A6",
+            "title": "Marvel The Avengers: Battle for Earth",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ad/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ad/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ad/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ad/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ad/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ad/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ad/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ad/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ad/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/555308ad/PPS_MABE_X360_MANUAL_UK_HR_jumpto_CMYK.pdf"
+        ]
+    }
+}

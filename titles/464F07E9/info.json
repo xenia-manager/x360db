@@ -1,0 +1,51 @@
+{
+    "id": "464F07E9",
+    "title": {
+        "full": "Brunswick Pro Bowling",
+        "reduced": "Brunswick Pro Bowling"
+    },
+    "genre": [
+        "Independent & Music Videos",
+        "Music and Short Videos",
+        "Sports",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "FarSight Studios, Inc.",
+    "publisher": "505 Games",
+    "release_date": "2011-04-01",
+    "user_rating": null,
+    "description": {
+        "full": "LET'S BOWL! Brunswick Pro Bowling is the only game to feature a realistic and authentic bowling experience while showcasing jaw-dropping ball and pin physics. Five challenging modes including: Quick Play, League, Online Tournament, Rival Challenges and the Spares Challenge! Customize with genuine Brunswick bowling balls, shoes, clothes, and more! Fun for all ages and provides hours of entertainment that is right up your alley! Roll on authentic Brunswick oil patterns Unlock hidden items and equipment Play Head to Head Online",
+        "short": "Lace up your bowling shoes and play the best bowling game on the market!  Brunswick Bowling is a simulation that maintains the level of depth from the previous Brunswick Bowling title while adding motion controls in a user friendly interface as well as next gen graphics and improved ball and pin physics.  The gameplay is designed to appeal to knowledgeable bowling fans as well as casual gamers (with features like Bumper Bowling, and on screen control indicators to ease the learning curve).  "
+    },
+    "media": [
+        {
+            "media_id": "313E86C5",
+            "title": "Brunswick Pro Bowling",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e9/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e9/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e9/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07e9/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

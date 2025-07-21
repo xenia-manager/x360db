@@ -1,0 +1,42 @@
+{
+    "id": "4A5707D3",
+    "title": {
+        "full": "Sherlock Holmes",
+        "reduced": "Sherlock Holmes"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Spiders",
+    "publisher": "Focus Home Interactive",
+    "release_date": "2010-04-13",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Sherlock Holmes series is known as one of the best franchises in adventure games and is acclaimed by critics worldwide. The detective starts his very first case on Xbox 360. In this great adventure game, take part in a terrifying manhunt to track the most dangerous killer England has ever known: Jack the Ripper.  London, 1888. A series of horrible murders takes place in the sinister district of Whitechapel. Nothing seems to stop the dangerous killer as the city falls under a real psychosis. Play as Sherlock Holmes and solve the most horrifying case of his career! Follow the terrifying serial killer’s bloody trail left in the dark and filthy alleys. His name still brings fear: Jack the Ripper.",
+        "short": "The Sherlock Holmes series is known as one of the best franchises in adventure games and is acclaimed by critics worldwide. The detective starts his very first case on Xbox 360. In this great adventure game, take part in a terrifying manhunt to track the most dangerous killer England has ever known: Jack the Ripper.  London, 1888. A series of horrible murders takes place in the sinister district of Whitechapel. Nothing seems to stop the dangerous killer as the city falls under a real psychosi…"
+    },
+    "media": [
+        {
+            "media_id": "0ADD565A",
+            "title": "Sherlock Holmes Versus Jack the Ripper",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d3/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "464507D3",
+                "title": "Sherlock Holmes"
+            }
+        ],
+        "related": []
+    }
+}

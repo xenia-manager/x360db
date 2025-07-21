@@ -1,0 +1,35 @@
+{
+    "id": "58550AF9",
+    "title": {
+        "full": "Quick Pirate",
+        "reduced": "Quick Pirate"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Smith Layouts",
+    "publisher": "Smith Layouts",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Pilot your ship across a variety of locations to collect gems. Fight enemies and collect gold along the way to upgrade your ship and guns.",
+        "short": "Pilot your ship across a variety of locations to collect gems. Fight enemies and collect gold along the way to upgrade your ship and guns."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550af900000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550AF9_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550af9/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550AF9_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AF9_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AF9_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AF9_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

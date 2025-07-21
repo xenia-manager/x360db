@@ -1,0 +1,35 @@
+{
+    "id": "585506CA",
+    "title": {
+        "full": "CheneyStar",
+        "reduced": "CheneyStar"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Johnny Death Games",
+    "publisher": "Johnny Death Games",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=3/3. Half-Vice President, Half Killer Space Robot, CheneyStar threatens mankind.  It is up to you to stop him in this arcade classic remake featuring hybrid 2D/3D game.  Can you survive his devastating attacks and relentless insults?",
+        "short": "Half-Vice President, Half Killer Space Robot, CheneyStar threatens mankind.  It is up to you to stop him in this arcade classic remake featuring hybrid 2D/3D game.  Can you survive his devastating attacks and relentless insults?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585506ca00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506CA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506ca/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506CA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506CA_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506CA_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506CA_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

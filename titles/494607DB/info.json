@@ -1,0 +1,56 @@
+{
+    "id": "494607DB",
+    "title": {
+        "full": "マジてん　マジで天使を作ってみた",
+        "reduced": "マジてん"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "デザインファクトリー株式会社 ／ 株式会社ハイド",
+    "publisher": "アイディアファクトリー株式会社",
+    "release_date": "2012-09-20",
+    "user_rating": "0.00",
+    "description": {
+        "full": "「天使がいなければ自分で作ればいいじゃない？」－－前作「俺の嫁」の系譜を継いだ今作は、ドラマ性の有無、悲劇性の有無を選べる『やさしさ選択』システムを搭載し、あなた好みのプレイスタイルに合わせて自由に遊ぶことができます。「シンプル」なら、ひたすら甘い新婚生活を堪能できる『「俺の嫁」ボリューム倍増版』としてもプレイが可能。「ハード」なら、ヒロイン（天使）と主人公に関わる『ドラマティックなストーリーパート』を見ることができ、そこでは魅力的なサブキャラクターたちが登場し話を盛り立てます。また、今回はヒロインとの間には『子供』を作ることができ、より密度のあるヒロインとの夫婦生活を送ることができます！",
+        "short": "前作「俺の嫁」の系譜を継いだ今作「マジてん」は、ドラマ性の有無を選べる『やさしさ選択』システムを搭載！また今回は、ヒロイン（天使）と主人公に関わる『ドラマティックなストーリーパート』も見ることができます。さらにヒロインとの間には『子供』を作ることができ、より密度のあるヒロインとの夫婦生活を送ることができます！"
+    },
+    "media": [
+        {
+            "media_id": "2909856C",
+            "title": "MajiTen: Maji de Tenshi o Tsukutte Mita",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607db/1033/screenlg18.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

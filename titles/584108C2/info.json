@@ -1,0 +1,41 @@
+{
+    "id": "584108C2",
+    "title": {
+        "full": "The Maw",
+        "reduced": "The Maw"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Twisted Pixel Games, LLC.",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-05-24",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Unlock The Maw, winner of the 2008 PAX-10 Audience Choice Award, and help Maw devour his way to freedom. The full version of The Maw includes a bonus unlockable dashboard theme and free gamerpics for beating the game! This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "The pinnacle of alien evolution, Maw is a cowardly fat blob concerned mostly with snacking and lounging.  He can, however, absorb the traits of anything he eats, is virtually indestructible, and can grow to unlimited size.  If he wasn't a danger to all life in the universe, he'd make the perfect pet.  In this action/adventure game, he's the best friend of our hero Frank, and only by working together can Maw eat their way to freedom.  "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c2/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c2/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c2/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c2/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

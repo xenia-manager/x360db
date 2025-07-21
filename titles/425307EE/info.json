@@ -1,0 +1,83 @@
+{
+    "id": "425307EE",
+    "title": {
+        "full": "Fallout New Vegas",
+        "reduced": "Fallout New Vegas"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing",
+        "Shooter"
+    ],
+    "developer": "Obsidian Entertainment",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2011-02-22",
+    "user_rating": null,
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Experience all the sights and sounds of fabulous New Vegas, brought to you by Vault-Tec, America's First Choice in Post Nuclear Simulation. Explore the treacherous wastes of the Great Southwest from the safety and comfort of your very own vault: Meet new people, confront terrifying creatures, and arm yourself with the latest high-tech weaponry as you make a name for yourself on a thrilling new journey across the Mojave wasteland. A word of warning, however - while Vault-Tec engineers have prepared for every contingency,* in Vegas, fortunes can change in an instant. Enjoy your stay. * Should not be construed as a legally-binding claim.",
+        "short": "Experience all the sights and sounds of fabulous New Vegas, brought to you by Vault-Tec, America's First Choice in Post Nuclear Simulation. Explore the treacherous wastes of the Great Southwest from the safety and comfort of your very own vault: Meet new people, confront terrifying creatures, and arm yourself with the latest high-tech weaponry as you make a name for yourself on a thrilling new journey across the Mojave wasteland. A word of warning, however - while Vault-Tec engineers have prepa…"
+    },
+    "media": [
+        {
+            "media_id": "5B728368",
+            "title": "Fallout: New Vegas: Ultimate Edition (Disc 2)",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "30672AE2",
+            "title": "Fallout: New Vegas: Ultimate Edition (Disc 2)",
+            "edition": "Original, Platinum Hits, Reprint",
+            "region": "USA"
+        },
+        {
+            "media_id": "2B734669",
+            "title": "Fallout: New Vegas: Ultimate Edition (Disco 2)",
+            "edition": "Original",
+            "region": "Italy"
+        },
+        {
+            "media_id": "51735B46",
+            "title": "Fallout: New Vegas: Ultimate Edition (Disque 2)",
+            "edition": "Original",
+            "region": "France"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307ee/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "425307E0",
+                "title": "Fallout New Vegas"
+            }
+        ],
+        "related": []
+    }
+}

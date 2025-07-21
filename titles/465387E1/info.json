@@ -1,0 +1,39 @@
+{
+    "id": "465387E1",
+    "title": {
+        "full": "アーマードコア Ⅴクローズドβテスト",
+        "reduced": "アーマードコア Ⅴクローズドβテスト"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "株式会社フロム・ソフトウェア",
+    "publisher": "株式会社フロム・ソフトウェア",
+    "release_date": "2011-07-18",
+    "user_rating": null,
+    "description": {
+        "full": "「アーマード･コア Ⅴ」は、豊富な機体パーツでオリジナルのメカを組み上げて戦闘を行うメカアクションゲームです。 これまでのシリーズの特徴を継承しつつ、オンラインチームプレイをメインテーマに、プレイスタイルを大きく刷新し、ワンランク上をゆく新たなシリーズタイトルとして大革命を施した意欲的タイトルです。 友人や知人と共にチームを組み成長していく共有体験、他プレイヤーが所属するチームと繰り広げる領地の奪い合い、オリジナルミッションの作成配信、オペレータ（指揮官）の参戦する斬新なオンラインチーム戦など、仲間と共にプレイすることで生まれる達成感を実現します。 シングルプレイも従来シリーズ以上に充実。展開が次々と変化していくストーリーミッションや、従来の遊び方に近いオーダーミッション。他プレイヤーのチームに参戦する傭兵システム。協力プレイやフリー対戦も楽しむことができます。 マルチプレイもシングルプレイも全てが一つに融合し、新しく生まれ変わったアーマード・コアが始動します。",
+        "short": "「アーマード・コア　Ⅴ」はシリーズの特徴を継承しつつ、オンラインチームプレイをメインテーマに、プレイスタイルを大きく刷新し、ワンランク上をゆく新たなシリーズタイトルとして大革命を施した意欲的タイトルです。マルチプレイもシングルプレイも全てが一つに融合し、新しく生まれ変わったアーマード・コアが始動します。"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e1/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e1/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e1/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e1/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e1/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e1/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e1/1041/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4E4D0853",
+                "title": "Armored Core V"
+            }
+        ],
+        "related": []
+    }
+}

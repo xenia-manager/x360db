@@ -1,0 +1,69 @@
+{
+    "id": "574607D2",
+    "title": {
+        "full": "The Witcher 2",
+        "reduced": "The Witcher 2"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "CD Projekt RED",
+    "publisher": "SPIKE CHUNSOFT",
+    "release_date": "2012-08-23",
+    "user_rating": null,
+    "description": {
+        "full": "戦後復興により、その勢力を持ち直したテメリア王国。繰り返される内乱により、王国内の混乱は今もなお続いていた。  謎多き男、ゲラルト。その外見的特徴から白狼（ホワイトウルフ）とも 呼ばれているその男の類稀なる戦闘能力は、彼が秘術と突然変異原により身体強化された「ウィッチャー」であることを証明している。  護衛として幾多の危機から国王フォルテストの命を救ったゲラルトであったが、黒き影は彼等のすぐ近くまで、忍び寄っていた。  その影に突き動かされ、ゲラルトの運命の歯車が動き始める。",
+        "short": "戦後復興により、その勢力を持ち直したテメリア王国。繰り返される内乱により、王国内の混乱は今もなお続いていた。  護衛として幾多の危機から国王フォルテストの命を救った「ウィッチャー」のゲラルトであったが、黒き影は彼等のすぐ近くまで、忍び寄っていた。  その影に突き動かされ、運命の歯車が動き始める。"
+    },
+    "media": [
+        {
+            "media_id": "1F28174A",
+            "title": "The Witcher 2: Assassins of Kings: Enhanced Edition (Game Disc 1)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "24033919",
+            "title": "The Witcher 2: Assassins of Kings: Enhanced Edition (Game Disc 2)",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802574607d2/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "57520824",
+                "title": "The Witcher 2 Assassins of Kings"
+            }
+        ],
+        "related": []
+    }
+}

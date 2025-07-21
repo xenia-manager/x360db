@@ -1,0 +1,37 @@
+{
+    "id": "4D4A07FA",
+    "title": {
+        "full": "BloodRayne 2",
+        "reduced": "BloodRayne 2"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Terminal Reality",
+    "publisher": "Majesco Entertainment",
+    "release_date": "2017-10-19",
+    "user_rating": null,
+    "description": {
+        "full": "BloodRayne is a dhampir, born from the unnatural union of vampire and human. Blessed with the powers of a vampire but cursed with the thirst for blood and a weakness to sunlight, Rayne is challenged with her most personal battle yet as she hunts down her siblings. They have banded together and pledged to carry on their father's legacy of creating a new era of vampire supremacy where humans are mere cattle. Rayne's siblings have created 'The Shroud,' a mysterious substance that will render the sun's lethal rays harmless to vampires. Now only BloodRayne stands between an unsuspecting humanity and a horrifying vampire dawn.",
+        "short": "The Cult of Kagan has unleashed horrors upon the world in their pursuit of supremacy. Only Rayne can take them down. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07fa/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07fa/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07fa/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07fa/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07fa/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07fa/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07fa/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07fa/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07fa/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07fa/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

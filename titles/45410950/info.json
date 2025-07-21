@@ -1,0 +1,63 @@
+{
+    "id": "45410950",
+    "title": {
+        "full": "Battlefield 3",
+        "reduced": "Battlefield 3"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "DICE",
+    "publisher": "Electronic Arts",
+    "release_date": "2011-10-25",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Battlefield 3 leaps ahead of the competition with the power of Frostbite™ 2, the next installment of DICE's cutting-edge game engine. This state-of-the-art technology is the foundation on which Battlefield 3 is built, delivering superior visual quality, a grand sense of scale, massive destruction, dynamic audio and incredibly lifelike character animations. As bullets whiz by, walls crumble, and explosions throw you to the ground, the battlefield feels more alive and interactive than ever before. In Battlefield 3, players step into the role of the elite U.S. Marines where they will experience heart-pounding single player missions and competitive multiplayer actions ranging across diverse locations from around the globe including Paris, Tehran and New York. ",
+        "short": "In Battlefield 3, players will step into the role of the elite U.S. Marines. They will experience heart-pounding single player missions and competitie multiplayer action ranging across diverse locations from around the globe. Powered by the innovative technology of Frostbite 2, Battlefield 3 takes First Person Shooters to a whole new level. "
+    },
+    "media": [
+        {
+            "media_id": "0CD1C130",
+            "title": "Battlefield 3 (Disc 1) (Multiplay/COOP)",
+            "edition": "Original, Limited Edition",
+            "region": "Japan, Korea"
+        },
+        {
+            "media_id": "61C746D7",
+            "title": "Battlefield 3 (Disc 1) (Multiplayer/Co-Op)",
+            "edition": "Original, Platinum Hits, Limited Edition",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "395118ED",
+            "title": "Battlefield 3 (Disc 2) (Single-Play)",
+            "edition": "Original, Limited Edition",
+            "region": "Japan, Korea"
+        },
+        {
+            "media_id": "511536A8",
+            "title": "Battlefield 3 (Disc 2) (Single-Player Campaign)",
+            "edition": "Original, Platinum Hits, Limited Edition",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410950/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410950/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410950/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410950/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410950/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410950/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410950/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410950/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410950/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410950/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410950/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

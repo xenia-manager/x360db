@@ -1,0 +1,50 @@
+{
+    "id": "524307D1",
+    "title": {
+        "full": "JANLINE",
+        "reduced": "JANLINE"
+    },
+    "genre": [
+        "Family"
+    ],
+    "developer": "RECOM",
+    "publisher": "RECOM",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "本格麻雀ゲーム、Xbox360に新登場！ 通常の通信対局、CPU対局はもちろん、 オリジナルモード「オープン麻雀」を搭載。 全ての手牌を開いた状態で対局する新感覚麻雀を体感せよ！",
+        "short": "本格麻雀ゲーム、Xbox360に新登場！ 通常の通信対局、CPU対局はもちろん、 オリジナルモード「オープン麻雀」を搭載。 全ての手牌を開いた状態で対局する新感覚麻雀を体感せよ！"
+    },
+    "media": [
+        {
+            "media_id": "0BFA6DCE",
+            "title": "Janline",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524307d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524307d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524307d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524307d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524307d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524307d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524307d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524307d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524307d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524307d1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524307d1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524307d1/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524307d1/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524307d1/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524307d1/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802524307d1/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

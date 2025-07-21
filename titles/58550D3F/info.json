@@ -1,0 +1,35 @@
+{
+    "id": "58550D3F",
+    "title": {
+        "full": "Atomic Blast",
+        "reduced": "Atomic Blast"
+    },
+    "genre": [
+        "Family"
+    ],
+    "developer": "Fuzzy Duck Entertainment",
+    "publisher": "Fuzzy Duck Entertainment",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. In Atomic Blast up to 16 players take turns to place atoms on a sphere grid. Build up your molecules until they reach breaking point where they explode sending atoms flying over the grid converting enemy atoms to your own. Eliminate your friends' atoms through strategy and massive chain reactions.",
+        "short": "In Atomic Blast up to 16 players take turns to place atoms on a sphere grid. Build up your molecules until they reach breaking point where they explode sending atoms flying over the grid converting enemy atoms to your own. Eliminate your friends' atoms through strategy and massive chain reactions."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550d3f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D3F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d3f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D3F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D3F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D3F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D3F_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "id": "4E4D0855",
+    "title": {
+        "full": "The Witcher 2 Assassins of Kings Enhanced Edition",
+        "reduced": "The Witcher 2"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "CD Projekt RED",
+    "publisher": "CD Projekt S.A.",
+    "release_date": "2012-10-09",
+    "user_rating": "4.75",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  In a time of untold chaos, as crowned heads roll, nations rage and kingdoms topple, witcher Geralt of Rivia must clear his name, revealing the conspiracy that has placed the world in peril and threatens the lives of his loved ones. Featuring the most mature, non-linear story ever told on consoles, spectacular, real-time combat, stunning visuals and a vast, immersive game world, The Witcher 2 provides dozens of hours of intense, thoroughly immersive, emotionally charged gameplay.",
+        "short": "Crowned heads roll and kingdoms topple - Geralt of Rivia must save the Northern Kingdoms from chaos."
+    },
+    "media": [
+        {
+            "media_id": "6FEB834A",
+            "title": "The Witcher 2: Assassins of Kings: Enhanced Edition (Game Disc 1)",
+            "edition": "Original, Classics",
+            "region": "Europe"
+        },
+        {
+            "media_id": "038D6653",
+            "title": "The Witcher 2: Assassins of Kings: Enhanced Edition (Game Disc 2)",
+            "edition": "Original, Classics",
+            "region": "Europe"
+        },
+        {
+            "media_id": "414AAB82",
+            "title": "Ved'mak 2: Ubijcy korolej: Rasshirennoe izdanie (Disc 1) (Igra)",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "13CF016C",
+            "title": "Ved'mak 2: Ubijcy korolej: Rasshirennoe izdanie (Disc 2) (Igra)",
+            "edition": "Original",
+            "region": "Russia"
+        }
+    ],
+    "artwork": {
+        "background": null,
+        "banner": null,
+        "boxart": null,
+        "icon": null,
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "57520824",
+                "title": "The Witcher 2 Assassins of Kings"
+            }
+        ],
+        "related": []
+    }
+}

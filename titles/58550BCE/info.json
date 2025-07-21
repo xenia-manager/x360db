@@ -1,0 +1,35 @@
+{
+    "id": "58550BCE",
+    "title": {
+        "full": "Mage Cage",
+        "reduced": "Mage Cage"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "ThunderfishEntertainment_0",
+    "publisher": "ThunderfishEntertainment_0",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Get ready for some MAGICAL MAYHEM with MAGE CAGE! Grab your friends and play as one of four students of sorcery, each with unique abilities, and demonstrate your magical prowess in this hectic platform fighter.  Conjure your way through various levels as your spells bounce and burst in an attempt to become the most powerful wizard in the academy.",
+        "short": "Get ready for some MAGICAL MAYHEM with MAGE CAGE! Grab your friends and play as one of four students of sorcery, each with unique abilities, and demonstrate your magical prowess in this hectic platform fighter.  Conjure your way through various levels as your spells bounce and burst in an attempt to become the most powerful wizard in the academy."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550bce/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550BCE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550bce/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550BCE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BCE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BCE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BCE_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

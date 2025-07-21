@@ -1,0 +1,53 @@
+{
+    "id": "5752084D",
+    "title": {
+        "full": "LEGO Jurassic World",
+        "reduced": "LEGO Jurassic World"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Traveller's Tales",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "release_date": "2015-06-09",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Danish, Dutch, Polish, Portuguese, Russian.LEGO® Jurassic World™ is the first videogame to let players experience all four Jurassic films in humorous LEGO form. The thrilling adventure recreates unforgettable scenes and action sequences from the films, allowing fans to play through key moments and giving them the opportunity to fully explore the expansive grounds of Isla Nublar and Isla Sorna.",
+        "short": "LEGO® Jurassic World™ is the first videogame to let players experience all four Jurassic films in humorous LEGO form."
+    },
+    "media": [
+        {
+            "media_id": "7EB7CF88",
+            "title": "LEGO Jurassic World",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "603A3394",
+            "title": "LEGO Jurassic World",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752084d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752084d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752084d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752084d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752084d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752084d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752084d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752084d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752084d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752084d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752084d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752084d/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752084d/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

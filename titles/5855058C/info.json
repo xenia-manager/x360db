@@ -1,0 +1,35 @@
+{
+    "id": "5855058C",
+    "title": {
+        "full": "8-bit Girlfriend",
+        "reduced": "8-bit Girlfriend"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "JadedHorizon",
+    "publisher": "JadedHorizon",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=3/3, Mature Content=3/3. Now you can do what most 8-bit RPGs never let you! Court up to four lovely 8-bit ladies. Choose from a Princess, Elf, Thief or Item Shop Girl in this comical adventure. Be brave Sir Knight, you will get your 8-bit girlfriend!",
+        "short": "Now you can do what most 8-bit RPGs never let you! Court up to four lovely 8-bit ladies. Choose from a Princess, Elf, Thief or Item Shop Girl in this comical adventure. Be brave Sir Knight, you will get your 8-bit girlfriend!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855058c/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855058C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855058c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855058C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855058C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855058C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855058C_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

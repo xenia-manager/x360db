@@ -1,0 +1,47 @@
+{
+    "id": "4D4B07D0",
+    "title": {
+        "full": "PopCap Hits",
+        "reduced": "PopCap Hits"
+    },
+    "genre": [
+        "Family",
+        "Puzzle & Trivia"
+    ],
+    "developer": "PopCap Games",
+    "publisher": "Mastertronic Group Ltd.",
+    "release_date": "2011-02-04",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Four fantastic and famously fiendish games that will bamboozle your brain and give your hours of puzzling pleasure!  BEJEWELED 2 - The classic game of gem-swapping and explosive entertainment. ASTRO POP - Blast off to high-speed, arcade-puzzle excitement! FEEDING FRENZY - The definitive game of frenzied food-chain action! PEGGLE - Do you have what it takes to become a Peggle Master?",
+        "short": "Four fantastic and famously fiendish games that will bamboozle your brain and give your hours of puzzling pleasure!  BEJEWELED 2 - The classic game of gem-swapping and explosive entertainment. ASTRO POP - Blast off to high-speed, arcade-puzzle excitement! FEEDING FRENZY - The definitive game of frenzied food-chain action! PEGGLE - Do you have what it takes to become a Peggle Master?"
+    },
+    "media": [
+        {
+            "media_id": "3ECAA5FD",
+            "title": "PopCap Hits!",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d0/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d0/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d0/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d0/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

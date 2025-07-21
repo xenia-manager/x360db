@@ -1,0 +1,44 @@
+{
+    "id": "415607DC",
+    "title": {
+        "full": "Alaskan Adventures",
+        "reduced": "Alaskan Adventures"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Sports & Recreation"
+    ],
+    "developer": "Fun Labs",
+    "publisher": "Activision",
+    "release_date": "2006-09-19",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English.  Get your Cabela's gear and head to Alaska for the hunting and fishing thrill.",
+        "short": "Get your Cabela's gear and head to Alaska for the hunting and fishing thrill."
+    },
+    "media": [
+        {
+            "media_id": "73A29D08",
+            "title": "Cabela's Alaskan Adventures",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "11F8A118",
+            "title": "Cabela's Alaskan Adventures",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": null,
+        "banner": null,
+        "boxart": null,
+        "icon": null,
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

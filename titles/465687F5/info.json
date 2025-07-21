@@ -1,0 +1,43 @@
+{
+    "id": "465687F5",
+    "title": {
+        "full": "マブラヴ オルタネイティヴ トータルイクリプス体験版",
+        "reduced": "トータルイクリプス体験版"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Developer String",
+    "publisher": "Publisher String",
+    "release_date": "2013-05-13",
+    "user_rating": null,
+    "description": {
+        "full": "Download this demo.",
+        "short": "Download this demo."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687f5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687f5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687f5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687f5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687f5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687f5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687f5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687f5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687f5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687f5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465687f5/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "465607F0",
+                "title": "Muv-luv Alternative Total Eclipse Disc Xbox360"
+            }
+        ],
+        "related": []
+    }
+}

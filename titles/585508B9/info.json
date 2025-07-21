@@ -1,0 +1,35 @@
+{
+    "id": "585508B9",
+    "title": {
+        "full": "Case o Games",
+        "reduced": "Case o Games"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Hypercube Arcade",
+    "publisher": "Hypercube Arcade",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. A collection of six full-length, high-quality games from genres such as action, puzzle, tower defense, platformer, and many more. This was created by over 20 developers, and 100% of the profits from this game will go to benefit the Child's Play charity.",
+        "short": "A collection of six full-length, high-quality games from genres such as action, puzzle, tower defense, platformer, and many more. This was created by over 20 developers, and 100% of the profits from this game will go to benefit the Child's Play charity."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585508b9/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508B9_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508b9/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508B9_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508B9_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508B9_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508B9_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

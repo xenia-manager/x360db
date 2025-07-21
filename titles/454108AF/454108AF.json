@@ -1,0 +1,42 @@
+{
+    "id": "454108AF",
+    "title": {
+        "full": "Skate 2 DE",
+        "reduced": "Skate 2 DE"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts Vancouver",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-07-06",
+    "user_rating": null,
+    "description": {
+        "full": "Note: Some multi-player functionalities may no longer be supported.  (Online Interactions Not Rated by the ESRB).  The Skate revolution continues! Skate 2 ups the ante in delivering all the grit, creativity and culture of skateboarding – both on and off the board. Rebuild your career and revive the New San Van skate scene with double the tricks and the new ability to move objects and create spots. Skate 2 — it’s time to take back the city…one spot at a time. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "The Skate revolution continues! Skate 2 ups the ante in delivering all the grit, creativity and culture of skateboarding  – both on and off the board. Rebuild your career and revive the New San Van skate scene with double the tricks and the new ability to move objects and create spots.  Skate 2 — it’s time to take back the city…one spot at a time."
+    },
+    "media": [
+        {
+            "media_id": "01EB8059",
+            "title": "Skate 2",
+            "edition": "Original",
+            "region": "Germany"
+        }
+    ],
+    "artwork": {
+        "background": null,
+        "banner": null,
+        "boxart": null,
+        "icon": null,
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4541087F",
+                "title":"Skate 2"
+            }
+        ],
+        "related": []
+    }
+}

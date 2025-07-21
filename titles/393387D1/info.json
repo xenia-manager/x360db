@@ -1,0 +1,35 @@
+{
+    "id": "393387D1",
+    "title": {
+        "full": "Binary Domain Demo",
+        "reduced": "Demo"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "SEGA",
+    "publisher": "SEGA",
+    "release_date": "2012-02-15",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Download the demo today to have the chance to play Binary Domain. As the lines start to blur between man and machine, you must enter into 2080 Tokyo, fight your way through their robotic defences and find who is creating highly advanced humanoids that are beginning to infiltrate society undetected. The machine age has begun...",
+        "short": "Download the demo today to play Binary Domain. The machine age has begun…"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802393387d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802393387d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802393387d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802393387d1/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5345085C",
+                "title": "BINARY DOMAIN"
+            }
+        ],
+        "related": []
+    }
+}

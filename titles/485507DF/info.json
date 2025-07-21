@@ -1,0 +1,65 @@
+{
+    "id": "485507DF",
+    "title": {
+        "full": "DECA SPORTS FREEDOM",
+        "reduced": "DECA SPORTS FREEDOM"
+    },
+    "genre": [
+        "Kinect",
+        "Sports & Recreation"
+    ],
+    "developer": "Hudson Soft Co., Ltd.",
+    "publisher": "Hudson Entertainment, Inc.",
+    "release_date": "2010-11-18",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Spanish. This game requires a Kinect™ Sensor.  Take sports to the next level with 10 complete sporting events you play using just your own body! Spin, throw, and smash your way to victory across all of the included events: Tennis, Boxing, Archery, Paintball, Beach Volleyball, Dodge Ball, Kendo, Mogul Skiing, Snowboard Cross, and even Figure Skating! You can use your own avatar inside the game and can play with two people at home or with up to four online against people around the world!",
+        "short": "DECA SPORTS FREEDOM  The wait is over! The ultimate sport experience is here! DECA SPORTS,the hit sports game series with 2 million copies sold worldwide, is now on the Xbox 360!    The intuitive and dynamic control of Kinect combined with the HD graphics of the Xbox 360 deliver an unprecedented experience in sports gaming that makes you feel like you are actually there!"
+    },
+    "media": [
+        {
+            "media_id": "5C1B66D3",
+            "title": "Deca Sports Freedom",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "06F629CE",
+            "title": "Sports Island Freedom",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507df/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

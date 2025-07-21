@@ -1,0 +1,32 @@
+{
+    "id": "58550A4B",
+    "title": {
+        "full": "4P Ping-Pong",
+        "reduced": "4P Ping-Pong"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Bitreaction Game Studios",
+    "publisher": "Bitreaction Game Studios",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. No matter how old you are, this game is fun for everyone! Challenge out up to 3 of your friends or play against the computer.",
+        "short": "No matter how old you are, this game is fun for everyone! Challenge out up to 3 of your friends or play against the computer."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550a4b00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A4B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a4b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A4B_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

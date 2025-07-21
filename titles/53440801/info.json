@@ -1,0 +1,48 @@
+{
+    "id": "53440801",
+    "title": {
+        "full": "Dragon Age Origins J",
+        "reduced": "Dragon Age Origins J"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Bioware",
+    "publisher": "Spike",
+    "release_date": "2011-01-27",
+    "user_rating": null,
+    "description": {
+        "full": "From the makers of Mass Effect comes the dark fantasy epic: You are a Grey Warden, one of the last of a legendary order of guardians. With the return of mankind's ancient foe and the kingdom engulfed in civil war, you have been chosen by fate to unite the shattered lands and slay the archdemon once and for all. ",
+        "short": "From the makers of Mass Effect comes the dark fantasy epic: You are a Grey Warden, one of the last of a legendary order of guardians. With the return of mankind's ancient foe and the kingdom engulfed in civil war, you have been chosen by fate to unite the shattered lands and slay the archdemon once and for all. "
+    },
+    "media": [
+        {
+            "media_id": "5E343411",
+            "title": "Dragon Age: Origins: Awakening",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "2DE038A5",
+            "title": "Dragon Age: Origins (Disc 1)",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440801/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440801/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440801/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253440801/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454108C0",
+                "title": "Dragon Age Origins"
+            }
+        ],
+        "related": []
+    }
+}

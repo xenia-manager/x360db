@@ -1,0 +1,35 @@
+{
+    "id": "5855063D",
+    "title": {
+        "full": "Avatar Bowman 2",
+        "reduced": "Avatar Bowman 2"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Super Boise LLC",
+    "publisher": "Super Boise LLC",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. This is Bowman like you’ve never seen before! Set in a fully 3D medieval town you can fire arrows in any and all directions. Play against your friends, either locally or online, and watch your name climb the global high scores list as you amass wins! Nothing’s more satisfying than correctly adjusting for the wind and watching your arrow curve into the face of your foe!",
+        "short": "This is Bowman like you’ve never seen before! Set in a fully 3D medieval town you can fire arrows in any and all directions. Play against your friends, either locally or online, and watch your name climb the global high scores list as you amass wins! Nothing’s more satisfying than correctly adjusting for the wind and watching your arrow curve into the face of your foe!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855063d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855063D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855063d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855063D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855063D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855063D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855063D_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "id": "5454081A",
+    "title": {
+        "full": "Bully Scholarship Ed",
+        "reduced": "Bully Scholarship Ed"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Rockstar New England",
+    "publisher": "Rockstar Games",
+    "release_date": "2010-02-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  ENHANCED GRAPHICS.  ENHANCED GAMEPLAY.  Bully: Scholarship Edition takes place at the fictional New England boarding school, Bullworth Academy and tells the story of mischievous 15-year-old Jimmy Hopkins as he goes through the hilarity and awkwardness of adolescence.  Beat the jocks at dodge ball, prank the preppies, save the nerds, kiss the girl and ultimately navigate the social hierarchy in the worst school around.",
+        "short": "ENHANCED GRAPHICS.  ENHANCED GAMEPLAY.  Bully: Scholarship Edition takes place at the fictional New England boarding school, Bullworth Academy and tells the story of mischievous 15-year-old Jimmy Hopkins as he goes through the hilarity and awkwardness of adolescence.  Beat the jocks at dodge ball, prank the preppies, save the nerds, kiss the girl and ultimately navigate the social hierarchy in the worst school around."
+    },
+    "media": [
+        {
+            "media_id": "0867AD86",
+            "title": "Bully: Scholarship Edition",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "5B52B34C",
+            "title": "Bully: Scholarship Edition",
+            "edition": "Original",
+            "region": "Asia"
+        },
+        {
+            "media_id": "76D7E32D",
+            "title": "Bully: Scholarship Edition",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454081a/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

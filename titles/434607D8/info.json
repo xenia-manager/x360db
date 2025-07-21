@@ -1,0 +1,45 @@
+{
+    "id": "434607D8",
+    "title": {
+        "full": "code_18",
+        "reduced": "code_18"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "株式会社　サイバーフロント",
+    "publisher": "Cyberfront Corporation",
+    "release_date": "2011-09-29",
+    "user_rating": "0.00",
+    "description": {
+        "full": "「Never7」「Ever17」「Remember11」と、隠された仕掛けにより、 多くのファンを魅了してきたInfinityシリーズ４作目。 舞台は近未来のとある高校。主人公・逸人は、科学部に属しており、部の顧問教師がある実験に成功する･･･ その時彼らには、どんなメッセージが発せられるのか。そして巻き起こる事件の解決とは･･･ シリーズに関係する「時」をテーマとしたタイムパラドックスアドベンチャー！ サウンドプロデューサーに熱狂的なファンをもつ日本のロックバンド『Milktub』、キャラクターデザインに漫画家としても活躍中の『赤津豊』を迎え、Infinityシリーズが再始動。",
+        "short": "「Never7」「Ever17」「Remember11」と、隠された仕掛けにより、多くのファンを魅了してきたInfinityシリーズ４作目。 舞台は近未来のとある高校。主人公・逸人は、科学部に属しており、部の顧問教師がある実験に成功する･･･ その時彼らには、どんなメッセージが発せられるのか。そして巻き起こる事件の解決とは･･･"
+    },
+    "media": [
+        {
+            "media_id": "74F1F8F4",
+            "title": "Code_18",
+            "edition": "Limited Edition",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d8/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d8/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d8/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d8/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d8/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d8/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d8/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d8/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d8/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d8/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d8/1041/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

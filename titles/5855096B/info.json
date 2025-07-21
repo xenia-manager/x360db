@@ -1,0 +1,35 @@
+{
+    "id": "5855096B",
+    "title": {
+        "full": "Figure 8 Racing",
+        "reduced": "Figure 8 Racing"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "DennisMac",
+    "publisher": "DennisMac",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Figure 8 Racing (F8R) is a casual racing experience which encourages vehicle contact in order to gain the advantage. With up to 4-player split screen, multiple tracks, customisable options and mini-games F8R offers something for everyone.",
+        "short": "Figure 8 Racing (F8R) is a casual racing experience which encourages vehicle contact in order to gain the advantage. With up to 4-player split screen, multiple tracks, customisable options and mini-games F8R offers something for everyone."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855096b00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855096B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855096b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855096B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855096B_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855096B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855096B_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

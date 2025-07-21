@@ -1,0 +1,45 @@
+{
+    "id": "4C5387F0",
+    "title": {
+        "full": "Kung-Fu High Impact Demo",
+        "reduced": "Kung-Fu HI Demo"
+    },
+    "genre": [
+        "Kinect"
+    ],
+    "developer": "Virtual Air Guitar Company",
+    "publisher": "Ignition Games",
+    "release_date": "2011-12-23",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Kung-Fu High Impact is a full-body motion fighting adventure that uses Kinect to scan YOU inside the game! Fight baddies using your killer-instincts to throw kicks and punches. Become the hero and star in your own comic book adventure. Challenge your friends in unique multiplayer combat.",
+        "short": "You are a traditional Kung-Fu hero fighting as yourself, using superior hand-to-hand combat abilities. Unlock and enjoy freedom-of-movement as a character inside an adventurous comic book environment that hosts an extensive Kung-Fu storyline and includes custom battles, story comics, and epic survival modes. Become a star!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387f0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387f0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387f0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387f0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387f0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387f0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387f0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387f0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387f0/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387f0/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387f0/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387f0/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5387f0/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4C5307ED",
+                "title": "Kung-Fu"
+            }
+        ],
+        "related": []
+    }
+}

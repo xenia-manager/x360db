@@ -1,0 +1,48 @@
+{
+    "id": "584113BC",
+    "title": {
+        "full": "Magrunner Dark Pulse",
+        "reduced": "Magrunner Dark Pulse"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Frogwares",
+    "publisher": "Focus Home Interactive",
+    "release_date": "2013-10-25",
+    "user_rating": "3.00",
+    "description": {
+        "full": "Magrunner: Dark Pulse is an action/physics game, in which technology confronts the Cthulhu Mythos! Equipped with your Magtech glove, you must harness the ability to magnetically polarize and manipulate objects in the environment, to survive and surpass over 40 challenging levels. Your reflexes and ingenuity will be pushed to their limit, as you will try to survive a hi-tech world going mad!",
+        "short": "Magrunner: Dark Pulse is an action/physics game, in which technology confronts the Cthulhu Mythos! Equipped with your Magtech glove, you must harness the ability to magnetically polarize and manipulate objects in the environment, to survive and surpass over 40 challenging levels. Your reflexes and ingenuity will be pushed to their limit, as you will try to survive a hi-tech world going mad!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113bc/1033/screenlg17.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": "42560819",
+    "title": {
+        "full": "Toy Story Mania",
+        "reduced": "Toy Story Mania"
+    },
+    "genre": [
+        "Family",
+        "Kinect"
+    ],
+    "developer": "High Voltage Software",
+    "publisher": "Disney Interactive Studios",
+    "release_date": "2012-10-30",
+    "user_rating": "3.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, Spanish, Danish, Dutch, Norwegian, Russian,  Swedish.   Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Join all of the classic Toy Story characters as Woody, Buzz and the rest of the gang stage their own zany, fun-filled carnival.  Inspired by the 4D attractions at Disneyland and Walt Disney World, “Toy Story Mania!” allows players to participate in 30 carnival-inspired shooting galleries.  Includes a variety of addictive mini-games and power-ups that will enhance your overall gameplay experience.",
+        "short": "Join all of the classic Toy Story characters as Woody, Buzz and the rest of the gang stage their own zany, fun-filled carnival.  Enjoy 30 carnival-inspired shooting galleries."
+    },
+    "media": [
+        {
+            "media_id": "628C6A97",
+            "title": "Disney/Pixar Toy Story Mania!",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560819/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560819/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560819/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560819/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560819/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560819/1033/screenlg2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/42560819/GUAI000033_TSM_X360_Manual_ENG.pdf"
+        ]
+    }
+}

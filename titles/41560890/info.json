@@ -1,0 +1,44 @@
+{
+    "id": "41560890",
+    "title": {
+        "full": "Cabelas DH 2011",
+        "reduced": "Cabelas DH 2011"
+    },
+    "genre": [
+        "Shooter",
+        "Sports & Recreation"
+    ],
+    "developer": "Cauldron",
+    "publisher": "Activision",
+    "release_date": "2010-10-26",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Dangerous turns deadly!  A rash of deadly animal attacks has left a trail of corpses across the African wilderness.  Play as Cole Rainsford, an elite big game hunter who has been called in to track down the predators responsible.  A story of suspense, drama and survival unfold as you face kill or be killed scenarios that leave you in the ultimate fight for survival!  Take on your friends in head to head multiplayer in over 30 arcade-style shooting galleries.  Arm yourself with the TOP SHOT ELITE, the first of kind wireless hunting controller for the Xbox 360.",
+        "short": "Dangerous turns deadly!  Embark on a global hunting adventure that leaves you in the ultimate fight for survival!  Arm yourself with the TOP SHOT ELITE, the first of kind wireless hunting controller for the Xbox 360."
+    },
+    "media": [
+        {
+            "media_id": "2F8B9E09",
+            "title": "Cabela's Dangerous Hunts 2011",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "160EFE92",
+            "title": "Cabela's Dangerous Hunts 2011",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560890/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560890/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560890/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560890/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

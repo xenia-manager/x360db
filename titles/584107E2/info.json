@@ -1,0 +1,37 @@
+{
+    "id": "584107E2",
+    "title": {
+        "full": "Hardwood Backgammon",
+        "reduced": "Hardwood Backgammon"
+    },
+    "genre": [
+        "Avatar",
+        "Card & Board"
+    ],
+    "developer": "Silver Creek Entertainment",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-01-21",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Single Player, Xbox Live Multiplayer 1-2, Local Multiplayer 1-2, HD (High Definition) Play a game of classic Backgammon against the computer, against a friend on a single console, or against on online opponent over Xbox 360 Live. Move all of your checkers onto your home board, and then bear off before your opponent does. Roll two of a kind to double your number of moves. Catch your opponent with a vulnerable checker, and send him to the bar. And once you’re sure you’re going to win, use the doubling cube to bring you even closer to ultimate victory! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Last time, you got into Backgammon! Are you ready to try it again? Get all your checkers off the board before your opponent does in this classic board game."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e2/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

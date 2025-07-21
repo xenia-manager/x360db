@@ -1,0 +1,39 @@
+{
+    "id": "58411435",
+    "title": {
+        "full": "Putty Squad",
+        "reduced": "Putty Squad"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "System 3 Software Ltd",
+    "publisher": "System 3 Software Ltd",
+    "release_date": "2010-11-01",
+    "user_rating": "3.00",
+    "description": {
+        "full": "Putty Squad is a no-holds-barred retro gaming experience brought to life for the modern gamer. Our hero, Putty, can inflate, morph, stretch, punch and absorb, taking on ferocious enemies on his mission to rescue imprisoned putties.  Putty Squad features lovingly created levels that will test your timing, skill and imagination in a charming and incredibly addictive adventure.  Accessible to the both casual and serious gamer, Putty Squad will keep you hooked for hours and hours of game play fun. ",
+        "short": "Putty Squad is a no-holds-barred retro gaming experience brought to life for the modern gamer. Our hero, Putty, can inflate, morph, stretch, punch and absorb, taking on ferocious enemies on his mission to rescue imprisoned putties.  Putty Squad features lovingly created levels that will test your timing, skill and imagination in a charming and incredibly addictive adventure.  Accessible to the both casual and serious gamer, Putty Squad will keep you hooked for hours and hours of game play fun. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

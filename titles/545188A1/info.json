@@ -1,0 +1,40 @@
+{
+    "id": "545188A1",
+    "title": {
+        "full": "Warhammer 40000 Space Marine",
+        "reduced": "Warhammer 40000 Space Marine"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Relic Entertainment",
+    "publisher": "THQ -- HQ",
+    "release_date": "2011-09-06",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Step fearlessly into the heart of combat as Captain Titus of the Ultramarines, unleashing visible violent death against the enemies of mankind in the first 3rd person action shooter set in the dark future of the Warhammer 40,000 universe.  Storm into battle and use a combination of the most lethal ranged and melee weapons against the feral Orks and insidious forces of Chaos. Experience the awe inspiring landscapes and immense battles of the Warhammer 40,000 universe. Form your own Space Marine squad or Chaos Space Marine warband and take the battle online. ",
+        "short": "Step fearlessly into the heart of combat as Captain Titus of the Ultramarines, unleashing visible violent death against the enemies of mankind in the first 3rd person action shooter set in the dark future of the Warhammer 40,000 universe.  Storm into battle and use a combination of the most lethal ranged and melee weapons against the feral Orks and insidious forces of Chaos. Form your own Space Marine squad or Chaos Space Marine warband and take the battle online. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545188a1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545188a1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545188a1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545188a1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545188a1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545188a1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545188a1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545188a1/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5451082C",
+                "title": "Warhammer® 40,000®: Space Marine®"
+            }
+        ],
+        "related": []
+    }
+}

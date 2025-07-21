@@ -1,0 +1,35 @@
+{
+    "id": "585503A1",
+    "title": {
+        "full": "Fractal Dive",
+        "reduced": "Fractal Dive"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "YO1KOMORI",
+    "publisher": "YO1KOMORI",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Explore the fractal space rendered in real-time! Sometimes geometrical, sometimes biological, but everytime spectacular, wonderland expands in your display. You might feel the God in the infinite pattern generated from simple mathematical formulas. *)This is not a game. http://www.heloli.com/",
+        "short": "Explore the fractal space rendered in real-time! Sometimes geometrical, sometimes biological, but everytime spectacular, wonderland expands in your display. You might feel the God in the infinite pattern generated from simple mathematical formulas. *)This is not a game. http://www.heloli.com/"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585503a1/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585503A1_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585503a1/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585503A1_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503A1_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503A1_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503A1_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

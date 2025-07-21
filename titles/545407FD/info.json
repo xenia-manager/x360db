@@ -1,0 +1,43 @@
+{
+    "id": "545407FD",
+    "title": {
+        "full": "F4 ROTSS",
+        "reduced": "F4 ROTSS"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Visual Concepts",
+    "publisher": "2K Games",
+    "release_date": "2008-01-01",
+    "user_rating": "3.00",
+    "description": {
+        "full": "CHANGE_ME",
+        "short": "CHANGE_ME"
+    },
+    "media": [
+        {
+            "media_id": "0D65B05F",
+            "title": "Fantastic Four: Rise of the Silver Surfer",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "383E2262",
+            "title": "Fantastic Four: Rise of the Silver Surfer",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407fd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407fd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407fd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407fd/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

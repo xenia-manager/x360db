@@ -1,0 +1,41 @@
+{
+    "id": "584109D5",
+    "title": {
+        "full": "Puzzlegeddon",
+        "reduced": "Puzzlegeddon"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Pieces Interactive",
+    "publisher": "TECMO",
+    "release_date": "2010-01-20",
+    "user_rating": "2.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Set in an array of galaxies, Puzzlegeddon™ features a clever mix of puzzle, action and strategy in a game that is fast-paced and addictive! Compete for the top spot on the planet by creating multiple combos for the quickest way to gather enough resources to blast your enemies out of this world!  There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Set in an array of galaxies, Puzzlegeddon™ features a clever mix of puzzle, action and strategy in a game that is fast-paced and addictive! Compete for the top spot on the planet by quickly creating multiple combos to gather enough resources to blast your enemies out of this world!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d5/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d5/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d5/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d5/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

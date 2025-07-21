@@ -1,0 +1,33 @@
+{
+    "id": "5855075A",
+    "title": {
+        "full": "Wizard Apprentice",
+        "reduced": "Wizard Apprentice"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "thelostone",
+    "publisher": "thelostone",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Use your avatar to capture monsters, loot treasure and learn spells in this epic RPG!",
+        "short": "Use your avatar to capture monsters, loot treasure and learn spells in this epic RPG!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855075a/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855075A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855075a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855075A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855075A_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

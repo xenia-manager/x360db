@@ -1,0 +1,46 @@
+{
+    "id": "415608FA",
+    "title": {
+        "full": "Cabelas African Adventures",
+        "reduced": "Cabelas AfricanAdv"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Cauldron",
+    "publisher": "Activision",
+    "release_date": "2013-10-15",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English.  Explore the vast wilderness of Africa on foot and by vehicle, where you’ll go head to head with the most ferocious beasts on the planet as you attempt to take down the biggest of the ‘Big 5”; The Rhino, Lion, Leopard, Cape Buffalo & African Elephant!  • Features vast hunting areas 5x the size of any other Cabela’s® console game • Highly memorable ‘Big 5’; challenging and fun boss animal fights.  • All-new, exciting storyline to explore • Capabilities to enter and leave your vehicle anytime, anywhere while you take on large herds of stampeding buffalo, packs of predators, and dream prey across 5 different biomes!  • There are two exciting modes: Safari Mode: mission-based career progression, Shooting Galleries: supports TOP SHOT ELITE and TOP SHOT FEARMASTER peripherals.  • A wide selection of firearms and load-outs to stalk, dodge, and grapple with the most ferocious beasts alive.",
+        "short": "Explore an African hunting area 5x the size of other Cabela’s® console games on foot and by vehicle, where you’ll go head to head with the biggest of the ‘Big 5’; The Rhino, Lion, Leopard, Cape Buffalo & African Elephants!"
+    },
+    "media": [
+        {
+            "media_id": "439EAA6E",
+            "title": "Cabela's African Adventures",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fa/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fa/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fa/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fa/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fa/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fa/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fa/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fa/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fa/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fa/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fa/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fa/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

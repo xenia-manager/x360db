@@ -1,0 +1,30 @@
+{
+    "id": "5841082D",
+    "title": {
+        "full": "ROOT BEER TAPPER",
+        "reduced": "Root Beer Tapper"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Digital Eclipse",
+    "publisher": "Xbox LIVE Arcade",
+    "release_date": "2010-01-28",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Single Player, HD (High Definition). Serve them up! Take on a bar full of thirsty folks in ROOT BEER TAPPER and see if you can keep their mugs full! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Grab a mug! Rediscover the classic arcade game ROOT BEER TAPPER on Xbox Live. See if you can keep your customers mugs full as they move toward the bar but don't drop the empties if you want to win."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": null,
+        "boxart": "https://images.launchbox-app.com/4676fbbb-3ecd-4442-a0ae-20cba3a14a42.jpg",
+        "icon": "http://www.xboxunity.net/Resources/Lib/Icon.php?tid=5841082D",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

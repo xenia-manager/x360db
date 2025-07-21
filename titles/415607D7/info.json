@@ -1,0 +1,55 @@
+{
+    "id": "415607D7",
+    "title": {
+        "full": "QUAKE 4",
+        "reduced": "QUAKE 4"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "id Software",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2012-06-29",
+    "user_rating": null,
+    "description": {
+        "full": "In a desperate war for Earth’s survival, against an unrelenting alien enemy, the only way to defeat them is to become one of them. Armed with advanced weaponry and vehicles and aided by an elite squad of marines, you take the battle to the heart of the Strogg home planet and become Earth’s only hope for victory.",
+        "short": "In a desperate war for Earth’s survival against an unrelenting alien enemy, the only way to defeat them is to become one of them."
+    },
+    "media": [
+        {
+            "media_id": "0DD85566",
+            "title": "Quake 4",
+            "edition": "Rerelease",
+            "region": "Germany"
+        },
+        {
+            "media_id": "08DD8686",
+            "title": "Quake 4",
+            "edition": "Original",
+            "region": "Germany"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d7/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d7/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "415607D2",
+                "title": "QUAKE 4"
+            }
+        ],
+        "related": []
+    }
+}

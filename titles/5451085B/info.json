@@ -1,0 +1,44 @@
+{
+    "id": "5451085B",
+    "title": {
+        "full": "UFC Personal Trainer The Ultimate Fitness System",
+        "reduced": "UFC Personal Trainer"
+    },
+    "genre": [
+        "Fighting",
+        "Kinect",
+        "Sports & Recreation"
+    ],
+    "developer": "Heavy Iron",
+    "publisher": "THQ",
+    "release_date": "2011-06-14",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, German, Spanish.  Only with Kinect for Xbox 360 and UFC Personal Trainer will you experience the same high impact,  intense,  controller-free work outs as today’s renowned UFC fighters. Full-body tracking allows you to perfect your mixed-martial arts technique through immediate UFC trainer feedback on 70 unique and targeted fighting exercises, including moves from muay thai, wrestling, Brazilian jiu-jitsu and more. Gain advantage with 4 exclusive UFC fighter training partners and 9 additional workout routines, built from the ground up and only available on Kinect for Xbox 360.",
+        "short": "Only with Kinect for Xbox 360 and UFC Personal Trainer will you experience the same high impact, intense, full-body, controller-free work outs as today’s renowned UFC fighters.  "
+    },
+    "media": [
+        {
+            "media_id": "3301E4B6",
+            "title": "UFC Personal Trainer: The Ultimate Fitness System",
+            "edition": "Original, UFC Double Pack",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085b/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085b/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085b/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085b/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085b/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085b/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085b/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085b/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

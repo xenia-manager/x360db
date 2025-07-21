@@ -1,0 +1,41 @@
+{
+    "id": "5752883A",
+    "title": {
+        "full": "Arkham Origins Beta",
+        "reduced": "Arkham Origins Beta"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "WB Games Montréal",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "release_date": "2013-08-06",
+    "user_rating": null,
+    "description": {
+        "full": "Welcome to an exclusive Beta test of the next chapter from the Batman Arkham Saga.   Experience Invisible Predator like never before!  Now is your chance  to take down your friends as Batman, or for the first time hunt down Batman and Robin as one of Bane’s and Joker’s elite soliders. ",
+        "short": "Welcome to an exclusive Beta test of the next chapter from the Batman Arkham Saga.   Experience Invisible Predator like never before!  Now is your chance  to take down your friends as Batman, or for the first time hunt down Batman and Robin as one of Bane’s and Joker’s elite soliders. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752883a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752883a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752883a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752883a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752883a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752883a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752883a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752883a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752883a/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "57520828",
+                "title": "Batman: Arkham Origins"
+            }
+        ],
+        "related": []
+    }
+}

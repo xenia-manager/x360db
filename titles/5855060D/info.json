@@ -1,0 +1,33 @@
+{
+    "id": "5855060D",
+    "title": {
+        "full": "沈黙の磁石",
+        "reduced": "沈黙の磁石"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "ncc",
+    "publisher": "ncc",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. 磁石のプレイヤーを操作し、NとSを入れ替えながらゴールを目指すアクションパズルゲームです。",
+        "short": "磁石のプレイヤーを操作し、NとSを入れ替えながらゴールを目指すアクションパズルゲームです。"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855060d/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855060D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855060d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855060D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855060D_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

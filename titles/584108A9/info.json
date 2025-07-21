@@ -1,0 +1,30 @@
+{
+    "id": "584108A9",
+    "title": {
+        "full": "Bean (GoldenEye 007)",
+        "reduced": "Bean"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Rare",
+    "publisher": "Microsoft",
+    "release_date": "2021-02-03",
+    "user_rating": "5.00",
+    "description": {
+        "full": "GoldenEye 007 (XBLA) is a remastered version of the original Nintendo 64 game, developed by Rare for Xbox Live Arcade around 2007-2008 but ultimately unpublished due to licensing constraints. It was leaked online on February 3rd, 2021. Being a faithful remake of the original, the leaked game plays almost exactly like the original, differing only slightly in controls, due to the dual-analog nature of modern controllers and the different buttons available on the Xbox 360 controller, and modernized graphics. One notable difference is the exclusion of separate save slots: the game boots up straight to a mode selection screen. The game features the original graphics as well as updated graphics - though slightly unfinished in the leaked copy - which can be changed at will during gameplay in all modes and at any time with a single button press. The leaked copy of the game does not feature an online mode on Xbox Live, but does have the ability to play multiplayer through System Link alongside standard Local split-screen.",
+        "short": "GoldenEye 007 (XBLA) is a remastered version of the original Nintendo 64 game, developed by Rare for Xbox Live Arcade."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608af/1033/background.jpg",
+        "banner": "https://cdn.thegamesdb.net/images/original/banner/119779-1.jpg",
+        "boxart": "https://images.launchbox-app.com/5fdbd73f-c00d-4adc-ba73-459cb52575ac.png",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608af/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

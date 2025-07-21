@@ -1,0 +1,35 @@
+{
+    "id": "58550AFF",
+    "title": {
+        "full": "Insane Zombie Carnage",
+        "reduced": "Insane Zombie Carnage"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Geex",
+    "publisher": "Geex",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=1/3. Fight your way through endless hordes of the undead, shoot 'em, burn 'em, blast 'em, beat 'em. Kill 'em in dozen different ways. And, oh,  yes, die hundreds of times in the process. Local Coop, Soft/Hard Challenge for Casual/HardCore Gamers, 26 awards, 12 weapons, Survival /Killing Mode and hours of edge-of-your-seat frantic action.",
+        "short": "Fight your way through endless hordes of the undead, shoot 'em, burn 'em, blast 'em, beat 'em. Kill 'em in dozen different ways. And, oh,  yes, die hundreds of times in the process. Local Coop, Soft/Hard Challenge for Casual/HardCore Gamers, 26 awards, 12 weapons, Survival /Killing Mode and hours of edge-of-your-seat frantic action."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550aff/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550AFF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550aff/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550AFF_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AFF_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AFF_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AFF_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

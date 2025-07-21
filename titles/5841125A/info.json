@@ -1,0 +1,38 @@
+{
+    "id": "5841125A",
+    "title": {
+        "full": "Counter-Strike GO",
+        "reduced": "Counter-Strike GO"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Valve Corporation",
+    "publisher": "Valve Corporation",
+    "release_date": "2012-08-22",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Counter-Strike: Global Offensive expands on the classic team-based action gameplay that it pioneered when it first launched 12 years ago. Featuring a massive arsenal of over 45 weapons, loads of maps, new game modes, new visuals, leaderboards, and over 165 awards to be earned. CS:GO is a must-have tactical shooter.   So what are you waiting for?  Come join your friends online and GO GO GO!",
+        "short": "Counter-Strike: Global Offensive expands on the classic team-based action gameplay that it pioneered when it first launched 12 years ago. Featuring a massive arsenal of over 45 weapons, loads of maps, new game modes, new visuals, leaderboards, and over 165 awards to be earned. CS:GO is a must-have tactical shooter.   So what are you waiting for?  Come join your friends online and GO GO GO! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125a/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125a/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

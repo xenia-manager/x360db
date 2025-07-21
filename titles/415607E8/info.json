@@ -1,0 +1,58 @@
+{
+    "id": "415607E8",
+    "title": {
+        "full": "SHReK the THiRD",
+        "reduced": "SHReK the THiRD"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family",
+        "Platformer"
+    ],
+    "developer": "7 Studios",
+    "publisher": "Activision",
+    "release_date": "2010-04-23",
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game supports English. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Save Far Far Away in this hilarious twisted fairy tale with Shrek and his friends in a new adventure from the movie and beyond... There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Save Far Far Away in this hilarious twisted fairy tale with Shrek and his friends in a new adventure from the movie and beyond..."
+    },
+    "media": [
+        {
+            "media_id": "7ACD823A",
+            "title": "DreamWorks Shrek Terzo",
+            "edition": "Original",
+            "region": "Italy"
+        },
+        {
+            "media_id": "72F3F6C6",
+            "title": "DreamWorks Shrek the Third",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "4E16698B",
+            "title": "DreamWorks Shrek the Third",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e8/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/97/f8/97f83f5c-168f-40de-b17d-2139060575a4.PDF?v=1#skrek3-EN.PDF"
+        ]
+    }
+}

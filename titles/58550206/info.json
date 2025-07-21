@@ -1,0 +1,35 @@
+{
+    "id": "58550206",
+    "title": {
+        "full": "A Robots Conundrum",
+        "reduced": "A Robots Conundrum"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Riddlersoft",
+    "publisher": "Riddlersoft",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. You have just invested in a MAIS (Machine. Artificial. Intelligence. System) This new type of robot has many skills. Its main function is to safely get cargo through hostile environments!   30 levels in the campaign mode.  15 multiplayer battle levels.  Play the campaign with a friend in co-op mode or battle it out in Vs mode.  Level Editor.",
+        "short": "You have just invested in a MAIS (Machine. Artificial. Intelligence. System) This new type of robot has many skills. Its main function is to safely get cargo through hostile environments!   30 levels in the campaign mode.  15 multiplayer battle levels.  Play the campaign with a friend in co-op mode or battle it out in Vs mode.  Level Editor."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855020600000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550206_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550206/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550206_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550206_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550206_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550206_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

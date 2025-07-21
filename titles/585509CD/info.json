@@ -1,0 +1,35 @@
+{
+    "id": "585509CD",
+    "title": {
+        "full": "World Wars II",
+        "reduced": "World Wars II"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Swissplayers Game Studios",
+    "publisher": "Swissplayers Game Studios",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=0/3. World Wars II is an addictive multiplayer game that supports up to 8 online gamers simultaneously. You battle on 10 maps with up to 15 different unit types against your friends. Moreover, you will be challenged by 15 singleplayer and cooperation maps that take place in the Pacific theater during WWII. Fight for your life and bring the war to a glorious end! How many will have to die? You decide!",
+        "short": "World Wars II is an addictive multiplayer game that supports up to 8 online gamers simultaneously. You battle on 10 maps with up to 15 different unit types against your friends. Moreover, you will be challenged by 15 singleplayer and cooperation maps that take place in the Pacific theater during WWII. Fight for your life and bring the war to a glorious end! How many will have to die? You decide!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585509cd00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585509CD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585509cd/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585509CD_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509CD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509CD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509CD_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

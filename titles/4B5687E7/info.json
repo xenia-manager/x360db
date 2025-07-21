@@ -1,0 +1,39 @@
+{
+    "id": "4B5687E7",
+    "title": {
+        "full": "NINJA GAIDEN 3 Razors Edge Demo Version",
+        "reduced": "NG3RE Demo Version"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "TECMO KOEI GAMES.CO.,LTD/Team NINJA",
+    "publisher": "TECMO KOEI AMERICA Corporation",
+    "release_date": "2013-04-02",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Razor's Edge sharpens up the battles, difficulty levels, visuals, and much more to deliver the ultimate Ninja action game experience! Note: Karma, skills, and other data acquired in the demo version can be transferred to the full version.",
+        "short": "Karma, skills, and other data acquired in the demo version can be transferred to the full version."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5687e7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5687e7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5687e7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5687e7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5687e7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5687e7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5687e7/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4B5607E4",
+                "title": "NINJA GAIDEN 3: RE"
+            }
+        ],
+        "related": []
+    }
+}

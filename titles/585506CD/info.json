@@ -1,0 +1,35 @@
+{
+    "id": "585506CD",
+    "title": {
+        "full": "Null Divide",
+        "reduced": "Null Divide"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Apoxxle",
+    "publisher": "Apoxxle",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Find upgrades to aid in exploration and combat, fight bosses, and find a way out. *Features retro graphics and nonlinear levels to explore. Includes medals to unlock and drop-in drop-out coop!*",
+        "short": "Find upgrades to aid in exploration and combat, fight bosses, and find a way out. *Features retro graphics and nonlinear levels to explore. Includes medals to unlock and drop-in drop-out coop!*"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585506cd/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506CD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506cd/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506CD_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506CD_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506CD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506CD_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": "55530841",
+    "title": {
+        "full": "Heroes Over Europe",
+        "reduced": "Heroes Over Europe"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Transmission Games",
+    "publisher": "Ubisoft",
+    "release_date": "2009-09-15",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Heroes Over Europe is a thrilling arcade flying game that puts you in the pilot's seat! Your job is to fly dangerous missions as the war marches across Europe. Defend London against the devastating Blitz! Fight over the English Channel during the Battle of Britain! Strike enemy ground targets deep in the heart of the Third Reich!  (Online Interactions Not Rated by the ESRB)",
+        "short": "Heroes Over Europe is a thrilling arcade flying game that puts you in the pilot's seat! Your job is to fly dangerous missions as the war marches across Europe. Defend London against the devastating Blitz! Fight over the English Channel during the Battle of Britain! Strike enemy ground targets deep in the heart of the Third Reich!"
+    },
+    "media": [
+        {
+            "media_id": "7517E5C7",
+            "title": "Heroes over Europe",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530841/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530841/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530841/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530841/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530841/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530841/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530841/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530841/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530841/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530841/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/9d/e0/9de07e5f-6cd2-4c3d-b7cc-9b75cba2f659.PDF?v=1#HeroesOverEurope"
+        ]
+    }
+}

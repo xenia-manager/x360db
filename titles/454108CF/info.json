@@ -1,0 +1,56 @@
+{
+    "id": "454108CF",
+    "title": {
+        "full": "Dantes Inferno",
+        "reduced": "Dantes Inferno"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Electronic Arts™",
+    "publisher": "Electronic Arts™",
+    "release_date": "2010-04-27",
+    "user_rating": "4.25",
+    "description": {
+        "full": "An abducted soul.  A lifetime of sins.  A journey to the depths of despair.   Based on the immensely influential classic poem, Dante’s Inferno takes you on an epic quest of vengeance and redemption through the Nine Circles of Hell.   You are Dante, a veteran of the Crusades who must chase his beloved Beatrice and try to free her soul from Lucifer’s grasp. As your pursuit takes you deeper into the pits of Hell, you must battle ever more fierce and hideous monsters—while also facing your own sins, a dark family past, and your unforgivable war crimes.    Go to Hell.",
+        "short": "Based on the immensely influential classic poem, Dante’s Inferno takes you on an epic quest of vengeance and redemption through the Nine Circles of Hell.   You are Dante, a veteran of the Crusades who must chase his beloved Beatrice and try to free her soul from Lucifer’s grasp. As your pursuit takes you deeper into the pits of Hell, you must battle ever more fierce and hideous monsters—while also facing your own sins, a dark family past, and your unforgivable war crimes."
+    },
+    "media": [
+        {
+            "media_id": "49028C6A",
+            "title": "Dante's Inferno",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "27C36C6C",
+            "title": "Dante's Inferno",
+            "edition": "Original, Classics, Death Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "55DC7AF2",
+            "title": "Dante's Inferno: Shinkyoku Jigoku-hen",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108cf/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108cf/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108cf/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108cf/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108cf/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108cf/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108cf/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108cf/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/454108cf/English.pdf"
+        ]
+    }
+}

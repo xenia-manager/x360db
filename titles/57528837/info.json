@@ -1,0 +1,41 @@
+{
+    "id": "57528837",
+    "title": {
+        "full": "Injustice Gods Among Us",
+        "reduced": "Injustice Gods Among Us"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "NetherRealm Studios",
+    "publisher": "WB Games, Inc.",
+    "release_date": "2013-03-26",
+    "user_rating": "4.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Injustice: Gods Among Us debuts as a bold new fighting game franchise that introduces a deep, original story featuring a large cast of favorite DC Comics icons such as Batman, Superman, Wonder Woman, Solomon Grundy and many others. Set in a world where the lines between good and evil are blurred, players will experience heroes and villains engaging in epic battles on a massive scale. ",
+        "short": "Set in a world where the lines between good and evil are blurred, players will experience heroes and villains engaging in epic battles on a massive scale. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528837/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528837/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528837/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528837/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528837/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528837/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528837/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528837/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257528837/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "57520829",
+                "title": "Injustice: Gods Among Us"
+            }
+        ],
+        "related": []
+    }
+}

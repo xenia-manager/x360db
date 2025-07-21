@@ -1,0 +1,41 @@
+{
+    "id": "53518812",
+    "title": {
+        "full": "FINAL FANTASY XIII-2 Demo",
+        "reduced": "FFXIII-2 Demo"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "release_date": "2012-01-10",
+    "user_rating": null,
+    "description": {
+        "full": "The unfolding drama of FINAL FANTASY XIII, released in 2010 and selling six million copies worldwide, continues in FINAL FANTASY XIII-2. Explore a richly developed world featuring both new and familiar faces, and an exciting and highly developed strategic battle system.  ",
+        "short": "The 2010 release FINAL FANTASY XIII now has a direct sequel! Join Lightning and company as a new battle begins!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253518812/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253518812/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253518812/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253518812/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253518812/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253518812/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253518812/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253518812/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253518812/1041/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "53510806",
+                "title": "FINAL FANTASY XIII-2"
+            }
+        ],
+        "related": []
+    }
+}

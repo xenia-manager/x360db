@@ -1,0 +1,35 @@
+{
+    "id": "58550B98",
+    "title": {
+        "full": "8 Ball Champion LIVE",
+        "reduced": "8 Ball Champion LIVE"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Maximinus",
+    "publisher": "Maximinus",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Classic 8 Ball pool, with Live multiplayer up to 4 players. Featuring multi rebound Cheat-O-Laser for insane trickshots!",
+        "short": "Classic 8 Ball pool, with Live multiplayer up to 4 players. Featuring multi rebound Cheat-O-Laser for insane trickshots!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550b98/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B98_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b98/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B98_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B98_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B98_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B98_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

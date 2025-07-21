@@ -1,0 +1,41 @@
+{
+    "id": "415608FD",
+    "title": {
+        "full": "Teenage Mutant Ninja Turtles",
+        "reduced": "TMNT"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Magic Pockets",
+    "publisher": "Activision",
+    "release_date": "2013-10-22",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Dutch, Swedish.  Shredder and the Kraang intend to unleash a devastating mutagen bomb that will transform the citizens of New York City into mindless mutants! Join Leonardo, Raphael, Donatello and Michelangelo in the fight for NYC in Teenage Mutant Ninja Turtles the videogame!   • Play as your favorite Turtle Anytime!  Booyakasha! • Join the Turtle Power with 4-player co-op multiplayer.  • Battle through 15 action-packed levels! • Eat pizza to increase your Turtle's health!",
+        "short": "Shredder and the Kraang intend to unleash a devastating mutagen bomb that will transform the citizens of New York City into mindless mutants! Join Leonardo, Raphael, Donatello and Michelangelo in the fight for NYC in Teenage Mutant Ninja Turtles the videogame!   • Play as your favorite Turtle Anytime!  Booyakasha! • Join the Turtle Power with 4-player co-op multiplayer.  • Battle through 15 action-packed levels! • Eat pizza to increase your Turtle's health!"
+    },
+    "media": [
+        {
+            "media_id": "4FA49F65",
+            "title": "Nickelodeon Teenage Mutant Ninja Turtles",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fd/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fd/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fd/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608fd/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550B24",
+    "title": {
+        "full": "Ghosts of Tarr-Minos",
+        "reduced": "Ghosts of Tarr-Minos"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "We Love Hamsters Software",
+    "publisher": "We Love Hamsters Software",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Thirty years after the defeat of the dreaded Minotaur, it is time to return to the maze of Minos Island once again in this retro dungeon adventure. Randomly generated items, monsters and mazes will test your luck, skill and perseverance. Seek out hidden doors, locked chests and the best equipment as you delve ever deeper. Relive the times when television had both intelligence and vision!",
+        "short": "Thirty years after the defeat of the dreaded Minotaur, it is time to return to the maze of Minos Island once again in this retro dungeon adventure. Randomly generated items, monsters and mazes will test your luck, skill and perseverance. Seek out hidden doors, locked chests and the best equipment as you delve ever deeper. Relive the times when television had both intelligence and vision!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550b24/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B24_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b24/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B24_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B24_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B24_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B24_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

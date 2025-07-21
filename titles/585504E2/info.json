@@ -1,0 +1,35 @@
+{
+    "id": "585504E2",
+    "title": {
+        "full": "Attack of the Verbose Dinosaur",
+        "reduced": "Attack of the Verbose Dinosaur"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "AlMra",
+    "publisher": "AlMra",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=1/3. It's the attack of the 50ft verbose dinosaur! Help the dinosaur on his quest to avenge the misuse of language! Form words and then explode them to damage buildings! Use power-ups to increase your destructive power!",
+        "short": "It's the attack of the 50ft verbose dinosaur! Help the dinosaur on his quest to avenge the misuse of language! Form words and then explode them to damage buildings! Use power-ups to increase your destructive power!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585504e2/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585504E2_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585504e2/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585504E2_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504E2_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504E2_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504E2_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

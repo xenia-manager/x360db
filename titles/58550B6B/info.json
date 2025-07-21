@@ -1,0 +1,35 @@
+{
+    "id": "58550B6B",
+    "title": {
+        "full": "Obsessive Collecting Disorder",
+        "reduced": "Obsessive Collecting Disorder"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Hyped Hamster",
+    "publisher": "Hyped Hamster",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=1/3. Ever wanted to know just how obsessed with collecting you are? Obsessive Collecting Disorder is a platformer designed to test you to your collecting limits, 70 levels of hardcore collecting action await.... get rated today!",
+        "short": "Ever wanted to know just how obsessed with collecting you are? Obsessive Collecting Disorder is a platformer designed to test you to your collecting limits, 70 levels of hardcore collecting action await.... get rated today!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550b6b/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B6B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b6b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B6B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B6B_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B6B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B6B_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

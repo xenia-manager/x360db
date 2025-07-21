@@ -1,0 +1,34 @@
+{
+    "id": "5855082D",
+    "title": {
+        "full": "Udder Chaos",
+        "reduced": "Udder Chaos"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Jusy Lover",
+    "publisher": "Jusy Lover",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. Play with up to four players to protect your cows from invading aliens.  Upgrade up your weapons, fire powerful machine guns, and clear the screen with smart bombs through wave after wave of enemies.",
+        "short": "Play with up to four players to protect your cows from invading aliens.  Upgrade up your weapons, fire powerful machine guns, and clear the screen with smart bombs through wave after wave of enemies."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855082d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855082D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855082d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855082D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855082D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855082D_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

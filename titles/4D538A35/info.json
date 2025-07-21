@@ -1,0 +1,52 @@
+{
+    "id": "4D538A35",
+    "title": {
+        "full": "Kinect Star Wars Demo",
+        "reduced": "Demo Kinect Star Wars"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Kinect"
+    ],
+    "developer": "Terminal Reality",
+    "publisher": "Microsoft Studios",
+    "release_date": "2012-04-23",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Step into Star Wars and experience a new galaxy of physical gameplay. Pilot a starfighter, race speeder bikes and even become the ultimate Jedi. Stomp, roar, grab and throw Stormtroopers as a powerful Rancor Monster, or speed past rivals to become a Podracing champion. Even dance for your life as you entertain Jabba the Hutt and other characters, and enjoy more adventures by yourself or with friends.",
+        "short": "Step into Star Wars and experience a new galaxy of physical gameplay. Pilot a starfighter, race speeder bikes and even become the ultimate Jedi. Stomp, roar, grab and throw Stormtroopers as a powerful Rancor Monster, or speed past rivals to become a Podracing champion. Even dance for your life as you entertain Jabba the Hutt and other characters, and enjoy more adventures by yourself or with friends."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a35/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D53090E",
+                "title": "Kinect Star Wars"
+            }
+        ],
+        "related": []
+    }
+}

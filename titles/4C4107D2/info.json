@@ -1,0 +1,55 @@
+{
+    "id": "4C4107D2",
+    "title": {
+        "full": "Star Wars The Force Unleashed",
+        "reduced": "Star Wars The Force Unleashed"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "LucasArts",
+    "publisher": "Disney Interactive Studios",
+    "release_date": "2010-05-10",
+    "user_rating": "4.50",
+    "description": {
+        "full": "This game supports English, French, Italian, German, and Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". The Star Wars saga continues in Star Wars: The Force Unleashed!  Take on the role of Darth Vader’s “Secret Apprentice” in a new chapter of the saga set during the largely unexplored era between Star Wars: Episode III Revenge of the Sith and Star Wars: Episode IV A New Hope.                   Unleash over-the-top Force powers and devastating attack combos on enemies with unique behaviors and reactions every single time you play. Metal bends like metal, wood splinters like wood, and glass shatters like glass as you unleash the Force like never before. Scour the galaxy and defeat Jedi Masters on familiar worlds, including Cloud City, and on strange new worlds, such as the junk planet Raxus Prime. Destroy all who stand in your way in your ultimate quest to do Darth Vader’s bidding.                   Star Wars: The Force Unleashed allows you to feel the power of the Force like never before in a brand new Star Wars story where your decisions could change the ultimate destiny of the galaxy. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "The Star Wars saga continues in Star Wars: The Force Unleashed!  Take on the role of Darth Vader’s “Secret Apprentice” in a new chapter of the saga set during the largely unexplored era between Star Wars: Episode III Revenge of the Sith and Star Wars: Episode IV A New Hope.   Unleash over-the-top Force powers and devastating attack combos on enemies with unique behaviors and reactions every single time you play. Metal bends like metal, wood splinters like wood, and glass shatters like glass as…"
+    },
+    "media": [
+        {
+            "media_id": "6CD9E482",
+            "title": "Star Wars: The Force Unleashed",
+            "edition": "Original, Platinum Hits",
+            "region": "World"
+        },
+        {
+            "media_id": "158BC286",
+            "title": "Star Wars: The Force Unleashed: Ultimate Sith Edition (Disc 1)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "36A31639",
+            "title": "Star Wars: The Force Unleashed: Ultimate Sith Edition (Disc 2)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107d2/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

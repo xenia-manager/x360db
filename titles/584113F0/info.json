@@ -1,0 +1,40 @@
+{
+    "id": "584113F0",
+    "title": {
+        "full": "CAPSIZED",
+        "reduced": "CAPSIZED"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer"
+    ],
+    "developer": "IndiePub",
+    "publisher": "NAMCO BANDAI Games",
+    "release_date": "2013-07-05",
+    "user_rating": "3.00",
+    "description": {
+        "full": "Feverishly blast through a hostile planet packed with blood-sucking aliens in Capsized, an action-packed survival shooter that combines innovative physics-based combat with nods to classic platform games. Navigate through perilous environments while fighting bloodthirsty creatures to save your crewmates and escape with your lives. Use a grappling hook, jet pack, space-age weapons and powerups to fight through more than a dozen non-linear levels with lush, explorable environments across multiple modes. The Xbox Live release also includes exclusive levels, newly enhanced graphics and Achievements.",
+        "short": "Feverishly blast through a hostile planet packed with blood-sucking aliens in Capsized, an action-packed survival shooter that combines innovative physics-based combat with nods to classic platform games."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f0/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f0/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f0/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f0/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

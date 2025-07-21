@@ -1,0 +1,35 @@
+{
+    "id": "58550F08",
+    "title": {
+        "full": "Avatar Eras Online",
+        "reduced": "Avatar Eras Online"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Squarebananas",
+    "publisher": "Squarebananas",
+    "release_date": null,
+    "user_rating": "4.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. Avatar Eras Online is a multiplayer RPG. Choose a class and level your avatar while developing the skills that you choose. Complete quests/challenges to obtain rewards and new equipment. Create high quality items by learning a craft and train your own pets. Form teams and trade items with fellow adventurers while making your way up the rankings to become the greatest avatar across the eras.",
+        "short": "Avatar Eras Online is a multiplayer RPG. Choose a class and level your avatar while developing the skills that you choose. Complete quests/challenges to obtain rewards and new equipment. Create high quality items by learning a craft and train your own pets. Form teams and trade items with fellow adventurers while making your way up the rankings to become the greatest avatar across the eras."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550f0800000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550F08_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550f08/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550F08_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550F08_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550F08_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550F08_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

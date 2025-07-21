@@ -1,0 +1,35 @@
+{
+    "id": "58550102",
+    "title": {
+        "full": "Weapon of Choice",
+        "reduced": "Weapon of Choice"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Mommy's Best Games",
+    "publisher": "Mommy's Best Games",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=2/3, Mature Content=2/3. INSANE ACTION and HUMONGOUS ALIENS tied together by a TWISTED STORY. Branching levels, 4 unique endings, 7 characters each with a Weapon of Choice. Reap revenge with the Vengeance Missile. Cheat death with Deathbrushing! Scale walls with the Spiderpack. Rock out to original, blistering metal guitar tracks. New Controls, SIX DIFFICULTIES! Third Place in Microsoft’s Dream Build Play 2008. v.1.08",
+        "short": "INSANE ACTION and HUMONGOUS ALIENS tied together by a TWISTED STORY. Branching levels, 4 unique endings, 7 characters each with a Weapon of Choice. Reap revenge with the Vengeance Missile. Cheat death with Deathbrushing! Scale walls with the Spiderpack. Rock out to original, blistering metal guitar tracks. New Controls, SIX DIFFICULTIES! Third Place in Microsoft’s Dream Build Play 2008. v.1.08"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855010200000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550102_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550102/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550102_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550102_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550102_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550102_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550A07",
+    "title": {
+        "full": "Abzolium",
+        "reduced": "Abzolium"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Square eyed vision",
+    "publisher": "Square eyed vision",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3.  The award winning multiplayer battle arena game Abzolium is finally coming to the Xbox 360!   Fight with up to 4 players in an action-packed arena where the environment is more than just a dormant background.   Create your own ability build that suits you or your team so you'll come out victorious in the upcoming rounds where kill-count is all that matters.",
+        "short": "The award winning multiplayer battle arena game Abzolium is finally coming to the Xbox 360!   Fight with up to 4 players in an action-packed arena where the environment is more than just a dormant background.   Create your own ability build that suits you or your team so you'll come out victorious in the upcoming rounds where kill-count is all that matters."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550a07/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A07_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a07/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A07_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A07_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A07_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A07_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

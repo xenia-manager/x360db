@@ -1,0 +1,35 @@
+{
+    "id": "5855094D",
+    "title": {
+        "full": "Kobolds Quest",
+        "reduced": "Kobolds Quest"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "SuckerFree Games",
+    "publisher": "SuckerFree Games",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=2/3, Mature Content=3/3. Three chapters of hardcore baby stealing action!  Cut Scenes straight from the bowels of Newgrounds!  Join your Kobold compatriots in this platforming grief game.",
+        "short": "Three chapters of hardcore baby stealing action!  Cut Scenes straight from the bowels of Newgrounds!  Join your Kobold compatriots in this platforming grief game."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855094d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855094D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855094d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855094D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855094D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855094D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855094D_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

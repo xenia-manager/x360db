@@ -1,0 +1,47 @@
+{
+    "id": "5841128D",
+    "title": {
+        "full": "Double Dragon II - The Wander of The Dragons",
+        "reduced": "Double Dragon II"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting"
+    ],
+    "developer": "GRAVITY",
+    "publisher": "CYBERFRONT KOREA CORPORATION",
+    "release_date": "2013-04-05",
+    "user_rating": "2.00",
+    "description": {
+        "full": "One of the greatest side-scrolling action game is back! Double Dragon II keeps the original's story plot, while making vast improvements on all other aspects of the game. Team up and take control of Jimmy and Billy, whose looks and actions are completely modernized. Battle through the newly drawn 3D stages, which hide their own secrets and surprises. Both fans of classic arcade games from the 80's and those who just love to have a good time punching out baddies will find a thrill rider in Double Dragon II - the Wander of Dragons.",
+        "short": "One of the greatest side-scrolling action game is back! Double Dragon II keeps the original's story plot, while making vast improvements on all other aspects of the game."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128d/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128d/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128d/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "58410A74",
+                "title": "Double Dragon II - Wander of The Dragons"
+            }
+        ],
+        "related": []
+    }
+}

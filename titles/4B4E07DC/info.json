@@ -1,0 +1,66 @@
+{
+    "id": "4B4E07DC",
+    "title": {
+        "full": "DDRDS Universe",
+        "reduced": "DDRDS Universe"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "Hudson Soft Co., ltd",
+    "publisher": "Konami",
+    "release_date": "2009-08-25",
+    "user_rating": "2.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". DanceDanceRevolution Controller Needed for optimum FUN!  The DanceDanceRevolution dance party continues its long tradition of innovation and creativity with an entirely new game for the next-generation! DanceDanceRevolution UNIVERSE™/Dancing Stage UNIVERSE™ takes dancing to a whole new dance floor exclusively on the Xbox 360™ video game and entertainment system from Microsoft. DanceDanceRevolution UNIVERSE™ / Dancing Stage UNIVERSE™ is designed to be a \"universal\" DanceDanceRevolution - a game that everyone can play and enjoy, including anyone with two left feet. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "The DDR dance party continues its long tradition of innovation and creativity with an entirely new game for the next-generation!  Dance Dance Revolution UNIVERSE™ / Dancing Stage UNIVERSE™ takes dancing to a whole new dance floor exclusively on the Xbox 360™ video game and entertainment system from Microsoft. Dance Dance Revolution UNIVERSE™ / Dancing Stage UNIVERSE™ is designed to be a \"universal\" DDR - a game that everyone can play and enjoy, including anyone with two left feet."
+    },
+    "media": [
+        {
+            "media_id": "397A8D12",
+            "title": "Dance Dance Revolution Universe",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "1E095E0F",
+            "title": "Dancing Stage Universe",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07dc/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://nxeassets.xbox.com/shaxam/0201/45/6a/456a2e32-1415-43fa-baf4-1841ca4d6a22.PDF?v=1#DDRUmanUS.P"
+        ]
+    }
+}

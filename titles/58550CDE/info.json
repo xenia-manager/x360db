@@ -1,0 +1,35 @@
+{
+    "id": "58550CDE",
+    "title": {
+        "full": "Death Goat",
+        "reduced": "Death Goat"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Nocturnal Studio",
+    "publisher": "Nocturnal Studio",
+    "release_date": null,
+    "user_rating": "4.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=3/3. Death Goat is a bloody twin-stick shooter featuring hordes of brutal enemies & eardrum destroying Heavy Metal. Featuring the music of Between The Buried And Me, God Forbid, Holy Grail, Vanisher, Konkeror, Immortal Guardian, Lorelei and Ovid's Withering.",
+        "short": "Death Goat is a bloody twin-stick shooter featuring hordes of brutal enemies & eardrum destroying Heavy Metal. Featuring the music of Between The Buried And Me, God Forbid, Holy Grail, Vanisher, Konkeror, Immortal Guardian, Lorelei and Ovid's Withering."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550cde/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CDE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550cde/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CDE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CDE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CDE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CDE_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

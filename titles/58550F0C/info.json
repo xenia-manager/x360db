@@ -1,0 +1,34 @@
+{
+    "id": "58550F0C",
+    "title": {
+        "full": "Carolines Important LifeDiary",
+        "reduced": "Carolines Important LifeDiary"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Fabresoft",
+    "publisher": "Fabresoft",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=2/3, Mature Content=3/3. Experience life in Caroline's shoes. This is a short game with multiple possible endings. You'll get to decide what was in her Diary. And was she cool or not?",
+        "short": "Experience life in Caroline's shoes. This is a short game with multiple possible endings. You'll get to decide what was in her Diary. And was she cool or not?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550f0c00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550F0C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550f0c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550F0C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550F0C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550F0C_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

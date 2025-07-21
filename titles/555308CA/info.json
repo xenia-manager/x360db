@@ -1,0 +1,54 @@
+{
+    "id": "555308CA",
+    "title": {
+        "full": "Far Cry 4",
+        "reduced": "Far Cry 4"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2014-11-18",
+    "user_rating": "4.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Spanish, Portuguese.  In Far Cry 4, players find themselves in Kyrat, a breathtaking, perilous and wild region of the Himalayas struggling under the regime of a despotic self-appointed king. Using a vast array of weapons, vehicles, and animals, players will write their own story across an exotic open-world landscape.",
+        "short": "In Far Cry 4, players find themselves in Kyrat, a breathtaking, perilous and wild region of the Himalayas struggling under the regime of a dictator. "
+    },
+    "media": [
+        {
+            "media_id": "08BF0610",
+            "title": "Far Cry 4",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "1482D1EF",
+            "title": "Far Cry 4",
+            "edition": "Limited Edition",
+            "region": "USA"
+        },
+        {
+            "media_id": "09D5655A",
+            "title": "Far Cry 4",
+            "edition": "Original",
+            "region": "Russia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ca/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ca/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ca/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ca/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ca/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ca/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ca/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308ca/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

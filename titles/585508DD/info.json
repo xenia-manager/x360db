@@ -1,0 +1,35 @@
+{
+    "id": "585508DD",
+    "title": {
+        "full": "Zombies Hate Aliens",
+        "reduced": "Zombies Hate Aliens"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Media Acrobats LLC",
+    "publisher": "Media Acrobats LLC",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Zombies are under attack - by aliens!  But what's a poor zombie to do against a menace that can  teleport, cloak, bomb and otherwise outmaneuver them?  Join in the mayhem and help the zombies protect their  precious brain bank from alien obliteration!",
+        "short": "Zombies are under attack - by aliens!  But what's a poor zombie to do against a menace that can  teleport, cloak, bomb and otherwise outmaneuver them?  Join in the mayhem and help the zombies protect their  precious brain bank from alien obliteration!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585508dd00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508DD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508dd/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508DD_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508DD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508DD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508DD_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

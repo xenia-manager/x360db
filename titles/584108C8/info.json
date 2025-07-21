@@ -1,0 +1,47 @@
+{
+    "id": "584108C8",
+    "title": {
+        "full": "Quake Arena Arcade",
+        "reduced": "Quake Arena Arcade"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "id Software",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2010-12-15",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(ONLINE INTERACTIONS NOT RATED BY THE ESRB) QUAKE ARENA ARCADE rumbles onto Xbox LIVE Arcade, introducing the challenge and adrenaline rush of THE definitive, competitive first-person shooter to a new generation of gladiators. Frag up to 15 of your best friends, closest enemies or complete strangers in 6 game types over Xbox LIVE, including Deathmatch, Capture the Flag and Harvester. Humiliate your opponents with 12 brutal weapons including the Lightning Gun, the Chain Gun and the time-honored Rocket Launcher. With 33 classic maps, 12 Xbox-exclusive arenas, HD and Widescreen support, and a brand new Single Player campaign… experience QUAKE like never before. Prepare to Fight! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "(ONLINE INTERACTIONS NOT RATED BY THE ESRB) QUAKE ARENA ARCADE rumbles onto Xbox LIVE Arcade. Frag up to 15 of opponents in 6 game types over Xbox LIVE, including Deathmatch, Capture the Flag and Harvester. With 33 classic maps, 12 Xbox-exclusive arenas, HD and Widescreen support, and a brand new Single Player campaign… experience QUAKE like never before. Prepare to Fight! There are no refunds for this item. For more information, see www.xbox.com/live/accounts."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108c8/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

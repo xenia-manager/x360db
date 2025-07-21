@@ -1,0 +1,36 @@
+{
+    "id": "544387E1",
+    "title": {
+        "full": "Quantum Theory Demo",
+        "reduced": "Quantum Theory Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "TECMO,LTD.",
+    "publisher": "TECMO KOEI GAMES CO., LTD",
+    "release_date": "2010-09-30",
+    "user_rating": null,
+    "description": {
+        "full": "Download the Quantum Theory™ Demo to experience its exciting blend of action and shooting. Bring down enemies with one of the many different weapons, or throw your AI partner at them for a powerful strike. Fight your way through shifting battlefields as you destroy the living tower itself!",
+        "short": "Download the Quantum Theory Demo to experience a combination of shooting and action in a world unlike any other!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544387e1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544387e1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544387e1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544387e1/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "544307DC",
+                "title": "QUANTUM THEORY"
+            }
+        ],
+        "related": []
+    }
+}

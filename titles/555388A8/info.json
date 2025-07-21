@@ -1,0 +1,46 @@
+{
+    "id": "555388A8",
+    "title": {
+        "full": "Just Dance 3",
+        "reduced": "Just Dance 3"
+    },
+    "genre": [
+        "Family",
+        "Kinect",
+        "Music"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2011-12-09",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Just Dance 3 is now available for the first time on the Xbox 360 Kinect. With over 40 tracks spanning a variety of genres, hit artists, and Billboard chart-toppers, Just Dance 3 will get any party started!    The advanced technology of the Kinect gives Just Dance 3 the ability to track full-body movement for a controller-free, interactive dance experience.  Just Dance 3 on Kinect even has exclusive features that take advantage of the unique Kinect camera.   So, join the movement and play the spontaneous and outrageous #1 dance game in America!",
+        "short": "Just Dance 3 is now available for the first time on the Xbox 360 Kinect. With over 40 tracks spanning a variety of genres, hit artists, and Billboard chart-toppers, Just Dance 3 will get any party started!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a8/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a8/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "55530888",
+                "title": "Just Dance 3"
+            }
+        ],
+        "related": []
+    }
+}

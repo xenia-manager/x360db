@@ -1,0 +1,43 @@
+{
+    "id": "5553889A",
+    "title": {
+        "full": "MotionSports Adrenaline Wingsuit Diving Demo",
+        "reduced": "MotionSports Adrenaline Wingsuit Diving Demo"
+    },
+    "genre": [
+        "Kinect",
+        "Sports & Recreation"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2011-11-08",
+    "user_rating": "3.00",
+    "description": {
+        "full": "Motionsports Adrenaline features 6 of the world’s most extreme sports and this demo let’s you try the most dangerous of all – Wingsuit proximity flying!  Experience the thrill of hurtling down a Himalayan mountainside at speeds of over 120mph and take advantage of Kinect’s full-body tracking as you instinctually lean, jump and duck your way past treacherous obstacles and pull off tricks.  Try to collect as many items as possible and break speed records in single player mode.  Or try out split screen multiplayer and use the multitude of different weapons along the course to slow down your friends and reach the landing zone first!  Once you’ve conquered this Wingsuit level, check out the full game which also features Mountain Biking, Extreme Skiing, Whitewater Kayaking, Rock Climbing and Kite Surfing.  At last, here’s your chance to try some of the world’s most Adrenaline-fueled activities in some of the most astounding places on earth… without risking life and limb!",
+        "short": "Defy the impossible and dominate the forces of nature.  Take on 7 of the world’s most dangerous sports.  Plunge down mountains in your wingsuit, pull off a frontside 360 while Kiteboarding, or hurtle down 200 foot waterfalls on your kayak as you attempt to burn your name into the history books.  Every move you make has the potential to push you closer to becoming an extreme sports legend—or rip you in half.   Only by risking everything will you be able to break the will of Mother Nature. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553889a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553889a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553889a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553889a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553889a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553889a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553889a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553889a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553889a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553889a/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "55530887",
+                "title": "MotionSports: Adrenaline"
+            }
+        ],
+        "related": []
+    }
+}

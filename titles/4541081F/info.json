@@ -1,0 +1,78 @@
+{
+    "id": "4541081F",
+    "title": {
+        "full": "FIFA 08",
+        "reduced": "FIFA 08"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "release_date": "2008-01-01",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Experience the revolution of football gaming. FIFA 08 brings you the most believable recreation of football yet seen for videogames blurring the boundaries between the virtual world and real life. Advanced physics and superlative visuals combine to realise the truest expression of the world's greatest sport.",
+        "short": "Experience the revolution of football gaming. FIFA 08 brings you the most believable recreation of football yet seen for videogames blurring the boundaries between the virtual world and real life. Advanced physics and superlative visuals combine to realise the truest expression of the world's greatest sport."
+    },
+    "media": [
+        {
+            "media_id": "0D1BED52",
+            "title": "FIFA 08",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "351B093A",
+            "title": "FIFA 08",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "602FF246",
+            "title": "FIFA 08",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "3FA47E34",
+            "title": "FIFA 08",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "39666767",
+            "title": "FIFA 08: World Class Soccer",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "00AA6EE3",
+            "title": "FIFA Soccer 08",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541081f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541081f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541081f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541081f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541081f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541081f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541081f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541081f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541081f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541081f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541081f/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541081f/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541081f/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541081f/7177/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

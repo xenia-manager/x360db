@@ -1,0 +1,121 @@
+{
+    "id": "4D5307DF",
+    "title": {
+        "full": "Blue Dragon",
+        "reduced": "Blue Dragon"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Mistwalker / Artoon",
+    "publisher": "Microsoft",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Hironobu Sakaguchi, the Father of the Final Fantasy series, and Artoon present the world of Blue Dragon on Xbox 360. Featuring the character design of Akira Toriyama, the Father of \"Dragon Ball Z\", and music by Nobuo Uematsu, the composer for Final Fantasy, Blue Dragon is an epic role-playing game (RPG) centered on five youngsters who possess miraculous strength and magical power to control shadow creatures that mirror the actions of their masters.",
+        "short": "Hironobu Sakaguchi, the Father of the Final Fantasy series, and Artoon present the world of Blue Dragon on Xbox 360. Featuring the character design of Akira Toriyama, the Father of \"Dragon Ball Z\", and music by Nobuo Uematsu, the composer for Final Fantasy, Blue Dragon is an epic role-playing game (RPG) centered on five youngsters who possess miraculous strength and magical power to control shadow creatures that mirror the actions of their masters."
+    },
+    "media": [
+        {
+            "media_id": "0E67E309",
+            "title": "Blue Dragon (Disc 1)",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "3A702998",
+            "title": "Blue Dragon (Disc 1)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "5ED5EFB8",
+            "title": "Blue Dragon (Disc 1)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "2C1379F7",
+            "title": "Blue Dragon (Disc 1)",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "04300916",
+            "title": "Blue Dragon (Disc 2)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "1D8CBD9D",
+            "title": "Blue Dragon (Disc 2)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "06F66642",
+            "title": "Blue Dragon (Disc 2)",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "40ED67A4",
+            "title": "Blue Dragon (Disc 2)",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "15FBA864",
+            "title": "Blue Dragon (Disc 3)",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "05C08AC4",
+            "title": "Blue Dragon (Disc 3)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "2070C37D",
+            "title": "Blue Dragon (Disc 3)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "46D0BE50",
+            "title": "Blue Dragon (Disc 3)",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307df/1033/screenlg17.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

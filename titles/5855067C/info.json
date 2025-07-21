@@ -1,0 +1,35 @@
+{
+    "id": "5855067C",
+    "title": {
+        "full": "Excruciating Guitar Voyage",
+        "reduced": "Excruciating Guitar Voyage"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "WickedWorx",
+    "publisher": "WickedWorx",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=3/3. Excruciating Guitar Voyage is a platform-puzzle-adventure. You play as PX, a surprisingly invincible hairy moron, who can set himself on fire and electrocute himself to solve puzzles. EGV combines traditional point'n'click style puzzles with platform gameplay. There is a fully voiced cast of interesting characters to meet, bizarre scenarios to end up in, and many many levers to pull.",
+        "short": "Excruciating Guitar Voyage is a platform-puzzle-adventure. You play as PX, a surprisingly invincible hairy moron, who can set himself on fire and electrocute himself to solve puzzles. EGV combines traditional point'n'click style puzzles with platform gameplay. There is a fully voiced cast of interesting characters to meet, bizarre scenarios to end up in, and many many levers to pull."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855067c/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855067C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855067c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855067C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855067C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855067C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855067C_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

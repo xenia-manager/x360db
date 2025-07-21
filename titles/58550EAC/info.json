@@ -1,0 +1,35 @@
+{
+    "id": "58550EAC",
+    "title": {
+        "full": "Zombie Hunter IV",
+        "reduced": "Zombie Hunter IV"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Ghere Game Studios",
+    "publisher": "Ghere Game Studios",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=3/3. You are the only hope for humanity.  You are the Zombie Hunter.  You've fought countless zombies and tracked them to where they have originated from.  Can you defeat the zombies roaming the city, and destroy the five buildings they are emerging from to finally put an end to their terror.  Purchase weapons, ammo and health from the store.  Kill zombies to collect dynamite and power-ups.",
+        "short": "You are the only hope for humanity.  You are the Zombie Hunter.  You've fought countless zombies and tracked them to where they have originated from.  Can you defeat the zombies roaming the city, and destroy the five buildings they are emerging from to finally put an end to their terror.  Purchase weapons, ammo and health from the store.  Kill zombies to collect dynamite and power-ups."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550eac00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550EAC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550eac/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550EAC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EAC_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EAC_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EAC_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": "4B4E8835",
+    "title": {
+        "full": "DanceMastersDemo",
+        "reduced": "DanceMastersDemo"
+    },
+    "genre": [
+        "Kinect",
+        "Music"
+    ],
+    "developer": "Konami Digital Entertainment Co., Ltd.",
+    "publisher": "Konami Digital Entertainment, Inc.",
+    "release_date": "2011-01-18",
+    "user_rating": "3.00",
+    "description": {
+        "full": "DanceMasters Demo. Match your pose with the silhouette! Hit the markers with your hands and feet!Through the power of Kinect you can experience a completely new dance game using your entire body--no controller required.Experience exhilarating dancing and the excitement of an ultra-modern dance club from your own home, either alone or with friends!There is more to the game than dancing. Your image is projected onto the stage in real time!",
+        "short": "DanceMasters Demo. Match your pose with the silhouette! Hit the markers with your hands and feet!Through the power of Kinect you can experience a completely new dance game using your entire body--no controller required.Experience exhilarating dancing and the excitement of an ultra-modern dance club from your own home, either alone or with friends!There is more to the game than dancing. Your image is projected onto the stage in real time!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e8835/1033/screenlg19.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4B4E081E",
+                "title": "DanceMasters"
+            }
+        ],
+        "related": []
+    }
+}

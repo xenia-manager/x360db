@@ -1,0 +1,35 @@
+{
+    "id": "58550772",
+    "title": {
+        "full": "Mazeoto",
+        "reduced": "Mazeoto"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "10K31",
+    "publisher": "10K31",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Aliens are putting you to the test in Mazeoto, a retro style First Person Shooter.  Solve the mazes and fight off alien robots or humanity will be destroyed!",
+        "short": "Aliens are putting you to the test in Mazeoto, a retro style First Person Shooter.  Solve the mazes and fight off alien robots or humanity will be destroyed!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855077200000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550772_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550772/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550772_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550772_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550772_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550772_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

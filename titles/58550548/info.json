@@ -1,0 +1,35 @@
+{
+    "id": "58550548",
+    "title": {
+        "full": "GochaSuraDash",
+        "reduced": "GochaSuraDash"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "nobusi",
+    "publisher": "nobusi",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Interchange Suras in your cursor and connect groups of 4 or more Suras of the same color in this action puzzle game.",
+        "short": "Interchange Suras in your cursor and connect groups of 4 or more Suras of the same color in this action puzzle game."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855054800000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550548_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550548/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550548_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550548_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550548_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550548_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

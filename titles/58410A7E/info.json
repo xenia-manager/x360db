@@ -1,0 +1,42 @@
+{
+    "id": "58410A7E",
+    "title": {
+        "full": "Torchlight",
+        "reduced": "Torchlight"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "Runic Games",
+    "publisher": "Microsoft Studios",
+    "release_date": "2011-01-19",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Torchlight is an action-roleplaying game developed by the creators of popular games Diablo and FATE.  Players will choose from among three character classes, and venture from the safety of the town of Torchlight into randomly generated dungeon levels, with a huge variety of creepy monsters, endless variations of loot to find, and quests to complete. Randomized levels and an 'endless dungeon' unlocked after completing the main game ensure a long-lived gameplay experience. ",
+        "short": "Torchlight is an action-roleplaying game where you'll adventure through randomized dungeons, gathering powerful artifacts, slaying hordes of monsters, and learning new and devastating skills.  Can you uncover the secrets buried beneath Torchlight? "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550C5F",
+    "title": {
+        "full": "Chrophidian",
+        "reduced": "Chrophidian"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Violynx",
+    "publisher": "Violynx",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Restore color to the cosmos in this bright twist on an arcade classic! Players control an ever-growing snake that can change an object's color at will. As the snake lengthens it becomes possible to change more and more objects at once! However, a long tail can make accurate color shifts tricky and time is running out in the color-drained universe of Chrophidian!",
+        "short": "Restore color to the cosmos in this bright twist on an arcade classic! Players control an ever-growing snake that can change an object's color at will. As the snake lengthens it becomes possible to change more and more objects at once! However, a long tail can make accurate color shifts tricky and time is running out in the color-drained universe of Chrophidian!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550c5f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C5F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c5f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C5F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C5F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C5F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C5F_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

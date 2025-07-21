@@ -1,0 +1,58 @@
+{
+    "id": "534507EE",
+    "title": {
+        "full": "Virtua Fighter 5",
+        "reduced": "Virtua Fighter 5"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "SEGA",
+    "publisher": "Sega",
+    "release_date": "2007-10-30",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, and Spanish  Experience the ultimate 3D fighting game, renowned for its cutting-edge graphics and unparalleled character balance! Customize your characters with hundreds of items and join the fray online!",
+        "short": "Experience the ultimate 3D fighting game, renowned for its cutting-edge graphics and unparalleled character balance! Customize your characters with hundreds of items and join the fray online!"
+    },
+    "media": [
+        {
+            "media_id": "1D5DE9C3",
+            "title": "Virtua Fighter 5: Live Arena",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "0B05EE59",
+            "title": "Virtua Fighter 5 Online ~ Virtua Fighter 5",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ee/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ee/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ee/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ee/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ee/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ee/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ee/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ee/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ee/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ee/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ee/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ee/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ee/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ee/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ee/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ee/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/534507ee/6ce432ff-e10e-4190-8c56-103f096a82a4.PDF"
+        ]
+    }
+}

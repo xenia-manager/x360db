@@ -1,0 +1,37 @@
+{
+    "id": "58410B3E",
+    "title": {
+        "full": "Star Raiders",
+        "reduced": "Star Raiders"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Incinerator Studios",
+    "publisher": "Atari",
+    "release_date": "2010-11-01",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Star Raiders features a fresh new take on the seminal classic, letting you engage in epic dogfights and aerial assaults against the onslaught of the evil Zylons.  Utilize radical ship transformations and robot co-pilots in the heat of battle as you fight to save humanity.  Explore the galaxy as you utilize galactic warps and sector tactical maps that let you set your own path to liberation!",
+        "short": "Star Raiders features a fresh new take on the seminal classic, letting you engage in epic dogfights and aerial assaults against the onslaught of the evil Zylons.  "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b3e/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

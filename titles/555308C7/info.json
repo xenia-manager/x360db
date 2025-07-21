@@ -1,0 +1,47 @@
+{
+    "id": "555308C7",
+    "title": {
+        "full": "Just Dance Kids 2014",
+        "reduced": "Just Dance Kids 2014"
+    },
+    "genre": [
+        "Family",
+        "Music"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2013-10-22",
+    "user_rating": "3.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Spanish.  This game requires a Kinect™ Sensor  The coolest dance experience for kids is back, Just Dance® Kids 2014 on the Kinect™ for Xbox 360®. Featuring over 30 fun and crazy dance routines to kids favorite songs, including hits from today’s most popular artists, TV shows and movies. Just Dance Kids 2014 gets kids of all ages up and dancing with colorful graphics, super-fun dance moves, and kid-friendly gameplay!",
+        "short": "The coolest dance experience for kids is back, Just Dance® Kids 2014 on the Kinect™ for Xbox 360®. Over 30 fun and crazy dances to kid's favorite songs!"
+    },
+    "media": [
+        {
+            "media_id": "574947BC",
+            "title": "Just Dance Kids 2014",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c7/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c7/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c7/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c7/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "41560908",
+    "title": {
+        "full": "Caissas Chess",
+        "reduced": "Caissas Chess"
+    },
+    "genre": [
+        "Educational"
+    ],
+    "developer": "Activision",
+    "publisher": "Activision",
+    "release_date": "2013-10-04",
+    "user_rating": null,
+    "description": {
+        "full": "Experience chess like never before in this intense 3D tabletop experience. Play against opponents of any skill level in a variety of settings such as at the top of a skyscraper, inside of a beachfront cabana, or even in moving vehicles such as a jet ski, motorcycle, or a commuter airplane. Move up the ranks and across the world as you unravel the ancient secrets of the goddess of chess herself in this riveting and unforgettable chess adventure.",
+        "short": "Experience chess like never before in this intense 3D tabletop experience. Play against opponents of any skill level in a variety of settings such as at the top of a skyscraper, inside of a beachfront cabana, or even in moving vehicles such as a jet ski, motorcycle, or a commuter airplane. Move up the ranks and across the world as you unravel the ancient secrets of the goddess of chess herself in this riveting and unforgettable chess adventure."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560908/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560908/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560908/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560908/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

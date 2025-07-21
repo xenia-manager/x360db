@@ -1,0 +1,50 @@
+{
+    "id": "494707DB",
+    "title": {
+        "full": "BulletWitch",
+        "reduced": "BulletWitch"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "MarvelousAQL",
+    "publisher": "XSEED",
+    "release_date": "2008-01-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, and Spanish.  The human race is almost extinct as hideous demons and monsters dominate the planet. Only a combination of ancient and modern combat can beat these creatures, and Alicia, a highly-trained soldier who also knows ancient magic, is up to the task. The fate of the human race is in her hands as she ventures into the world of monsters, battling them with a mix of magical arts and military equipment. Manage Alicia's health & magic meters to avoid running out of ammo or power -- be strategic & play it safe, or the world dies with her. ",
+        "short": "Play as Alicia, a military-trained witch wielding a large broom-gun and catastrophic witchcraft, in a battle against demons to save a collapsing world!!! Heroic gun action adventure."
+    },
+    "media": [
+        {
+            "media_id": "07C15052",
+            "title": "Bullet Witch",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "6FA36CA5",
+            "title": "Bullet Witch",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707db/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707db/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707db/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707db/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707db/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707db/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707db/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707db/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707db/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707db/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550166",
+    "title": {
+        "full": "AIR Play",
+        "reduced": "AIR Play"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "doozerdude",
+    "publisher": "doozerdude",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. A futuristic sports game involving Artificially Intelligent RoboBots based around an evolved version of Soccer with a plasma ball. Each team attempts to score the highest number of points in order to progress through the AirPlay Tournament. Select from 14 RoboBot characters and 7 force field surrounded scenes.",
+        "short": "A futuristic sports game involving Artificially Intelligent RoboBots based around an evolved version of Soccer with a plasma ball. Each team attempts to score the highest number of points in order to progress through the AirPlay Tournament. Select from 14 RoboBot characters and 7 force field surrounded scenes."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550166/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550166_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550166/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550166_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550166_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550166_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550166_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "585504EF",
+    "title": {
+        "full": "BrainBox360 Physics Edition",
+        "reduced": "BrainBox360 Physics Edition"
+    },
+    "genre": [
+        "Educational"
+    ],
+    "developer": "ElvishJumpSuit",
+    "publisher": "ElvishJumpSuit",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Physics Education Mag decribed this Educational Avatar Quiz for big IQ's as 'an engaging and  innovative resource' and that was before we updated it and dropped it to 80MSP!  Compatible with 'Scene It' Pads!  Use it as a Study Warm-Up before a big Physics Exam or just a bit of family-friendly fun.  Revise Mode allows you to see the answer if you are stuck!  It makes physics study more fun!",
+        "short": "Physics Education Mag decribed this Educational Avatar Quiz for big IQ's as 'an engaging and  innovative resource' and that was before we updated it and dropped it to 80MSP!  Compatible with 'Scene It' Pads!  Use it as a Study Warm-Up before a big Physics Exam or just a bit of family-friendly fun.  Revise Mode allows you to see the answer if you are stuck!  It makes physics study more fun!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585504ef/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585504EF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585504ef/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585504EF_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504EF_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504EF_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504EF_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "585507B8",
+    "title": {
+        "full": "Hypercube Arcade",
+        "reduced": "Hypercube Arcade"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Hypercube Arcade",
+    "publisher": "Hypercube Arcade",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. A collection of addictive multiplayer mini-games. Play it with your friends on split-screen or over Xbox Live. This includes an online matchmaking system to play with random opponents, and AI bots for an extra challenge or if you would like to play by yourself.",
+        "short": "A collection of addictive multiplayer mini-games. Play it with your friends on split-screen or over Xbox Live. This includes an online matchmaking system to play with random opponents, and AI bots for an extra challenge or if you would like to play by yourself."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585507b8/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585507B8_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585507b8/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585507B8_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507B8_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507B8_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507B8_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

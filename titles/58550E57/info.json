@@ -1,0 +1,35 @@
+{
+    "id": "58550E57",
+    "title": {
+        "full": "Parkza",
+        "reduced": "Parkza"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Martin Eriksen",
+    "publisher": "Martin Eriksen",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Can you rescue your love from the evil sun? Shoot the sun and avoid getting hit to win. Inspired by Cannon Ball, Ooops up and Pang.",
+        "short": "Can you rescue your love from the evil sun? Shoot the sun and avoid getting hit to win. Inspired by Cannon Ball, Ooops up and Pang."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550e57/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E57_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e57/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E57_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E57_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E57_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E57_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

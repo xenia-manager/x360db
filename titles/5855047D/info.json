@@ -1,0 +1,35 @@
+{
+    "id": "5855047D",
+    "title": {
+        "full": "Dysnomia",
+        "reduced": "Dysnomia"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Team Mango",
+    "publisher": "Team Mango",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=3/3. Your ship has made an emergency landing near the mining outpost on Dysnomia. All attempts to make contact with the base have failed. Your mission: Repair your ship and find out what happened here. A fast-paced futuristic shooter with exploration and survival elements.",
+        "short": "Your ship has made an emergency landing near the mining outpost on Dysnomia. All attempts to make contact with the base have failed. Your mission: Repair your ship and find out what happened here. A fast-paced futuristic shooter with exploration and survival elements."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855047d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855047D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855047d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855047D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855047D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855047D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855047D_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "584107EA",
+    "title": {
+        "full": "Jewel Quest",
+        "reduced": "Jewel Quest"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "CTXM",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-01-04",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Single Player, HD (High Definition) Further mysteries await you in this archaeological puzzle adventure! Delve deeper when you purchase the FULL version of Jewel Quest. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Further mysteries await you in this archaeological puzzle adventure! Get back to the quest to match more ancient relics and uncover more temple secrets."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ea/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ea/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ea/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ea/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ea/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ea/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ea/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ea/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ea/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ea/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

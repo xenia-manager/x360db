@@ -1,0 +1,35 @@
+{
+    "id": "58550AEE",
+    "title": {
+        "full": "Septipus Tentacle Apocalypse",
+        "reduced": "Septipus Tentacle Apocalypse"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Soulfire Software",
+    "publisher": "Soulfire Software",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. This 7 legged evil villain takes your most valuable possession, and you can't let him get away with it.  Save the town of Follicles and bring back what was stolen.  You must chase the mighty Septipus through his treacherous lair and defeat him.  You are Follicles' only hope.  Good luck brave hero.",
+        "short": "This 7 legged evil villain takes your most valuable possession, and you can't let him get away with it.  Save the town of Follicles and bring back what was stolen.  You must chase the mighty Septipus through his treacherous lair and defeat him.  You are Follicles' only hope.  Good luck brave hero."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550aee/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550AEE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550aee/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550AEE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AEE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AEE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AEE_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "435A87E1",
+    "title": {
+        "full": "INSTANT BRAIN - DEMO",
+        "reduced": "INSTANT BRAIN - DEMO"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": null,
+    "publisher": null,
+    "release_date": "2011-09-20",
+    "user_rating": null,
+    "description": {
+        "full": "Please download this content",
+        "short": "Please download this content"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a87e1/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a87e1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a87e1/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a87e1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a87e1/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a87e1/1041/screenlg2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "435A07E0",
+                "title": "INSTANT BRAIN"
+            }
+        ],
+        "related": []
+    }
+}

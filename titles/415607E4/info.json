@@ -1,0 +1,42 @@
+{
+    "id": "415607E4",
+    "title": {
+        "full": "Civil War",
+        "reduced": "Civil War"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Cauldron",
+    "publisher": "Activision",
+    "release_date": "2008-01-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The game features twelve famous battles and a number of authentic weaponry of the era, including muskets, revolvers, sniper rifles, cannons, and Gatling guns.",
+        "short": "The game features twelve famous battles and a number of authentic weaponry of the era, including muskets, revolvers, sniper rifles, cannons, and Gatling guns."
+    },
+    "media": [
+        {
+            "media_id": "10AFA67C",
+            "title": "Civil War: A Nation Divided",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e4/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

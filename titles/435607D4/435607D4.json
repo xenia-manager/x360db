@@ -1,0 +1,42 @@
+{
+    "id": "435607D4",
+    "title": {
+        "full": "Summer Athletics",
+        "reduced": "Summer Athletics"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "49Games GmbH",
+    "publisher": "Crave Entertainment, Inc.",
+    "release_date": "2008-01-01",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Summer Athletics",
+        "short": "Summer Athletics"
+    },
+    "media": [
+        {
+            "media_id": "7F4A284A",
+            "title": "Summer Athletics: The Ultimate Challenge",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": null,
+        "banner": null,
+        "boxart": null,
+        "icon": null,
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "445407D2",
+                "title": "Summer Athletics"
+            }
+        ],
+        "related": []
+    }
+}

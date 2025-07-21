@@ -1,0 +1,54 @@
+{
+    "id": "54540882",
+    "title": {
+        "full": "XCOM Enemy Unknown",
+        "reduced": "XCOM Enemy Unknown"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Strategy & Simulation"
+    ],
+    "developer": "Firaxis Games",
+    "publisher": "2K Games",
+    "release_date": "2012-10-09",
+    "user_rating": "4.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) The Games on Demand version supports English, French, Italian, German, Spanish, Korean. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". From the award-winning creators of Civilization comes an action-strategy game about humanity’s last stand.   Threatened by an unknown enemy, the Earth’s governments unite to form a secret paramilitary organization, known as XCOM, to combat this extraterrestrial attack. As the commander of XCOM, you control the global defense team in a battle against a terrifying alien invasion.  Control the fate of the human race by creating and managing a fully operational base, researching alien technologies, planning combat missions, and controlling soldier movement in battle.",
+        "short": "Threatened by an unknown enemy, the Earth’s governments unite to form a secret paramilitary organization, known as XCOM, to combat this extraterrestrial attack. As the commander of XCOM, you control the global defense team in a battle against a terrifying alien invasion."
+    },
+    "media": [
+        {
+            "media_id": "627CB718",
+            "title": "XCOM: Enemy Unknown",
+            "edition": "Original",
+            "region": "Poland"
+        },
+        {
+            "media_id": "24F29664",
+            "title": "XCOM: Enemy Unknown",
+            "edition": "Original, 2K Essentials Collection",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540882/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540882/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540882/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540882/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540882/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540882/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540882/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540882/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540882/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540882/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540882/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/54540882/XCOMEU_X360_onlineManual_final.pdf"
+        ]
+    }
+}

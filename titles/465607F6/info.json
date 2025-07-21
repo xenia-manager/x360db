@@ -1,0 +1,47 @@
+{
+    "id": "465607F6",
+    "title": {
+        "full": "Bullet Soul -Infinite Burst-",
+        "reduced": "Bullet Soul -Infinite Burst-"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Tachyon Inc.",
+    "publisher": "5pb.",
+    "release_date": "2014-05-29",
+    "user_rating": "0.00",
+    "description": {
+        "full": "The Games on Demand version supports Japanese. Bullet Soul -Infinite Burst- is Japanese Shooter. Good luck have fun!",
+        "short": "Bullet Soul -Infinite Burst- is Japanese Shooter. "
+    },
+    "media": [
+        {
+            "media_id": "2C27DFEF",
+            "title": "Bullet Soul: Infinite Burst",
+            "edition": "Genteiban",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f6/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "465607F8",
+                "title": "Bullet Soul -Infinite Burst-"
+            }
+        ],
+        "related": []
+    }
+}

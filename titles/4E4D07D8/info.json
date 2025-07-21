@@ -1,0 +1,51 @@
+{
+    "id": "4E4D07D8",
+    "title": {
+        "full": "AFRO SAMURAI",
+        "reduced": "AFRO SAMURAI"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "SURGE",
+    "publisher": "Namco",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The quest for #1 comes to the Xbox 360! Afro Samurai is an action-adventure game featuring never before seen combat mechanics, stunning visuals, and an amazing cast of characters creating a brutally fresh entertainment experience. Afro Samurai utilizes a dynamic cross-hatching art style and cut-scene paneling that makes the game look like a comic come to life while its innovative combat system gives players the ability to dynamically cut enemies at any point in the body. Starring Samuel L. Jackson & featuring a hip-hop musical score produced by The RZA of Wu-Tang clan fame, Afro Samurai blends contemporary street and Japanese culture in the stylish world created by Takashi Okazaki and animated by revered animation studio, Gonzo. Follow the epic tale of Afro Samurai as he seeks vengeance against Justice, who murdered his father. Nothing personal... It's just revenge.",
+        "short": "The quest for #1 comes to the Xbox 360! Afro Samurai is an action-adventure game featuring never before seen combat mechanics, stunning visuals, and an amazing cast of characters creating a brutally fresh entertainment experience. Afro Samurai utilizes a dynamic cross-hatching art style and cut-scene paneling that makes the game look like a comic come to life while its innovative combat system gives players the ability to dynamically cut enemies at any point in the body. Starring Samuel L. Jack…"
+    },
+    "media": [
+        {
+            "media_id": "53B10C8D",
+            "title": "Afro Samurai",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "4EFD55C4",
+            "title": "Afro Samurai",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d8/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

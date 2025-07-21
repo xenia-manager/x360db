@@ -1,0 +1,52 @@
+{
+    "id": "5451085E",
+    "title": {
+        "full": "Fantastic Pets",
+        "reduced": "Fantastic Pets"
+    },
+    "genre": [
+        "Family",
+        "Kinect"
+    ],
+    "developer": "Blitz Games Studios Ltd.",
+    "publisher": "THQ Inc.",
+    "release_date": "2011-03-08",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish, Dutch.  Your uncle Doctor Menagerie is away on expedition and needs you to look after his Fantastic Pets. Take fire breathing dogs, flying ponies, horned cats and furry lizards home with you today (and more normal pets too). You appear on-screen with your pet to give them commands, take photos, play with a friend, enter Talent Shows and loads more. Plus, every pet can be customized in hundreds of ways. Welcome to the world of Fantastic Pets!",
+        "short": "Your uncle Doctor Menagerie is away on expedition and needs you to look after his Fantastic Pets. Take fire breathing dogs, flying ponies, horned cats and furry lizards home with you today (and more normal pets too). You appear on-screen with your pet to give them commands, take photos, play with a friend, enter Talent Shows and loads more. Plus, every pet can be customized in hundreds of ways. Welcome to the world of Fantastic Pets!"
+    },
+    "media": [
+        {
+            "media_id": "1D864BD5",
+            "title": "Fantastic Pets",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085e/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085e/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085e/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085e/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085e/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085e/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/5451085e/FantasticPets_Manual_EN_Revised.pdf"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "585509FC",
+    "title": {
+        "full": "Ninja Recapture",
+        "reduced": "Ninja Recapture"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "WINGLAY",
+    "publisher": "WINGLAY",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=1/3. Beat enemies with Shuriken and Katana, Get back the book of secrets stolen from castle! Buy equipments or get higher levels to power-up. You can play games at the Gambling Hall or rebattle with bosses at the Arena in the latter part of the game.",
+        "short": "Beat enemies with Shuriken and Katana, Get back the book of secrets stolen from castle! Buy equipments or get higher levels to power-up. You can play games at the Gambling Hall or rebattle with bosses at the Arena in the latter part of the game."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585509fc00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585509FC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585509fc/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585509FC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509FC_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509FC_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509FC_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

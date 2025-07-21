@@ -1,0 +1,62 @@
+{
+    "id": "415607FF",
+    "title": {
+        "full": "Quantum of Solace",
+        "reduced": "Quantum of Solace"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Treyarch",
+    "publisher": "Activision",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French.  Blending the action and excitement of “Casino Royale” with the upcoming “Quantum of Solace” feature film, the Quantum Of Solace game challenges players to be the ultimate secret service agent, James Bond, and use their stealth, precision shooting and lethal combat skills to survive the dangerous and gritty world of international espionage.",
+        "short": "Blending the action and excitement of “Casino Royale” with the upcoming “Quantum of Solace” feature film, the Quantum Of Solace game challenges players to be the ultimate secret service agent, James Bond, and use their stealth, precision shooting and lethal combat skills to survive the dangerous and gritty world of international espionage."
+    },
+    "media": [
+        {
+            "media_id": "21551C6C",
+            "title": "007: Ein Quantum Trost",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "13E1A2A8",
+            "title": "007: Nagusame no Houshuu",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "76ECEE40",
+            "title": "007: Quantum of Solace",
+            "edition": "Promo",
+            "region": "Spain"
+        },
+        {
+            "media_id": "06DD88A0",
+            "title": "007: Quantum of Solace",
+            "edition": "Original, Bundled with Xbox 360, Collector's Edition",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "44C47D22",
+            "title": "007: Quantum of Solace",
+            "edition": "Original",
+            "region": "Italy"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607ff/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607ff/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607ff/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607ff/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

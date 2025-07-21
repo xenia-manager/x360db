@@ -1,0 +1,35 @@
+{
+    "id": "58550C7B",
+    "title": {
+        "full": "Scribendus",
+        "reduced": "Scribendus"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Pygmalion's Box",
+    "publisher": "Pygmalion's Box",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=2/3. Scribendus is a word-based puzzle game where players must form words from falling pairs of letters. Test your vocabulary against the increasing speed of Marathon, or see if you can rise to the ultimate challenge by defeating all five levels of Ascension!",
+        "short": "Scribendus is a word-based puzzle game where players must form words from falling pairs of letters. Test your vocabulary against the increasing speed of Marathon, or see if you can rise to the ultimate challenge by defeating all five levels of Ascension!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550c7b00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C7B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c7b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C7B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C7B_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C7B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C7B_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

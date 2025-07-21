@@ -1,0 +1,38 @@
+{
+    "id": "415407D3",
+    "title": {
+        "full": "Spectral Force 3",
+        "reduced": "Spectral Force 3"
+    },
+    "genre": [
+        "Role Playing",
+        "Strategy & Simulation"
+    ],
+    "developer": "Xpec",
+    "publisher": "ATLUS INC.",
+    "release_date": "2008-01-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Spectral Force series makes its debut on the Xbox 360! Take control of the Norius Mercenaries and change the outcome of the Neverland War with your actions on the battlefield. With over 40 characters to recruit and over 150 unique missions, strategy RPG fans won’t want to miss out on Spectral Force 3’s rich and satisfying gameplay experience.",
+        "short": "The Spectral Force series makes its debut on the Xbox 360! Take control of the Norius Mercenaries and change the outcome of the Neverland War with your actions on the battlefield. With over 40 characters to recruit and over 150 unique missions, strategy RPG fans won’t want to miss out on Spectral Force 3’s rich and satisfying gameplay experience."
+    },
+    "media": [
+        {
+            "media_id": "1973322C",
+            "title": "Spectral Force 3",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d3/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

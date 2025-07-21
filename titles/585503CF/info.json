@@ -1,0 +1,32 @@
+{
+    "id": "585503CF",
+    "title": {
+        "full": "Block Fight",
+        "reduced": "Block Fight"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Killen Games",
+    "publisher": "Killen Games",
+    "release_date": null,
+    "user_rating": "1.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. The name says it all. Bash into eachother with a block. BlockFight!! is a simple, yet addictive game.",
+        "short": "The name says it all. Bash into eachother with a block. BlockFight!! is a simple, yet addictive game."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585503cf/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585503CF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585503cf/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585503CF_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

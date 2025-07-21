@@ -1,0 +1,35 @@
+{
+    "id": "58550C96",
+    "title": {
+        "full": "Pester",
+        "reduced": "Pester"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Flump Studios",
+    "publisher": "Flump Studios",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. “Prepare to be Pestered, in a good way!\"  Pester is a vertical shoot em' up which blends the old school with the new creating a frantic and fun shooter experience.  With over 95 combinations of play,  a thumping techno soundtrack, 6 trophies to unlock and a unique old school-new school graphic style Pester is a game for both shooter enthusiasts and anyone up for a good challenge.",
+        "short": "“Prepare to be Pestered, in a good way!\"  Pester is a vertical shoot em' up which blends the old school with the new creating a frantic and fun shooter experience.  With over 95 combinations of play,  a thumping techno soundtrack, 6 trophies to unlock and a unique old school-new school graphic style Pester is a game for both shooter enthusiasts and anyone up for a good challenge."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550c9600000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C96_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c96/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C96_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C96_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C96_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C96_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

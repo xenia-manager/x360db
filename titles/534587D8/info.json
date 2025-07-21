@@ -1,0 +1,37 @@
+{
+    "id": "534587D8",
+    "title": {
+        "full": "Full Auto",
+        "reduced": "Full Auto"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Racing & Flying",
+        "Shooter"
+    ],
+    "developer": "Pseudo Interactive",
+    "publisher": "Sega",
+    "release_date": null,
+    "user_rating": null,
+    "description": {
+        "full": "Welcome to the most destructive racing game ever made. Combine raw horsepower with awesome firepower to destroy your rivals and tear the world apart. Don't be afraid of pushing the limits--Full Auto's innovative \"Unwreck\" feature affords you the racing genre's first real-time \"second chance.\"",
+        "short": "Welcome to the most destructive racing game ever made. Combine raw horsepower with awesome firepower to destroy your rivals and tear the world apart. Don't be afraid of pushing the limits--Full Auto's innovative \"Unwreck\" feature affords you the racing genre's first real-time \"second chance.\""
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.534587d8/marketplace/0/1",
+        "boxart": null,
+        "icon": "http://avatar.xboxlive.com/global/t.534587d8/icon/0/8000",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "534507D5",
+                "title": "Full Auto"
+            }
+        ],
+        "related": []
+    }
+}

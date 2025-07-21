@@ -1,0 +1,44 @@
+{
+    "id": "573607E0",
+    "title": {
+        "full": "Motorcycle Club",
+        "reduced": "Motorcycle Club"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Kylotonn Entertainment",
+    "publisher": "Bigben Interactive",
+    "release_date": "2014-12-01",
+    "user_rating": "0.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Dutch.Ride 22 motorcycles with the official BMW, Honda, Kawasaki, KTM, Suzuki and Yamaha licences. Play solo or online at the handlebars of Superbike, Roadster and Custom models, and create, customize and develop your club.",
+        "short": "The Games on Demand version supports English, French, Italian, German, Spanish, Dutch.Ride 22 motorcycles with the official BMW, Honda, Kawasaki, KTM, Suzuki and Yamaha licences. Play solo or online at the handlebars of Superbike, Roadster and Custom models, and create, customize and develop your club."
+    },
+    "media": [
+        {
+            "media_id": "426D6368",
+            "title": "Motorcycle Club",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e0/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e0/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

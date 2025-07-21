@@ -1,0 +1,35 @@
+{
+    "id": "585506BE",
+    "title": {
+        "full": "Miasma",
+        "reduced": "Miasma"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "ESP Games",
+    "publisher": "ESP Games",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=3/3, Mature Content=2/3. Miasma is a turn-based strategy game set in a dystopian future; where the mega-corporation Vilhelm Industries rules the world and everyone blindly and inexplicably follows their regime.  Join a small band of rebels, specialise and develop their skills, and lead them in an attempt to restore everyone's individuality.",
+        "short": "Miasma is a turn-based strategy game set in a dystopian future; where the mega-corporation Vilhelm Industries rules the world and everyone blindly and inexplicably follows their regime.  Join a small band of rebels, specialise and develop their skills, and lead them in an attempt to restore everyone's individuality."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585506be00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506BE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506be/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506BE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506BE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506BE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506BE_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

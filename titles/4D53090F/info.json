@@ -1,0 +1,53 @@
+{
+    "id": "4D53090F",
+    "title": {
+        "full": "Nike Kinect Training",
+        "reduced": "Nike Kinect Training"
+    },
+    "genre": [
+        "Kinect",
+        "Sports & Recreation"
+    ],
+    "developer": "Sumo Digital Ltd",
+    "publisher": "Microsoft",
+    "release_date": "2012-10-30",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Spanish, Portuguese, Japanese, Korean, Chinese. This game requires a Kinect Sensor  For the elite or the everyday athlete NIKE+ Kinect Training delivers a personalized program that evolves as you do. (Nike; Kinect; training; Fuel; athlete; fit; print)",
+        "short": "For the elite or the everyday athlete NIKE+ Kinect Training delivers a personalized program that evolves as you do. "
+    },
+    "media": [
+        {
+            "media_id": "2ADD0A72",
+            "title": "Nike+ Kinect Training",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "2420E34B",
+            "title": "Nike+ Kinect Training",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "006DDD10",
+            "title": "Nike+ Kinect Training",
+            "edition": "Original",
+            "region": "USA, Asia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53090f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53090f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53090f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53090f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53090f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53090f/1033/screenlg2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

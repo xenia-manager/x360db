@@ -1,0 +1,35 @@
+{
+    "id": "585506AB",
+    "title": {
+        "full": "Of Steel And Sorcery",
+        "reduced": "Of Steel And Sorcery"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "ragnarrok",
+    "publisher": "ragnarrok",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=2/3. The fantasy world of Adoria is under siege. Follow the story of three unique characters using all of their skills, strength and magic in a turn-based game with RPG influences.",
+        "short": "The fantasy world of Adoria is under siege. Follow the story of three unique characters using all of their skills, strength and magic in a turn-based game with RPG influences."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585506ab00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506AB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506ab/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506AB_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506AB_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506AB_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506AB_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

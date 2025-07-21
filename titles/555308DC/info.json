@@ -1,0 +1,38 @@
+{
+    "id": "555308DC",
+    "title": {
+        "full": "Tom Clancys Splinter Cell Pandora Tomorrow",
+        "reduced": "Splinter Cell Pandora Tomorrow"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics"
+    ],
+    "developer": "Ubisoft Shanghai",
+    "publisher": "Ubisoft",
+    "release_date": "2019-06-11",
+    "user_rating": null,
+    "description": {
+        "full": "In Tom Clancy’s Splinter Cell®: Pandora Tomorrow™, you play Sam Fisher, a cold-blooded stealth soldier waging a one-man war against an Indonesian terrorist network. Inspired by the world of Tom Clancy, Pandora Tomorrow features a story line so real you can feel it. Tension-filled stealth action springs from a compelling and original plot that’s so realistic it could’ve been ripped from the headlines by scriptwriter JT Petty, who penned the original Tom Clancy’s Splinter Cell.",
+        "short": "In Tom Clancy’s Splinter Cell®: Pandora Tomorrow™, you play Sam Fisher, a cold-blooded stealth soldier waging a one-man war against an Indonesian terrorist network."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308dc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308dc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308dc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308dc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308dc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308dc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308dc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308dc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308dc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308dc/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

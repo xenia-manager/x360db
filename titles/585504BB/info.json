@@ -1,0 +1,35 @@
+{
+    "id": "585504BB",
+    "title": {
+        "full": "Block Killer",
+        "reduced": "Block Killer"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Bob Taco Industries",
+    "publisher": "Bob Taco Industries",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Kill blocks, save the world!  Block Killer is what 1980 thought we'd be playing in 2010.  Classic, single stick movement, simple push button shooting.  Over 30 levels of arcade-style action!  Do you have what it takes?",
+        "short": "Kill blocks, save the world!  Block Killer is what 1980 thought we'd be playing in 2010.  Classic, single stick movement, simple push button shooting.  Over 30 levels of arcade-style action!  Do you have what it takes?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585504bb00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585504BB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585504bb/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585504BB_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504BB_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504BB_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504BB_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

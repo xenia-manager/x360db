@@ -1,0 +1,35 @@
+{
+    "id": "5855061C",
+    "title": {
+        "full": "Bigger AndOr Better",
+        "reduced": "Bigger AndOr Better"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Adam D Smith",
+    "publisher": "Adam D Smith",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=2/3, Mature Content=2/3. Welcome to the working world. We're gonna leverage your synergy and have you shove some boxes around for some reason.   There's free coffee in the break room.",
+        "short": "Welcome to the working world. We're gonna leverage your synergy and have you shove some boxes around for some reason.   There's free coffee in the break room."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855061c/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855061C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855061c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855061C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855061C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855061C_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855061C_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

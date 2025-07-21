@@ -1,0 +1,43 @@
+{
+    "id": "584114AD",
+    "title": {
+        "full": "Goat Simulator Mmore Goatz Edition",
+        "reduced": "Mmore Goatz Edition"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Double Eleven Limited",
+    "publisher": "Double Eleven Limited",
+    "release_date": "2015-08-26",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Mmore Goatz Edition brings exactly what you’d expect; more goats than ever thought possible in the biggest goat simulation experience of all time!   Next-gen MMO simulation allows you to be a simulated goat in a simulated MMO. Experience faction warfare between goats and sheep in an unreal simulation.   For all you aspiring zombies out there, you can now be a zombie goat in the middle of a zombie apocalypse! Note: contains zombies, because you can’t have a zombie apocalypse without them.",
+        "short": "Mmore Goatz Edition brings exactly what you’d expect; more goats, along with next-gen MMO simulation and the chance to be a zombie goat in a zombie apocalypse."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114ad/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114ad/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114ad/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114ad/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114ad/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114ad/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114ad/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114ad/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114ad/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114ad/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114ad/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114ad/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114ad/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114ad/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114ad/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584114ad/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

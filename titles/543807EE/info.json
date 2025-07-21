@@ -1,0 +1,31 @@
+{
+    "id": "543807EE",
+    "title": {
+        "full": "Dead or Alive 1 Ultimate",
+        "reduced": "Dead or Alive 1 Ultimate"
+    },
+    "genre": [
+        "Classics",
+        "Fighting"
+    ],
+    "developer": "Team Ninja",
+    "publisher": "Tecmo",
+    "release_date": "2021-11-10",
+    "user_rating": null,
+    "description": {
+        "full": "In 1997, the original Dead or Alive was released on the now classic SEGA Saturn, pushing its processing power to the absolute limits. The original Dead or Alive has long been considered one of the greatest masterpieces in the series, but it was never released in the North American Territory. Now, the graphics of the SEGA Saturn version, beautifully crafted by Tecmo’s Team Ninja to be the most advanced at that time, make their first appearance on the Xbox—perfectly rendered, of course.",
+        "short": "In 1997, the original Dead or Alive was released on the now classic SEGA Saturn, pushing its processing power to the absolute limits. The original Dead or Alive has long been considered one of the greatest masterpieces in the series, but it was never released in the North American Territory. Now, the graphics of the SEGA Saturn version, beautifully crafted by Tecmo’s Team Ninja to be the most advanced at that time, make their first appearance on the Xbox—perfectly rendered, of course."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807ee/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807ee/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807ee/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807ee/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

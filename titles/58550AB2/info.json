@@ -1,0 +1,35 @@
+{
+    "id": "58550AB2",
+    "title": {
+        "full": "Miner4Ever",
+        "reduced": "Miner4Ever"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Running Pixel",
+    "publisher": "Running Pixel",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Welcome miner, start building your empire! Mine resources in a limitless world, dig and build structures to increase you production. M4E will update your resources production when you're offline! Miner4Ever is a Minecraft inspired game where the classic mining game meets the strategy and all the appeal of the most popular browser games. Dig deep miner, build your empire miner! LIVE  multiplayer!",
+        "short": "Welcome miner, start building your empire! Mine resources in a limitless world, dig and build structures to increase you production. M4E will update your resources production when you're offline! Miner4Ever is a Minecraft inspired game where the classic mining game meets the strategy and all the appeal of the most popular browser games. Dig deep miner, build your empire miner! LIVE  multiplayer!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550ab200000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550AB2_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550ab2/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550AB2_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AB2_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AB2_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AB2_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

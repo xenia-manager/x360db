@@ -1,0 +1,53 @@
+{
+    "id": "41560826",
+    "title": {
+        "full": "Dangerous Hunts 2009",
+        "reduced": "Dangerous Hunts 2009"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Fun Labs",
+    "publisher": "Activision",
+    "release_date": "2008-09-23",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Feel the thrill of the hunt against the most savage beasts on Earth in Cabela's Dangerous Hunts 2009!",
+        "short": "Feel the thrill of the hunt against the most savage beasts on Earth in Cabela's Dangerous Hunts 2009!"
+    },
+    "media": [
+        {
+            "media_id": "1EE96C9B",
+            "title": "Cabela's Dangerous Adventures",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "06923CB3",
+            "title": "Cabela's Dangerous Hunts 2009",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560826/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560826/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560826/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560826/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560826/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560826/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560826/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560826/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560826/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560826/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560826/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/70/57/705746f7-fb56-4d27-93a0-59df992027d6.PDF?v=1#cabelasdh2009-en"
+        ]
+    }
+}

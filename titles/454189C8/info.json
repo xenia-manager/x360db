@@ -1,0 +1,35 @@
+{
+    "id": "454189C8",
+    "title": {
+        "full": "Battlefield 4 Alpha Trial",
+        "reduced": "Alpha Trial"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "DICE",
+    "publisher": "Electronic Arts",
+    "release_date": "2013-06-24",
+    "user_rating": null,
+    "description": {
+        "full": "EA INTERNAL ONLY: Thank you for helping out testing Battlefield 4! By playing, you’ll help us at DICE to test the back end and server infrastructure. The Alpha is NOT representative of the final game quality. Keep impressions and content CONFIDENTIAL, NDAs apply.",
+        "short": "EA INTERNAL ONLY: Thank you for helping out testing Battlefield 4! By playing, you’ll help us at DICE to test the back end and server infrastructure. The Alpha is NOT representative of the final game quality. Keep impressions and content CONFIDENTIAL, NDAs apply."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189c8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189c8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189c8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189c8/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454109BA",
+                "title": "Battlefield 4™"
+            }
+        ],
+        "related": []
+    }
+}

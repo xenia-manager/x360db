@@ -1,0 +1,36 @@
+{
+    "id": "55530050",
+    "title": {
+        "full": "King Kong Kiosk Demo",
+        "reduced": "King Kong Kiosk Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "UbiSoft",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "- Play both Jack and Kong - No interface to ensure better immersion – get the real cinematic feeling by being in the centre of the action. - Go deeper in Skull Island than the movie, the game features Peter Jackson approved creatures that will not be shown in the movie.",
+        "short": "- Play both Jack and Kong - No interface to ensure better immersion – get the real cinematic feeling by being in the centre of the action. - Go deeper in Skull Island than the movie, the game features Peter Jackson approved creatures that will not be shown in the movie."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530050/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530050/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "555307D3",
+                "title": "Peter Jacksons King Kong"
+            }
+        ],
+        "related": []
+    }
+}

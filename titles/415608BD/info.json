@@ -1,0 +1,50 @@
+{
+    "id": "415608BD",
+    "title": {
+        "full": "Cabelas Big Game Hunter 2012",
+        "reduced": "Cabelas Big Game Hunter 2012"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Cauldron",
+    "publisher": "Activision",
+    "release_date": "2011-09-27",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Cabela’s Big Game Hunter 2012 takes you on a fun-filled, fast-paced adventure around the globe.  With the world as their playground, players will explore a vast expanse of mountains and valleys with unprecedented choices in direction never before seen in a Cabela’s hunting game.  Players will always have the right gear and they can purchase upgrades, producing visible strengths and weaknesses depending on the situation.  Plan your shots carefully because these animals are so true-to-life that they can see, hear, and even smell you.  This exciting new entry into the popular Cabela’s franchise combines intense action with the realistic Top Shot Elite peripheral to deliver gamers one of the most exhilarating hunting adventures ever! Challenge your friends with new multiplayer modes where up to four people can take turns, work together or challenge each other in different fun filled shooting galleries.",
+        "short": "Cabela’s Big Game Hunter 2012 takes you on a fun-filled, fast-paced adventure around the globe.  With the world as their playground, players will explore a vast expanse of mountains and valleys with unprecedented choices in direction never before seen in a Cabela’s hunting game.  Players will always have the right gear and they can purchase upgrades, producing visible strengths and weaknesses depending on the situation. "
+    },
+    "media": [
+        {
+            "media_id": "2BD4207C",
+            "title": "Cabela's Big Game Hunter 2012",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "1AB8433B",
+            "title": "Cabela's Big Game Hunter 2012",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608bd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608bd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608bd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608bd/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608bd/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608bd/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608bd/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608bd/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/415608bd/CabelasBGH12_Manuals_EN_Revised.pdf"
+        ]
+    }
+}

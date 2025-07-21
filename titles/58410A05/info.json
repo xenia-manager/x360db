@@ -1,0 +1,36 @@
+{
+    "id": "58410A05",
+    "title": {
+        "full": "Outland",
+        "reduced": "Outland"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer"
+    ],
+    "developer": "Housemarque",
+    "publisher": "Ubisoft",
+    "release_date": "2011-04-27",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  • 9 out of 10 – Game Informer • 9 out of 10  – IGN.com • 9 out of 10  – GameSpot.com  • “…one of the best downloadable games this year.” – 1UP  In the middle of Balance and Chaos, now stands one man whose efforts may bridge the ancient divide, or doom the world to destruction.  The award-winning studio Housemarque, maker of Super Stardust HD, has teamed up with Ubisoft to create an ambitious platformer inspired by epic adventures such as the Prince of Persia® series. Each player’s adventure will take him between light and darkness and force him to adapt to an ever-changing world.",
+        "short": "(Online Interactions Not Rated by the ESRB) • 9 out of 10  – IGN.com • 9 out of 10  – GameSpot.com • “…one of the best downloadable games this year.” – 1UP  In the middle of Balance and Chaos, now stands one man whose efforts may bridge the ancient divide, or doom the world to destruction. The award-winning studio Housemarque, maker of Super Stardust HD, has teamed up with Ubisoft to create an ambitious platformer."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a05/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a05/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a05/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a05/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a05/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a05/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a05/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a05/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

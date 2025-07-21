@@ -1,0 +1,42 @@
+{
+    "id": "58410B8D",
+    "title": {
+        "full": "Deadlight",
+        "reduced": "Deadlight"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer"
+    ],
+    "developer": "Tequila Works",
+    "publisher": "Microsoft Studios",
+    "release_date": "2012-06-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The world has ended.  There is no hope.  No new beginning.  Only the survivors.  DEADLIGHT follows the journey of Randall Wayne, a man searching for his family across Seattle during the aftermath of a 1980s event that has decimated life on earth.  This visually stunning Cinematic Survival Platformer will challenge you to run, jump, climb, and struggle for your life as you look for answers and the ones you love. ",
+        "short": "The world has ended.  There is no hope.  No new beginning.  Only the survivors.  DEADLIGHT follows the journey of Randall Wayne, a man searching for his family across Seattle during the aftermath of a 1980s event that has decimated life on earth.  This visually stunning Cinematic Survival Platformer will challenge you to run, jump, climb, and struggle for your life as you look for answers and the ones you love. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8d/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8d/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8d/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

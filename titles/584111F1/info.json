@@ -1,0 +1,37 @@
+{
+    "id": "584111F1",
+    "title": {
+        "full": "Sonic CD",
+        "reduced": "Sonic CD"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "SEGA",
+    "publisher": "SEGA",
+    "release_date": "2011-12-14",
+    "user_rating": "3.75",
+    "description": {
+        "full": "It’s time to usher the past into the future in this enhanced recreation of Sonic CD! Sonic travels to the distant shores of Never Lake for the once-a-year appearance of Little Planet - a mysterious world where past, present, and future collide through the power of the Time Stones that lie hidden within it. His arch-nemesis, Dr. Eggman, has come for the Time Stones and with them, will soon have the power to control time itself In order to put an end to Dr. Eggman’s nefarious schemes, Sonic must use the power of Little Planet to travel through time; breaking Dr. Eggman’s hold over the future by destroying his machines in the past and recovering the missing Time Stones!  Featuring 16:9 widescreen, achievements, leaderboards and both the US and Japanese soundtracks, experience the adventure through time that introduced the world to Amy the Hedgehog and Eggman’s most evil creation, Metal Sonic.",
+        "short": "Sonic CD now features 16:9 widescreen, all new achievements, online leaderboards, BOTH the original and Japanese soundtracks, and Tails as an unlockable character!  Travel through time, destroy Dr. Eggman’s evil machines in the past and recover the mysterious Time Stones in order to save the future!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f1/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

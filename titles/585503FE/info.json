@@ -1,0 +1,35 @@
+{
+    "id": "585503FE",
+    "title": {
+        "full": "Abaddon",
+        "reduced": "Abaddon"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Firestorm Studios",
+    "publisher": "Firestorm Studios",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=2/3, Mature Content=1/3. Are you ready to experience EPIC space battles against enormous enemy fleets over XBox Live? If so, then Abaddon is in need of pilots like you! This game mixes tower-defense strategy with fast-paced-shooter intensity. Choose from 4 upgradeable ships, 5 weapons, and 7 abilities as you defend Abaddon in 3 unique game modes.  Supports 4-player networked co-op, and 2-player local co-op.",
+        "short": "Are you ready to experience EPIC space battles against enormous enemy fleets over XBox Live? If so, then Abaddon is in need of pilots like you! This game mixes tower-defense strategy with fast-paced-shooter intensity. Choose from 4 upgradeable ships, 5 weapons, and 7 abilities as you defend Abaddon in 3 unique game modes.  Supports 4-player networked co-op, and 2-player local co-op."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585503fe/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585503FE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585503fe/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585503FE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503FE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503FE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503FE_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

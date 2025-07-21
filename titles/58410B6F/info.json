@@ -1,0 +1,43 @@
+{
+    "id": "58410B6F",
+    "title": {
+        "full": "Sega Vintage Collection Golden Axe",
+        "reduced": "Sega Vintage Collection Golden Axe"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics",
+        "Platformer"
+    ],
+    "developer": "M2",
+    "publisher": "SEGA",
+    "release_date": "2012-05-30",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Grab your axe, swords, and mythic steeds to fight against evil in all three classic Golden Axe entries!    Originally released for the Sega Genesis, the classic fantasy brawler series has now been updated for release on Xbox LIVE Arcade! Earn all new achievements, take on challenging new game trials, compete with others players across Xbox LIVE Leaderboards, and take on the forces of evil with a friend in two player local and online co-op!",
+        "short": "Grab your axe, swords, and mythic steeds to fight against evil in all three classic Golden Axe entries!  "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6f/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6f/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6f/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b6f/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

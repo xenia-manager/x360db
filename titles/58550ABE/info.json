@@ -1,0 +1,35 @@
+{
+    "id": "58550ABE",
+    "title": {
+        "full": "Match with Wally",
+        "reduced": "Match with Wally"
+    },
+    "genre": [
+        "Educational"
+    ],
+    "developer": "Water Bear Interactive",
+    "publisher": "Water Bear Interactive",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Water Bear Interactive LLC presents Match with Wally for the X-Box 360.   Match with Wally allows the child to match Upper and Lower case letters, Star blocks with Number Blocks, Shapes and colors with their name block. The software uses randomization to reduce patterns and encourage learning.   Match with Wally is part of the Alexander Learning Series.",
+        "short": "Water Bear Interactive LLC presents Match with Wally for the X-Box 360.   Match with Wally allows the child to match Upper and Lower case letters, Star blocks with Number Blocks, Shapes and colors with their name block. The software uses randomization to reduce patterns and encourage learning.   Match with Wally is part of the Alexander Learning Series."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550abe00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550ABE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550abe/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550ABE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550ABE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550ABE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550ABE_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

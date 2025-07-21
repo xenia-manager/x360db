@@ -1,0 +1,62 @@
+{
+    "id": "415707D4",
+    "title": {
+        "full": "Battle Fantasia",
+        "reduced": "Battle Fantasia"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "ARC SYSTEM WORKS Co.,Ltd.",
+    "publisher": "Aksys Games",
+    "release_date": "2010-05-07",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Battle Fantasia, a fighting game set in a world of swords and sorcery! Designed with a system that is easy to learn but difficult to master, Battle Fantasia is fun for casual and expert gamers! Twenty-four storylines are brought to life with incredible graphics and twelve fully-voiced characters.",
+        "short": "Battle Fantasia, a fighting game set in a world of swords and sorcery! Designed with a system that is easy to learn but difficult to master, Battle Fantasia is fun for casual and expert gamers! Twenty-four storylines are brought to life with incredible graphics and twelve fully-voiced characters."
+    },
+    "media": [
+        {
+            "media_id": "2050543E",
+            "title": "Battle Fantasia",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "3F7C6084",
+            "title": "Battle Fantasia",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "1297A05D",
+            "title": "Battle Fantasia",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707d4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707d4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707d4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707d4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707d4/18441/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707d4/18441/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707d4/18441/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415707d4/18441/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/415707d4/d76f40f9-d26e-4464-9d4d-572c46f8b6fc.PDF"
+        ]
+    }
+}

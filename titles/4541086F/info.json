@@ -1,0 +1,46 @@
+{
+    "id": "4541086F",
+    "title": {
+        "full": "MONOPOLY",
+        "reduced": "MONOPOLY"
+    },
+    "genre": [
+        "Family"
+    ],
+    "developer": "EA Bright Light",
+    "publisher": "Electronic Arts",
+    "release_date": "2009-12-03",
+    "user_rating": "3.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) This game supports English, French, German, and Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". From EA Casual Entertainment, MONOPOLY™ is reinvented with a party twist! With a host of current-day cities and landmarks from all over the world, this new version lets you wheel and deal and compete to own some of the most recognized locations on Earth. Host the ultimate MONOPOLY party with family and friends to experience classic and global versions of MONOPOLY with digital gameplay. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Sell Text"
+    },
+    "media": [
+        {
+            "media_id": "42781C49",
+            "title": "Monopoly",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541086f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541086f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541086f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541086f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541086f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541086f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541086f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541086f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541086f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541086f/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/08/a7/08a7a8b6-a450-45bb-b8fa-ea6cf05a57ca.PDF?v=1#monopoly-en.PDF"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "43438825",
+    "title": {
+        "full": "ASURAS WRATH Demo",
+        "reduced": "ASURAS WRATH Demo"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "CyberConnect2 Co.Ltd.",
+    "publisher": "CAPCOM CO., LTD.",
+    "release_date": "2012-01-10",
+    "user_rating": "3.75",
+    "description": {
+        "full": "ASURA'S WRATH, the upcoming interactive cliffhanger-action game, lets you unleash your rage in two epic boss battles!  Experience two of the game's episodes: In Episode 5, face off against the planet-sized Wyzen; and in Episode 11, clash with the powerful sword-wielding Augus on the surface of the moon!  ASURA'S WRATH is a unique blend of action and drama. Immerse yourself in this unprecedented take on the action genre!",
+        "short": "ASURA'S WRATH, the upcoming interactive cliffhanger-action game, lets you unleash your rage in two epic boss battles!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243438825/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243438825/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243438825/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243438825/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "43430817",
+                "title": "ASURA'S WRATH"
+            }
+        ],
+        "related": []
+    }
+}

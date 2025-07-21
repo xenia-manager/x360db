@@ -1,0 +1,42 @@
+{
+    "id": "58410B79",
+    "title": {
+        "full": "Fruit Ninja Kinect",
+        "reduced": "Fruit Ninja Kinect"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family",
+        "Kinect"
+    ],
+    "developer": "Halfbrick",
+    "publisher": "Microsoft Studios",
+    "release_date": "2011-06-06",
+    "user_rating": "3.75",
+    "description": {
+        "full": "YOU are the ninja! The worldwide gaming phenomenon Fruit Ninja has now arrived for Kinect!  Your arms are now blades, and the epic battle against the world's most delicious produce is just beginning. Fruit Ninja Kinect is an amazing evolution of the slice-em-up genre created by Halfbrick, utlising next-gen power for the juiciest combat ever!  With Classic, Zen and the frenetic Arcade Mode, Fruit Ninja Kinect includes all the action you know and love with precision control - along with special features exclusive to Kinect! With Party Mode, multiple players can turn a normal night into a fierce tournament - and the new Challenge system will reveal the true masters among your friends! ",
+        "short": "YOU are the ninja! The worldwide gaming phenomenon Fruit Ninja has now arrived for Kinect in its juiciest form yet!  Your arms are now blades, and the battle against the world's most delicious produce is just beginning.  Fruit Ninja Kinect is an amazing evolution of the slice-em-up genre created by Halfbrick, utlising next-gen precision power for the juiciest combat ever! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b79/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b79/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b79/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b79/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b79/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b79/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b79/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b79/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b79/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b79/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b79/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b79/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b79/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

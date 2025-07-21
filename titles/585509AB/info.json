@@ -1,0 +1,35 @@
+{
+    "id": "585509AB",
+    "title": {
+        "full": "Milie  Telly",
+        "reduced": "Milie  Telly"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Nitama Naishin",
+    "publisher": "Nitama Naishin",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. After an emergency landing, Telly's spaceship has been stolen by a strange and dark professor. As Milie, a young mechanic girl, help him to find it back. Ride your motorbike, fight against a whole army of robots and defeat the professor in this scrolling shooter.",
+        "short": "After an emergency landing, Telly's spaceship has been stolen by a strange and dark professor. As Milie, a young mechanic girl, help him to find it back. Ride your motorbike, fight against a whole army of robots and defeat the professor in this scrolling shooter."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585509ab00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585509AB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585509ab/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585509AB_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509AB_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509AB_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509AB_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

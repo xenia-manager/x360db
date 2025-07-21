@@ -1,0 +1,33 @@
+{
+    "id": "5855047F",
+    "title": {
+        "full": "Avatar Cannon",
+        "reduced": "Avatar Cannon"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Lighthouse Games Studio",
+    "publisher": "Lighthouse Games Studio",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. It's Safari time! Take you Avatar out into the wild and take on the the world. Avatar Cannon features hilarious 3D graphics, unlockable rewards and Global Scoreboards. Use over 10 animals to your advantage as you fly across the African Savannah.",
+        "short": "It's Safari time! Take you Avatar out into the wild and take on the the world. Avatar Cannon features hilarious 3D graphics, unlockable rewards and Global Scoreboards. Use over 10 animals to your advantage as you fly across the African Savannah."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855047f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855047F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855047f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855047F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855047F_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "545488A0",
+    "title": {
+        "full": "Spec Ops The Line Demo",
+        "reduced": "Spec Ops The Line Demo"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Yager",
+    "publisher": "2K Games",
+    "release_date": "2012-05-08",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The demo begins with a Delta Force recon team, led by Captain Martin Walker, infiltrating Dubai six months after a cataclysmic sandstorm destroyed the city and left it buried in ruin. Chaos ensues as Delta is pulled into the middle of a civil war. Walker and his team must fight their way through the unpredictable war-torn city to find the man at the heart of its madness – Colonel John Konrad.",
+        "short": "The demo begins with a Delta Force recon team, led by Captain Martin Walker, infiltrating Dubai six months after a cataclysmic sandstorm destroyed the city and left it buried in ruin. Chaos ensues as Delta is pulled into the middle of a civil war. Walker and his team must fight their way through the unpredictable war-torn city to find the man at the heart of its madness – Colonel John Konrad."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545488a0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545488a0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545488a0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545488a0/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "54540843",
+                "title": "Spec Ops: The Line"
+            }
+        ],
+        "related": []
+    }
+}

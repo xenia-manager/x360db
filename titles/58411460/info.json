@@ -1,0 +1,35 @@
+{
+    "id": "58411460",
+    "title": {
+        "full": "RISK",
+        "reduced": "RISK"
+    },
+    "genre": [
+        "Card & Board"
+    ],
+    "developer": "Zoë Mode",
+    "publisher": "Ubisoft",
+    "release_date": "2015-04-29",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Modern combat meets RISK - the classic game of global domination. RISK steps into the near future with modern armies. Using the 2010 rules as standard, Risk offers an exciting strategic experience. Direct the war from your high-tech control room, fighting on the classic map layout on 3D; Deploy tanks, planes and infantry… All in the modern warfare twist on the classic game of global domination! Online league play allows you to compete with people from around the world.",
+        "short": "Modern combat meets RISK - the classic game of global domination. RISK steps into the near future with modern armies. Using the 2010 rules as standard, Risk offers an exciting strategic experience. Direct the war from your high-tech control room, fighting on the classic map layout on 3D; Deploy tanks, planes and infantry… All in the modern warfare twist on the classic game of global domination! Online league play allows you to compete with people from around the world."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411460/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411460/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411460/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411460/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411460/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411460/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411460/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411460/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

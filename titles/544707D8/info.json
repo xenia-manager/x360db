@@ -1,0 +1,37 @@
+{
+    "id": "544707D8",
+    "title": {
+        "full": "Prejudice",
+        "reduced": "Prejudice"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "TimeGate Studios",
+    "publisher": "TimeGate Studios",
+    "release_date": "2011-01-25",
+    "user_rating": null,
+    "description": {
+        "full": "Prejudice is a large-scale, sci-fi first person shooter where fast-paced action meets military strategy in the far reaches of the galaxy. Join the epic struggle as the 8th Armored Infantry battles both the Arm of Orion and the mysterious new enemy, the “Orion Spear,” by taking part in fierce team-based combat across expansive outdoor environments. Choose the experience you want to play ",
+        "short": "Prejudice is a large-scale, sci-fi first person shooter where fast-paced action meets military strategy in the far reaches of the galaxy. Join the epic struggle as the 8th Armored Infantry battles both the Arm of Orion and the mysterious new enemy, the “Orion Spear,” by taking part in fierce team-based combat across expansive outdoor environments. Choose the experience you want to play "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d8/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

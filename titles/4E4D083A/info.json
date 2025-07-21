@@ -1,0 +1,83 @@
+{
+    "id": "4E4D083A",
+    "title": {
+        "full": "Dark Souls",
+        "reduced": "Dark Souls"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "FromSoftware, Inc.",
+    "publisher": "NAMCO BANDAI Games America Inc.",
+    "release_date": "2011-08-15",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Spanish.  Dark Souls is an action RPG (role playing game) set in a rich, dark fantasy universe. Tense dungeon crawling, fearsome enemy encounters and groundbreaking online features combine for a truly unique RPG experience. Dark Souls breaks down barriers with a seamless world design that encourages exploration and fosters an adaptable gameplay experience. The unerring foundation of challenge and reward will engulf you and offer an unparalleled sense of achievement.",
+        "short": "Dark Souls is an action RPG (role playing game) set in a rich, dark fantasy universe. Tense dungeon crawling, fearsome enemy encounters and groundbreaking online features combine for a truly unique RPG experience. Dark Souls breaks down barriers with a seamless world design that encourages exploration and fosters an adaptable gameplay experience."
+    },
+    "media": [
+        {
+            "media_id": "11DACC57",
+            "title": "Dark Souls",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "055EE4AB",
+            "title": "Dark Souls",
+            "edition": "Original",
+            "region": "Korea"
+        },
+        {
+            "media_id": "23025213",
+            "title": "Dark Souls",
+            "edition": "Platinum Hits",
+            "region": "USA"
+        },
+        {
+            "media_id": "27E95907",
+            "title": "Dark Souls",
+            "edition": "Original, Limited Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "32229361",
+            "title": "Dark Souls",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "53830F53",
+            "title": "Dark Souls: Prepare to Die Edition",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4e4d083a/DarkSouls_XBOX_360_Manual_GB.pdf"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "585504EB",
+    "title": {
+        "full": "Scatha",
+        "reduced": "Scatha"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Living Creature Studios",
+    "publisher": "Living Creature Studios",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. This campaign-based real time strategy game is completely unique from other games of its genre.  You will be dealing with your units very closely as you battle through the varied types of levels of the campaign, leading Scathaedia to victory over the League of the Immortals!",
+        "short": "This campaign-based real time strategy game is completely unique from other games of its genre.  You will be dealing with your units very closely as you battle through the varied types of levels of the campaign, leading Scathaedia to victory over the League of the Immortals!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585504eb/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585504EB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585504eb/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585504EB_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504EB_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504EB_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

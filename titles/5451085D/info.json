@@ -1,0 +1,48 @@
+{
+    "id": "5451085D",
+    "title": {
+        "full": "WWE Smackdown vs Raw 2011",
+        "reduced": "WWE Smackdown vs Raw 2011"
+    },
+    "genre": [
+        "Fighting",
+        "Sports & Recreation"
+    ],
+    "developer": "YUKE’S Co., Ltd.",
+    "publisher": "2K Sports",
+    "release_date": "2010-10-26",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Having sold more than 50 million units worldwide, the renowned WWE simulation experience and annual centerpiece in THQ’s expanding WWE videogame portfolio returns to define the ultimate WWE moments and give players even greater creative and decision-making freedom throughout their storied journeys within WWE.  ",
+        "short": "Having sold more than 50 million units worldwide, the renowned WWE simulation experience and annual centerpiece in THQ’s expanding WWE videogame portfolio returns to define the ultimate WWE moments and give players even greater creative and decision-making freedom throughout their storied journeys within WWE.  "
+    },
+    "media": [
+        {
+            "media_id": "4A4F538E",
+            "title": "WWE SmackDown vs. Raw 2011",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085d/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451085d/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

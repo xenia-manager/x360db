@@ -1,0 +1,44 @@
+{
+    "id": "4D4B07D7",
+    "title": {
+        "full": "Worms Collection",
+        "reduced": "Worms Collection"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Team 17",
+    "publisher": "Mastertronic Group Ltd.",
+    "release_date": "2012-07-20",
+    "user_rating": "0.00",
+    "description": {
+        "full": "The Worms Collection features three best-selling Worms titles only previously available via Xbox LIVE Arcade for Xbox 360. Each game preserves all of the features, online functionality and Achievements from their download versions.  Worms - The original and classic 2D turn-based strategy game Worms  Worms 2: Armageddon - The feature-heavy and explosive Worms 2: Armageddon  Worms Ultimate Mayhem - The 3D cartoon craziness of Worms Ultimate Mayhem",
+        "short": "The Worms Collection features three best-selling Worms titles only previously available via Xbox LIVE Arcade for Xbox 360. Each game preserves all of the features, online functionality and Achievements from their download versions.  Worms - The original and classic 2D turn-based strategy game Worms  Worms 2: Armageddon - The feature-heavy and explosive Worms 2: Armageddon  Worms Ultimate Mayhem - The 3D cartoon craziness of Worms Ultimate Mayhem"
+    },
+    "media": [
+        {
+            "media_id": "07193B44",
+            "title": "Worms Collection",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d7/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4b07d7/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

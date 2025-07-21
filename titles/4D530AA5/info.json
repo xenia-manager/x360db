@@ -1,0 +1,39 @@
+{
+    "id": "4D530AA5",
+    "title": {
+        "full": "Warface",
+        "reduced": "Warface"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Crytek",
+    "publisher": "Microsoft",
+    "release_date": "2799-12-30",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Engage in explosive action with this exhilarating free-to-play FPS from Crytek, keeping you on your toes with daily new missions. Master four soldier classes as you team up to complete daring Co-op raids or dominate Versus modes. Join the battle with unique assault moves and real-time weapon customization. Downloadable and free-to-play to Xbox Live Gold members.",
+        "short": "Explosive FPS action featuring daily new missions. Team up for epic Co-op or thrilling Versus modes! Free-to-play and downloadable to Xbox Live Gold members."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa5/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa5/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

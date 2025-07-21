@@ -1,0 +1,35 @@
+{
+    "id": "585508EA",
+    "title": {
+        "full": "QuickDraw",
+        "reduced": "QuickDraw"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "GZ Storm",
+    "publisher": "GZ Storm",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=2/3. Be quick or be dead! Featuring 10 outlaws in 10 unique game modes, 2 player versus, and more. Challenge your friends to see who has the quickest draw, or play arcade mode and try to get the highest score!",
+        "short": "Be quick or be dead! Featuring 10 outlaws in 10 unique game modes, 2 player versus, and more. Challenge your friends to see who has the quickest draw, or play arcade mode and try to get the highest score!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585508ea00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508EA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508ea/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508EA_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508EA_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508EA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508EA_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

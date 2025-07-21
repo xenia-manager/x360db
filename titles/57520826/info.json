@@ -1,0 +1,47 @@
+{
+    "id": "57520826",
+    "title": {
+        "full": "Harry Potter for Kinect",
+        "reduced": "Harry Potter for Kinect"
+    },
+    "genre": [
+        "Kinect"
+    ],
+    "developer": "Eurocom",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "release_date": "2012-10-09",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor.  Experience Hogwarts School of Witchcraft and Wizardry like never before in the all-new Harry Potter for Kinect video game exclusively on KINECT™ for Xbox 360®.  Using KINECT capability, scan your face to create a wizard avatar that looks like you – and then play with that avatar in the game.   ",
+        "short": "Experience Hogwarts School of Witchcraft and Wizardry like never before in the all-new Harry Potter for Kinect video game exclusively on KINECT™ for Xbox 360®. "
+    },
+    "media": [
+        {
+            "media_id": "042FDE4B",
+            "title": "Harry Potter for Kinect",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520826/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520826/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520826/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520826/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520826/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520826/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520826/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520826/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520826/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520826/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520826/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/57520826/HPK_XB360_ONLINE_MANUAL_5000148262_UK.pdf"
+        ]
+    }
+}

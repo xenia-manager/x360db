@@ -1,0 +1,35 @@
+{
+    "id": "5855054A",
+    "title": {
+        "full": "Dragoon",
+        "reduced": "Dragoon"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "XELF",
+    "publisher": "XELF",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=0/3. Dragoon is a weapon-based versus fighting game. Using 3D graphics and old-style controls. Dragoon: An exhibition match given by the hunting people who lives with dragons. Contestants wield a large weapon for their hunting. Dragoon © 2008-2010 XELF http://xelf.info/",
+        "short": "Dragoon is a weapon-based versus fighting game. Using 3D graphics and old-style controls. Dragoon: An exhibition match given by the hunting people who lives with dragons. Contestants wield a large weapon for their hunting. Dragoon © 2008-2010 XELF http://xelf.info/"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855054a00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855054A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855054a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855054A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855054A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855054A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855054A_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

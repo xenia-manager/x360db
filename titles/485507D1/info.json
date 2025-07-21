@@ -1,0 +1,62 @@
+{
+    "id": "485507D1",
+    "title": {
+        "full": "BOMBERMAN ActZero",
+        "reduced": "BOMBERMAN ActZero"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "HUDSON",
+    "publisher": "Hudson Soft CO., Ltd.",
+    "release_date": "2010-05-19",
+    "user_rating": "3.00",
+    "description": {
+        "full": "The Games on Demand version supports  English.  [BOMBERMAN: The Genesis]  Split-second decisions make all the difference between living and dying. Simple, yet deep and compelling gameplay with intense battles. These time-tested Bomberman concepts have been combined with the original Bomberman storyline and given new life in a dark and unforgiving world to bring you BOMBERMAN Act:Zero.  A return to simple rules and an all-new futuristic setting make BOMBERMAN Act:Zero an engaging experience even for new players! And to top things off, white-hot multiplayer battles can be played in Xbox Live!  Blow things up in classic Bomberman fashion with Standard Style, or annihilate things from a whole new perspective with the all-new FPB Style! You decide the angle! Fight in World Battle for top ranking or play solo in Single Battle to find out the chilling truth at the end of Bomberman's story.  This is where it all starts. This is the genesis.",
+        "short": "[BOMBERMAN: The Genesis]  Split-second decisions make all the difference between living and dying. Simple, yet deep and compelling gameplay with intense battles. These time-tested Bomberman concepts have been combined with the original Bomberman storyline and given new life in a dark and unforgiving world to bring you BOMBERMAN Act:Zero.  A return to simple rules and an all-new futuristic setting make BOMBERMAN Act:Zero an engaging experience even for new players! And to top things off, whi…"
+    },
+    "media": [
+        {
+            "media_id": "176C65AC",
+            "title": "Bomberman Act:Zero",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "5CADE9F6",
+            "title": "Bomberman Act:Zero",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "0F8298C3",
+            "title": "Bomberman Act:Zero",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507d1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507d1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507d1/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507d1/15369/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507d1/15369/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507d1/15369/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802485507d1/15369/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

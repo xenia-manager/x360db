@@ -1,0 +1,49 @@
+{
+    "id": "454107DF",
+    "title": {
+        "full": "LOTR BFME II",
+        "reduced": "LOTR BFME II"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Electronic Arts Los Angeles",
+    "publisher": "Electronic Arts",
+    "release_date": "2008-01-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Command the armies and control the epic battles of Middle-earth. Experience never-before-seen lands and six unique factions you build and control with exclusive Xbox 360 features including an intuitive controller scheme, four new multiplayer modes, and voice over IP. With graphics rendered in stunning HD detail and incredible 5.1 surround sound, Middle-earth has never looked—or sounded—this good.",
+        "short": "Command the armies and control the epic battles of Middle-earth. Experience never-before-seen lands and six unique factions you build and control with exclusive Xbox 360 features including an intuitive controller scheme, four new multiplayer modes, and voice over IP. With graphics rendered in stunning HD detail and incredible 5.1 surround sound, Middle-earth has never looked—or sounded—this good."
+    },
+    "media": [
+        {
+            "media_id": "15EBA2C6",
+            "title": "The Lord of the Rings: The Battle for Middle-Earth II",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "2BF7C928",
+            "title": "The Lord of the Rings: The Battle for Middle-Earth II",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107df/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107df/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107df/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107df/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107df/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107df/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107df/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107df/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107df/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

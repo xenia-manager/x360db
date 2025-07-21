@@ -1,0 +1,35 @@
+{
+    "id": "58550AFB",
+    "title": {
+        "full": "League of Planets",
+        "reduced": "League of Planets"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "BM Games",
+    "publisher": "BM Games",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. The Emperor Wharg III has invaded the galaxy.  Survivors of all the resistances of all planets are joined under the command of the great commander, Lucente. Lucente has created a rebellion force named the league of planets, an army to fight and take back all the planets of the Galaxy.",
+        "short": "The Emperor Wharg III has invaded the galaxy.  Survivors of all the resistances of all planets are joined under the command of the great commander, Lucente. Lucente has created a rebellion force named the league of planets, an army to fight and take back all the planets of the Galaxy."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550afb/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550AFB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550afb/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550AFB_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AFB_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AFB_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AFB_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

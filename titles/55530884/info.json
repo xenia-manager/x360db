@@ -1,0 +1,49 @@
+{
+    "id": "55530884",
+    "title": {
+        "full": "Rayman Origins",
+        "reduced": "Rayman Origins"
+    },
+    "genre": [
+        "Family",
+        "Platformer"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2011-10-09",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Michel Ancel, celebrated creator of Rayman®, Beyond Good & Evil® and the Raving Rabbids® returns to his roots to bring us Rayman® Origins:  a new 4-player co-op comic adventure set in a lush, 2D world, teeming with unexpected secrets and outlandish enemies.  When the Glade of Dreams is overrun by “nefurrious” Darktoons, it is up to Rayman and his buddies Globox and the Teensies to save the day. Their challenge, restore peace to the Glade or witness their beloved home vanish like a bad dream...  A Massive Universe to Explore: Over 100 characters, 12 unique worlds and 60+ levels filled with countless secrets. Crazy Moves & Gameplay: Unleash wild moves as you jump, punch, fly and slap your way through an adventure filled with action, platforming beat-’em-up gameplay and slapstick comedy. Epic Boss Fights: Take on a giant pink monster with hundreds of eyes... A possessed, mountainous golem...  An evil daisy-cum-carnivorous plant...more!   4-Player, Jump-In/Jump-Out, Co-op Gameplay",
+        "short": "Michel Ancel, celebrated creator of Rayman®, Beyond Good & Evil® and the Raving Rabbids® returns to his roots to bring us Rayman® Origins:  a new 4-player co-op comic adventure set in a lush, 2D world, teeming with unexpected secrets and outlandish enemies.  When the Glade of Dreams is overrun by “nefurrious” Darktoons, it is up to Rayman and his buddies Globox and the Teensies to save the day. Their challenge, restore peace to the Glade or witness their beloved home vanish like a bad dream..."
+    },
+    "media": [
+        {
+            "media_id": "5A0E3F5F",
+            "title": "Rayman Origins",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "066C3819",
+            "title": "Rayman Origins",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530884/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530884/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530884/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530884/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530884/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530884/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530884/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530884/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

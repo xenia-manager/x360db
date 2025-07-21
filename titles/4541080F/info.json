@@ -1,0 +1,64 @@
+{
+    "id": "4541080F",
+    "title": {
+        "full": "The Orange Box",
+        "reduced": "The Orange Box"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Puzzle & Trivia",
+        "Shooter"
+    ],
+    "developer": "Valve Software",
+    "publisher": "Valve",
+    "release_date": "2008-01-01",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Orange Box is a bundle that includes five titles from Valve: Half-Life 2; Half-Life 2:Episode 1; Half-Life 2: Episode Two; Team Fortress 2, the sequel to the game that put class-based, multiplayer team warfare on the map; and Portal, the game that blends puzzles, first person action, and adventure gaming to produce an experience like no other.",
+        "short": "The Orange Box is a bundle that includes five titles from Valve: Half-Life 2; Half-Life 2:Episode 1; Half-Life 2: Episode Two; Team Fortress 2 and Portal."
+    },
+    "media": [
+        {
+            "media_id": "66E518E7",
+            "title": "The Orange Box",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "1E09A5B7",
+            "title": "The Orange Box",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "651A85DA",
+            "title": "The Orange Box",
+            "edition": "Original",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080f/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080f/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080f/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080f/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080f/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541080f/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

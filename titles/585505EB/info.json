@@ -1,0 +1,35 @@
+{
+    "id": "585505EB",
+    "title": {
+        "full": "So Many Girls So Little Time",
+        "reduced": "So Many Girls So Little Time"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Silver Dollar Games Inc._02",
+    "publisher": "Silver Dollar Games Inc._02",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=3/3, Mature Content=3/3. How many can you handle?",
+        "short": "How many can you handle?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585505eb/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505EB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505eb/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505EB_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505EB_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505EB_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505EB_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

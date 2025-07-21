@@ -1,0 +1,36 @@
+{
+    "id": "58411426",
+    "title": {
+        "full": "AirMech Arena",
+        "reduced": "AirMech Arena"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Carbon Games, Inc.",
+    "publisher": "Ubisoft",
+    "release_date": "2014-07-30",
+    "user_rating": "4.00",
+    "description": {
+        "full": "AirMech® Arena is a highly competitive fast-paced real-time strategy game, where players team up AirMechs to amass unrelenting combat forces and destroy the enemy team’s fortress.  In the future, the last survivors of the Great War continue their fight with the ultimate war machine: the AirMech®. Created using lost technology, Pilots have found, salvaged, or stolen AirMechs that they use to protect the weak, or to pillage. Which side do you fight for?",
+        "short": "In the future, the last survivors of the Great War continue their fight with the ultimate war machine: the AirMech®. Which side will you fight for?"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411426/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411426/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411426/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411426/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411426/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411426/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411426/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411426/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411426/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

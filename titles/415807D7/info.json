@@ -1,0 +1,56 @@
+{
+    "id": "415807D7",
+    "title": {
+        "full": "Record of Agarest War",
+        "reduced": "Record of Agarest War"
+    },
+    "genre": [
+        "Role Playing",
+        "Strategy & Simulation"
+    ],
+    "developer": "IDEA FACTORY Co.,Ltd.",
+    "publisher": "AKSYS GAMES",
+    "release_date": "2010-03-17",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports  English.  Emotions that transcend Generations...  Hovering on the brink of death, a young knight named Leonhardt is given a choice by a mysterious woman who calls herself Dyshana: Enter into a contract with her and do her bidding, or die.  The alternative being unacceptable, Leonhardt accepts her contract and finds himself drawn into a war that will consume not only his life, but the lives of his descendants as well...",
+        "short": "Emotions that transcend Generations...  Hovering on the brink of death, a young knight named Leonhardt is given a choice by a mysterious woman who calls herself Dyshana: Enter into a contract with her and do her bidding, or die.  The alternative being unacceptable, Leonhardt accepts her contract and finds himself drawn into a war that will consume not only his life, but the lives of his descendants as well..."
+    },
+    "media": [
+        {
+            "media_id": "1F0C47EB",
+            "title": "Record of Agarest War",
+            "edition": "Original, Limited Edition",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d7/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/97/95/97950edc-5a2f-4da5-a9c3-b42605e11280.PDF?v=1#Record of Agares"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550260",
+    "title": {
+        "full": "Rock Paper Scissors Xtreme",
+        "reduced": "Rock Paper Scissors Xtreme"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "ChefTeslaCoil",
+    "publisher": "ChefTeslaCoil",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=1/3, Mature Content=0/3. There is only one way to definitively end a conflict: Rock Paper Scissors.  In Rock Paper Scissors Xtreme: Challenge of the Fists you can battle your enemies and friends in local match, over Xbox Live or, if you are without friends, fight a computer opponent. Comes with Mystical Fortune Teller and Controller Race minigames! It also has a Rumble Massage to stimulate your atrophied gamer bits!",
+        "short": "There is only one way to definitively end a conflict: Rock Paper Scissors.  In Rock Paper Scissors Xtreme: Challenge of the Fists you can battle your enemies and friends in local match, over Xbox Live or, if you are without friends, fight a computer opponent. Comes with Mystical Fortune Teller and Controller Race minigames! It also has a Rumble Massage to stimulate your atrophied gamer bits!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855026000000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550260_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550260/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550260_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550260_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550260_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550260_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

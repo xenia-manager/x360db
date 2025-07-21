@@ -1,0 +1,44 @@
+{
+    "id": "4D530ACA",
+    "title": {
+        "full": "Fuzion Frenzy",
+        "reduced": "Fuzion Frenzy"
+    },
+    "genre": [
+        "Classics",
+        "Family",
+        "Independent & Music Videos",
+        "Music and Short Videos",
+        "Puzzle & Trivia",
+        "Xbox 360 Exclusives",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "Blitz Games",
+    "publisher": "Xbox Game Studios",
+    "release_date": "2019-06-11",
+    "user_rating": null,
+    "description": {
+        "full": "Fuzion Frenzy® combines the continuous, frenetic action of a futuristic street sport with the action-packed fun of mini-games set in a dynamic 3-D urban environment. Six arenas and more than 45 mini-games provide plenty of competitive fun for up to four players.",
+        "short": "Fuzion Frenzy® combines the continuous, frenetic action of a futuristic street sport with the action-packed fun of mini-games set in a dynamic 3-D urban environment. Six arenas and more than 45 mini-games provide plenty of competitive fun for up to four players."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aca/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aca/1033/boxartlg.jpg",
+        "icon": null,
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aca/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aca/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D530856",
+                "title": "Fuzion Frenzy"
+            }
+        ],
+        "related": []
+    }
+}

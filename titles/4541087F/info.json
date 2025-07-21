@@ -1,0 +1,51 @@
+{
+    "id": "4541087F",
+    "title": {
+        "full": "Skate 2",
+        "reduced": "Skate 2"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts Vancouver",
+    "publisher": "Electronic Arts",
+    "release_date": "2009-01-21",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Note: Some multi-player functionalities may no longer be supported.  (Online Interactions Not Rated by the ESRB).  The Skate revolution continues! Skate 2 ups the ante in delivering all the grit, creativity and culture of skateboarding – both on and off the board. Rebuild your career and revive the New San Van skate scene with double the tricks and the new ability to move objects and create spots. Skate 2 — it’s time to take back the city…one spot at a time. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "The Skate revolution continues! Skate 2 ups the ante in delivering all the grit, creativity and culture of skateboarding  – both on and off the board. Rebuild your career and revive the New San Van skate scene with double the tricks and the new ability to move objects and create spots.  Skate 2 — it’s time to take back the city…one spot at a time."
+    },
+    "media": [
+        {
+            "media_id": "151D8210",
+            "title": "Skate 2",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "6ADB5821",
+            "title": "Skate 2",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541087f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541087f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541087f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541087f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541087f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541087f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541087f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541087f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541087f/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4541087f/368176d7-1a3f-47a3-b1b7-df7175a088cc.PDF"
+        ]
+    }
+}

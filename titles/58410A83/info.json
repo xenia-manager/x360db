@@ -1,0 +1,39 @@
+{
+    "id": "58410A83",
+    "title": {
+        "full": "SEGA Bass Fishing",
+        "reduced": "SEGA Bass Fishing"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics",
+        "Family",
+        "Sports & Recreation"
+    ],
+    "developer": "SEGA",
+    "publisher": "SEGA",
+    "release_date": "2012-02-15",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Explore the exciting sport of bass fishing! Based on the Dreamcast hit, motor out to eight different fishing locations to catch the biggest and baddest bass possible! Choose between fourteen different lures, and compete in four tournaments. Start off as an amateur, and work your way up to the pros in the Masters Classic tournament. Get hooked!  ",
+        "short": "Explore the exciting sport of bass fishing! Based on the Dreamcast hit, motor out to eight different fishing locations to catch the biggest and baddest bass possible! Choose between fourteen different lures, and compete in four tournaments. Start off as an amateur, and work your way up to the pros in the Masters Classic tournament. Get hooked!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a83/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a83/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a83/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a83/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a83/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a83/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a83/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a83/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a83/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

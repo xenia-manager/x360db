@@ -1,0 +1,35 @@
+{
+    "id": "585508F8",
+    "title": {
+        "full": "Leprechauns",
+        "reduced": "Leprechauns"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Sleep Minus One",
+    "publisher": "Sleep Minus One",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Navigate the maze and search the rocks to find the pot o' gold! Hang on to score points or hide the gold to score double. Protect your precious (fortune) against cunning automatons (AI) and other pesky thieves (over on-line multi-player) using your trusty mallet and an array of magical items.  First Leprechaun to amass a fortune wins!",
+        "short": "Navigate the maze and search the rocks to find the pot o' gold! Hang on to score points or hide the gold to score double. Protect your precious (fortune) against cunning automatons (AI) and other pesky thieves (over on-line multi-player) using your trusty mallet and an array of magical items.  First Leprechaun to amass a fortune wins!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585508f8/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508F8_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508f8/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508F8_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508F8_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508F8_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508F8_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

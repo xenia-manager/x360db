@@ -1,0 +1,35 @@
+{
+    "id": "585507EE",
+    "title": {
+        "full": "みみ いんざ すかい",
+        "reduced": "みみ いんざ すかい"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "TakeTake",
+    "publisher": "TakeTake",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. 魅美(みみ)とお供のタマが魑魅魍魎から町内の平和を守るエンドレスの全方位シューティングゲームです。",
+        "short": "魅美(みみ)とお供のタマが魑魅魍魎から町内の平和を守るエンドレスの全方位シューティングゲームです。"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585507ee/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585507EE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585507ee/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585507EE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507EE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507EE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507EE_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "5855092C",
+    "title": {
+        "full": "Attanck",
+        "reduced": "Attanck"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Daisy Maze Games",
+    "publisher": "Daisy Maze Games",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. The 80's super computer has taken over and is printing out an evil ascii army!  Command the high tech dot matrix assault vehicle and get ready to kick some ascii  in this retro style arcade action title.",
+        "short": "The 80's super computer has taken over and is printing out an evil ascii army!  Command the high tech dot matrix assault vehicle and get ready to kick some ascii  in this retro style arcade action title."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855092c/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855092C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855092c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855092C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855092C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855092C_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855092C_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": "544307DC",
+    "title": {
+        "full": "QUANTUM THEORY",
+        "reduced": "QUANTUM THEORY"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "TECMO,LTD.",
+    "publisher": "TECMO KOEI GAMES CO., LTD",
+    "release_date": "2013-02-12",
+    "user_rating": "3.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". A dark tower looms over a wasted world. Infected by the diablosis, the living battlefields within shift and twist while a lone warrior, Syd, fights his way to the top. ",
+        "short": "A dark tower looms over a wasted world. Infected by the diablosis, the living battlefields within shift and twist while a lone warrior, Syd, fights his way to the top.  "
+    },
+    "media": [
+        {
+            "media_id": "5B7729FE",
+            "title": "Quantum Theory",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "33FF9E9E",
+            "title": "Quantum Theory",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307dc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307dc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307dc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307dc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307dc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307dc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307dc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307dc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307dc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307dc/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/544307dc/QT_X360_English.pdf"
+        ]
+    }
+}

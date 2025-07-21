@@ -1,0 +1,37 @@
+{
+    "id": "58411252",
+    "title": {
+        "full": "Double Dragon Neon",
+        "reduced": "Double Dragon Neon"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "WayForward",
+    "publisher": "Majesco Entertainment",
+    "release_date": "2012-09-12",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Billy and Jimmy Lee are back to save their shared love interest, Marian from the evil Skullmageddon across 10 brawling levels filled with elaborate missions, malicious enemies and over-the-top battles. Trained by their sensei in a special form of martial arts, Billy and Jimmy are equipped with lethal combat skills and weaponry to bust some faces and battle the baddest goons around as they journey across the galaxy to rescue the love of their lives.",
+        "short": "Billy and Jimmy Lee are back to save their shared love interest, Marian from the evil Skullmageddon across 10 brawling levels filled with elaborate missions, malicious enemies and over-the-top battles. Trained by their sensei in a special form of martial arts, Billy and Jimmy are equipped with lethal combat skills and weaponry to bust some faces and battle the baddest goons around as they journey across the galaxy to rescue the love of their lives."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411252/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411252/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411252/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411252/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411252/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411252/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411252/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411252/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411252/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411252/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

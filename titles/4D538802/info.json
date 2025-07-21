@@ -1,0 +1,30 @@
+{
+    "id": "4D538802",
+    "title": {
+        "full": "Sneak King",
+        "reduced": "Sneak King"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Blitz Games",
+    "publisher": "Microsoft",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "Burger King: Sneak King",
+        "short": "Burger King: Sneak King"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.4d538802/marketplace/0/1",
+        "boxart": "https://images.launchbox-app.com/26d3b2ff-5022-4bb3-8916-25467ab45922.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.4d538802/icon/0/8000",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

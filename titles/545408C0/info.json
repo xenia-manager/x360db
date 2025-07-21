@@ -1,0 +1,42 @@
+{
+    "id": "545408C0",
+    "title": {
+        "full": "NBA 2K18",
+        "reduced": "NBA 2K18"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Visual Concepts",
+    "publisher": "2K",
+    "release_date": "2017-09-15",
+    "user_rating": "4.25",
+    "description": {
+        "full": "NOTE: All multiplayer servers for NBA 2K18 will be shutdown as of 12/31/2019. After that time, all game functions requiring online servers will no longer function.  The Games on Demand version supports English, French, Italian, German, Spanish, Japanese, Chinese.  LEGENDARY TEAMS The greatest players in NBA history from all 30 teams, together on all-time franchise rosters for the very first time. Compete in Quick Game to decide once and for all which franchise’s all-time greats reign supreme.  MyTEAM GOLD BOOSTER Start off your career with a free Gold Booster. Featuring 5,000 VC and a Gold MyTEAM pack, guaranteed to contain a Gold-rated player card and 4 additional Gold items.  PLAY YOUR WAY Show off your skills in a variety of game modes including MyCAREER, MyTEAM, The Association, Blacktop, and much more.  BE THE COACH ON THE FLOOR (Xbox 360 Only) Use Kinect voice commands to control the action on the court by directing your teammates, calling plays, changing defensive strategies, and calling timeouts.",
+        "short": "NOTE: All multiplayer servers for NBA 2K18 will be shutdown as of 12/31/2019. After that time, all game functions requiring online servers will no longer function.  The highest rated* annual sports title of this console generation returns with NBA 2K18, featuring unparalleled authenticity and improvements on the court. *According to 2008 - 2016 Metacritic.com"
+    },
+    "media": [
+        {
+            "media_id": "6C4409B7",
+            "title": "NBA 2K18",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408c0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408c0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408c0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408c0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408c0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408c0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408c0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408c0/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

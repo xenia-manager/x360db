@@ -1,0 +1,35 @@
+{
+    "id": "58550D1A",
+    "title": {
+        "full": "the monastery",
+        "reduced": "the monastery"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Juan Alberto Munoz",
+    "publisher": "Juan Alberto Munoz",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=3/3. Lost at night in a monastery in ruins, unarmed and hunted by demons... A first-person horror experience that is best played with the lights off.",
+        "short": "Lost at night in a monastery in ruins, unarmed and hunted by demons... A first-person horror experience that is best played with the lights off."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550d1a/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D1A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d1a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D1A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D1A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D1A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D1A_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

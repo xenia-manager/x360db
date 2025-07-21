@@ -1,0 +1,39 @@
+{
+    "id": "453987D0",
+    "title": {
+        "full": "キャサリン",
+        "reduced": "キャサリン"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": null,
+    "publisher": null,
+    "release_date": "2011-02-17",
+    "user_rating": null,
+    "description": {
+        "full": "アトラス、ペルソナチームのＨＤ機作品第１ 弾！　主人公は、仕事にも恋にも野心を持た ない草食男のヴィンセント。彼はある晩、恋 人がいる身でありながら、謎の美女キャサリ ンと一夜の過ちを犯してしまう。だが、その 晩から奇妙な悪夢にうなされ始めるように。 これはもしや町で噂の「覚めなければ死んで しまう悪夢」なのか？　この体験版では、物 語のプロローグ部分を、特別編集バージョン でお届けします！　果たしてヴィンセントは 死の悪夢から逃げ切ることができるのか！？",
+        "short": "アトラス、ペルソナチームのＨＤ機作品第１ 弾！　主人公ヴィンセントは、恋人がいる身 でありながら、謎の美女キャサリンと一夜の 過ちを犯してしまう。だが、その晩から奇妙 な悪夢にうなされ始め…。この体験版では、 物語のプロローグを、特別編集バージョンで お届けします！"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453987d0/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453987d0/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453987d0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453987d0/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453987d0/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453987d0/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453987d0/1041/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "415407D7",
+                "title": "Catherine"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": "58410A3D",
+    "title": {
+        "full": "Monday Night Combat",
+        "reduced": "Monday Night Combat"
+    },
+    "genre": [
+        "Shooter",
+        "Strategy & Simulation"
+    ],
+    "developer": "Uber Entertainment",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-08-09",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(ONLINE INTERACTIONS NOT RATED BY THE ESRB)  Monday Night Combat for Xbox LIVE Arcade is a class-based, third-person shooter…and the most lethal sport of the future! It blends combat, finishing moves, gameshow-like challenges and rewards. The game features  grapple moves, upgradable skills and a deep meta-game. Blitz mode pits 1 to 2 players on a split screen or up to 4 players over Xbox LIVE against waves of robot armies.  In Crossfire mode, players play competitively, 6 versus 6, to destroy the enemy's Money Ball while protecting theirs aided by robots. Enjoy an extensive Career Mode that lets players to use their money to customize classes and show off their accomplishments with hundreds of new ProTags. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Monday Night Combat is a team based third person shooter that meets tower defense games, taking place in the sports arenas of the future. A future controlled by the spectacle of businesses and the actions and behavior that were formerly taboo in sports.  MNC boasts unique features for the genre, such as: spectacular grapple moves, a unique skill system and action inducing fodder. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3d/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3d/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3d/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

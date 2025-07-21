@@ -1,0 +1,35 @@
+{
+    "id": "5855021F",
+    "title": {
+        "full": "Prismatic",
+        "reduced": "Prismatic"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Mythicore",
+    "publisher": "Mythicore",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=1/3, Mature Content=1/3. What happens after Happily Ever After?  Fascinating puzzles!  Thirteen years after true love's kiss, Sleeping Beauty has been cursed again.  Help break the curse by using prisms and mirrors to split and reflect beams of light.  One hundred unique puzzles and seven bonus modes will keep you coming back for more!",
+        "short": "What happens after Happily Ever After?  Fascinating puzzles!  Thirteen years after true love's kiss, Sleeping Beauty has been cursed again.  Help break the curse by using prisms and mirrors to split and reflect beams of light.  One hundred unique puzzles and seven bonus modes will keep you coming back for more!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855021f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855021F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855021f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855021F_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855021F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855021F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855021F_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

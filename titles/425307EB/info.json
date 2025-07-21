@@ -1,0 +1,56 @@
+{
+    "id": "425307EB",
+    "title": {
+        "full": "BrinkJ",
+        "reduced": "BrinkJ"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Splash Damage",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2011-05-16",
+    "user_rating": null,
+    "description": {
+        "full": "『Brink』は、分隊ベースのマルチプレイをフィーチャーしたFPSです。シングル・Co-op・マルチの境界線を無くして各モード間をシームレスに移動できるシステムと、パルクールのように遮蔽物を移動できる\"S.M.A.R.T.\"システムの採用により、刺激的で爽快、且つやり応えある革命的FPSとして進化を遂げました。また、クラス（職業)概念を取り入れ、戦況や作戦に応じてリアルタイムにクラスを変え、チームで勝利を目指すゲーム性は、仲間と一緒に盛り上がるのに最適なゲームです。コアなFPSファンは勿論、オンラインに対して抵抗のあるプレイヤーにマルチの導入として｢Co-op｣という\"体験\"を提供。また、自分好みのキャラクターを作成し、クラス(職種)を選択し、デザインされつくされたマップで｢仲間たちとのチームプレイ｣によって勝利し、｢報酬｣を得ることができます。これによって、自然とオンラインプレイに熱中し、ストレスなくFPSに没頭できるようになります。 ",
+        "short": "『Brink』は、分隊ベースのマルチプレイをフィーチャーしたFPSです。 地球温暖化による海面上昇により建築された海上都市\"アーク\"。対立する2つの派閥のどちらにつくか、人類存続の瀬戸際に立たされたアークの未来は貴方次第だ・・・。  "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307eb/1041/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "425307D9",
+                "title": "Brink"
+            }
+        ],
+        "related": []
+    }
+}

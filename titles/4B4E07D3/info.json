@@ -1,0 +1,37 @@
+{
+    "id": "4B4E07D3",
+    "title": {
+        "full": "Hellboy TSoE",
+        "reduced": "Hellboy TSoE"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Krome Studios",
+    "publisher": "Konami",
+    "release_date": "2008-01-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish. There are no refunds for this item. (Disclaimer: This version is converted from the original Xbox 360 disc to Games on Demand.  Consequently, the game achievement is set to the maximum of 84%.)  Hellboy™: The Science of Evil gives players the opportunity to experience the epic adventures of the acclaimed comic book hero, fusing action, atmosphere and humor.",
+        "short": "With a look all its own, the world of Hellboy is instantly recognizable and forever memorable. Inviting players to delve deeper into its shadowed recesses, Hellboy’s hyperrealism delivers a depth and detail which sets it apart from mere reality."
+    },
+    "media": [
+        {
+            "media_id": "67B56283",
+            "title": "Hellboy: The Science of Evil",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07d3/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

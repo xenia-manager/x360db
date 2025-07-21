@@ -1,0 +1,35 @@
+{
+    "id": "5855038C",
+    "title": {
+        "full": "ARC Ninja Edition",
+        "reduced": "ARC Ninja Edition"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "UFO Games",
+    "publisher": "UFO Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Be the best racer in the Ninja Edition of Antigrav Racing Championship.  Choose any of the 8 high speed hovercrafts and rule on the 5 Ninja race tracks. ARC Ninja Edition features a top 50 online scoreboard for each track.  Can you make it to the top ??!!",
+        "short": "Be the best racer in the Ninja Edition of Antigrav Racing Championship.  Choose any of the 8 high speed hovercrafts and rule on the 5 Ninja race tracks. ARC Ninja Edition features a top 50 online scoreboard for each track.  Can you make it to the top ??!!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855038c00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855038C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855038c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855038C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855038C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855038C_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855038C_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

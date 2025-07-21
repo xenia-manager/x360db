@@ -1,0 +1,37 @@
+{
+    "id": "58411446",
+    "title": {
+        "full": "Guacamelee Super Turbo Championship Edition",
+        "reduced": "Guacamelee STCE"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "DrinkBox Studios",
+    "publisher": "Activision",
+    "release_date": "2014-07-02",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Dive into the world of Guacamelee! with the Super Turbo Championship Edition (STCE) - complete with expanded abilities, additional levels, deeper story-line and enhanced graphics.     Guacamelee! builds upon the style of classic 2D open-world action-platformers by adding a strong melee combat component, a new dimension switching mechanic, and cooperative same-screen multiplayer for the entire story. The game also blurs the boundaries between combat and platforming by making many of the moves useful and necessary for both of these.   Travel through a mystical and mysterious Mexican world as a Luchador using the power of your two fists to battle Carlos Calaca’s army of evil. Uncover hidden wrestling techniques like the Rooster Uppercut, and Dimension Swap to open new areas and secrets.   But beware, for the Hero's journey is a treacherous one, and saving the world is not a task for the faint of heart...",
+        "short": "Dive into the world of Guacamelee! with the Super Turbo Championship Edition (STCE) - complete with expanded abilities, additional levels, deeper story-line and enhanced graphics.     Guacamelee! builds upon the style of classic 2D open-world action-platformers by adding a strong melee combat component, a new dimension switching mechanic, and cooperative multiplayer. The game blurs the boundaries between combat and platforming by making many of the moves useful and necessary."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

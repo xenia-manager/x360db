@@ -1,0 +1,35 @@
+{
+    "id": "585501D0",
+    "title": {
+        "full": "Supercow",
+        "reduced": "Supercow"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "CTXM and NevoSoft",
+    "publisher": "CTXM and NevoSoft",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. A Nevosoft game. Professor Duriarti, an infamous criminal, recently escaped from prison and seized the farm in Sunny Valley. He captured all of the animals and cloned them! The cloned animals are helping the evil professor carry out his diabolical plan to completely destroy the Earth. The only hope for the world is the daring Supercow!",
+        "short": "A Nevosoft game. Professor Duriarti, an infamous criminal, recently escaped from prison and seized the farm in Sunny Valley. He captured all of the animals and cloned them! The cloned animals are helping the evil professor carry out his diabolical plan to completely destroy the Earth. The only hope for the world is the daring Supercow!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585501d000000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585501D0_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585501d0/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585501D0_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501D0_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501D0_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501D0_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

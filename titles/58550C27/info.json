@@ -1,0 +1,35 @@
+{
+    "id": "58550C27",
+    "title": {
+        "full": "Space War",
+        "reduced": "Space War"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Arm Software 1957",
+    "publisher": "Arm Software 1957",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Space shooter game with 3 levels 9 different ships and 2 weapons. The ships have missile count, afterburners, shield and health or energy huds. Level 3 includes a radar, planets and asteroids.",
+        "short": "Space shooter game with 3 levels 9 different ships and 2 weapons. The ships have missile count, afterburners, shield and health or energy huds. Level 3 includes a radar, planets and asteroids."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550c27/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C27_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c27/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C27_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C27_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C27_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C27_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

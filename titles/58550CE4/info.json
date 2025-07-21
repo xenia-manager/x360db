@@ -1,0 +1,35 @@
+{
+    "id": "58550CE4",
+    "title": {
+        "full": "Undead Legions",
+        "reduced": "Undead Legions"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Key17 Games",
+    "publisher": "Key17 Games",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=1/3, Mature Content=1/3. Top-down twin-stick undead smashing. Play with one of four different characters, single-player or in co-op with up to four players. Use magic, place traps, launch devastating starfire bombs, power up your hero, and be prepared for challenging boss fights.",
+        "short": "Top-down twin-stick undead smashing. Play with one of four different characters, single-player or in co-op with up to four players. Use magic, place traps, launch devastating starfire bombs, power up your hero, and be prepared for challenging boss fights."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550ce400000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CE4_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550ce4/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CE4_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CE4_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CE4_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CE4_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

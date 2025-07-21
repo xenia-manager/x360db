@@ -1,0 +1,48 @@
+{
+    "id": "515007D3",
+    "title": {
+        "full": "Bloodbath",
+        "reduced": "Bloodbath"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Freedom Factory Studios",
+    "publisher": "Freedom Factory Studios",
+    "release_date": "2014-03-21",
+    "user_rating": "0.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Russian.  Get ready to compete in the most brutal sport of the moment. In the Dog Eat Dog tournament, you should avail yourself of your ruthless fighting skills and crush your enemies if you want to make your way to victory. Fight alone or with friends, compete in multiple stages and game modes, and improve your favorite fighter. BloodBath takes fighting games to a new dimension! ",
+        "short": "Fight alone or with friends, compete in multiple stages and game modes, and improve your favorite fighter. BloodBath takes fighting games to a new dimension! "
+    },
+    "media": [
+        {
+            "media_id": "772622E3",
+            "title": "Bloodbath",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515007d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515007d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515007d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515007d3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515007d3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515007d3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515007d3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515007d3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515007d3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515007d3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515007d3/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515007d3/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515007d3/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515007d3/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

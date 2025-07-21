@@ -1,0 +1,35 @@
+{
+    "id": "4D538A68",
+    "title": {
+        "full": "Forza Horizon - Kiosk Demo",
+        "reduced": "Forza Horizon - Kiosk Demo"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Playground Games",
+    "publisher": "Turn 10 Studios / Microsoft Studios",
+    "release_date": "2799-12-30",
+    "user_rating": null,
+    "description": {
+        "full": "Download this demo.",
+        "short": "Download this demo."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a68/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a68/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a68/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d538a68/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D5309C9",
+                "title": "Forza Horizon"
+            }
+        ],
+        "related": []
+    }
+}

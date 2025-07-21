@@ -1,0 +1,42 @@
+{
+    "id": "454108F1",
+    "title": {
+        "full": "Army of TWO TFD JP",
+        "reduced": "Army of TWO TFD JP"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Electronic Arts Montreal",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-07-15",
+    "user_rating": null,
+    "description": {
+        "full": "大規模な惨事が上海を襲ったその瞬間、リオスとセーレムは自分達がまさにその渦中にいることに気付くのであった。幸運だったのは、彼らを支援してくれる仲間や使用可能な武器が身近に存在したことだ。これらによって、強大な敵に対する戦略を実行することを可能にした。そして、更にArmy of TWO™では、戦場を戦い抜くために必要な信じられないような高性能兵器をカスタマイズしたり、アップグレードしたりすることも可能だ。",
+        "short": "大規模な惨事が上海を襲ったその瞬間、リオスとセーレムは自分達がまさにその渦中にいることに気付くのであった。幸運だったのは、彼らを支援してくれる仲間や使用可能な武器が身近に存在したことだ。これらによって、強大な敵に対する戦略を実行することを可能にした。そして、更にArmy of TWO™では、戦場を戦い抜くために必要な信じられないような高性能兵器をカスタマイズしたり、アップグレードしたりすることも可能だ。"
+    },
+    "media": [
+        {
+            "media_id": "341F8292",
+            "title": "Army of Two: The 40th Day",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f1/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f1/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f1/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454108D8",
+                "title": "Army of TWO TFD"
+            }
+        ],
+        "related": []
+    }
+}

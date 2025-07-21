@@ -1,0 +1,52 @@
+{
+    "id": "534407F4",
+    "title": {
+        "full": "バトルステーション ミッドウェイ",
+        "reduced": "バトルステーション ミッドウェイ"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Strategy & Simulation"
+    ],
+    "developer": "EIDOS",
+    "publisher": "Spike Co. Ltd.",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "ゲーム オン デマンドのバージョンは次の言語をサポートしています: 日本語  太平洋戦争の大規模な空、海、海中での戦いを体験できる巨大なアクションゲームです。",
+        "short": "ゲーム オン デマンドのバージョンは次の言語をサポートしています: 日本語  太平洋戦争の大規模な空、海、海中での戦いを体験できる巨大なアクションゲームです。"
+    },
+    "media": [
+        {
+            "media_id": "430265AC",
+            "title": "Battlestations: Midway",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407f4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407f4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407f4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407f4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407f4/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407f4/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407f4/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407f4/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407f4/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407f4/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407f4/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534407f4/1041/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "534307D9",
+                "title": "Battlestations Midway"
+            }
+        ],
+        "related": []
+    }
+}

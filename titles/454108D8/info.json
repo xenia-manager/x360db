@@ -1,0 +1,60 @@
+{
+    "id": "454108D8",
+    "title": {
+        "full": "Army of TWO TFD",
+        "reduced": "Army of TWO TFD"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Electronic Arts Montreal",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-01-12",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   When a man-made disaster of epic proportions strikes Shanghai, China, Rios and Salem find themselves right in the middle of it all. Fortunately for you, you’ve got a bigger playbook of features and a new arsenal of co-op moves that either player can perform at any time, opening up fresh strategies and choices for both players. You’ve also got the tools you need to help the Army of TWO™ fight and prevail with an incredibly deep, advanced weapon customization and upgrade system.",
+        "short": "When a man-made disaster of epic proportions strikes Shanghai, China, Rios and Salem find themselves right in the middle of it all. Fortunately for you, you’ve got a bigger playbook of features and a new arsenal of co-op moves that either player can perform at any time, opening up fresh strategies and choices for both players. You’ve also got the tools you need to help the Army of TWO™ fight and prevail with an incredibly deep, advanced weapon customization and upgrade system."
+    },
+    "media": [
+        {
+            "media_id": "44388CF4",
+            "title": "Army of Two: The 40th Day",
+            "edition": "Original",
+            "region": "USA, Australia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/7177/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/7177/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/7177/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/7177/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/7177/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d8/7177/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/454108d8/9faa80bf-b50d-4893-8641-715116aa0d99.PDF"
+        ]
+    }
+}

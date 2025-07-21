@@ -1,0 +1,44 @@
+{
+    "id": "5553082A",
+    "title": {
+        "full": "BIA HH JP",
+        "reduced": "BIA HH JP"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter",
+        "Strategy & Simulation"
+    ],
+    "developer": "Gearbox Software",
+    "publisher": "UbiSoft",
+    "release_date": "2008-09-23",
+    "user_rating": null,
+    "description": {
+        "full": "Buy Brothers in Arms: Hell's Highway!",
+        "short": "Buy Brothers in Arms: Hell's Highway!"
+    },
+    "media": [
+        {
+            "media_id": "7BBEE805",
+            "title": "Brothers in Arms: Hell's Highway",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553082a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553082a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553082a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553082a/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "555307EA",
+                "title": "Brothers in Arms - Hell's Highway"
+            }
+        ],
+        "related": []
+    }
+}

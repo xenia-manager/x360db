@@ -1,0 +1,55 @@
+{
+    "id": "545107F8",
+    "title": {
+        "full": "Saints Row",
+        "reduced": "Saints Row"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Volition",
+    "publisher": "THQ & Koch Media",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "Xbox 360初の都市型オープン ワールド ゲームで、スティルウォーターの支配を狙うサード ストリート セインツのバトルに参加しよう! キャラクターの細かいカスタマイズ、１３の異なるアクティビティ、４つのストーリー、ゲーム開始直後から舞台となる広大な街。Saints Rowこそが、オープン ワールド ゲーミングのさらなる進化への第一歩。",
+        "short": "Xbox 360初の都市型オープン ワールド ゲームで、スティルウォーターの支配を狙うサード ストリート セインツのバトルに参加しよう! キャラクターの細かいカスタマイズ、１３の異なるアクティビティ、４つのストーリー、ゲーム開始直後から舞台となる広大な街。Saints Rowこそが、オープン ワールド ゲーミングのさらなる進化への第一歩。"
+    },
+    "media": [
+        {
+            "media_id": "4FA0E553",
+            "title": "Saints Row",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f8/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f8/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f8/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f8/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f8/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f8/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f8/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f8/1041/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f8/1041/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f8/1041/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f8/1041/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f8/1041/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "545107D1",
+                "title": "Saints Row"
+            }
+        ],
+        "related": []
+    }
+}

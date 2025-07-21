@@ -1,0 +1,39 @@
+{
+    "id": "454109FD",
+    "title": {
+        "full": "BLACK",
+        "reduced": "BLACK"
+    },
+    "genre": [
+        "Classics",
+        "Shooter"
+    ],
+    "developer": "Criterion Games",
+    "publisher": "Electronic Arts",
+    "release_date": "2019-06-11",
+    "user_rating": null,
+    "description": {
+        "full": "Join the world’s most brutal and enigmatic strike force. The BLACK™ tactical squad operates under the cloak of complete anonymity and deniability to protect the U.S. from threats foreign and domestic. It answers to no one, allowing it to carry out covert operations around the globe. From manipulating politicians to controlling intelligence networks and militaries, BLACK operatives are trained at the highest level in psychological warfare, espionage, and lethal combat. Go deep into the world of clandestine warfare as you use any means necessary to get the job done.",
+        "short": "Join the world’s most brutal and enigmatic strike force. The BLACK™ tactical squad operates under the cloak of complete anonymity and deniability to protect the U.S. from threats foreign and domestic. It answers to no one, allowing it to carry out covert operations around the globe."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

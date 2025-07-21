@@ -1,0 +1,34 @@
+{
+    "id": "58550D91",
+    "title": {
+        "full": "StarDeath 3000",
+        "reduced": "StarDeath 3000"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Beebapps",
+    "publisher": "Beebapps",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. \"In the vastness of the cosmos two huge entities are battling for control. They suck the life force from entire galaxies to use in the ultimate struggle against their nemesis...\"   Features Novel steering Targeting shots Multishots, combining single shots into formidable globules of destruction  Black holes that warps shot trajectories Soundtrack from renowned composer Simon Wilkinson",
+        "short": "\"In the vastness of the cosmos two huge entities are battling for control. They suck the life force from entire galaxies to use in the ultimate struggle against their nemesis...\"   Features Novel steering Targeting shots Multishots, combining single shots into formidable globules of destruction  Black holes that warps shot trajectories Soundtrack from renowned composer Simon Wilkinson"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550d9100000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D91_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d91/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D91_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D91_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D91_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

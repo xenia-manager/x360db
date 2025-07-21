@@ -1,0 +1,37 @@
+{
+    "id": "4541094C",
+    "title": {
+        "full": "NBA JAM",
+        "reduced": "NBA JAM"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts Canada",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2010-11-23",
+    "user_rating": "4.50",
+    "description": {
+        "full": "BOOMSHAKALAKA!   NBA JAM is back, better than ever, and brought to you by EA Sports™.",
+        "short": "BOOMSHAKALAKA!   NBA JAM is back, better than ever, and brought to you by EA Sports™."
+    },
+    "media": [
+        {
+            "media_id": "72098D69",
+            "title": "NBA Jam",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541094c/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

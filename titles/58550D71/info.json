@@ -1,0 +1,35 @@
+{
+    "id": "58550D71",
+    "title": {
+        "full": "Monkey Nuts",
+        "reduced": "Monkey Nuts"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "HDT Games",
+    "publisher": "HDT Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Monkey has lost his nuts! Help monkey get his nuts back - dodge hazards, defeat enemies and beat the clock through 100 levels.",
+        "short": "Monkey has lost his nuts! Help monkey get his nuts back - dodge hazards, defeat enemies and beat the clock through 100 levels."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550d7100000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D71_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d71/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D71_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D71_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D71_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D71_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

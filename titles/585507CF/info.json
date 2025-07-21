@@ -1,0 +1,35 @@
+{
+    "id": "585507CF",
+    "title": {
+        "full": "Arcane Brawlers",
+        "reduced": "Arcane Brawlers"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "HGDLive",
+    "publisher": "HGDLive",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=0/3. Arcane Brawlers is a very simple Xbox arcade game in which each player (up to four) controls a magical wizard (mage). It is a 2D, overhead view game. The players stock magical elements, represented by the buttons' colors.  A: Earth B: Fire X: Water Y: Air  The goal of the game is to simply kill the other players by making their Hit Points get reduced to zero.",
+        "short": "Arcane Brawlers is a very simple Xbox arcade game in which each player (up to four) controls a magical wizard (mage). It is a 2D, overhead view game. The players stock magical elements, represented by the buttons' colors.  A: Earth B: Fire X: Water Y: Air  The goal of the game is to simply kill the other players by making their Hit Points get reduced to zero."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585507cf/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585507CF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585507cf/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585507CF_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507CF_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507CF_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507CF_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "584107E4",
+    "title": {
+        "full": "Hardwood Spades",
+        "reduced": "Hardwood Spades"
+    },
+    "genre": [
+        "Avatar",
+        "Card & Board"
+    ],
+    "developer": "Silver Creek Entertainment",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-01-04",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Single Player, Xbox Live Multiplayer 1-4, HD (High Definition) Welcome to Hardwood Spades… the game where a trick IS a treat! Bid on how many tricks you can take, then work with your partner to make it happen. Don’t overbid, or you’ll be set. But don’t underbid either, or you’ll be stuck with a bag! If you think you can duck all the tricks, go for a nil bid… Just make sure you’re not holding the ace of spades! And be sure to congratulate your partner--or irritate your opponents--with a clever foom! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Get more tricks! Stick your friends with more bags! And best of all… FOOM ‘EM! You’ve got a partner waiting, so get back to the game!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e4/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

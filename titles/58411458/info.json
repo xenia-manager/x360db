@@ -1,0 +1,36 @@
+{
+    "id": "58411458",
+    "title": {
+        "full": "MONOPOLY DEAL",
+        "reduced": "MONOPOLY DEAL"
+    },
+    "genre": [
+        "Card & Board",
+        "Family"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2015-01-13",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Everything great about MONOPOLY, now a fast paced, delightfully addictive card game! Compete online against your friends or the community in this frantic card-game: steal sets of cards, collect debts and be the first to collect three complete property sets of different colors. Build your real estate empire in a new and faster way! Keeps everything you love about MONOPOLY but packs it into a fast burst of fun.",
+        "short": "Everything great about MONOPOLY, now a fast paced, delightfully addictive card game! Compete online against your friends or the community in this frantic card-game: steal sets of cards, collect debts and be the first to collect three complete property sets of different colors. Build your real estate empire in a new and faster way! Keeps everything you love about MONOPOLY but packs it into a fast burst of fun."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411458/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411458/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411458/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411458/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411458/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411458/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411458/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411458/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

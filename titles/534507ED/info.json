@@ -1,0 +1,54 @@
+{
+    "id": "534507ED",
+    "title": {
+        "full": "The Golden Compass",
+        "reduced": "The Golden Compass"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family",
+        "Platformer"
+    ],
+    "developer": "Shiny",
+    "publisher": "Sega",
+    "release_date": "2008-01-01",
+    "user_rating": "3.00",
+    "description": {
+        "full": "Young Lyra Belacqua, seeking to uncover the mysteries behind a string of child kidnappings, finds herself plunged into a conflict which shakes the very foundations of her world. With the help of her shape-shifting animal daemon Pan, and armored polar bear companion Iorek, her adventures take her from the rooftops of Oxford to the frozen wastes of the North.",
+        "short": "Young Lyra Belacqua, seeking to uncover the mysteries behind a string of child kidnappings, finds herself plunged into a conflict which shakes the very foundations of her world. With the help of her shape-shifting animal daemon Pan, and armored polar bear companion Iorek, her adventures take her from the rooftops of Oxford to the frozen wastes of the North."
+    },
+    "media": [
+        {
+            "media_id": "6EBD7F3F",
+            "title": "The Golden Compass",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "16C9045C",
+            "title": "The Golden Compass",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ed/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ed/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ed/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ed/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ed/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ed/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ed/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ed/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ed/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ed/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ed/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507ed/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

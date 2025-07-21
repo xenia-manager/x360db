@@ -1,0 +1,35 @@
+{
+    "id": "58550574",
+    "title": {
+        "full": "MathFlash",
+        "reduced": "MathFlash"
+    },
+    "genre": [
+        "Educational"
+    ],
+    "developer": "BryanHendo",
+    "publisher": "BryanHendo",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. A math flash card game for addition, subtraction, multiplication, and division.  Three difficulty settings and Local High Scores.  A good way for Dad to justify the XBox as an \"Educational Tool\".",
+        "short": "A math flash card game for addition, subtraction, multiplication, and division.  Three difficulty settings and Local High Scores.  A good way for Dad to justify the XBox as an \"Educational Tool\"."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855057400000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550574_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550574/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550574_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550574_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550574_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550574_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

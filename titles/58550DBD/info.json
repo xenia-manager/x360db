@@ -1,0 +1,34 @@
+{
+    "id": "58550DBD",
+    "title": {
+        "full": "Maya Challenge",
+        "reduced": "Maya Challenge"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Wondertech",
+    "publisher": "Wondertech",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Maya Challenge is a puzzle game that will test your brains keeping you relaxed at the same time.",
+        "short": "Maya Challenge is a puzzle game that will test your brains keeping you relaxed at the same time."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550dbd00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550DBD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550dbd/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550DBD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DBD_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DBD_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

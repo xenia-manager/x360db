@@ -1,0 +1,33 @@
+{
+    "id": "545407F1",
+    "title": {
+        "full": "College Hoops 2K7",
+        "reduced": "College Hoops 2K7"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Visual Concepts Entertainment",
+    "publisher": "2K Games",
+    "release_date": "2008-01-01",
+    "user_rating": "3.50",
+    "description": {
+        "full": "College Hoops 2K7, the #1 rated college basketball videogame franchise  four years running, returns for its sophomore season on the Xbox 360.  With over 325 NCAA Division 1 teams and the deepest legacy mode around,  College Hoops 2K7 defines the college basketball experience.",
+        "short": "College Hoops 2K7, the #1 rated college basketball videogame franchise  four years running, returns for its sophomore season on the Xbox 360.  With over 325 NCAA Division 1 teams and the deepest legacy mode around,  College Hoops 2K7 defines the college basketball experience."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f1/1033/screenlg2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

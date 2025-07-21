@@ -1,0 +1,32 @@
+{
+    "id": "4C5307E1",
+    "title": {
+        "full": "National Geographic Challenge",
+        "reduced": "Nat Geo Challenge"
+    },
+    "genre": [
+        "Card & Board",
+        "Family",
+        "Puzzle & Trivia"
+    ],
+    "developer": "Gusto Games",
+    "publisher": "Black Bean Games",
+    "release_date": "2011-03-18",
+    "user_rating": null,
+    "description": {
+        "full": "National Geographic Challenge! is a fast-paced quiz based on exclusive HD video and images from the National Geographic archive. The challenge based questions reveal to the players the secrets of the most mysterious places around the world. The game is a real time struggle to conquer the planet and its territories.  Players compete to claim territories on the globe using tactics to foil their opponents through a wide variety of quizzes and mini games based on 6 main themes: mysteries, exploration, history, wonders, general knowledge and mythology. ",
+        "short": "Defend your territories. Compete in a real challenging quiz game. Discover the most fascinating secrets of the world through HD videos and images from the National Geographic archive. Challenge your friends, gain their territories through the excitement of your avatar and become the conqueror of the World."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307e1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307e1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307e1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307e1/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": "57520855",
+    "title": {
+        "full": "Cars 3 Driven to Win",
+        "reduced": "Cars 3 Driven to Win"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Avalanche Software",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "release_date": "2017-06-13",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Dutch, Polish, Portuguese, Russian.  Start your engines and gear up for the ultimate racing experience in Cars 3: Driven to Win inspired by Disney•Pixar's film, Cars 3. Play with over 20 customizable characters including Lightning McQueen, Jackson Storm, Cruz Ramirez and the next generation of racers in over 20 tracks set in iconic locations from the film such as Radiator Springs. Train and advance your abilities in 6 game modes and challenge your family and friends in the Battle Race to become the Ultimate Champion. On the road to becoming a Hall of Fame Driver, training and skill will give you an edge in a race that anyone can win. ",
+        "short": "Get ready for the ultimate racing experience in Cars 3: Driven to Win inspired by Disney•Pixar's film, Cars 3. Play with over 20 characters including Lightning McQueen and cruise through over 20 tracks. Advance your abilities in 6 game modes to become the Hall of Fame Driver. "
+    },
+    "media": [
+        {
+            "media_id": "58E19A4E",
+            "title": "Disney/Pixar Cars 3: Driven to Win",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520855/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520855/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520855/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520855/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520855/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520855/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520855/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520855/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520855/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

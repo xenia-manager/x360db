@@ -1,0 +1,43 @@
+{
+    "id": "555308DB",
+    "title": {
+        "full": "Tom Clancys Splinter Cell Chaos Theory",
+        "reduced": "Splinter Cell Chaos Theory"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics"
+    ],
+    "developer": "Ubisoft Montréal",
+    "publisher": "Ubisoft",
+    "release_date": "2019-06-11",
+    "user_rating": null,
+    "description": {
+        "full": "The next instalment of the critically acclaimed stealth-action franchise, Tom Clancy's Splinter Cell® Chaos Theory™ sends Sam Fisher on a perilous mission to stop a cyber-terrorist plot that threatens worldwide war.",
+        "short": "The next instalment of the critically acclaimed stealth-action franchise, Tom Clancy's Splinter Cell® Chaos Theory™ sends Sam Fisher on a perilous mission to stop a cyber-terrorist plot that threatens worldwide war."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308db/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308db/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308db/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308db/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308db/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308db/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308db/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308db/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308db/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308db/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "55530819",
+                "title": "Tom Clancys Splinter Cell Chaos Theory"
+            }
+        ],
+        "related": []
+    }
+}

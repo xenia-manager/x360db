@@ -1,0 +1,53 @@
+{
+    "id": "4B5807D5",
+    "title": {
+        "full": "tsurugi no machi no ihojin siro no oukyu",
+        "reduced": "tsurugi no machi no"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "EXPERIENCE",
+    "publisher": "EXPERIENCE",
+    "release_date": "2014-06-05",
+    "user_rating": null,
+    "description": {
+        "full": "ゲーム オン デマンドのバージョンは次の言語をサポートしています: 日本語  取扱説明書をダウンロードするには、http://marketplace.xbox.com にて対象のゲームをお探しの上、[取扱説明書を読む] を選択して下さい。  RPGのコアファンに向けた、死と消滅に抗う本格ダンジョンRPGです。古くからのゲームファンにも馴染み深い、純ファンタジーの世界。ライトなテイストを廃したシリアスかつ重厚な物語。ユーザーへの挑戦状とも言える難易度と、自由度の高いゲームシステム。これらRPGが持つ原点としての魅力を兼ね備えた本格派のゲームです。",
+        "short": "ゲーム オン デマンドのバージョンは次の言語をサポートしています: 日本語  取扱説明書をダウンロードするには、http://marketplace.xbox.com にて対象のゲームをお探しの上、[取扱説明書を読む] を選択して下さい。  ダンジョンRPGファン向けの、死と消滅に抗う本格ダンジョンRPG。 純ファンタジーの世界、シリアスな物語、そして高難易度のゲームバランス。 これらRPGの原点的な魅力を持つゲームです。"
+    },
+    "media": [
+        {
+            "media_id": "3B6C96BF",
+            "title": "Tsurugi no Machi no Ihoujin: Shiro no Oukyuu",
+            "edition": "Original, Shokai Genteiban",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d5/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

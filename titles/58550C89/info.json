@@ -1,0 +1,35 @@
+{
+    "id": "58550C89",
+    "title": {
+        "full": "新魔法合成屋さんのミケ",
+        "reduced": "新魔法合成屋さんのミケ"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "nakfiv",
+    "publisher": "nakfiv",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. 【ゲームジャンル：ロールプレイアドベンチャー】【あらすじ：私たちが住む世界とは違う世界でまだ魔法が存在している世界。この世界にある小さな王国で小さな魔法合成屋を営んでいるミケは魔法の合成に大忙しの毎日を送っていました。そんなある日、王国の騎士がやってきてミケにこう依頼したのです。「魔物討伐へ向かう。戦いに有利になる魔法を合成して欲しい」こうしてミケは世界を救う大きな戦いへ知らず知らずと引き込まれていくのでした。】",
+        "short": "【ゲームジャンル：ロールプレイアドベンチャー】【あらすじ：私たちが住む世界とは違う世界でまだ魔法が存在している世界。この世界にある小さな王国で小さな魔法合成屋を営んでいるミケは魔法の合成に大忙しの毎日を送っていました。そんなある日、王国の騎士がやってきてミケにこう依頼したのです。「魔物討伐へ向かう。戦いに有利になる魔法を合成して欲しい」こうしてミケは世界を救う大きな戦いへ知らず知らずと引き込まれていくのでした。】"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550c89/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C89_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c89/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C89_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C89_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C89_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C89_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

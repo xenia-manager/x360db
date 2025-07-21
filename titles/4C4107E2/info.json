@@ -1,0 +1,43 @@
+{
+    "id": "4C4107E2",
+    "title": {
+        "full": "SWTCW Republic Heroes",
+        "reduced": "SWTCW Republic Heroes"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Krome Studios",
+    "publisher": "Disney Interactive Studios",
+    "release_date": "2009-09-04",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Live the Clone Wars and play as your favorite Jedi and Clone Trooper in a brand-new story.  Leap and slice your way through enemy lines with the acrobatic power of a Jedi.  Wield an arsenal of elite Clone Trooper weapons -- from rocket launchers to thermal detonators.  Fight alongside your friend on any mission, at any time with drop-in/drop-out co-op gameplay.",
+        "short": "Live the Clone Wars and play as your favorite Jedi and Clone Trooper in a brand-new story.  Leap and slice your way through enemy lines with the acrobatic power of a Jedi.  Wield an arsenal of elite Clone Trooper weapons -- from rocket launchers to thermal detonators.  Fight alongside your friend on any mission, at any time with drop-in/drop-out co-op gameplay."
+    },
+    "media": [
+        {
+            "media_id": "52F7F197",
+            "title": "Star Wars: The Clone Wars: Republic Heroes",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107e2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107e2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107e2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107e2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107e2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107e2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107e2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107e2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107e2/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

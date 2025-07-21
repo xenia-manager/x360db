@@ -1,0 +1,32 @@
+{
+    "id": "585504CA",
+    "title": {
+        "full": "Avatar Onslaught",
+        "reduced": "Avatar Onslaught"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Lighthouse Games Studio",
+    "publisher": "Lighthouse Games Studio",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Prepare yourself for an almighty Onslaught. Take on hordes of avatars in full HD as you compete against the best in the world. Onslaught features character leveling, global scoreboards and Avatars. Prepare to wet yourself.",
+        "short": "Prepare yourself for an almighty Onslaught. Take on hordes of avatars in full HD as you compete against the best in the world. Onslaught features character leveling, global scoreboards and Avatars. Prepare to wet yourself."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585504ca00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585504CA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585504ca/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585504CA_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

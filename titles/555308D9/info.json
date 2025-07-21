@@ -1,0 +1,43 @@
+{
+    "id": "555308D9",
+    "title": {
+        "full": "Just Dance  2019",
+        "reduced": "Just Dance  2019"
+    },
+    "genre": [
+        "Family",
+        "Kinect",
+        "Music"
+    ],
+    "developer": "Ubisoft Paris",
+    "publisher": "Ubisoft",
+    "release_date": "2018-10-23",
+    "user_rating": null,
+    "description": {
+        "full": "Wherever life takes you, Just Dance 2019 will keep you dancing for hours with an insane amount of content for the whole family to enjoy!   From chart-topping hits to family favorites, dance to 40 hot tracks, including:  • Havana - Camila Cabello • One Kiss - Calvin Harris, Dua Lipa • Finesse (Remix) - Bruno Mars Ft. Cardi B • I Feel It Coming - The Weeknd Ft. Daft Punk • Work Work - Britney Spears • Familiar - Liam Payne & J Balvin • Mad Love - Sean Paul, David Guetta Ft. Becky G • Bang Bang Bang - BIGBANG ...and many more!  Whether there’s something to celebrate or for no reason at all, Just Dance is there for every occasion!",
+        "short": "Wherever life takes you, Just Dance 2019 will keep you dancing for hours with an insane amount of content for the whole family to enjoy!  Just Dance 2019 comes with over 40 new and fun songs."
+    },
+    "media": [
+        {
+            "media_id": "44FD3095",
+            "title": "Just Dance 2019",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d9/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

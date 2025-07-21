@@ -1,0 +1,35 @@
+{
+    "id": "585506C3",
+    "title": {
+        "full": "Gizmo the Puzzle",
+        "reduced": "Gizmo the Puzzle"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "haoken",
+    "publisher": "haoken",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. This is a puzzle game.   Gizmo (green) and blocks (red) fall at random , well stacked,  Sometimes the water appears, it flow Gizmo. Blocks arranged in a row, it will disappear.",
+        "short": "This is a puzzle game.   Gizmo (green) and blocks (red) fall at random , well stacked,  Sometimes the water appears, it flow Gizmo. Blocks arranged in a row, it will disappear."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585506c300000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506C3_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506c3/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506C3_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506C3_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506C3_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506C3_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

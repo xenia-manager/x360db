@@ -1,0 +1,52 @@
+{
+    "id": "4B5607DF",
+    "title": {
+        "full": "WARRIORS OROCHI 3",
+        "reduced": "WARRIORS OROCHI 3"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "TECMO KOEI GAMES.CO.,LTD",
+    "publisher": "TECMO KOEI AMERICA Corporation",
+    "release_date": "2012-03-30",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The WARRIORS OROCHI series is a series of tactical action games in which heroes from the DYNASTY WARRIORS and SAMURAI WARRIORS franchises work together in an effort to defeat Orochi, the Serpent King. The latest title in the series, WARRIORS OROCHI 3, features over 120 playable characters, who can be played freely in three-character teams. Themes of loyalty, betrayal, friendship and love are explored in the human drama created as these heroes clash on the field of battle. ",
+        "short": "WARRIORS OROCHI 3 features over 120 playable characters, a unique three-character battle system, and intense and dramatic battlefield action!"
+    },
+    "media": [
+        {
+            "media_id": "71815B24",
+            "title": "Warriors Orochi 3",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "280DFD0E",
+            "title": "Warriors Orochi 3",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607df/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607df/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607df/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607df/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607df/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607df/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607df/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607df/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607df/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607df/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607df/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607df/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

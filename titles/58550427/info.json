@@ -1,0 +1,35 @@
+{
+    "id": "58550427",
+    "title": {
+        "full": "A Dreamland Chronicles Game",
+        "reduced": "A Dreamland Chronicles Game"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "SorceryGames LLC",
+    "publisher": "SorceryGames LLC",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=2/3, Mature Content=0/3. ........ A Trivia game based on a Wonderful and popular Comic series.  Read the Comic and answer Trivia questions based upon it. Fun for the family with this story and fantastic artwork. do you know more about the story and characters than your Mom ?",
+        "short": "........ A Trivia game based on a Wonderful and popular Comic series.  Read the Comic and answer Trivia questions based upon it. Fun for the family with this story and fantastic artwork. do you know more about the story and characters than your Mom ?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855042700000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550427_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550427/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550427_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550427_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550427_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550427_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

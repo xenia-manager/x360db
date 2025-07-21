@@ -1,0 +1,51 @@
+{
+    "id": "4541093E",
+    "title": {
+        "full": "Kingdoms of Amalur Reckoning",
+        "reduced": "Kingdoms of Amalur Reckoning"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "38 Studios / Big Huge Games",
+    "publisher": "Electronic Arts, Inc.",
+    "release_date": "2012-02-07",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  The minds of New York Times bestselling author R.A. Salvatore, Spawn creator Todd McFarlane, and Elder Scrolls IV: Oblivion lead designer Ken Rolston have combined to create Kingdoms of Amalur: Reckoning, a new role-playing game set in a world worth saving.  Build the character you’ve always wanted and continuously evolve it to your style of play with the revolutionary Destiny system. Choose your path and battle through a master-crafted universe featuring some of the most intense, responsive, and customizable RPG combat ever. ",
+        "short": "Immerse yourself in an all-new massive universe from the minds of bestselling author R.A. Salvatore, Spawn creator Todd McFarlane, and Elder Scrolls IV: Oblivion lead designer Ken Rolston.  Choose your path and battle through a sprawling master-crafted world featuring some of the most intense, responsive, and customizable RPG combat ever. "
+    },
+    "media": [
+        {
+            "media_id": "39265E70",
+            "title": "Kingdoms of Amalur: Reckoning",
+            "edition": "Original",
+            "region": "World"
+        },
+        {
+            "media_id": "3866C9BA",
+            "title": "Les Royaumes D'Amalur: Reckoning",
+            "edition": "Original",
+            "region": "France"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093e/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093e/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

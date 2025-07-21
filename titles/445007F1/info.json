@@ -1,0 +1,45 @@
+{
+    "id": "445007F1",
+    "title": {
+        "full": "BEN 10 VILGAX ATTACKS",
+        "reduced": "BEN 10 VILGAX ATTACKS"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer"
+    ],
+    "developer": "PAPAYA STUDIO",
+    "publisher": "D3Publisher",
+    "release_date": "2009-09-21",
+    "user_rating": "4.00",
+    "description": {
+        "full": "BEN 10 ALIEN FORCE: Vilgax Attacks is the latest game in the multi-million unit selling Ben 10 video game series and the first game available for the Xbox 360 system.  Based on the hit Cartoon Network TV series, take command of Ben Tennyson and his ten alien superheroes in an action-packed adventure to save the universe.  Players will have the opportunity to experience the vast Alien Force universe, taking Ben into outer space and distant planets for the first time ever in the series.  It will also be the first time that Ben can use all ten of his alien forms to battle against a terrifying threat that only he can stop! BEN 10 ALIEN FORCE: Vilgax Attacks is centered on Ben’s adventure across the galaxy when his greatest enemy, Vilgax, has been busy assembling his own extreme team of Ben’s most fearsome foes in a grand scheme to take over the universe one planet at a time, culminating with the destruction of Ben’s home planet, the Earth!  The fate of the whole universe lies in your hands!",
+        "short": "BEN 10 ALIEN FORCE: Vilgax Attacks is the latest game in the multi-million unit selling Ben 10 video game series and the first game available for the Xbox 360 system.  Based on the hit Cartoon Network TV series, take command of Ben Tennyson and his ten alien superheroes in an action-packed adventure to save the universe.  Players will have the opportunity to experience the vast Alien Force universe, taking Ben into outer space and distant planets for the first time ever in the series.  It will …"
+    },
+    "media": [
+        {
+            "media_id": "0EF8DB5B",
+            "title": "Ben 10: Alien Force: Vilgax Attacks",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f1/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

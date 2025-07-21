@@ -1,0 +1,35 @@
+{
+    "id": "5855036F",
+    "title": {
+        "full": "Ultimate Arcade Chat Rooms",
+        "reduced": "Ultimate Arcade Chat Rooms"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Raining Talent LLC",
+    "publisher": "Raining Talent LLC",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Publicly searchable chat rooms finally come to Xbox Live! You are no longer restricted to chat with only those on your friends list. Chat with voice, or keyboard! Meet new people! Talk about games, dating, clan recruitment, or anything else! Select an astronaut to interact with others. Enjoy the beautiful space scenery with shooting asteroids, strange alien planets, and other amazing effects.",
+        "short": "Publicly searchable chat rooms finally come to Xbox Live! You are no longer restricted to chat with only those on your friends list. Chat with voice, or keyboard! Meet new people! Talk about games, dating, clan recruitment, or anything else! Select an astronaut to interact with others. Enjoy the beautiful space scenery with shooting asteroids, strange alien planets, and other amazing effects."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855036f00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855036F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855036f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855036F_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855036F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855036F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855036F_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

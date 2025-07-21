@@ -1,0 +1,43 @@
+{
+    "id": "58411202",
+    "title": {
+        "full": "Sonic Adventure 2",
+        "reduced": "Sonic Adventure 2"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics",
+        "Platformer"
+    ],
+    "developer": "SEGA",
+    "publisher": "SEGA",
+    "release_date": "2012-09-28",
+    "user_rating": "4.50",
+    "description": {
+        "full": "In the fight between heroes and villains, will you choose to save the world or conquer it?  The hunt for the Chaos Emeralds is on and battle lines have been drawn between Hero and Dark. Experience two unique adventures featuring both long-time heroes and new and returning villains as they battle for the fate of the world!   Sonic Adventure™ 2 makes its return on Xbox LIVE Arcade with a full cast of playable heroes and villains, exciting two-player competitive modes, Chao Gardens, and more than 30 action-packed stages, all remastered in HD!",
+        "short": "In Sonic Adventure™ 2, will you choose to save the world or conquer it?  The hunt for the Chaos Emeralds is on and battle lines have been drawn between Hero and Dark. Experience two unique adventures featuring both long-time heroes and new and returning villains as they battle for the fate of the world!  "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411202/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411202/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411202/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411202/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411202/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411202/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411202/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411202/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411202/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411202/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411202/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411202/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411202/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411202/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

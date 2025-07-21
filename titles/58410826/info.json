@@ -1,0 +1,39 @@
+{
+    "id": "58410826",
+    "title": {
+        "full": "Hexic 2",
+        "reduced": "Hexic 2"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Carbonated Games",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-01-04",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Single Player, Xbox LIVE Multiplayer 1-2, Local Multiplayer 1-2, HD (High Definition). Ready to put your hex-busting skills to the test? The game’s not over until you build a full cluster, flower, or line of black pearls! For an extra layer of challenge, match wits with a friend or the devious computer player in Battle mode. There are no refunds for this item. For more information, see www.xbox.com/Live/accounts.",
+        "short": "A sequel with everything: all the hex-spinning puzzle action of its innovative predecessor, plus new special pieces, new formations, new modes, and a few more new surprises. Challenge your skills, race against the clock, or go head-to-head with another player in the new Battle mode."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410826/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410826/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410826/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410826/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410826/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410826/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410826/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410826/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410826/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410826/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410826/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410826/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

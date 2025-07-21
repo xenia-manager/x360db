@@ -1,0 +1,77 @@
+{
+    "id": "45410997",
+    "title": {
+        "full": "Dragon Age Inquisition",
+        "reduced": "Dragon Age Inquisition"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Bioware",
+    "publisher": "Electronic Arts",
+    "release_date": "2014-11-18",
+    "user_rating": "4.50",
+    "description": {
+        "full": "You are the only one who can stop demons flooding into the land of Thedas.  A cataclysmic event plunges the land of Thedas into turmoil. Dragons darken the sky, casting a shadow of terror over a once-peaceful kingdom. Mages break into all-out war against the oppressive Templars. Nations rise against one another. It falls to you and your party of legendary heroes to restore order as you lead the Inquisition, hunting down the agents of chaos. Bonds will form - and some will break - as the campaign for truth takes its toll.  BioWare’s latest action-adventure delivers an unparalleled story set in a vast, changeable landscape. Explore hidden caves, defeat truly monumental creatures, and shape the world around you based on your unique play style. Explore, lead, and battle: tough choices define your experience, and even one decision can change the course of what's to come.",
+        "short": "The epic role-playing series from BioWare takes a thrilling leap forward with Dragon Age™: Inquisition. Beautiful vistas and incredible new possibilities await you."
+    },
+    "media": [
+        {
+            "media_id": "4955B754",
+            "title": "Dragon Age: Inquisition (Disc 1)",
+            "edition": "Original",
+            "region": "World"
+        },
+        {
+            "media_id": "48F274C6",
+            "title": "Dragon Age: Inquisition (Disc 1)",
+            "edition": "Deluxe Edition",
+            "region": "Japan"
+        },
+        {
+            "media_id": "4C274E0C",
+            "title": "Dragon Age: Inquisition (Disc 2)",
+            "edition": "Original",
+            "region": "World"
+        },
+        {
+            "media_id": "36A28845",
+            "title": "Dragon Age: Inquisition (Disc 2)",
+            "edition": "Deluxe Edition",
+            "region": "Japan"
+        },
+        {
+            "media_id": "2F99B121",
+            "title": "Dragon Age: Inquisition (Disco 1)",
+            "edition": "Original",
+            "region": "Brazil"
+        },
+        {
+            "media_id": "7DE77723",
+            "title": "Dragon Age: Inquisition (Disco 2)",
+            "edition": "Original",
+            "region": "Brazil"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410997/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410997/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410997/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410997/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410997/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410997/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410997/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410997/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410997/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410997/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410997/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410997/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410997/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

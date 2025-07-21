@@ -1,0 +1,36 @@
+{
+    "id": "45418905",
+    "title": {
+        "full": "EA SPORTS MMA Demo",
+        "reduced": "EA SPORTS MMA Demo"
+    },
+    "genre": [
+        "Fighting",
+        "Sports & Recreation"
+    ],
+    "developer": "EA Tiburon",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2010-09-28",
+    "user_rating": "3.50",
+    "description": {
+        "full": "EA SPORTS MMA brings the authenticity of the world’s most intense combat sport home like never before. Choose from the world’s top fighters or climb the ranks of the worldwide circuit with your created prodigy to become the ultimate MMA champion. Are you ready? Let’s get it on!",
+        "short": "EA SPORTS MMA brings the authenticity of the world’s most intense combat sport home like never before. Choose from the world’s top fighters or climb the ranks of the worldwide circuit with your created prodigy to become the ultimate MMA champion. Are you ready? Let’s get it on!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418905/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418905/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418905/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418905/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454108FC",
+                "title": "EA SPORTS™ MMA"
+            }
+        ],
+        "related": []
+    }
+}

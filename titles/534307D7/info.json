@@ -1,0 +1,37 @@
+{
+    "id": "534307D7",
+    "title": {
+        "full": "CM 2007",
+        "reduced": "CM 2007"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Gusto Games Limited",
+    "publisher": "Eidos",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "Download extra Challenges, Gamer Pictures and a Theme",
+        "short": "Download extra Challenges, Gamer Pictures and a Theme"
+    },
+    "media": [
+        {
+            "media_id": "342583D5",
+            "title": "Championship Manager 2007",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307d7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307d7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307d7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307d7/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

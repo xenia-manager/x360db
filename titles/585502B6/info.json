@@ -1,0 +1,32 @@
+{
+    "id": "585502B6",
+    "title": {
+        "full": "NINJA TRAIN",
+        "reduced": "NINJA TRAIN"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "dot zo games",
+    "publisher": "dot zo games",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Wao! that's NINJA!",
+        "short": "Wao! that's NINJA!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585502b6/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585502B6_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585502b6/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585502B6_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": "55530890",
+    "title": {
+        "full": "Just Dance Kids",
+        "reduced": "Just Dance Kids"
+    },
+    "genre": [
+        "Family",
+        "Kinect",
+        "Music"
+    ],
+    "developer": "Land Ho!",
+    "publisher": "Ubisoft",
+    "release_date": "2010-11-03",
+    "user_rating": null,
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor.  The coolest dance experience, now for kids on Kinect™ for Xbox360! Featuring 40 fun and crazy dance routines to kids favourite songs, including today’s hottest hits like Love Me, Just The Way You Are, and Whip My Hair, plus songs from kids' favourite TV shows.  Just Dance Kids gets kids of all ages up and dancing with colourful graphics, super-fun dance moves, and kid-friendly gameplay!",
+        "short": "The coolest dance experience, now for kids on Kinect™ for Xbox360! Featuring 40 fun and crazy dance routines to kids favourite songs, including today’s hottest hits like Love Me, Just The Way You Are, and Whip My Hair, even including songs from kids' favourite TV shows. Just Dance Kids gets kids of all ages up and dancing with colourful graphics, super-fun dance moves, and kid-friendly gameplay!"
+    },
+    "media": [
+        {
+            "media_id": "2FDB8B85",
+            "title": "Just Dance Kids",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530890/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530890/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530890/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530890/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530890/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530890/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530890/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530890/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530890/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530890/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/55530890/0/PPS_CMYK_JDK_X360_KINECT_MANUAL_UK_HR_PEGI_OFF_graphicstudio_CMYK.pdf"
+        ]
+    }
+}

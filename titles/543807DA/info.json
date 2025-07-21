@@ -1,0 +1,44 @@
+{
+    "id": "543807DA",
+    "title": {
+        "full": "Max Payne 2 The Fall of Max Payne",
+        "reduced": "Max Payne 2"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics",
+        "Shooter"
+    ],
+    "developer": "Remedy Entertainment",
+    "publisher": "Rockstar Games",
+    "release_date": "2021-11-10",
+    "user_rating": null,
+    "description": {
+        "full": "Max Payne 2: The Fall of Max Payne is a violent, film-noir love story. Dark, tragic, and intense, the in-depth story is a thrill-ride of shocking twists and revelations. Love hurts.  The fierce, yet stylish action sequences and slow-motion gunplay that has become synonymous with Max Payne is back and better than ever. New and enhanced moves and options provide breathtaking cinematic gameplay. Max Payne 2: The Fall of Max Payne raises the bar on action games all over again.",
+        "short": "A violent, Film Noir love story between a cop and a femme fatale murder suspect, between Max Payne and Mona Sax. Dark, tragic, and intense, the story is a thrill ride of shocking twists and revelations."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807da/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807da/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807da/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807da/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807da/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807da/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807da/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807da/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807da/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807da/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807da/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807da/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807da/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807da/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802543807da/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

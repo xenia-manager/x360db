@@ -1,0 +1,35 @@
+{
+    "id": "5855048F",
+    "title": {
+        "full": "Zulu Hour",
+        "reduced": "Zulu Hour"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Crying Monkey Studio",
+    "publisher": "Crying Monkey Studio",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=2/3, Mature Content=1/3. Zulu Hour is a top down shooter that's reminiscent of the classic genre, but contains modern graphics and gameplay.  Defend the planet in Campaign Mode or challenge a friend in Arcade Mode and see who can stay alive the longest!  Build up your arsenal - you're going to need it.",
+        "short": "Zulu Hour is a top down shooter that's reminiscent of the classic genre, but contains modern graphics and gameplay.  Defend the planet in Campaign Mode or challenge a friend in Arcade Mode and see who can stay alive the longest!  Build up your arsenal - you're going to need it."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855048f00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855048F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855048f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855048F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855048F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855048F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855048F_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

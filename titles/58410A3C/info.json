@@ -1,0 +1,41 @@
+{
+    "id": "58410A3C",
+    "title": {
+        "full": "Puzzle Quest 2",
+        "reduced": "Puzzle Quest 2"
+    },
+    "genre": [
+        "Puzzle & Trivia",
+        "Role Playing"
+    ],
+    "developer": "Infinite Interactive",
+    "publisher": "D3Publisher",
+    "release_date": "2010-06-30",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(ONLINE INTERACTIONS NOT RATED BY THE ESRB)  Escape to a puzzle game fantasy world filled with amazing creatures, powerful weapons, and addictive role playing in this sequel to the award-winning Puzzle Quest.  There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "The sequel to the award-winning Puzzle Quest, the game that forged the puzzle RPG genre. Featuring 4 brand new character classes, over 80 unique opponents, and over 100 different spells. Do battle, explore, and loot your way through a dungeon filled with ancient evil from an all-new isometric perspective."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3c/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3c/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3c/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a3c/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

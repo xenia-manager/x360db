@@ -1,0 +1,48 @@
+{
+    "id": "494607D2",
+    "title": {
+        "full": "DIARIO",
+        "reduced": "DIARIO"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Idea Factory",
+    "publisher": "Idea Factory/InterFM",
+    "release_date": "2010-05-19",
+    "user_rating": null,
+    "description": {
+        "full": "リバースムーンがXbox360で復活！人気のシミュレーションRPGがXbox Liveに対応した新機能を搭載し、大幅にパワーアップ！ 黒きキューブに隠された謎。その先にあるものとは----",
+        "short": "リバースムーンがXbox360で復活！人気のシミュレーションRPGがXbox Liveに対応した新機能を搭載し、大幅にパワーアップ！ 黒きキューブに隠された謎。その先にあるものとは----"
+    },
+    "media": [
+        {
+            "media_id": "108B843B",
+            "title": "Diario: Rebirth Moon Legend",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d2/15369/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d2/15369/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d2/15369/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d2/15369/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d2/15369/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d2/15369/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d2/15369/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d2/15369/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d2/15369/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d2/15369/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

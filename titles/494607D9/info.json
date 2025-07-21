@@ -1,0 +1,56 @@
+{
+    "id": "494607D9",
+    "title": {
+        "full": "Record of Agarest War Zero -Dawn of War-",
+        "reduced": "Record of Agarest War Zero -Dawn of War-"
+    },
+    "genre": [
+        "Role Playing",
+        "Strategy & Simulation"
+    ],
+    "developer": "COMPILE HEART",
+    "publisher": "IDEA FACTORY",
+    "release_date": "2010-06-15",
+    "user_rating": null,
+    "description": {
+        "full": "The story begins at the Scarred Mountains, a boundary created by the gods to separate the two sides.   Sieghart will encounter a young girl surrounded by creatures form the armies of darkness while on a mission for the forces of light. While fighting off the girl's assailants Sieghart was mortally wounded, but was saved by the mysterious young girl. However, while she managed to save Sieghart's life, her powers were transferred to him.  With this unexpected twist of fate, Sieghart embraces his new role in the conflict and throws himself headlong into the war.",
+        "short": "神々によって二分された光と闇の勢力の境界『刻まれし傷の山脈』。 物語はそこから始まることとなる。  ジークハイトは任務の途中、闇の勢力に囲まれた一人の少女と出会う。 少女を助けるため重傷負った彼を、少女は自らの『力』によって救った。 しかしそれが原因で、彼女の『力』は彼に引き継がれてしまうこととなる。  少女との出会いによって手にした『力』は、光と闇の戦局を左右するほどの『力』。 ジークハイトはその運命を受け入れ、戦いに身を投じることとなる。"
+    },
+    "media": [
+        {
+            "media_id": "78AF2FF1",
+            "title": "Agarest Senki Zero: Dawn of War",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d9/1033/screenlg17.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550719",
+    "title": {
+        "full": "A Madmans Guide To Happiness",
+        "reduced": "A Madmans Guide To Happiness"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "JadedHorizon",
+    "publisher": "JadedHorizon",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=3/3. A horror/mystery game where you examine the PC of a suicide victim. It is filled with mad rantings and cryptic files. It also claims that whoever unlocks the files will be rewarded with the secret of happiness....  Why did he kill himself? What is the secret of happiness? Who is 'Princess'? Explore the twisted computer of a madman to find out.",
+        "short": "A horror/mystery game where you examine the PC of a suicide victim. It is filled with mad rantings and cryptic files. It also claims that whoever unlocks the files will be rewarded with the secret of happiness....  Why did he kill himself? What is the secret of happiness? Who is 'Princess'? Explore the twisted computer of a madman to find out."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550719/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550719_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550719/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550719_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550719_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550719_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550719_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": "394F07D1",
+    "title": {
+        "full": "Diablo III",
+        "reduced": "Diablo III"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Blizzard Entertainment",
+    "publisher": "Blizzard Entertainment",
+    "release_date": "2013-09-03",
+    "user_rating": "4.75",
+    "description": {
+        "full": "The Games on Demand version supports English and French. EVIL IS IN ITS PRIME. Twenty years have passed since the Prime Evils were defeated and banished from the world of Sanctuary. Now, you must return to where it all began—the town of Tristram—and investigate rumors of a fallen star, for this is an omen that the End Times have begun.",
+        "short": "Take a stand as one of humanity’s last defenders—barbarian, witch doctor, monk, demon hunter, or wizard—and unleash devastating powers upon hordes of demons."
+    },
+    "media": [
+        {
+            "media_id": "68E5958A",
+            "title": "Diablo III",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "7A13A2D8",
+            "title": "Diablo III",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "2C584E7F",
+            "title": "Diablo III",
+            "edition": "Original",
+            "region": "Europe, Australia"
+        },
+        {
+            "media_id": "6BD3D4A9",
+            "title": "Diablo III",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "1C7C4B06",
+            "title": "Diablo III",
+            "edition": "Original",
+            "region": "Spain"
+        },
+        {
+            "media_id": "0E696BB9",
+            "title": "Diablo III",
+            "edition": "Original",
+            "region": "Italy"
+        },
+        {
+            "media_id": "26C4AC9A",
+            "title": "Diablo III",
+            "edition": "Original",
+            "region": "Brazil"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f07d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f07d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f07d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f07d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f07d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f07d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f07d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f07d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f07d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802394f07d1/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": "415607F2",
+    "title": {
+        "full": "Kung Fu Panda",
+        "reduced": "Kung Fu Panda"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family",
+        "Platformer"
+    ],
+    "developer": "Luxoflux",
+    "publisher": "Activision",
+    "release_date": "2010-04-05",
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game supports English and French. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Prepare for Kung Fu action awesomeness! In the full game, play as Po on his quest to become the Dragon Warrior, and the Furious Five, the masters of Kung Fu.  Play single player, or play with friends in multiplayer modes. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Prepare for Kung Fu action awesomeness! In the full game, play as Po on his quest to become the Dragon Warrior, and the Furious Five, the masters of Kung Fu.  Play single player, or play with friends in multiplayer modes."
+    },
+    "media": [
+        {
+            "media_id": "524CA11E",
+            "title": "DreamWorks Kung Fu Panda",
+            "edition": "Bundled with Xbox 360",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "447BEEBA",
+            "title": "DreamWorks Kung Fu Panda",
+            "edition": "Original, Bundled with Xbox 360",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607f2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607f2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607f2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607f2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607f2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607f2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607f2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607f2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607f2/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/8e/ce/8ecef4b1-96f4-469b-b71e-cdf376533372.PDF?v=1#KFP-en.PDF"
+        ]
+    }
+}

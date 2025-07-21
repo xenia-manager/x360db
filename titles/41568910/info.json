@@ -1,0 +1,36 @@
+{
+    "id": "41568910",
+    "title": {
+        "full": "Call of Duty Ghosts - Demo",
+        "reduced": "Call of Duty Ghosts - Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Infinity Ward",
+    "publisher": "Activision",
+    "release_date": "2014-03-07",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Play Team Deathmatch and Domination on three incredibly diverse Multiplayer Maps: Strike Zone, Warhawk and Prison Break. Experience the brand new Create-a-soldier system, which allows you to customize your character, and build your loadout using a variety of new perks, new weapons and new killstreaks.   This Free Demo also gives you access to Extinction - a completely new 1-4 player co-op game mode where you fight hordes of aliens, featuring a unique blend of fast-paced survival gameplay, base defense, player customization and class leveling.  Purchase the full game digital download for a limited time for a discounted price.",
+        "short": "Play Team Deathmatch and Domination on three incredibly diverse Multiplayer Maps: Strike Zone, Warhawk and Prison Break.   Play Extinction - a completely new 1-4 player co-op game mode where you fight hordes of aliens.  Purchase the full game digital download for a limited time for a discounted price."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241568910/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241568910/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241568910/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241568910/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "415608FC",
+                "title": "Call of Duty®: Ghosts"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "5553085D",
+    "title": {
+        "full": "Assassins Creed Brotherhood",
+        "reduced": "Assassins Creed Brotherhood"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "release_date": "2010-11-16",
+    "user_rating": "4.50",
+    "description": {
+        "full": "BE A LEGEND LIVE AND BREATHE AS EZIO, A LEGENDARY MASTER ASSASSIN, IN HIS ENDURING STRUGGLE AGAINST THE POWERFUL TEMPLAR ORDER.  JOURNEY INTO ITALY’S GREATEST CITY, ROME, CENTER OF POWER, GREED AND CORRUPTION TO STRIKE AT THE HEART OF THE ENEMY.  FOR THE FIRST TIME, TAKE PART IN AN INNOVATIVE MULTIPLAYER LAYER AND EMBODY AN ASSASSIN OF YOUR CHOOSING, DEFINE THEIR KILLING STYLE AND MATCH YOUR SKILLS AGAINST OTHER PLAYERS FROM AROUND THE WORLD. Multiplayer and online features are no longer available for this product. ",
+        "short": "BE A LEGEND LIVE AND BREATHE AS EZIO, A LEGENDARY MASTER ASSASSIN, IN HIS ENDURING STRUGGLE AGAINST THE POWERFUL TEMPLAR ORDER.  JOURNEY INTO ITALY’S GREATEST CITY, ROME, CENTER OF POWER, GREED AND CORRUPTION TO STRIKE AT THE HEART OF THE ENEMY."
+    },
+    "media": [
+        {
+            "media_id": "6D88AE4F",
+            "title": "Assassin's Creed: Brotherhood",
+            "edition": "Original, Classics, Platinum Hits, Promo, Assassin's Creed: Ezio Trilogy, Assassin's Creed: Heritage Collection, Da Vinci Edition, Not for Resale",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "9D4DB308",
+            "title": "Assassin's Creed: Brotherhood",
+            "edition": "Platinum Hits",
+            "region": "Korea"
+        },
+        {
+            "media_id": "F146E5B3",
+            "title": "Assassin's Creed: Brotherhood",
+            "edition": "Original, Special Edition: Platinum Collection",
+            "region": "Japan"
+        },
+        {
+            "media_id": "CAA468A3",
+            "title": "Assassin's Creed: Brotherhood",
+            "edition": "Original, Special Edition",
+            "region": "Europe, Asia"
+        },
+        {
+            "media_id": "27A19372",
+            "title": "Assassin's Creed: Brotherhood",
+            "edition": "Classics",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553085d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553085d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553085d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553085d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553085d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553085d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553085d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553085d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553085d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553085d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553085d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553085d/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553085d/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553085d/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

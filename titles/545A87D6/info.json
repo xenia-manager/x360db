@@ -1,0 +1,47 @@
+{
+    "id": "545A87D6",
+    "title": {
+        "full": "Carrier Command Gaea Mission - Demo",
+        "reduced": "Carrier Command Gaea Mission - Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Strategy & Simulation"
+    ],
+    "developer": "Bohemia Interactive ",
+    "publisher": "Rising Star Games",
+    "release_date": "2012-12-07",
+    "user_rating": "2.75",
+    "description": {
+        "full": "Seize command of a futuristic military carrier and explore a large open world of a distant planet. Plan tactical assaults, order your units around the map and control them directly at any time to join in the action. Utilize both action and strategy elements to outwit and defeat your enemy in two distinct campaigns. ",
+        "short": "Based on a groundbreaking 80s classic, Carrier Command: Gaea Mission brings you aboard a futuristic vehicle carrier to battle on a breathtaking archipelago"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a87d6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a87d6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a87d6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a87d6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a87d6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a87d6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a87d6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a87d6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a87d6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a87d6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a87d6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a87d6/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a87d6/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a87d6/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "545A07D5",
+                "title": "Carrier Command: Gaea Mission"
+            }
+        ],
+        "related": []
+    }
+}

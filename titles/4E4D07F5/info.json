@@ -1,0 +1,59 @@
+{
+    "id": "4E4D07F5",
+    "title": {
+        "full": "DTR Retribution",
+        "reduced": "DTR Retribution"
+    },
+    "genre": [
+        "Fighting",
+        "Shooter"
+    ],
+    "developer": "Volatile Games",
+    "publisher": "NAMCO BANDAI Games America Inc.",
+    "release_date": "2010-05-18",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Step into the shoes of vice cop Jack Slate as he lays down the law and sets unbending rules of his own on a hard-hitting, rapid-fire mission to clean up Grant City the hard way.  Betrayed, cast-out and ruthlessly hunted, Jack wages a war of attrition, armed only with a gun, his bare hands and an intimidating four-legged friend: Shadow, a ferociously large and loyal canine. Together, man and beast shoot, brawl, claw and gnaw their way through the underbelly of Grant City, only to uncover a shocking conspiracy that threatens to shake their world to the very core!",
+        "short": "Step into the shoes of vice cop Jack Slate as he lays down the law and sets unbending rules of his own on a hard-hitting, rapid-fire mission to clean up Grant City the hard way.  Betrayed, cast-out and ruthlessly hunted, Jack wages a war of attrition, armed only with a gun, his bare hands and an intimidating four-legged friend: Shadow, a ferociously large and loyal canine. Together, man and beast shoot, brawl, claw and gnaw their way through the underbelly of Grant City, only to uncover a shock…"
+    },
+    "media": [
+        {
+            "media_id": "5ECF6978",
+            "title": "Dead to Rights: Retribution",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f5/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

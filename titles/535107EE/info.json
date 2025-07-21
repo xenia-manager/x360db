@@ -1,0 +1,35 @@
+{
+    "id": "535107EE",
+    "title": {
+        "full": "ニーア ゲシュタルト",
+        "reduced": "ニーア ゲシュタルト"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "キャビア",
+    "publisher": "スクウェア・エニックス",
+    "release_date": "2009-09-15",
+    "user_rating": null,
+    "description": {
+        "full": "スクウェア・エニックス×キャビアによる、完全新作アクションRPG。漆黒の化け物が徘徊する世界で、血塗られた戦いが始まろうとしていた。",
+        "short": "スクウェア・エニックス×キャビアによる、完全新作アクションRPG。漆黒の化け物が徘徊する世界で、血塗られた戦いが始まろうとしていた。"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107ee/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107ee/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107ee/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107ee/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "535107ED",
+                "title": "NieR Gestalt"
+            }
+        ],
+        "related": []
+    }
+}

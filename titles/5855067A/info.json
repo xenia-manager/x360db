@@ -1,0 +1,33 @@
+{
+    "id": "5855067A",
+    "title": {
+        "full": "Sniper Defense",
+        "reduced": "Sniper Defense"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "xMONOx",
+    "publisher": "xMONOx",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. Snipe down an onslaught of zombies with up to 4 players.",
+        "short": "Snipe down an onslaught of zombies with up to 4 players."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855067a/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855067A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855067a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855067A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855067A_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

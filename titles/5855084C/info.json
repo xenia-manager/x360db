@@ -1,0 +1,33 @@
+{
+    "id": "5855084C",
+    "title": {
+        "full": "Explosive Gas",
+        "reduced": "Explosive Gas"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Flathead Games",
+    "publisher": "Flathead Games",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. Fight it out in a battle royale to see who's the last man standing(and not on fire).  Play with up to 8 players locally(2 per controller) or online.  Includes multiple game modes and a full level editor that allows you to play your custom levels online or against merciless AI players.  UPDATED: now includes 6 all new maps, wider range of AI difficulty and much more.",
+        "short": "Fight it out in a battle royale to see who's the last man standing(and not on fire).  Play with up to 8 players locally(2 per controller) or online.  Includes multiple game modes and a full level editor that allows you to play your custom levels online or against merciless AI players.  UPDATED: now includes 6 all new maps, wider range of AI difficulty and much more."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855084c00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855084C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855084c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855084C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855084C_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

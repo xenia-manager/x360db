@@ -1,0 +1,36 @@
+{
+    "id": "54518892",
+    "title": {
+        "full": "Fantastic Pets Demo",
+        "reduced": "Fantastic Pets Demo"
+    },
+    "genre": [
+        "Family",
+        "Kinect"
+    ],
+    "developer": "Blitz Games Studios Ltd.",
+    "publisher": "THQ Inc.",
+    "release_date": "2011-04-12",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Fantastic Pets is the only video game that lets players create the pet of their dreams – real or fantastical!  Selecting from four different animal species – dog, cat, lizard or horse – players can customize and create countless variations of pets to nurture, train and play with.  For the first time ever players can join their pets on-screen and play together as if their pets were real, living creatures using augmented reality technology on the Microsoft Kinect.  Players can use both voice and full-body commands to nurture, play, train and grow closer to his or her animal friend. Players compete in Talent Shows to level up their Pet Trainer to unlock new customization options, accessories and achievements!   ",
+        "short": "Fantastic Pets is the only video game that lets players create the pet of their dreams – real or fantastical!  Selecting from four different animal species – dog, cat, lizard or horse – players can customize and create countless variations of pets to nurture, train and play with.  For the first time ever players can join their pets on-screen and play together as if their pets were real, living creatures using augmented reality technology on the Microsoft Kinect.   "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518892/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518892/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518892/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518892/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5451085E",
+                "title": "Fantastic Pets"
+            }
+        ],
+        "related": []
+    }
+}

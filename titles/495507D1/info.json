@@ -1,0 +1,36 @@
+{
+    "id": "495507D1",
+    "title": {
+        "full": "Neon Alley",
+        "reduced": "Neon Alley"
+    },
+    "genre": [],
+    "developer": "Neon Alley",
+    "publisher": "VIZ Media, LLC",
+    "release_date": "2012-12-11",
+    "user_rating": null,
+    "description": {
+        "full": "Neon Alley is a 24/7 channel of ALL English dubbed, UNCUT, anime & more including weekly exclusive premieres of hit series and 1st time dubs along with classic kung fu, anime inspired live action movies & more! Catch premiere episodes of NARUTO Shippuden, Blue Exorcist & Tiger & Bunny plus favorites like InuYasha, One Piece, and Death Note all together only in one place - only on Neon Alley. Download the app and start your 1 WEEK FREE TRIAL now!",
+        "short": "Neon Alley is a 24/7 channel of ALL English dubbed, UNCUT, anime & more including weekly exclusive premieres of hit series and 1st time dubs along with classic kung fu, anime inspired live action movies & more! Catch premiere episodes of NARUTO Shippuden, Blue Exorcist & Tiger & Bunny plus favorites like InuYasha, One Piece, and Death Note all together only in one place - only on Neon Alley. Download the app and start your 1 WEEK FREE TRIAL now!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802495507d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802495507d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802495507d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802495507d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802495507d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802495507d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802495507d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802495507d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802495507d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802495507d1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802495507d1/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

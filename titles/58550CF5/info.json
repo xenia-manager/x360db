@@ -1,0 +1,35 @@
+{
+    "id": "58550CF5",
+    "title": {
+        "full": "Discovery",
+        "reduced": "Discovery"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "noowanda",
+    "publisher": "noowanda",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. In 'Discovery' you can explore a giant world that is made of blocks and modify it with your own creations. Construct your house, build villages, cities, monumental constructions or dig deep under the earth. Place torches to light up your creations in the dark and enjoy beautiful sunsets or watch the stars at night.",
+        "short": "In 'Discovery' you can explore a giant world that is made of blocks and modify it with your own creations. Construct your house, build villages, cities, monumental constructions or dig deep under the earth. Place torches to light up your creations in the dark and enjoy beautiful sunsets or watch the stars at night."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550cf500000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CF5_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550cf5/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CF5_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CF5_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CF5_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CF5_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

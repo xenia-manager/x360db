@@ -1,0 +1,57 @@
+{
+    "id": "5345080C",
+    "title": {
+        "full": "Aliens Colonial Marines",
+        "reduced": "Aliens Colonial Marines"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Gearbox Software",
+    "publisher": "SEGA",
+    "release_date": "2013-05-30",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, and Polish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  In partnership with Twentieth Century Fox Consumer Products and developed by critically acclaimed studio Gearbox Software, Aliens: Colonial Marines will bring new levels of bone-chilling suspense and adrenaline-filled action to the renowned franchise. The game pits players against the universe’s ultimate alien killing machines, the Xenomorphs, in claustrophobic environments guaranteed to produce blood curdling thrills.",
+        "short": "In partnership with Twentieth Century Fox Consumer Products and developed by critically acclaimed studio Gearbox Software, Aliens: Colonial Marines will bring new levels of bone-chilling suspense and adrenaline-filled action to the renowned franchise. The game pits players against the universe’s ultimate alien killing machines, the Xenomorphs, in claustrophobic environments guaranteed to produce blood curdling thrills."
+    },
+    "media": [
+        {
+            "media_id": "5395B027",
+            "title": "Aliens: Colonial Marines",
+            "edition": "Limited Edition",
+            "region": "Russia"
+        },
+        {
+            "media_id": "4FB3C8B1",
+            "title": "Aliens: Colonial Marines",
+            "edition": "Original, Limited Edition",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345080c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345080c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345080c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345080c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345080c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345080c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345080c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345080c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345080c/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345080c/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345080c/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345080c/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345080c/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345080c/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/5345080c/ACM_XBL_GOD_MG_UK.pdf"
+        ]
+    }
+}

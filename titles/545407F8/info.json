@@ -1,0 +1,72 @@
+{
+    "id": "545407F8",
+    "title": {
+        "full": "Midnight Club Los Angeles Complete",
+        "reduced": "MCLA Complete"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Racing & Flying"
+    ],
+    "developer": "Rockstar San Diego",
+    "publisher": "Rockstar Games",
+    "release_date": "2010-07-06",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German and Spanish.   THE BEST WAY TO SEE LOS ANGELES IS AT 245 MPH. Race at breakneck speeds through the streets of modern-day L.A. recreated in stunning detail. Drive the hottest real-world tuners, muscle and luxury cars, exotics and superbikes on the streets today. Customize your vehicle with the best after-market performance parts and custom kits. Street racing with no track, no load times, no rules: Welcome to the Midnight Club.   Retired Features:  Rate My Ride and Driving Test unlocks for Midnight Club Los Angeles on Xbox 360 will no longer be available in-game as of 5/31/14.  ©2006-2009 Rockstar Games. Rockstar Games, R*, Midnight Club marks/logos owned by Take-Two Interactive Software.  All other marks/designs property of their owners.  See manual for details. All Rights Reserved.  Use of this software subject to license in game manual & online at rockstagames.com/eula.  Non-transferable access to special features such as exclusive, unlockable, downloadable or online content, services, or functions may require single-use serial code, additional fee, internet connection, and/or online account registration (13+). Special features may not be available to all users and may on 30 days notice be terminated, modified, or offered under different terms.   This videogame is fictional, doesn’t depict any actual event, person, or entity; any similarities are coincidental.  We don’t endorse or encourage any conduct depicted.  Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is prohibited. ",
+        "short": "THE BEST WAY TO SEE LOS ANGELES IS AT 245 MPH.  Race at breakneck speeds through the streets of modern-day L.A. recreated in stunning detail. Drive the hottest real-world tuners, muscle and luxury cars, exotics and superbikes on the streets today. Customize your vehicle with the best after-market performance parts and custom kits.Street racing with no track, no load times, no rules: Welcome to the Midnight Club."
+    },
+    "media": [
+        {
+            "media_id": "11CCEA2A",
+            "title": "Midnight Club: Los Angeles",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "7C2AD486",
+            "title": "Midnight Club: Los Angeles",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "7F148797",
+            "title": "Midnight Club: Los Angeles",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "5940C9DB",
+            "title": "Midnight Club: Los Angeles: Complete Edition",
+            "edition": "Classics, Platinum Collection, Rockstar Games Collection: Edition 1",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f8/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f8/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f8/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f8/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f8/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f8/1033/screenlg13.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/545407f8/4c0c8a03-2a86-4380-90ff-9a0f51bb4f89.PDF"
+        ]
+    }
+}

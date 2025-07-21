@@ -1,0 +1,35 @@
+{
+    "id": "585504FF",
+    "title": {
+        "full": "LOL LOL Kitty Commando",
+        "reduced": "LOL LOL Kitty Commando"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Round Pie Studios",
+    "publisher": "Round Pie Studios",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=1/3. In 1993 a group of Satanic Estate Agents bought up property in key areas of the world to act as a demonic staging area and gateway to the depths of hell,  summoning forth unspeakable evil. LOL LOL Kitty, a weaponized house cat and  government black project is deployed  by the US Military in order to take out  the trash.",
+        "short": "In 1993 a group of Satanic Estate Agents bought up property in key areas of the world to act as a demonic staging area and gateway to the depths of hell,  summoning forth unspeakable evil. LOL LOL Kitty, a weaponized house cat and  government black project is deployed  by the US Military in order to take out  the trash."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585504ff/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585504FF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585504ff/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585504FF_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504FF_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504FF_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504FF_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

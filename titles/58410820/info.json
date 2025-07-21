@@ -1,0 +1,35 @@
+{
+    "id": "58410820",
+    "title": {
+        "full": "Buku Sudoku",
+        "reduced": "Buku Sudoku"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Absolutist Ltd.",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-01-06",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Single Player, Local Multiplayer 2-4, HD (High Definition). Want more Buku Sudoku? Upgrade to the full version now to unlock 1200 challenging puzzles, four grid sizes, three difficulty levels, two modes, and three varieties of multiplayer action. Play cooperatively with friends, race head-to-head to complete a puzzle first, or try the new battle mode in which completing a line, row, or square will remove numbers from your opponent’s board! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Buku Sudoku takes the challenge of sudoku to a whole new level with 1200 puzzles, HD graphics, exciting multiplayer options, handy hint features, multiple grid sizes, and a new battle mode in which your actions affect your opponent’s board. Check it out!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410820/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410820/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410820/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410820/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410820/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410820/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410820/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410820/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

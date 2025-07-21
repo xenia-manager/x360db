@@ -1,0 +1,35 @@
+{
+    "id": "5855033D",
+    "title": {
+        "full": "Epiphany in Spaaace",
+        "reduced": "Epiphany in Spaaace"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Zeboyd Games",
+    "publisher": "Zeboyd Games",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=2/3, Mature Content=2/3. Set sail on the U.S.S. Epiphany, one of the latest additions to the Universal Galactic Space Corps fleet. As Captain (or not) Philemon K. Bort, will you triumph over all of the trials that beset you or die in obscurity? A host of plot lines and possible endings await you in this tribute (or is that parody?) to all things science fiction.",
+        "short": "Set sail on the U.S.S. Epiphany, one of the latest additions to the Universal Galactic Space Corps fleet. As Captain (or not) Philemon K. Bort, will you triumph over all of the trials that beset you or die in obscurity? A host of plot lines and possible endings await you in this tribute (or is that parody?) to all things science fiction."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855033d/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855033D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855033d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855033D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855033D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855033D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855033D_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

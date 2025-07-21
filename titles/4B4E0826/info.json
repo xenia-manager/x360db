@@ -1,0 +1,44 @@
+{
+    "id": "4B4E0826",
+    "title": {
+        "full": "ぬらりひょんの孫　百鬼繚乱大戦",
+        "reduced": "ぬらりひょんの孫　百鬼繚乱大戦"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "アークシステムワークス",
+    "publisher": "KONAMI",
+    "release_date": "2011-11-17",
+    "user_rating": null,
+    "description": {
+        "full": "最強”百鬼夜行”の主となれ！　いざ壮絶なる決戦の幕開け 奴良組や陰陽師、京妖怪などから選べる多数のキャラクター！ ほかにもさまざまな能力を持つ１００体以上の妖怪が登場。 戦いで子分を集めて組を作り、総大将となってシマを奪れ！",
+        "short": "最強”百鬼夜行”の主となれ！　いざ壮絶なる決戦の幕開け 奴良組や陰陽師、京妖怪などから選べる多数のキャラクター！ ほかにもさまざまな能力を持つ１００体以上の妖怪が登場。 戦いで子分を集めて組を作り、総大将となってシマを奪れ！"
+    },
+    "media": [
+        {
+            "media_id": "12349439",
+            "title": "Nurarihyon no Mago: Hyakki Ryouran Taisen",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0826/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0826/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0826/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0826/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0826/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0826/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0826/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0826/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0826/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0826/1041/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

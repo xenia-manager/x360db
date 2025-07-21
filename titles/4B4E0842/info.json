@@ -1,0 +1,53 @@
+{
+    "id": "4B4E0842",
+    "title": {
+        "full": "ZONE OF THE ENDERS HD COLLECTION",
+        "reduced": "ZOE HD"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "High Voltage Software",
+    "publisher": "Konami Digital Entertainment ",
+    "release_date": "2012-10-25",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish,Portuguese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". The HD remastering process has made Z.O.E. even more striking, re-igniting the thrills for long-time fans and blowing away those discovering the game for the first time. Either way, players will find a combination of hardcore gameplay and compelling story that has become all too rare in this day and age.",
+        "short": "ZONE OF THE ENDERS HD COLLECTION"
+    },
+    "media": [
+        {
+            "media_id": "4487F203",
+            "title": "Zone of the Enders HD Collection",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "25F7E481",
+            "title": "Zone of the Enders HD Collection",
+            "edition": "Original",
+            "region": "Europe, Australia"
+        },
+        {
+            "media_id": "4C771A90",
+            "title": "Zone of the Enders: HD Edition",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0842/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0842/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0842/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0842/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0842/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0842/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0842/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

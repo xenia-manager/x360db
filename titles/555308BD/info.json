@@ -1,0 +1,45 @@
+{
+    "id": "555308BD",
+    "title": {
+        "full": "The Smurfs 2",
+        "reduced": "The Smurfs 2"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "WayForward",
+    "publisher": "Ubisoft",
+    "release_date": "2013-07-18",
+    "user_rating": "3.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Danish, Dutch, Norwegian, Swedish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  One of the summer’s top animated films is now a video game! The evil wizard Gargamel has created the Naughties, and together they travel to Smurf Village, kidnap Smurfette, and imprison her in Paris. It’s now up to Papa Smurf and friends to travel from the Enchanted Forest, through the streets of New York, into Paris, and everywhere in between to save the day and bring Smurfette home safe!",
+        "short": "One of the summer’s top animated films is now a video game! Become your favorite Smurfs and save Smurfette from Gargamel and the Naughties!"
+    },
+    "media": [
+        {
+            "media_id": "6A8D52D0",
+            "title": "The Smurfs 2",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308bd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308bd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308bd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308bd/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308bd/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308bd/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308bd/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308bd/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308bd/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/555308bd/SMRF2012_X360_Mnl.pdf"
+        ]
+    }
+}

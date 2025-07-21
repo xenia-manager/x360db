@@ -1,0 +1,41 @@
+{
+    "id": "58410B4A",
+    "title": {
+        "full": "Bang Bang Racing",
+        "reduced": "Bang Bang Racing"
+    },
+    "genre": [
+        "Racing & Flying",
+        "Sports & Recreation"
+    ],
+    "developer": "Digital Reality Software",
+    "publisher": "Digital Reality Software",
+    "release_date": "2012-06-06",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Put the pedal to the metal with Bang Bang Racing, a brand new top-down arcade car racer perfect for every speed demon in the family! Choose from 20 sleek cars in four different categories (muscle cars, Evo GT, Protech and open-wheel formula cars), eight different skins and nine exotic, reversible and variable tracks around the world. Cones and exploding barrels will challenge your driving skills on snow, water, sand and oil covered tracks. You can also take the race to 4-player split-screen multiplayer to show your friends or family who the daddy is!",
+        "short": "Bang Bang Racing is a brand new, top-down arcade car racer for the whole family! Choose from 20 sleek racing cars, eight different skins and nine exotic reversible and variable tracks around the world. Cones and exploding barrels will put your driving skills to the test on snow, water, sand and oil-covered tracks. Take on other players in 4-player split-screen multiplayer and leave them in the dust!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b4a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b4a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b4a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b4a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b4a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b4a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b4a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b4a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b4a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b4a/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b4a/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b4a/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b4a/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

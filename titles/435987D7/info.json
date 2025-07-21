@@ -1,0 +1,41 @@
+{
+    "id": "435987D7",
+    "title": {
+        "full": "Sniper Ghost Warrior 2 Demo",
+        "reduced": "Sniper Ghost Warrior 2 Demo"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "City Interactive",
+    "publisher": "City Interactive",
+    "release_date": "2013-05-23",
+    "user_rating": "3.75",
+    "description": {
+        "full": "You are the deadliest sniper in the elite Ghost Warrior unit. Positioned deep within enemy territory, deliver precision firepower and test your skills in an epic story of intrigue and betrayal.",
+        "short": "A Ground-Breaking Follow Up to The Best-Selling Sniper Game of All Time. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435987d7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435987d7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435987d7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435987d7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435987d7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435987d7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435987d7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435987d7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435987d7/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "435907D4",
+                "title": "Sniper Ghost Warrior 2"
+            }
+        ],
+        "related": []
+    }
+}

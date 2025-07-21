@@ -1,0 +1,39 @@
+{
+    "id": "5841089C",
+    "title": {
+        "full": "Poker Smash",
+        "reduced": "Poker Smash"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Void Star Creations",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-07-05",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Single Player, Xbox LIVE Multiplayer 2-4, Local Multiplayer 2, HD (High Definition). Unlock the full version of Poker Smash to experience seven unique game modes, eleven immersive environments, next-gen 3D graphics, original music, and innovative gameplay. Hone your skills, earn achievements, show off your prowess in LIVE multiplayer tournaments, compete with your friends, and see how you stack up in the Poker Smash community! This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Poker Smash is an action-packed puzzle game with a poker twist, plus seven different game modes, gorgeous next-gen 3D graphics, original soundtrack, and groundbreaking gameplay. Chain matches together to make huge scores, using radical features such as super-slow motion and card-blasting bombs. Play solo, or challenge your friends to a Poker Smash showdown!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841089c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841089c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841089c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841089c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841089c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841089c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841089c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841089c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841089c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841089c/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841089c/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841089c/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

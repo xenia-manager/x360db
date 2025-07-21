@@ -1,0 +1,46 @@
+{
+    "id": "58411448",
+    "title": {
+        "full": "Cobalt",
+        "reduced": "Cobalt"
+    },
+    "genre": [
+        "Platformer",
+        "Shooter"
+    ],
+    "developer": "Oxeye Game Studio AB",
+    "publisher": "Microsoft Studios",
+    "release_date": "2016-02-02",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Shoot, roll, punch, and jump your way to slowmotion victory in Cobalt, an action platformer from Oxeye Game Studio. Take on the role of a mysterious cyborg stranded on an even more mysterious planet in our single player campaign, or play with friends in a wealth of coop and versus multiplayer modes. It's an incredible amount of fun. The game is localized in English, German, French, Italian and Spanish. ",
+        "short": "Shoot, roll, punch, and jump your way to slowmotion victory in Cobalt, an action platformer from Oxeye Game Studio. Take on the role of a mysterious cyborg stranded on an even more mysterious planet in our single player campaign, or play with friends in a wealth of coop and versus multiplayer modes. It's an incredible amount of fun. The game is localized in English, German, French, Italian and Spanish. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411448/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411448/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411448/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411448/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411448/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411448/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411448/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411448/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411448/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411448/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411448/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411448/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411448/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411448/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411448/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411448/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411448/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411448/1033/screenlg14.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

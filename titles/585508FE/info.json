@@ -1,0 +1,34 @@
+{
+    "id": "585508FE",
+    "title": {
+        "full": "Divine Justice Zero",
+        "reduced": "Divine Justice Zero"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Xazin",
+    "publisher": "Xazin",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3.  The player can choose between 6 diferent ships and enter in a fictional universe where 6 factions are at war. The game mechanics are pretty basic: the analog controller to move the ship with the, \"A\" button to shoot, \"right trigger\" to accelerate, which consumes shield; shield is the ship energy, if it reaches to 0 then its game over. and the \"left trigger\" to deccelerate, which regens shield.",
+        "short": "The player can choose between 6 diferent ships and enter in a fictional universe where 6 factions are at war. The game mechanics are pretty basic: the analog controller to move the ship with the, \"A\" button to shoot, \"right trigger\" to accelerate, which consumes shield; shield is the ship energy, if it reaches to 0 then its game over. and the \"left trigger\" to deccelerate, which regens shield."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585508fe/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508FE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508fe/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508FE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508FE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508FE_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

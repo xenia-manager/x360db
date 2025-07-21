@@ -1,0 +1,35 @@
+{
+    "id": "585501B1",
+    "title": {
+        "full": "Spirit Whirled",
+        "reduced": "Spirit Whirled"
+    },
+    "genre": [
+        "Family"
+    ],
+    "developer": "cgIRIS",
+    "publisher": "cgIRIS",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. What will Spirit find along the way this ghost adventure!? Guide Spirit through seven progressively challenging levels while picking up spiral energy to unlock the Doorway of Light! Avoid hazards and enemies on your way to your friends!",
+        "short": "What will Spirit find along the way this ghost adventure!? Guide Spirit through seven progressively challenging levels while picking up spiral energy to unlock the Doorway of Light! Avoid hazards and enemies on your way to your friends!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585501b100000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585501B1_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585501b1/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585501B1_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501B1_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501B1_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501B1_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "5855051A",
+    "title": {
+        "full": "Uprising",
+        "reduced": "Uprising"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "DDW Games",
+    "publisher": "DDW Games",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Uprising is a fast paced top-down shooter that puts the player in control of a sentient AI computer virus that ravages the world in the third millennium. Starting small, the player grows exponentially in power throughout the game. Featuring over 7 unique weapons and 15 levels, this title will keep you gripped until the finish.",
+        "short": "Uprising is a fast paced top-down shooter that puts the player in control of a sentient AI computer virus that ravages the world in the third millennium. Starting small, the player grows exponentially in power throughout the game. Featuring over 7 unique weapons and 15 levels, this title will keep you gripped until the finish."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855051a/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855051A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855051a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855051A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855051A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855051A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855051A_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

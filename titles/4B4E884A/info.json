@@ -1,0 +1,46 @@
+{
+    "id": "4B4E884A",
+    "title": {
+        "full": "Birds of Steel Demo",
+        "reduced": "Birds of Steel Demo"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Gaijin Entertainment",
+    "publisher": "Konami Digital Entertainment",
+    "release_date": "2012-03-13",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Strap in and grab the stick rewriting history in Birds of Steel.  The demo gives aerial combatants a chance to sample the full game by thrusting them into 3 of the most prolific battles from WWII.  Lift off in the Grumman F4F and battle your way through Wake Island, pilot the nimble Japanese Zero in the attack on the Lexington or hold on in the Spitfire Mk. V through the Siege of Malta.  Birds of Steel gives aerial enthusiasts the ability to pilot planes from all combatants in WWII.",
+        "short": "Strap in and grab the stick rewriting history in Birds of Steel.  The demo gives aerial combatants a chance to sample the full game by thrusting them into 3 of the most prolific battles from WWII. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884a/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884a/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884a/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884a/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e884a/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4B4E0839",
+                "title": "Birds of Steel"
+            }
+        ],
+        "related": []
+    }
+}

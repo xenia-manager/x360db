@@ -1,0 +1,43 @@
+{
+    "id": "465607F1",
+    "title": {
+        "full": "PHANTOM BREAKEREXTRA",
+        "reduced": "PHANTOM BREAKEREXTRA"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Release Universal Network",
+    "publisher": "5pb.",
+    "release_date": "2013-08-30",
+    "user_rating": "0.00",
+    "description": {
+        "full": "The Games on Demand version supports Japanese.PHANTOM BREAKER:EXTRA is 1v1 fighting game. ",
+        "short": "PHANTOM BREAKER:EXTRA is 1v1 fighting game. "
+    },
+    "media": [
+        {
+            "media_id": "2BD6EBB8",
+            "title": "Phantom Breaker: Extra",
+            "edition": "Genteiban",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f1/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/465607f1/2/manual.pdf"
+        ]
+    }
+}

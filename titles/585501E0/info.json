@@ -1,0 +1,35 @@
+{
+    "id": "585501E0",
+    "title": {
+        "full": "Hexement",
+        "reduced": "Hexement"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "7th Gear Productions",
+    "publisher": "7th Gear Productions",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Hexement is a combination of old classics turned on their heads. You battle against nature to help a world survive. Fire falls from the sky, earthquakes demolish your constructions and your water runs off into the abyss, taking all your points with it. Also includes level editor and fiercely strategic multiplayer.",
+        "short": "Hexement is a combination of old classics turned on their heads. You battle against nature to help a world survive. Fire falls from the sky, earthquakes demolish your constructions and your water runs off into the abyss, taking all your points with it. Also includes level editor and fiercely strategic multiplayer."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585501e000000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585501E0_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585501e0/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585501E0_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501E0_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501E0_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501E0_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

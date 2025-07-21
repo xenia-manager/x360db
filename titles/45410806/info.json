@@ -1,0 +1,80 @@
+{
+    "id": "45410806",
+    "title": {
+        "full": "Burnout Paradise",
+        "reduced": "Burnout Paradise"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Criterion Games",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-08-03",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Race, jump and smash through the streets of Paradise City in muscle cars, exotics, hot rods and even supercharged SUVs designed from the ground up to look beautiful whether they’re brand new or torn to pieces!  Earn your Burnout Driver’s license by competing in over 100+ events including Races, Stunt Run, Road Rages and Marked Man.  Compete against your friends for Time Road Rules and tear up the streets in Showtime, the all new destructive open world crashing experience.  Looking for an online challenge, seamlessly connect with up to 7 buddies instantly, drive together cooperatively in over 300 Freeburn challenges or go head to head in custom created race routes across town. Take down your friends and grab their mugshots for your trophy room using the Xbox Live Vision Camera! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Race, jump and smash through the streets of Paradise City in muscle cars, exotics, hot rods and even supercharged SUVs designed from the ground up to look beautiful whether they’re brand new or torn to pieces!  Earn your Burnout Driver’s license by competing in over 100+ events including Races, Stunt Run, Road Rages and Marked Man.  Compete against your friends for Time Road Rules and tear up the streets in Showtime, the all new destructive open world crashing experience.  Looking for an onl…"
+    },
+    "media": [
+        {
+            "media_id": "24EF448B",
+            "title": "Burnout Paradise",
+            "edition": "Original, Promo",
+            "region": "Europe"
+        },
+        {
+            "media_id": "2B99A9CE",
+            "title": "Burnout Paradise",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "20B57926",
+            "title": "Burnout Paradise",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "1E51ADC2",
+            "title": "Burnout Paradise",
+            "edition": "Original",
+            "region": "Asia"
+        },
+        {
+            "media_id": "1B7D0C5B",
+            "title": "Burnout Paradise",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "7CCD18F1",
+            "title": "Burnout Paradise: The Ultimate Box",
+            "edition": "Original, Promo, Bundle Copy",
+            "region": "Japan, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410806/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410806/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410806/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410806/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410806/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410806/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410806/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410806/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410806/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410806/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410806/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410806/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410806/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410806/7177/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/45410806/e607f805-d486-47ec-8ba7-9f042909b753.PDF"
+        ]
+    }
+}

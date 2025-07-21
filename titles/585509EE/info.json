@@ -1,0 +1,35 @@
+{
+    "id": "585509EE",
+    "title": {
+        "full": "Temple of Dogolrak",
+        "reduced": "Temple of Dogolrak"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Team Shuriken",
+    "publisher": "Team Shuriken",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=2/3. Experience a sexy and mysterious adventure !",
+        "short": "Experience a sexy and mysterious adventure !"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585509ee/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585509EE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585509ee/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585509EE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509EE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509EE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509EE_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

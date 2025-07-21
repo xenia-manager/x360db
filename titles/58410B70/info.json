@@ -1,0 +1,47 @@
+{
+    "id": "58410B70",
+    "title": {
+        "full": "Sega Vintage Collection Alex Kidd  Co",
+        "reduced": "Sega Vintage Collection Alex Kidd  Co"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics",
+        "Racing & Flying"
+    ],
+    "developer": "M2",
+    "publisher": "SEGA",
+    "release_date": "2012-05-23",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Experience a blast from past with this collection of classic Sega titles! Save kingdoms, shatter time trials, and destroy evil in Alex Kidd in Miracle World, Super Hang-on, and The Revenge of Shinobi!  Now available on Xbox LIVE, Alex Kidd & Company have been updated with all new achievements, challenging new trial modes, and other goodies like recordable and downloadable game sessions, 3D mode in Super Hang-on, in game juke boxes, and the original Japanese dialogue!",
+        "short": "Experience a blast from past with this collection of classic Sega titles! Save kingdoms, shatter time trials, and destroy evil in Alex Kidd in Miracle World, Super Hang-on, and The Revenge of Shinobi!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b70/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b70/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b70/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b70/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b70/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b70/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b70/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b70/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b70/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b70/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b70/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b70/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b70/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b70/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b70/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b70/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b70/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b70/1033/screenlg14.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": "464F07F2",
+    "title": {
+        "full": "Blackwater Kinect",
+        "reduced": "Blackwater Kinect"
+    },
+    "genre": [
+        "Kinect",
+        "Shooter"
+    ],
+    "developer": "Zombie Studios",
+    "publisher": "505 Games",
+    "release_date": "2011-10-18",
+    "user_rating": "3.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  \"Blackwater Kinect is a casual, first-person shooter, utilizing Kinect's full-body motion sensing capabilities. Supported languages: English (Voice over) and English, French, Spanish, German, Italian (On screen text).\"",
+        "short": "Blackwater Kinect is a casual, first-person shooter"
+    },
+    "media": [
+        {
+            "media_id": "7A86E181",
+            "title": "Blackwater",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

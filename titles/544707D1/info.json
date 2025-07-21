@@ -1,0 +1,44 @@
+{
+    "id": "544707D1",
+    "title": {
+        "full": "Shooting Love 200X",
+        "reduced": "Shooting Love 200X"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Triangle Service Corp.",
+    "publisher": "Triangle Service Corp.",
+    "release_date": "2015-04-21",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, Japanese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". The historic success story of the arcades! Introducing the \"Shmups Skill Test\", a way to evalute your skills as a \"gamer age\". The high brow style of \"EXZEAL\", with 4 types of craft to choose from. The classic style of \"TRIZEAL Remix\", where you can switch between wide shots, lasers and missiles to strategically conquer a wide variety of stages. And, the console-only abstract shooter, \"MINUS ZERO\". Enjoy these 4 diverse shooters all from one package! ",
+        "short": "Contains 4 shooters with different characteristics each, including Shmups Skill Test, the first-ever game to measure your \"gamer age\""
+    },
+    "media": [
+        {
+            "media_id": "25D722E8",
+            "title": "Shooting Love. 200X",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

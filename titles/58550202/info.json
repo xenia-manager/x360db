@@ -1,0 +1,35 @@
+{
+    "id": "58550202",
+    "title": {
+        "full": "QuadTrix",
+        "reduced": "QuadTrix"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Lotus Games",
+    "publisher": "Lotus Games",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. QuadTrix is a fun and relaxing puzzle game. Rotate colored triangles scattered across the grid into its matching column in the least number of moves. Complete a column to earn points and additional time. But be careful! Breaking a column or going over the move limit will take a chunk out of those hard-earned points. Think you can solve the scrambled puzzles the most logical way? Play and find out!",
+        "short": "QuadTrix is a fun and relaxing puzzle game. Rotate colored triangles scattered across the grid into its matching column in the least number of moves. Complete a column to earn points and additional time. But be careful! Breaking a column or going over the move limit will take a chunk out of those hard-earned points. Think you can solve the scrambled puzzles the most logical way? Play and find out!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855020200000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550202_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550202/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550202_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550202_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550202_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550202_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

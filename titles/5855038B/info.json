@@ -1,0 +1,35 @@
+{
+    "id": "5855038B",
+    "title": {
+        "full": "Starbase Epsilon",
+        "reduced": "Starbase Epsilon"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Thought Spire",
+    "publisher": "Thought Spire",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Dominate the System around Epsilon and dominate the other players in this fast paced Strategy Game. Choose from 4 different game modes. Become a World Starter, the top Space Miner, the Best Conquerer or Top Defender. Each mode provides a different style and strategy for playing the game. Take over planets, amass wealth, oust Pirates or be the first to find the Terra Module.",
+        "short": "Dominate the System around Epsilon and dominate the other players in this fast paced Strategy Game. Choose from 4 different game modes. Become a World Starter, the top Space Miner, the Best Conquerer or Top Defender. Each mode provides a different style and strategy for playing the game. Take over planets, amass wealth, oust Pirates or be the first to find the Terra Module."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855038b00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855038B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855038b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855038B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855038B_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855038B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855038B_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

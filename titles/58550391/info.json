@@ -1,0 +1,35 @@
+{
+    "id": "58550391",
+    "title": {
+        "full": "Boom Chick Chick",
+        "reduced": "Boom Chick Chick"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Silver Dollar Games Inc._01",
+    "publisher": "Silver Dollar Games Inc._01",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=3/3. Use a series of satisfying weapons to annihilate hordes of monsters in this unique \"single stick\" shooter. Experience 4 levels of difficulty, up to 4 player coop, local highscores, and a killer soundtrack courtesy of Razorback Records. \"Boom Chick Chick\", it's music to my ears.",
+        "short": "Use a series of satisfying weapons to annihilate hordes of monsters in this unique \"single stick\" shooter. Experience 4 levels of difficulty, up to 4 player coop, local highscores, and a killer soundtrack courtesy of Razorback Records. \"Boom Chick Chick\", it's music to my ears."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550391/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550391_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550391/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550391_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550391_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550391_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550391_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

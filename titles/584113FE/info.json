@@ -1,0 +1,36 @@
+{
+    "id": "584113FE",
+    "title": {
+        "full": "Flashback",
+        "reduced": "Flashback"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "VectorCell ",
+    "publisher": "Ubisoft",
+    "release_date": "2013-08-21",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Take on the role of Conrad B. Hart of the G.B.I. and uncover a vast and deadly alien conspiracy that threatens everything it means to be human. But before you can save the human race you must rediscover who you are, as you desperately search for the missing data files containing your memory to piece the puzzle together. 20 years after the original game’s launch, Conrad is enlisted back to active service for the triumphant return of one of the best adventure-action games ever created. It’s Flashback re-imagined by its creators.",
+        "short": "Flashback is re-imagined by its creators! 20 years after the original game’s launch, Conrad is enlisted back to active service for the triumphant return of one of the best adventure-action games ever created. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113fe/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113fe/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113fe/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113fe/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113fe/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113fe/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113fe/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113fe/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113fe/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

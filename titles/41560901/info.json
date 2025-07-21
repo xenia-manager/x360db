@@ -1,0 +1,42 @@
+{
+    "id": "41560901",
+    "title": {
+        "full": "Angry Birds Star Wars",
+        "reduced": "Angry Birds Star Wars"
+    },
+    "genre": [
+        "Family",
+        "Puzzle & Trivia"
+    ],
+    "developer": "Exient",
+    "publisher": "Activision",
+    "release_date": "2013-10-29",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese.  Join an epic adventure with the Angry Birds in the legendary Star Wars™ universe, re-mastered for gaming systems! Use the Force, wield your Lightsaber, and blast away Pigtroopers on an intergalactic journey from the deserts of Tatooine to the depths of the Pig Star -- where you’ll face off against the terrifying Darth Vader, Dark Lord of the Pigs! Can you become a Jedi Master and restore freedom to the galaxy? May the birds be with you!  • TWO NEW MULTIPLAYER MODES – Competitive (2-4 players) and cooperative modes (2 players) • EXLUSIVE NEW LEVELS – 20 levels created just for the console game  • 25 HOURS OF ENGAGING GAMEPLAY – Use Lightsabers and Jedi powers to wreak havoc on Imperial pigs and the dark side of the Force in over 200 levels • UNLOCK HIDDEN ITEMS - Unlock the R2-D2 and C-3PO bonus levels and bonus content",
+        "short": "Join an epic adventure with the Angry Birds in the legendary Star Wars™ universe, re-mastered for gaming systems! Play over 25 hours of engaging gameplay including 20 exclusive new levels and two all new multiplayer modes. Can you become a Jedi Master and restore freedom to the galaxy? May the birds be with you!"
+    },
+    "media": [
+        {
+            "media_id": "116000C4",
+            "title": "Angry Birds Star Wars",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560901/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560901/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560901/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560901/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560901/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560901/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560901/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

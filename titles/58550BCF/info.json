@@ -1,0 +1,35 @@
+{
+    "id": "58550BCF",
+    "title": {
+        "full": "Resistor",
+        "reduced": "Resistor"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Levi D. Smith",
+    "publisher": "Levi D. Smith",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. The objective of Resistor is to build connections to carry flow to activate electrical components. To avoid damaging these components, the flow level must be reduced using resistors. Each level is graded upon number of pieces used, the luminosity of the components, and the time required to complete the level. This game teaches the basics of resistor color code values.",
+        "short": "The objective of Resistor is to build connections to carry flow to activate electrical components. To avoid damaging these components, the flow level must be reduced using resistors. Each level is graded upon number of pieces used, the luminosity of the components, and the time required to complete the level. This game teaches the basics of resistor color code values."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550bcf/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550BCF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550bcf/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550BCF_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BCF_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BCF_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BCF_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

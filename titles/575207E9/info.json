@@ -1,0 +1,43 @@
+{
+    "id": "575207E9",
+    "title": {
+        "full": "Green Lantern Rise of the Manhunters",
+        "reduced": "Green Lantern"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Double Helix Games ",
+    "publisher": "WB Games, Inc.",
+    "release_date": "2011-06-07",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Eons before the Green Lantern Corps, the Guardians of the Universe created an android race of interstellar police—the Manhunters. When corrupted programming made them punish all life, the Manhunters were exiled. Now they’ve returned, seeking vengeance. You are Hal Jordan, the first human Green Lantern, armed with a power ring charged by your will. Green Lantern: Rise of the Manhunters features the likeness and voice talent of Ryan Reynolds.",
+        "short": "Under the looming threat from the android race the Manhunters, the Green Lantern Corps, is looking to you as the newest recruit Hal Jordan, to protect peace."
+    },
+    "media": [
+        {
+            "media_id": "20E053E5",
+            "title": "Green Lantern: Rise of the Manhunters",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "2F347A2A",
+            "title": "Green Lantern: Rise of the Manhunters",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e9/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

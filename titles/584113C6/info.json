@@ -1,0 +1,49 @@
+{
+    "id": "584113C6",
+    "title": {
+        "full": "DuckTales Remastered",
+        "reduced": "DuckTales Remastered"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer"
+    ],
+    "developer": "WayForward",
+    "publisher": "Capcom",
+    "release_date": "2013-09-11",
+    "user_rating": "4.25",
+    "description": {
+        "full": "DuckTales: Remastered is a hand-crafted, beautiful reimagining of one of the most cherished 8-bit titles of all time. Go back to one of the golden ages of gaming, but now refined with a level of detail that will please the most hardened devoted Disney or retro Capcom fan, alike. Featuring hand-drawn animated sprites, authentic Disney character voices talent and richly painted level backgrounds from the classic cartoon TV series, Scrooge McDuck and family come to life like never before. The gameplay retains the authenticity of its 8-bit predecessor, simple and fun, with slight modifications to improve gameplay flow and design. Embark on an authentic DuckTales adventure, as Scrooge McDuck and his three nephews; Huey, Dewey and Louie travel to exotic locations throughout the world in their quest to retrieve the five Legendary Treasures.",
+        "short": "DuckTales: Remastered is a hand-crafted, beautiful reimagining of one of the most cherished 8-bit titles of all time.  Embark on an authentic Disney adventure, as Scrooge McDuck and his three nephews; Huey, Dewey and Louie travel to exotic locations throughout the world in their quest to retrieve the five legendary treasures.  "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113c6/1033/screenlg17.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

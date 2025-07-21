@@ -1,0 +1,51 @@
+{
+    "id": "41560857",
+    "title": {
+        "full": "Bakugan",
+        "reduced": "Bakugan"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Card & Board",
+        "Family",
+        "Fighting",
+        "Strategy & Simulation"
+    ],
+    "developer": "NOW PRODUCTION Company Limited / Premium Agency Inc.",
+    "publisher": "Activision",
+    "release_date": "2009-09-18",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish, Dutch, Swedish.  Bakugan Battle Brawlers is the stunning new video game based on the #1 toy and animated series. Set your Gate card then throw a Bakugan into huge, interactive battlefields. Steer the Bakugan to discover secret areas, collect power-ups and gain the edge! When two Bakugan stand on the same gate card they transform into powerful creatures and an epic interactive battle begins. You’ll need all your skills to boost your Bakugan’s power and emerge victorious! Play in story mode to unlock dozens of Bakugan and new levels in an exciting adventure voiced by the original cartoon cast or just jump straight into battle with up 4 other Brawlers!",
+        "short": "Bakugan Battle Brawlers is the stunning new video game based on the #1 toy and animated series. Set your Gate card then throw a Bakugan into huge, interactive battlefields. Steer the Bakugan to discover secret areas, collect power-ups and gain the edge! When two Bakugan stand on the same gate card they transform into powerful creatures and an epic interactive battle begins. You’ll need all your skills to boost your Bakugan’s power and emerge victorious! Play in story mode to unlock dozens of Ba…"
+    },
+    "media": [
+        {
+            "media_id": "221503EA",
+            "title": "Bakugan: Battle Brawlers",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560857/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560857/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560857/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560857/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560857/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560857/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560857/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560857/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560857/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560857/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560857/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560857/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560857/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

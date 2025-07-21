@@ -1,0 +1,45 @@
+{
+    "id": "415608DA",
+    "title": {
+        "full": "Skylanders Giants",
+        "reduced": "Skylanders Giants"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer"
+    ],
+    "developer": "Toy For Bob",
+    "publisher": "Activision",
+    "release_date": "2012-10-21",
+    "user_rating": "4.25",
+    "description": {
+        "full": "FROZEN IN OUR WORLD. ALIVE IN THEIRS. Thousands of years ago, the Skylanders Giants fought epic battles in Skylands but were banished to Earth. With a new threat looming, it’s time to bring them back to join forces with the Skylanders. Only you can put them on the Portal of Power® to unleash their strength in the ultimate battle to save Skylands.",
+        "short": "FROZEN IN OUR WORLD. ALIVE IN THEIRS. Thousands of years ago, the Skylanders Giants fought epic battles in Skylands but were banished to Earth. With a new threat looming, it’s time to bring them back to join forces with the Skylanders. Only you can put them on the Portal of Power® to unleash their strength in the ultimate battle to save Skylands."
+    },
+    "media": [
+        {
+            "media_id": "52FFE94B",
+            "title": "Skylanders: Giants",
+            "edition": "Booster Pack",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608da/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608da/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608da/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608da/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608da/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608da/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608da/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608da/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608da/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608da/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

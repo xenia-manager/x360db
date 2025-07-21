@@ -1,0 +1,37 @@
+{
+    "id": "4B4E07DE",
+    "title": {
+        "full": "Winning Eleven X",
+        "reduced": "Winning Eleven X"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Konami Digital Entertainment Co., Ltd.",
+    "publisher": "Konami",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "これこそ本当のサッカーファンのためのゲーム。WEシリーズ初のXbox360バージョン。多くのアニメーション、モーション、グラフィックがXbox360用に開発され、家で本当のサッカーのようなゲームが楽しめるようになった。ゲーム操作性も改良され、ピッチ上で好きなチームの一員としてプレーしているような感覚に。 強い相手にチャレンジしたければXbox Liveでオンラインゲームを。君のエボリューションには終わりがない。",
+        "short": "これこそ本当のサッカーファンのためのゲーム。WEシリーズ初のXbox360バージョン。多くのアニメーション、モーション、グラフィックがXbox360用に開発され、家で本当のサッカーのようなゲームが楽しめるようになった。ゲーム操作性も改良され、ピッチ上で好きなチームの一員としてプレーしているような感覚に。 強い相手にチャレンジしたければXbox Liveでオンラインゲームを。君のエボリューションには終わりがない。"
+    },
+    "media": [
+        {
+            "media_id": "57B363DE",
+            "title": "World Soccer Winning Eleven X",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07de/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07de/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07de/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07de/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

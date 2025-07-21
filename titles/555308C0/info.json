@@ -1,0 +1,48 @@
+{
+    "id": "555308C0",
+    "title": {
+        "full": "Rocksmith 2014 Edition",
+        "reduced": "Rocksmith 2014 Edition"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2013-10-22",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Music Downloads Not Rated by the ESRB.  CAUTION: THIS GAME CANNOT BE PLAYED WITHOUT THE ROCKSMITH® REAL TONE CABLE.  THIS CABLE CAN BE PURCHASED SEPARATELY FROM A LOCAL OR ONLINE RETAILER OR YOU MAY USE THE REAL TONE CABLE FROM THE ORIGINAL GAME.  The Games on Demand version supports English, French, Italian, German, Spanish, Japanese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Rocksmith 2014 Edition is the fastest way to learn guitar. Plug in any real guitar or bass and join over 1 million people who have learned with the award-winning Rocksmith method. This official sequel is bigger, better, and faster than ever. Rebuilt from the ground-up, you’ll experience new modes, vastly improved features, a new look, more flexible and deeper practice tools, new techniques and tunings, over 50 new hit songs, and much more.",
+        "short": "Music Downloads Not Rated by the ESRB.  The fastest way to learn guitar. Plug in any real guitar or bass and join over 1 million people who have learned with the award-winning Rocksmith method."
+    },
+    "media": [
+        {
+            "media_id": "5AD9711C",
+            "title": "Rocksmith: All-New 2014 Edition",
+            "edition": "Original",
+            "region": "Japan, Europe"
+        },
+        {
+            "media_id": "3A149B60",
+            "title": "Rocksmith: All-New 2014 Edition",
+            "edition": "Bundled with Real Tone Cable",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c0/1033/screenlg2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/555308c0/PPS_CMYK_RS2014_360_manual_ANZ_graphicstudio_CMYK.pdf"
+        ]
+    }
+}

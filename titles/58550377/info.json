@@ -1,0 +1,35 @@
+{
+    "id": "58550377",
+    "title": {
+        "full": "Marvelous Galaxy",
+        "reduced": "Marvelous Galaxy"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "darixstudios",
+    "publisher": "darixstudios",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. \"Marvelous Galaxy\" is a turn-based strategic game. There are available three game modes: Single player, Multiplayer and Fight Now. The objective of Single and Multiplayer(up to four players) is conquer all enemy planets and destroy his robots. At 'Fight Now' mode, player must choose five robots or outer-space creatures to win an inmediate battle.",
+        "short": "\"Marvelous Galaxy\" is a turn-based strategic game. There are available three game modes: Single player, Multiplayer and Fight Now. The objective of Single and Multiplayer(up to four players) is conquer all enemy planets and destroy his robots. At 'Fight Now' mode, player must choose five robots or outer-space creatures to win an inmediate battle."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550377/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550377_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550377/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550377_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550377_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550377_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550377_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "585501EB",
+    "title": {
+        "full": "GraphSpacer Black",
+        "reduced": "GraphSpacer Black"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "TH",
+    "publisher": "TH",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. The Black Edition of GraphSpacer includes the classic fast paced gameplay of GraphSpacer with updated HD graphics and effects along with an out of control soundtrack to battle to.",
+        "short": "The Black Edition of GraphSpacer includes the classic fast paced gameplay of GraphSpacer with updated HD graphics and effects along with an out of control soundtrack to battle to."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585501eb00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585501EB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585501eb/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585501EB_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501EB_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501EB_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501EB_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

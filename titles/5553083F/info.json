@@ -1,0 +1,54 @@
+{
+    "id": "5553083F",
+    "title": {
+        "full": "CSI Deadly Intent",
+        "reduced": "CSI Deadly Intent"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Telltale Games",
+    "publisher": "Ubisoft",
+    "release_date": "2009-10-27",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   In Sin City there are no secrets, only hidden answers. Join the new Vegas CSI team and explore five brand-new cases written by CSI writers.  Explore crime scenes, examine victim’s bodies, and follow the surprising twists and turns of the story. Partner with the new cast of CSI Season 9 and team up with new characters such as Ray Langston (Laurence Fishburne) and Riley Adams (Lauren Lee Smith). Work as partners on the crime scene or help each other during tough suspect interrogations.  Play as one of the most skillful forensic experts to join the Vegas CSI team. Help other detectives in their investigations and gain their respect through your actions and teamwork.   Collect evidence at the crime scene by dusting for fingerprints, searching for valuable information, unveiling hidden evidence, and much more. Interview a variety of witnesses and suspects by asking key questions and using evidence to uncover the truth. Analyze evidence with a variety of new technology, such as DNA and microscope analysis. ",
+        "short": "In Sin City there are no secrets, only hidden answers. Join the new Vegas CSI team and explore five brand-new cases written by CSI writers.  "
+    },
+    "media": [
+        {
+            "media_id": "4E9B03F0",
+            "title": "CSI: Crime Scene Investigation: Deadly Intent",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083f/1033/tile.png",
+        "gallery": [
+            "http://mktplassets.xbox.com/NR/rdonlyres/DEF0169C-B255-4546-AA80-7468C33101BB/0/simcsideadlyintent05.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/BFD87FDC-DE79-40A9-B585-2B226464CD09/0/simcsideadlyintent06.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/93500AC9-10F6-41B3-97E8-178D86A49211/0/simcsideadlyintent00.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/D75584AE-1C76-43A8-8A0A-3C15B2DE3F2D/0/simcsideadlyintent01.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/53DFCD22-3BAA-4419-BBF0-5CAFD2E1F94C/0/simcsideadlyintent02.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/01C5F9D7-3FCE-4CDC-B5B7-A4822B6E9BCA/0/simcsideadlyintent03.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/9918AC29-E7B6-4181-9D00-A0B57F50CC92/0/simcsideadlyintent04.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553083f/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/6e/7c/6e7ca1ee-cb40-4088-a68f-df51f6ba4727.PDF?v=1#CSIDeadlyIntent-"
+        ]
+    }
+}

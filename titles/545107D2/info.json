@@ -1,0 +1,58 @@
+{
+    "id": "545107D2",
+    "title": {
+        "full": "The Outfit",
+        "reduced": "The Outfit"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter",
+        "Strategy & Simulation"
+    ],
+    "developer": "Relic Entertainment",
+    "publisher": "THQ",
+    "release_date": "2010-08-11",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) This game supports English, French, Italian, German, and Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Combining intense squad-based combat with the freedom of total destruction, The Outfit takes players behind enemy lines, battling the Nazi War Machine through a variety of combat missions.            Choose from three playable squad leaders - each with their own skills and abilities, as you lead a squad of battle-forged soldiers on missions ranging from reconnaissance and rescue to search and destroy.  With interactive and fully destructible environments, you have the freedom to shoot, blow up or demolish anything in your path!            Use “Destruction On Demand™” (D.O.D.) to order in everything from tanks, jeeps, halftracks and other combat vehicles to machine gun nests and anti-tank guns, squad reinforcements, even air strikes and artillery!            With 720p HD, 16:9 Widescreen, and 5.1 Dolby Digital Surround Sound you can experience the cinematic intensity of WWII combat through 12 epic single-player missions, or go online for a variety of multiplayer modes, including co-op and versus. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Combining intense squad-based combat with the freedom of total destruction, The Outfit takes players behind enemy lines, battling the Nazi War Machine through a variety of combat missions.  Choose from three playable squad leaders - each with their own skills and abilities, as you lead a squad of battle-forged soldiers on missions ranging from reconnaissance and rescue to search and destroy.  With interactive and fully destructible environments, you have the freedom to shoot, blow up or demolish"
+    },
+    "media": [
+        {
+            "media_id": "4DBF4A8A",
+            "title": "The Outfit",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "56356074",
+            "title": "The Outfit",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d2/2057/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d2/2057/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d2/2057/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d2/2057/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d2/7177/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/c6/88/c688f53b-80e8-4963-bacf-b2374024f155.PDF?v=1#outfit-en.PDF"
+        ]
+    }
+}

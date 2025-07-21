@@ -1,0 +1,35 @@
+{
+    "id": "58550EDA",
+    "title": {
+        "full": "Ultra Aktion",
+        "reduced": "Ultra Aktion"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Fun Infused Games",
+    "publisher": "Fun Infused Games",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. Evil is invading the world and their intentions are not good! Use all your wits, reflexes and an assortment of weapons to destroy them and become victorious. Ultra Aktion is an old school 2d run and gun action game featuring three levels of play, up to four player cooperative play, and eight different weapons to take out the bad guys.",
+        "short": "Evil is invading the world and their intentions are not good! Use all your wits, reflexes and an assortment of weapons to destroy them and become victorious. Ultra Aktion is an old school 2d run and gun action game featuring three levels of play, up to four player cooperative play, and eight different weapons to take out the bad guys."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550eda/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550EDA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550eda/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550EDA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EDA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EDA_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550EDA_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

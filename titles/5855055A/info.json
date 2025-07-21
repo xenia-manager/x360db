@@ -1,0 +1,35 @@
+{
+    "id": "5855055A",
+    "title": {
+        "full": "Star Hammer Tactics",
+        "reduced": "Star Hammer Tactics"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Black Lab Games",
+    "publisher": "Black Lab Games",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Battle the alien Nautilids and decide the fate of the planet Novus! Star Hammer Tactics is a tactical battle game that anyone can learn to play in minutes. Control each unit of your fleet individually as you challenge the devious AI in the single player campaign, or compete against friends in local multi-player warfare. Achieve victory by outwitting your opponents, and blasting them to pieces!",
+        "short": "Battle the alien Nautilids and decide the fate of the planet Novus! Star Hammer Tactics is a tactical battle game that anyone can learn to play in minutes. Control each unit of your fleet individually as you challenge the devious AI in the single player campaign, or compete against friends in local multi-player warfare. Achieve victory by outwitting your opponents, and blasting them to pieces!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855055a00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855055A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855055a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855055A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855055A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855055A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855055A_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

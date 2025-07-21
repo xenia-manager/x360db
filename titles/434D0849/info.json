@@ -1,0 +1,48 @@
+{
+    "id": "434D0849",
+    "title": {
+        "full": "F1 RACE STARS",
+        "reduced": "F1 RACE STARS"
+    },
+    "genre": [
+        "Family",
+        "Racing & Flying",
+        "Sports & Recreation"
+    ],
+    "developer": "Codemasters Birmingham",
+    "publisher": "Codemasters Software Company Limited",
+    "release_date": "2012-11-13",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Get ready to experience FORMULA ONE™ cars, teams and circuits like never before with F1 RACE STARS™, a fast-to-the-fun game for all ages. Officially licensed to feature the full cast of FORMULA ONE stars and packing an extensive range of game modes, including numerous Championships, Time Trials, 4-player split-screen racing and online multiplayer, F1 RACE STARS takes FORMULA ONE over the top!",
+        "short": "Get ready to experience FORMULA ONE™ cars, teams and circuits like never before with F1 RACE STARS™, a fast-to-the-fun game for all ages. Officially licensed to feature the full cast of FORMULA ONE stars and packing an extensive range of game modes, including numerous Championships, Time Trials, 4-player split-screen racing and online multiplayer, F1 RACE STARS takes FORMULA ONE over the top!"
+    },
+    "media": [
+        {
+            "media_id": "332DB909",
+            "title": "F1 Race Stars",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0849/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0849/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0849/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0849/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0849/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0849/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0849/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0849/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0849/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0849/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/434d0849/F1_RACESTARS_360_Manual_UK.pdf"
+        ]
+    }
+}

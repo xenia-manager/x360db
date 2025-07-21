@@ -1,0 +1,37 @@
+{
+    "id": "5841129C",
+    "title": {
+        "full": "Virtua Fighter 2",
+        "reduced": "Virtua Fighter 2"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "SEGA",
+    "publisher": "SEGA",
+    "release_date": "2012-11-28",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Go back to the roots of 3-D fighting with Virtua Fighter 2, the second title in AM2's flagship fighting franchise.  Experience the legendary polygon-based 3-D graphics and fluid fighting mechanics that made the game so influential in the arcades, and later on the Sega Saturn.  With all-new online play you can battle friends throughout the world.  Features include:  True to its arcade form with all-new online modes  All 10 original characters and arenas  Online versus mode for head-to-head matches  Online Room match mode for up to 6 players ",
+        "short": "Go back to the roots of 3-D fighting with Virtua Fighter 2, the second title in AM2's flagship fighting franchise.  Experience the legendary polygon-based 3-D graphics and fluid fighting mechanics that made the game so influential in the arcades, and later on the Sega Saturn.  With all-new online play you can battle friends throughout the world. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129c/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

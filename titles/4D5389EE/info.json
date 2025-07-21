@@ -1,0 +1,36 @@
+{
+    "id": "4D5389EE",
+    "title": {
+        "full": "Kinectimals Now with Bears Build a Bear Demo",
+        "reduced": "Kinectimals Now with Bears Build a Bear Demo"
+    },
+    "genre": [
+        "Family",
+        "Kinect"
+    ],
+    "developer": "Frontier Developments Ltd.",
+    "publisher": "Microsoft Game Studios",
+    "release_date": "2011-09-26",
+    "user_rating": null,
+    "description": {
+        "full": "Kinectimals Now with Bears Build a Bear Demo",
+        "short": "Kinectimals Now with Bears Build a Bear Demo"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ee/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ee/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ee/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5389ee/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4D5308B3",
+                "title": "Kinectimals"
+            }
+        ],
+        "related": []
+    }
+}

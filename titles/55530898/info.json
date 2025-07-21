@@ -1,0 +1,41 @@
+{
+    "id": "55530898",
+    "title": {
+        "full": "Rocksmith",
+        "reduced": "Rocksmith"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2011-10-11",
+    "user_rating": null,
+    "description": {
+        "full": "Introducing the next stage in the evolution of the music game. Rocksmith, the first and only game where you can plug into any real guitar.  Nothing plastic. Nothing fake. Just the most authentic guitar experience in music gaming. By plugging into your console, you’ll develop real skills and real styles while playing absolutely real music.  Featuring gameplay that automatically adjusts to your personal ability and innovative game design that makes playing music visually intuitive, Rocksmith will engage experienced musicians as well as those who have never picked up a guitar in their life.  You’ll unlock mini games to hone specific skills. You’ll be able to choose from a large catalog of songs in different styles. And you’ll experience it all with an honest-to-goodness guitar. Nothing compares to playing a real guitar. Except playing Rocksmith.",
+        "short": "Introducing the next stage in the evolution of the music game. Rocksmith, the first and only game where you plug into any real guitar.  Nothing plastic. Nothing fake. Just an authentic guitar experience. By plugging into your console, you’ll develop real skills while playing absolutely real music.  Featuring gameplay that automatically adjusts to your personal ability, Rocksmith will engage experienced musicians as well as those who have never picked up a guitar."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530898/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530898/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530898/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530898/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530898/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530898/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530898/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530898/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530898/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "55530873",
+                "title": "Rocksmith"
+            }
+        ],
+        "related": []
+    }
+}

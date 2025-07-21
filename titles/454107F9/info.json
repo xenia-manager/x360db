@@ -1,0 +1,73 @@
+{
+    "id": "454107F9",
+    "title": {
+        "full": "Battlefield Bad Company",
+        "reduced": "Battlefield Bad Company"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "EA Digital Illusions CE AB",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2010-02-18",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Battlefield: Bad Company follows a wayward band of ordinary soldiers who decide that sometimes the gratitude of a nation just isn’t enough. Featuring a dramatic storyline loaded with a unique attitude, the game delivers the series' trademark sandbox gameplay in a universe where almost everything is destructible. The ever-changing battlefield forces players, their team mates and enemies to react accordingly and use destruction tactically. The game also features the all new, objective based multiplayer game mode \"Gold Rush\", supporting 24 players online. Play as attackers and defenders and make full use of the tactical destruction as well as the unique vehicle experience that can only be experienced in Battlefield: Bad Company.",
+        "short": "Battlefield: Bad Company follows a wayward band of ordinary soldiers who decide that sometimes the gratitude of a nation just isn’t enough. Featuring a dramatic storyline loaded with a unique attitude, the game delivers the series' trademark sandbox gameplay in a universe where almost everything is destructible. The ever-changing battlefield forces players, their team mates and enemies to react accordingly and use destruction tactically. The game also features the all new, objective based multi…"
+    },
+    "media": [
+        {
+            "media_id": "2523ED28",
+            "title": "Battlefield: Bad Company",
+            "edition": "Gold Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "5C0F179E",
+            "title": "Battlefield: Bad Company",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "03ABDFDB",
+            "title": "Battlefield: Bad Company",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "75F7BA6A",
+            "title": "Battlefield: Bad Company",
+            "edition": "Gold Edition",
+            "region": "USA"
+        },
+        {
+            "media_id": "415FF1CC",
+            "title": "Battlefield: Bad Company",
+            "edition": "Original, Classics",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f9/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107f9/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/454107f9/20b26088-3535-4e99-8adc-26c786705c0d.PDF"
+        ]
+    }
+}

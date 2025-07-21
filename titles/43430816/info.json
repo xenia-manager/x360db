@@ -1,0 +1,45 @@
+{
+    "id": "43430816",
+    "title": {
+        "full": "STEEL BATTALION HEAVY ARMOR",
+        "reduced": "STEEL BATTALION HEAVY ARMOR"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Kinect"
+    ],
+    "developer": "From Software Inc.",
+    "publisher": "CAPCOM CO., LTD.",
+    "release_date": "2012-06-19",
+    "user_rating": "3.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) This all-new game revives the fan-favorite Steel Battalion series! Microsoft has joined forces with Capcom and From Software to bring you this groundbreaking collaborative project to the Xbox 360. Manhattan, 2082. In a world where computers and almost all modern technology has been lost, the greatest nations of the world continue to battle for hegemony. The American army lands in New York to begin it's first big offensive of a long ground war. Soldiers fire from the trenches as scorched bunkers belch black smoke. As comrades continually fall to the unrelenting crossfire of bullets, the Vertical Tanks make their laborious advance... Experience the battlefield as never before with Kinect! This is what gamers have been waiting for!",
+        "short": "This all-new game revives the fan-favorite Steel Battalion series! Microsoft has joined forces with Capcom and From Software to bring you this groundbreaking collaborative project to the Xbox 360."
+    },
+    "media": [
+        {
+            "media_id": "55FFCFA7",
+            "title": "Steel Battalion: Heavy Armor",
+            "edition": "Original",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430816/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430816/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430816/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430816/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430816/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430816/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430816/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430816/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430816/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430816/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

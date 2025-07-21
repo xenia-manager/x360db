@@ -1,0 +1,43 @@
+{
+    "id": "555307F6",
+    "title": {
+        "full": "RUSE",
+        "reduced": "RUSE"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Eugen Systems",
+    "publisher": "Ubisoft",
+    "release_date": "2010-07-14",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish, Polish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   In R.U.S.E.™, players use their brain as the ultimate weapon, fighting a war of perception, where the ability to deceive and mislead the enemy determines success. A first in a strategy game, R.U.S.E. reinvigorates the genre by using deception to give new-found depth to the game play.",
+        "short": "In R.U.S.E.™, players use their brain as the ultimate weapon, fighting a war of perception, where the ability to deceive and mislead the enemy determines success. A first in a strategy game, R.U.S.E. reinvigorates the genre by using deception to give new-found depth to the game play."
+    },
+    "media": [
+        {
+            "media_id": "51DC0130",
+            "title": "R.U.S.E.",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "64DB3A3F",
+            "title": "R.U.S.E.",
+            "edition": "Original",
+            "region": "UK"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307f6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307f6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307f6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307f6/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

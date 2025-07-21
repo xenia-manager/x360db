@@ -1,0 +1,43 @@
+{
+    "id": "454189A0",
+    "title": {
+        "full": "Fuse Demo",
+        "reduced": "Fuse Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Insomniac Games",
+    "publisher": "Electronic Arts",
+    "release_date": "2013-05-07",
+    "user_rating": "3.75",
+    "description": {
+        "full": "What happens when humans gain access to powerful alien technology they were never meant to have?  Find out by playing the Fuse demo and enter a world where a private military corporation has stolen a volatile energy source, and the CIA has called in an elite contact team to retrieve it: Overstrike 9.  Join up to three friends in co-op play as you deploy lethal teamwork and fringe-tech weapons to invade a remote enemy stronghold and stop the theft of the volatile alien substance called Fuse. ",
+        "short": "Play the Fuse demo and join up to three friends in co-op play as you deploy lethal teamwork and fringe-tech weapons to invade a remote enemy stronghold and stop the theft of a volatile alien substance. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189a0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189a0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189a0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189a0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189a0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189a0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189a0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189a0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189a0/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189a0/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4541096E",
+                "title": "Fuse"
+            }
+        ],
+        "related": []
+    }
+}

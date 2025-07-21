@@ -1,0 +1,49 @@
+{
+    "id": "55530816",
+    "title": {
+        "full": "TCs HAWX",
+        "reduced": "TCs HAWX"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Strategy & Simulation"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft Entertainment",
+    "release_date": "2010-08-06",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) This game supports English, French, Italian, German, and Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Tom Clancy’s H.A.W.X puts you in command of the most powerful jet fighters on Earth. In 2014, as a former elite USAF pilot, you join a powerful Private Military Company. Your missions will take you all around the world over photo-realistic, well-known locations, using real satellite data.                   H.A.W.X gives you total control over the plane’s flying assistance mode: turn it on or off and trigger 2 unique gameplay experiences. Assistance ON gives you full technology support. It can display interception trajectories, find a safe path to strike targets between buildings and even provide a missile dodging course. Turn off the Assistance and unleash all the power of your aircraft. Assistance OFF jumps to a stunning 3rd person view where you can perform incredible dogfight maneuvers and reverse any situation.                   For the first time ever in the air-combat, you can play the full campaign in 4 player JUMP IN co-op. In online PVP, 8 players will enter intense dog-fighting sessions. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Tom Clancy’s H.A.W.X puts you in command of the most powerful jet fighters on Earth. In 2014, as a former elite USAF pilot, you join a powerful Private Military Company. Your missions will take you all around the world over photo-realistic, well-known locations, using real satellite data. H.A.W.X gives you total control over the plane’s flying assistance mode: turn it on or off and trigger 2 unique gameplay experiences. Assistance ON gives you full technology support. It can display intercepti…"
+    },
+    "media": [
+        {
+            "media_id": "4177071D",
+            "title": "Tom Clancy's H.A.W.X",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "1BEA1B78",
+            "title": "Tom Clancy's H.A.W.X",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530816/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530816/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530816/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530816/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530816/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530816/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530816/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530816/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

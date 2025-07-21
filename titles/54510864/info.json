@@ -1,0 +1,43 @@
+{
+    "id": "54510864",
+    "title": {
+        "full": "Truth or Lies",
+        "reduced": "Truth or Lies"
+    },
+    "genre": [
+        "Family"
+    ],
+    "developer": "Big Ant Studios",
+    "publisher": "THQ",
+    "release_date": "2010-08-03",
+    "user_rating": "0.00",
+    "description": {
+        "full": "Friends and family will be squirming in their seats as they answer some of the game’s silliest and most provocative questions in the new Truth or Lies® video game.  Utilizing a proprietary voice calibration system, Truth or Lies® measures stress levels in a player’s voice to reveal the honesty of their answers.  Up to eight players can join in on this party game, as they offer up answers to more than 3,000 questions.  Additionally, the Hot Seat mode will allow players to put other players on the spot and ask them any question that comes to mind.  The gameplay will lead to revealing and hilarious situations among friends and family.",
+        "short": "Friends and family will be squirming in their seats as they answer some of the game’s silliest and most provocative questions in the new Truth or Lies® video game.  Utilizing a proprietary voice calibration system, Truth or Lies® measures stress levels in a player’s voice to reveal the honesty of their answers.  Up to eight players can join in on this party game, as they offer up answers to more than 3,000 questions.  Additionally, the Hot Seat mode will allow players to put other players on th…"
+    },
+    "media": [
+        {
+            "media_id": "6704A7CD",
+            "title": "Truth or Lies",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "48EC736A",
+            "title": "Truth or Lies",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510864/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510864/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510864/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510864/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

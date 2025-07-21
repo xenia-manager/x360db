@@ -1,0 +1,36 @@
+{
+    "id": "54518891",
+    "title": {
+        "full": "Homefront - Multiplayer Demo",
+        "reduced": "Homefront - Multiplayer Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Kaos Studios",
+    "publisher": "THQ Inc.",
+    "release_date": "2011-05-31",
+    "user_rating": "4.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Get a taste of Homefront in this action-packed multiplayer demo. Experience intense infantry and vehicle combat for up to 32 players on dedicated servers. Earn Battle Points for in-game actions – score kills and capture points to purchase an increasingly deadly arsenal, from drones to airstrikes to tanks and helicopters. Kill or be killed as the new Battle Commander mode dynamically assigns missions based on your performance on the field. Customize load-outs that fits your play style with 10 levels of weapon and ability unlocks (up to 75 levels in the full game). Download it today and jump into the battles that will decide the future of America!",
+        "short": "(Online Interactions Not Rated by the ESRB) This all new Homefront multiplayer demo features intense infantry and vehicle combat on dedicated servers, revolutionary Battle Points and Battle Commander systems, and 10 levels of weapon and ability unlocks. Download it today!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518891/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518891/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518891/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254518891/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "54510846",
+                "title": "Homefront"
+            }
+        ],
+        "related": []
+    }
+}

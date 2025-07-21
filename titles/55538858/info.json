@@ -1,0 +1,37 @@
+{
+    "id": "55538858",
+    "title": {
+        "full": "HAWX2",
+        "reduced": "HAWX 2"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Racing & Flying",
+        "Shooter"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft ",
+    "release_date": "2010-09-30",
+    "user_rating": null,
+    "description": {
+        "full": "H.A.W.X.2",
+        "short": "H.A.W.X.2"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538858/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538858/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538858/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538858/1041/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "55530848",
+                "title": "Tom Clancy’s H.A.W.X.® 2"
+            }
+        ],
+        "related": []
+    }
+}

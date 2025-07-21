@@ -1,0 +1,34 @@
+{
+    "id": "585502AD",
+    "title": {
+        "full": "LIVELAYER PROTOTYPE",
+        "reduced": "LIVELAYER PROTOTYPE"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "kamadasyoko",
+    "publisher": "kamadasyoko",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Do it run through in the maze of the light and shadow, and can it reach the exit at last safely? Easy, simple action maze game.",
+        "short": "Do it run through in the maze of the light and shadow, and can it reach the exit at last safely? Easy, simple action maze game."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585502ad00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585502AD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585502ad/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585502AD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585502AD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585502AD_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

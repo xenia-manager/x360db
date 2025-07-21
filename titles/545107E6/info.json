@@ -1,0 +1,60 @@
+{
+    "id": "545107E6",
+    "title": {
+        "full": "Darksiders",
+        "reduced": "Darksiders"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Vigil Games",
+    "publisher": "THQ",
+    "release_date": "2010-01-27",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   The Horseman cometh. You are WAR! Caught in an epic struggle between Heaven and Hell, the legendary Horseman is left with only one option- to fight his way out. Wielding the fearsome sword Chaoseater, War must carve a bloody trail through Angels and Demons alike to uncover a dangerous truth...one that may bring about the end of mankind. EXPLORE the streets of a hell-ravaged city or ascend crumbling buildings to face horrors in the sky above. CONQUER Hell’s most terrifying monstrosities using a host of supernatural abilities and devastating combat moves. DESTROY your enemies by unleashing the unstoppable power of your Chaos Form!  Darksiders. HEADS. WILL. ROLL.",
+        "short": "The Horseman cometh. You are WAR! Caught in an epic struggle between Heaven and Hell, the legendary Horseman is left with only one option- to fight his way out. Wielding the fearsome sword Chaoseater, War must carve a bloody trail through Angels and Demons alike to uncover a dangerous truth...one that may bring about the end of mankind. EXPLORE the streets of a hell-ravaged city or ascend crumbling buildings to face horrors in the sky above. CONQUER Hell’s most terrifying monstrosities using a …"
+    },
+    "media": [
+        {
+            "media_id": "50F1B10F",
+            "title": "Darksiders",
+            "edition": "Original, Promo",
+            "region": "Europe"
+        },
+        {
+            "media_id": "0E9C2219",
+            "title": "Darksiders",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e6/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e6/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e6/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e6/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e6/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e6/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107e6/1033/screenlg14.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/545107e6/b050325d-f6c5-415b-a586-efc147879bf6.PDF"
+        ]
+    }
+}

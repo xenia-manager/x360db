@@ -1,0 +1,37 @@
+{
+    "id": "445007F2",
+    "title": {
+        "full": "Eat Lead",
+        "reduced": "Eat Lead"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Vicious Cycle Software",
+    "publisher": "D3 Publisher",
+    "release_date": "2009-12-09",
+    "user_rating": "0.00",
+    "description": {
+        "full": "Matt Hazard was once the ultimate video game action hero delighting millions of fans during the 80s and 90s with his bloody and violent games. However, in the last few years of the console cycle, he’s fallen on hard times and has yet to star in a next-gen game.  When he finally gets the call he’s been waiting for make his official comeback, he finds out he’s not the star,  but the prey. Matt must defeat the game where the programmers aren’t playing by the rules. They’re throwing everything at him in their arsenal from old enemies, to past environments, unfair weapons, and more to make sure he doesn’t make it to the last level.",
+        "short": "Matt Hazard was once the ultimate video game action hero delighting millions of fans during the 80s and 90s with his bloody and violent games. However, in the last few years of the console cycle, he’s fallen on hard times and has yet to star in a next-gen game.  When he finally gets the call he’s been waiting for make his official comeback, he finds out he’s not the star,  but the prey. Matt must defeat the game where the programmers aren’t playing by the rules. They’re throwing everything at h…"
+    },
+    "media": [
+        {
+            "media_id": "4A0F1569",
+            "title": "Eat Lead: Matt Hazard no Gyakushuu",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007f2/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "id": "4B4E07D1",
+    "title": {
+        "full": "Rumble Roses XX",
+        "reduced": "Rumble Roses XX"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Sports & Recreation"
+    ],
+    "developer": "YUKE'S Co.,Ltd.",
+    "publisher": "Konami",
+    "release_date": "2008-01-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  The sexy and extreme wrestling action game, Rumble Roses, is back in high-def sexiness! Thrill in the drama of tag matches to the visual feast of its legendary entrance scenes. Customize not just your character's chest, waist and hip, but her muscles and costumes, too! Compete in penalty matches, where the punishment for losing is severe: Limbo dancing? Writing letters using her hips? Acting like a cat? Get your best shots discreetly and upload them online!",
+        "short": "The sexy and extreme wrestling action, Rumble Roses is back with high-def sexiness! Offering not only photorealistic graphics, but vastly improved gameplay! Enjoy the drama in the all new tag team mode! Hit your partner mistakenly; you may end up being ignored when making a tag move. Outdoor stages includes skyscrapers, beach and even Death Valley! New fighting mode on the streets! Increase your popularity and even dress up like a super star! "
+    },
+    "media": [
+        {
+            "media_id": "1A6D4362",
+            "title": "Rumble Roses XX",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "659AEB11",
+            "title": "Rumble Roses XX",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "638D2D9F",
+            "title": "Rumble Roses XX",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e07d1/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4b4e07d1/0/RumRos_xbx_360_UK_GonD.pdf"
+        ]
+    }
+}

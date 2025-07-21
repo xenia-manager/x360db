@@ -1,0 +1,35 @@
+{
+    "id": "585503E3",
+    "title": {
+        "full": "Office Politics",
+        "reduced": "Office Politics"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Moment Games",
+    "publisher": "Moment Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=1/3, Mature Content=1/3. Finally, you can live out your dream of rising to the top of the corporate ladder! Office Politics is a satirical simulation game spanning 5 working days.  You play an aspiring intern named Jennifer who has just received a lucrative internship position at Incomputech. To succeed, you must complete office tasks, maintain a good work/life balance, and even go to Washington D.C. for a bailout.",
+        "short": "Finally, you can live out your dream of rising to the top of the corporate ladder! Office Politics is a satirical simulation game spanning 5 working days.  You play an aspiring intern named Jennifer who has just received a lucrative internship position at Incomputech. To succeed, you must complete office tasks, maintain a good work/life balance, and even go to Washington D.C. for a bailout."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585503e3/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585503E3_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585503e3/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585503E3_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503E3_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503E3_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503E3_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

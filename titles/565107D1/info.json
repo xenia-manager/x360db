@@ -1,0 +1,41 @@
+{
+    "id": "565107D1",
+    "title": {
+        "full": "Sledge Hammer",
+        "reduced": "Sledge Hammer"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Bukka",
+    "publisher": "Maximum",
+    "release_date": "2012-02-21",
+    "user_rating": "3.75",
+    "description": {
+        "full": "You are at the mercy of a secret agency that has implanted a bomb inside your head. If you disobey orders, you die. At the hands of an unseen master you have become an unstoppable weapon of destruction armed with mines, rockets, disc launchers, plasma guns, and more. Play as either the predator or prey, charging forth in a heavily armed monster truck. Keep an eye on your Rage Meter. It fills every time you get hit, as well as when you make a hard attack. Use it when full to execute special attacks and unleash the beast upon your enemies!",
+        "short": "At the mercy of a secret agency that has implanted a bomb inside your head you have become an unstoppable killer armed with mines, rockets, disc launchers, plasma guns, and more. Featuring 10 game modes, 31 different weapons, 20 gadgets to equip, and more than 50 levels to pass, Sledge Hammer will unleash the beast!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d1/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d1/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565107d1/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

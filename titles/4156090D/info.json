@@ -1,0 +1,44 @@
+{
+    "id": "4156090D",
+    "title": {
+        "full": "Duck Dynasty",
+        "reduced": "Duck Dynasty"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Fun Labs",
+    "publisher": "Activision",
+    "release_date": "2014-10-31",
+    "user_rating": "2.25",
+    "description": {
+        "full": "The Games on Demand version supports English.  Hunt, Race and Prank to Become a Robertson! Take on the role of Willie’s son John Luke as he learns how to become one of the Robertson Duckmen! Interact with Willie, Uncle Si, Jase and the rest of the family from the hit TV show. Go duck hunting, varmint shooting, off-roading and play office pranks in the Robertson’s hometown of West Monroe, LA. Will you learn the way of the beards?  • Call in ducks to your blind using a variety of calls and then fire away. • Hunt Louisiana wildlife including squirrels, frogs and fish for Miss Kay to cook her famous dishes. • Join Jase in duck call room antics as you sneak around the warehouse to trick Willie. • Race against Willie in an airboat as you drive across the Robertson family swampland. • Uncover Uncle Si’s bizarre “treasures” with a metal detector.  • Track down pesky beavers with Phil to stop their damns from ruining the duck ponds. • Play through 3 game modes including the main story, duck shooting galleries and airboat racing.",
+        "short": "Hunt, Race and Prank to Become a Robertson! Take on the role of Willie’s son John Luke as he learns how to become one of the Robertson Duckmen! Interact with Willie, Uncle Si, Jase and the rest of the family from the hit TV show. Go duck hunting, varmint shooting, off-roading and play office pranks in the Robertson’s hometown of West Monroe, LA. Will you learn the way of the beards? "
+    },
+    "media": [
+        {
+            "media_id": "383B334A",
+            "title": "Duck Dynasty",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090d/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

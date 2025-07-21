@@ -1,0 +1,54 @@
+{
+    "id": "4E4D085B",
+    "title": {
+        "full": "Star Trek",
+        "reduced": "Star Trek"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Digital Extremes",
+    "publisher": "NAMCO BANDAI Games America",
+    "release_date": "2013-04-23",
+    "user_rating": "3.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Russian.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Game players will get to play as two of the greatest science-fiction heroes ever -- Kirk and Spock – in the award-winning STAR TREK, a completely original co-op experience that expands the Star Trek universe even further.  Set in the 23rd Century world of the massively popular Star Trek reboot, this cover-based shooter immerses players in a rich, original story and action-packed combat. ",
+        "short": "Play as two of the greatest heroes ever -- Kirk and Spock – in the award-winning STAR TREK, an original co-op experience worthy of gamers and fans."
+    },
+    "media": [
+        {
+            "media_id": "13A9103C",
+            "title": "Star Trek",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085b/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085b/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085b/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085b/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085b/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085b/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085b/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085b/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085b/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085b/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085b/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085b/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085b/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085b/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085b/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085b/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d085b/1033/screenlg13.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4e4d085b/ST_360CVR_INT_EnFr.pdf"
+        ]
+    }
+}

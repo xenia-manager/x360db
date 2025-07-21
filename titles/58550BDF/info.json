@@ -1,0 +1,34 @@
+{
+    "id": "58550BDF",
+    "title": {
+        "full": "Hey Aliens Ill Mash You Up",
+        "reduced": "Hey Aliens Ill Mash You Up"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Kurikatos",
+    "publisher": "Kurikatos",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. The ultimate alien shooting game is at hand mixing arcade classic into the modern world.  Fight your way through an infinite number of levels to rack up the points.  Choose to play in one of several graphics packs including new style and Retro classics, or switch in real time between them during play.",
+        "short": "The ultimate alien shooting game is at hand mixing arcade classic into the modern world.  Fight your way through an infinite number of levels to rack up the points.  Choose to play in one of several graphics packs including new style and Retro classics, or switch in real time between them during play."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550bdf00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550BDF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550bdf/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550BDF_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BDF_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BDF_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": "534E87DD",
+    "title": {
+        "full": "THE KING OF FIGHTERS XIII",
+        "reduced": "THE KING OF FIGHTERS XIII"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "SNK PLAYMORE CORPORATION",
+    "publisher": "SNK PLAYMORE CORPORATION",
+    "release_date": "2011-12-08",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Consume your enemies with the flames of wrath until they turn into ashes! “THE KING OF FIGHTERS XIII” comes to Xbox 360 as the ultimate versus fighting game, in an upgraded version of the original arcade game! Discover “Billy Kane” and “Saiki (Human Form)” console-exclusive additional characters that KOF fans surely cannot afford to miss, KOF XIII’s “Story Mode”, displayed as a visual novel (revealing numerous episodes unknown up until now), the high-quality “Online Versus Mode” for intense battles with other players via Xbox LIVE, a “Tutorial Mode” that even KOF novice players can enjoy, and many more game modes for thousands of hours of fun! However, it’s not finished yet! More additional content will be available to download at a later date such as “Iori with the Power of Flames” and more downloadable characters!? The final chapter of the “Ash Saga”, full of anger and betrayal, ends here!!",
+        "short": "“THE KING OF FIGHTERS XIII” comes to Xbox 360 as the ultimate versus fighting game, in an upgraded version of the original arcade game! The final chapter of the “Ash Saga”, full of anger and betrayal, ends here!!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e87dd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e87dd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e87dd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e87dd/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e87dd/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e87dd/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e87dd/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e87dd/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e87dd/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e87dd/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e87dd/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e87dd/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e87dd/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e87dd/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e87dd/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e87dd/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e87dd/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534e87dd/1033/screenlg14.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "534E07DC",
+                "title": "THE KING OF FIGHTERS XIII"
+            }
+        ],
+        "related": []
+    }
+}

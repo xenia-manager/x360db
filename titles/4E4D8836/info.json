@@ -1,0 +1,56 @@
+{
+    "id": "4E4D8836",
+    "title": {
+        "full": "Dragon Ball Raging Blast 2",
+        "reduced": "DB Raging Blast 2 Demo"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Spike Co. Ltd,",
+    "publisher": "NAMCO BANDAI Games America Inc.",
+    "release_date": "2010-10-14",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Unleash the Rage Within!  The powerful Dragon Ball Z fighter returns with even more fast-paced, hard-hitting versus battle action in Dragon Ball®: Raging Blast 2!  Download the demo and freely command either Super Saiyan Goku, Kid Buu, Demon King Dabura or Ultimate Gohan in the ultimate battle of strength and stamina.  Feel the power of your bone-crushing blows as you square off in VS. Mode using tons of special moves to dominate your rival in two of the game’s large-scale, 3D environments.  Download the demo now to test your skills in this exhilarating fighting demo.  Full game available November 2010! ",
+        "short": "Unleash the rage within with the new Dragon Ball®: Raging Blast 2 demo!  Download the demo and freely command either Super Saiyan Goku, Kid Buu, Demon King Dabura or Ultimate Gohan in the ultimate battle of strength and stamina. Feel the power of your bone-crushing blows as you square off in VS. Mode using tons of special moves to dominate your rival in two of the game’s large-scale, 3D environments.  Full game available November 2010!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d8836/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4E4D0826",
+                "title": "DB: Raging Blast 2"
+            }
+        ],
+        "related": []
+    }
+}

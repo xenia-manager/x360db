@@ -1,0 +1,42 @@
+{
+    "id": "53450825",
+    "title": {
+        "full": "SEGA MEGA DRIVE UC",
+        "reduced": "SEGA MEGA DRIVE UC"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics",
+        "Other",
+        "Puzzle & Trivia",
+        "Role Playing",
+        "Shooter"
+    ],
+    "developer": "Backbone Entertainment",
+    "publisher": "Sega",
+    "release_date": "2008-01-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Ultimate MEGA DRIVE Collection",
+        "short": "The Ultimate MEGA DRIVE Collection"
+    },
+    "media": [
+        {
+            "media_id": "1B11B603",
+            "title": "Sega Mega Drive Ultimate Collection",
+            "edition": "Original, Classics",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450825/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450825/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450825/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450825/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

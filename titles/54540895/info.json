@@ -1,0 +1,46 @@
+{
+    "id": "54540895",
+    "title": {
+        "full": "Nickelodeon Dance",
+        "reduced": "Nickelodeon Dance"
+    },
+    "genre": [
+        "Family",
+        "Kinect",
+        "Music"
+    ],
+    "developer": "High Voltage Software",
+    "publisher": "2K Play",
+    "release_date": "2011-11-08",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Spanish, Dutch.  Get ready for controller-free moving and grooving in the first dance game featuring Dora, Diego, The Backyardigans, and The Fresh Beat Band. Gamers big and small will twist and turn to music sung by these Nickelodeon friends. Includes 30 songs from popular favorites like \"We Got the Beat,\" \"Dancing in the Street,\" and “Locomotion” to Nickelodeon hits like \"Al Rescate,\" “Here We Go” and \"We Did It! Fancy footwork becomes fitness fun with the super cool work-out feature for heart healthy activity with your Nickelodeon friends!",
+        "short": "Get ready for controller-free moving and grooving in the first dance game featuring Dora, Diego, The Backyardigans, and The Fresh Beat Band. Gamers big and small will twist and turn to music sung by their Nickelodeon friends. Includes 30 songs from popular favorites like \"We Got the Beat,\" \"Dancing in the Street,\" and “Locomotion” to Nickelodeon hits like \"Al Rescate,\" “Here We Go” and \"We Did It! In addition, fancy footwork becomes fitness fun with the game’s super cool work-out feature!"
+    },
+    "media": [
+        {
+            "media_id": "1EB7875C",
+            "title": "Nickelodeon Dance",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540895/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540895/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540895/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540895/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540895/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540895/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540895/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540895/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/54540895/NickelodeonDance_Manual_EN_Revised.pdf"
+        ]
+    }
+}

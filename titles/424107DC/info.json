@@ -1,0 +1,61 @@
+{
+    "id": "424107DC",
+    "title": {
+        "full": "DBZ BURST LIMIT",
+        "reduced": "DBZ BURST LIMIT"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting"
+    ],
+    "developer": "Dimps Corporation",
+    "publisher": "Bandai",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Welcome to the next generation of DBZ! Play through the Saiyan, Frieza and Cell Sagas in Z Chronicles Mode, or fight head-to-head against opponents around the world over Xbox LIVE! Unlock and use Drama Pieces during battle to gain the advantage and crush your opponent! Are you up to the challenge?",
+        "short": "Welcome to the next generation of DBZ! Play through the Saiyan, Frieza and Cell Sagas in Z Chronicles Mode, or fight head-to-head against opponents around the world over Xbox LIVE! Unlock and use Drama Pieces during battle to gain the advantage and crush your opponent! Are you up to the challenge?"
+    },
+    "media": [
+        {
+            "media_id": "036A7E66",
+            "title": "Dragon Ball Z: Burst Limit",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "58EBD5D3",
+            "title": "Dragon Ball Z: Burst Limit",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "6652B73F",
+            "title": "Dragon Ball Z: Burst Limit",
+            "edition": "Original",
+            "region": "Europe, Australia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dc/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dc/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dc/1041/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dc/1041/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107dc/1041/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

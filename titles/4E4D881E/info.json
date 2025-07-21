@@ -1,0 +1,46 @@
+{
+    "id": "4E4D881E",
+    "title": {
+        "full": "Majin and the Forsaken Kingdom",
+        "reduced": "Majin and the Forsaken Kingdom"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Game Republic",
+    "publisher": "BANDAI NAMCO Entertainment Inc.",
+    "release_date": "2011-01-20",
+    "user_rating": "3.50",
+    "description": {
+        "full": "A thief who steps into a forsaken kingdom to protect his home forest from the infringing spread of the Darkness encounters a huge, mystical Giant captured there...   Featuring fantastical graphics and a thoroughly unique partner, the Giant. Together you will defeat a multitude of traps and enemies that stand in the way, to rid the kingdom of Darkness!  New, and yet a little nostalgic. Action Adventure in Majin and the Forsaken Kingdom.",
+        "short": "A thief who steps into a forsaken kingdom to protect his home forest from the infringing spread of the Darkness encounters a huge, mystical Giant captured there...   Featuring fantastical graphics and a thoroughly unique partner, the Giant. Together you will defeat a multitude of traps and enemies that stand in the way, to rid the kingdom of Darkness!  New, and yet a little nostalgic. Action Adventure in Majin and the Forsaken Kingdom."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d881e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d881e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d881e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d881e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d881e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d881e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d881e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d881e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d881e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d881e/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d881e/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d881e/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d881e/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d881e/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4E4D0816",
+                "title": "Majin and the Forsaken Kingdom"
+            }
+        ],
+        "related": []
+    }
+}

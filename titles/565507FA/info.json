@@ -1,0 +1,48 @@
+{
+    "id": "565507FA",
+    "title": {
+        "full": "Crash Mind Over Mutant",
+        "reduced": "Crash Mind Over Mutant"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Radical Entertainment",
+    "publisher": "Vivendi Universal Games",
+    "release_date": "2008-10-07",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   A rejuvenated reinvigorated and re-eviler Dr. Cortex is back! He’s made up with an old ally and taking control of his life again. Cortex’s new techno gadget is turning Crash’s friends into foes and only our empty headed hero can save the day!   Explore the Wumpa Islands like never before!  - Free Romping technology gives Crash complete freedom!  Play co-op with your friends! - For the first time Crash and Coco can play side by side   Exciting new moves!  - Dig and surf like the Bandicoots you see in day to day life!  Humorous fourth thing completely not related to dish washing, fish cleaning, or aphid milking!",
+        "short": "A rejuvenated reinvigorated and re-eviler Dr. Cortex is back! He’s made up with an old ally and taking control of his life again. Cortex’s new techno gadget is turning Crash’s friends into foes and only our empty headed hero can save the day!   Explore the Wumpa Islands like never before!  - Free Romping technology gives Crash complete freedom!  Play co-op with your friends! - For the first time Crash and Coco can play side by side   Exciting new moves!  - Dig and surf like the Bandicoots you se"
+    },
+    "media": [
+        {
+            "media_id": "62E15E8E",
+            "title": "Crash: Mind over Mutant",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507fa/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507fa/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507fa/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507fa/1033/tile.png",
+        "gallery": [
+            "http://mktplassets.xbox.com/NR/rdonlyres/F12E4890-E8D3-41AC-8FCC-E31F39C40909/0/simcrashMOM00.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/1D1C6588-67AE-44BF-8CFC-B7E847A92FC2/0/simcrashMOM01.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/AA784464-1800-4F70-BD84-31C8FCD7B06E/0/simcrashMOM02.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/9E25675B-1D1B-4B4F-A5E0-447233023FAE/0/simcrashMOM03.jpg",
+            "http://mktplassets.xbox.com/NR/rdonlyres/07BDC86D-6956-40A5-A87A-AFA7C3E9CDFA/0/simcrashMOM04.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507fa/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507fa/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507fa/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507fa/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565507fa/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

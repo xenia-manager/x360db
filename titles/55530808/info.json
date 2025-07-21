@@ -1,0 +1,48 @@
+{
+    "id": "55530808",
+    "title": {
+        "full": "AA True Soldiers",
+        "reduced": "AA True Soldiers"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter",
+        "Strategy & Simulation"
+    ],
+    "developer": "High Voltage Software",
+    "publisher": "UbiSoft",
+    "release_date": "2008-01-01",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Play the only official U.S. Army game on Xbox 360, built and tested with U.S. Army Soldiers at every level of production. Train in Single-Player “War Games”, then compete for rank on the Leaderboards through online Competitive Training. Join with up to 16 players in Co-Op and Competitive matches with more than 20 game types. Form a Unit and fight the nation’s battles in a full Multiplayer campaign. Prepare for the challenge of this experience. Prepare to be a True Soldier.",
+        "short": "Play the only official U.S. Army game on Xbox 360, built and tested with U.S. Army Soldiers at every level of production. Train in Single-Player “War Games”, then compete for rank on the Leaderboards through online Competitive Training. Join with up to 16 players in Co-Op and Competitive matches with more than 20 game types. Form a Unit and fight the nation’s battles in a full Multiplayer campaign. Prepare for the challenge of this experience. Prepare to be a True Soldier."
+    },
+    "media": [
+        {
+            "media_id": "0C63826B",
+            "title": "America's Army: True Soldiers",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530808/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530808/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530808/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530808/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530808/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530808/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530808/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530808/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530808/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530808/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530808/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530808/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

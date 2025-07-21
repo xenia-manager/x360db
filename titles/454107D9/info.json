@@ -1,0 +1,68 @@
+{
+    "id": "454107D9",
+    "title": {
+        "full": "NFS Most Wanted",
+        "reduced": "NFS Most Wanted"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Racing & Flying"
+    ],
+    "developer": "EA Black Box™",
+    "publisher": "Electronic Arts™",
+    "release_date": "2010-08-03",
+    "user_rating": "4.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Wake up to the smell of burnt asphalt as the thrill of illicit street racing permeates the air. From the makers of the hit Need for Speed™ Underground series that has sold more than 15 million copies worldwide, Need for Speed™ Most Wanted challenges you to become the most notorious and elusive street racer. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.  Some multi-player functionalities may no longer be supported.",
+        "short": "Wake up to the smell of burnt asphalt as the thrill of illicit street racing permeates the air. From the makers of the hit Need for Speed™ Underground series that has sold more than 15 million copies worldwide, Need for Speed™ Most Wanted challenges you to become the most notorious and elusive street racer.  Some multi-player functionalities may no longer be supported."
+    },
+    "media": [
+        {
+            "media_id": "2CFBCDFD",
+            "title": "Need for Speed: Most Wanted",
+            "edition": "Classics",
+            "region": "Germany"
+        },
+        {
+            "media_id": "0E7D604D",
+            "title": "Need for Speed: Most Wanted",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "4E38C924",
+            "title": "Need for Speed: Most Wanted",
+            "edition": "Original",
+            "region": "Italy"
+        },
+        {
+            "media_id": "36775B18",
+            "title": "Need for Speed: Most Wanted",
+            "edition": "Original, Classics",
+            "region": "Europe"
+        },
+        {
+            "media_id": "21AA3D64",
+            "title": "Need for Speed: Most Wanted",
+            "edition": "Original",
+            "region": "Spain"
+        },
+        {
+            "media_id": "0359BCB8",
+            "title": "Need for Speed: Most Wanted",
+            "edition": "Platinum Hits, Bundled with Xbox 360",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": null,
+        "banner": null,
+        "boxart": "https://cdn.mobygames.com/covers/4147899-need-for-speed-most-wanted-xbox-360-front-cover.png",
+        "icon": "http://www.xboxunity.net/Resources/Lib/Icon.php?tid=454107D9",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

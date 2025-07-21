@@ -1,0 +1,55 @@
+{
+    "id": "534507D4",
+    "title": {
+        "full": "Chromehounds",
+        "reduced": "Chromehounds"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "FROM SOFTWARE",
+    "publisher": "Sega",
+    "release_date": "2010-01-07",
+    "user_rating": "4.00",
+    "description": {
+        "full": "A war has broken out on Xbox Live between three nations, in which all the \"HOUNDs\" of the world will participate! --Will you be able to turn even your heart to steel?  The weapons standing on the battlefield are \"HOUNDs\". They are a new land weapon that is extremely customizable. The effective use of squads resulted in amazing achievements in combat and every nation incapable of securing enough military strength have been seeking elite pilots who will loyally follow orders...  Squad versus squad battles of up to 6vs6. Voice chat, the key to strategy. Battle situations change in realtime. A power struggle between three nations lasting up to two months. Furthermore, the story leading up to the war is available in the form of the Story Mode (Offline Mode).  Are you a hero or just cannon fodder... You cannot survive alone in this war.",
+        "short": "A war has broken out on Xbox Live between three nations, in which all the \"HOUNDs\" of the world will participate! --Will you be able to turn even your heart to steel?  The weapons standing on the battlefield are \"HOUNDs\". They are a new land weapon that is extremely customizable. The effective use of squads resulted in amazing achievements in combat and every nation incapable of securing enough military strength have been seeking elite pilots who will loyally follow orders...  Squad versus squad"
+    },
+    "media": [
+        {
+            "media_id": "048EED64",
+            "title": "Chromehounds",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "64DA36DC",
+            "title": "Chromehounds",
+            "edition": "Shokai Seisan Genteiban",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d4/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d4/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d4/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

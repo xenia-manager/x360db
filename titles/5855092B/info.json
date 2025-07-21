@@ -1,0 +1,35 @@
+{
+    "id": "5855092B",
+    "title": {
+        "full": "Doc Logic",
+        "reduced": "Doc Logic"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "DocLogic",
+    "publisher": "DocLogic",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Doc Logic is a retro styled 2D survival-platformer. Enemies and traps will try to slow you down, but the only thing that can lead to a “game over” screen is the clock reaching zero. Doc Logic contains 8 unique different stages that offer a change in gameplay, and features music from 8 Bit Weapon.",
+        "short": "Doc Logic is a retro styled 2D survival-platformer. Enemies and traps will try to slow you down, but the only thing that can lead to a “game over” screen is the clock reaching zero. Doc Logic contains 8 unique different stages that offer a change in gameplay, and features music from 8 Bit Weapon."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855092b00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855092B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855092b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855092B_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855092B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855092B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855092B_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

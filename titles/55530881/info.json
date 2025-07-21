@@ -1,0 +1,47 @@
+{
+    "id": "55530881",
+    "title": {
+        "full": "NCIS The Video Game",
+        "reduced": "NCIS Game"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2011-10-25",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  For the first time ever, the world of the NCIS TV show comes to your living room in an all-new NCIS story arc written with the writers of the show.   Work as the NCIS team to solve complex murder, espionage and terrorist cases. Discover exciting connections between the four original cases as you crack each one, and work towards solving the overall investigation.   Bond with your favorite NCIS characters and get first-hand experience with the group’s humor, personality quirks, and defining characteristics. Interact with the characters through layers of storyline and dialogue designed to make you an integral part of the cast’s compelling dynamic.  Through a variety of mini-games: search crime scenes for clues and collect evidence; use the latest forensic tools and perform autopsies; conduct dramatic suspect interrogations; put your reflexes to the tests in tense action sequences. Finally piece the clues together using your wits to deduct the truth.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor",
+        "short": "For the first time ever, the world of the NCIS TV show comes to your living room.  Take on the role of the best NCIS team to solve complex murder, espionage and terrorist cases. Discover exciting connections between the four original cases as you crack each one, and work towards solving the overall investigation.   Interact with the characters through layers of storyline and dialogue designed to make you an integral part of the cast’s compelling dynamic. "
+    },
+    "media": [
+        {
+            "media_id": "2C28BC6F",
+            "title": "NCIS: Based on the TV Series",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530881/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530881/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530881/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530881/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530881/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530881/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530881/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530881/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530881/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530881/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/55530881/NCIS_XBOX360_manual_UKV_reapro2012.pdf"
+        ]
+    }
+}

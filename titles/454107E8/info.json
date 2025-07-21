@@ -1,0 +1,42 @@
+{
+    "id": "454107E8",
+    "title": {
+        "full": "NCAA Football 07",
+        "reduced": "NCAA Football 07"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts - Tiburon",
+    "publisher": "Electronic Arts",
+    "release_date": "2008-01-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Turn the Tide  Momentum changes everything -- now college football's most celebrated video game turns the tide with NCAA Football 07. Whether battling your biggest rival or playing for the BCS National Championship Game in Dynasty Mode, success on the field depends on your ability to maintain momentum. Featuring unprecedented graphics that capture every moment in complete detail -- from the authenticity of the stadiums, mascots, and marching bands, to the true-to-life look and feel of the players on the field. NCAA Football 07 on the Xbox 360 delivers the most realistic college football experience ever.",
+        "short": "Turn the Tide  Momentum changes everything -- now college football's most celebrated video game turns the tide with NCAA Football 07. Whether battling your biggest rival or playing for the BCS National Championship Game in Dynasty Mode, success on the field depends on your ability to maintain momentum. Featuring unprecedented graphics that capture every moment in complete detail -- from the authenticity of the stadiums, mascots, and marching bands, to the true-to-life look and feel of the player"
+    },
+    "media": [
+        {
+            "media_id": "5E0FB15F",
+            "title": "NCAA Football 07",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107e8/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

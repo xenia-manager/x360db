@@ -1,0 +1,35 @@
+{
+    "id": "58550B1D",
+    "title": {
+        "full": "Miasma 2",
+        "reduced": "Miasma 2"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "ESP Games",
+    "publisher": "ESP Games",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=3/3, Mature Content=2/3. Take control of Paul or Lina once more, and command your elite squad of freedom fighters in battle against the oppressive Vilhelm Industries. With an all-new turn-based tactics/real-time battle system, the action runs fast and thick, and with new units to command - and a whole new graphics engine - this is one adventure not to be missed.",
+        "short": "Take control of Paul or Lina once more, and command your elite squad of freedom fighters in battle against the oppressive Vilhelm Industries. With an all-new turn-based tactics/real-time battle system, the action runs fast and thick, and with new units to command - and a whole new graphics engine - this is one adventure not to be missed."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550b1d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B1D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b1d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B1D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B1D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B1D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B1D_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

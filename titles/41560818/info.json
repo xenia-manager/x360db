@@ -1,0 +1,43 @@
+{
+    "id": "41560818",
+    "title": {
+        "full": "SOF Payback",
+        "reduced": "SOF Payback"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Cauldron",
+    "publisher": "Activision",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "Experience Soldier of Fortune Payback",
+        "short": "Experience Soldier of Fortune Payback"
+    },
+    "media": [
+        {
+            "media_id": "706E55BC",
+            "title": "Soldier of Fortune: Payback",
+            "edition": "Original",
+            "region": "Australia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560818/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560818/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560818/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560818/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "41560802",
+                "title": "SOF Payback"
+            }
+        ],
+        "related": []
+    }
+}

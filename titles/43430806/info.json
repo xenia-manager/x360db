@@ -1,0 +1,42 @@
+{
+    "id": "43430806",
+    "title": {
+        "full": "MARVEL VS CAPCOM 3",
+        "reduced": "MARVEL VS CAPCOM 3"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "CAPCOM CO.,LTD.",
+    "publisher": "CAPCOM CO.,LTD.",
+    "release_date": "2799-12-30",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish, Japanese.  The latest in Capcom's Versus fighting series is here: Marvel vs. Capcom 3! Choose from your favorite Marvel and Capcom characters in the greatest fighting match-up of all time!",
+        "short": "The latest in Capcom's Versus fighting series is here: Marvel vs. Capcom 3! Choose from your favorite Marvel and Capcom characters in the greatest fighting match-up of all time!"
+    },
+    "media": [
+        {
+            "media_id": "6BBC631E",
+            "title": "Marvel vs. Capcom 3: Fate of Two Worlds",
+            "edition": "Original",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430806/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430806/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430806/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430806/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430806/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430806/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430806/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430806/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": "434D0806",
+    "title": {
+        "full": "Damnation",
+        "reduced": "Damnation"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Blue Omega Entertainment, Inc.",
+    "publisher": "Codemasters Software Company Limited",
+    "release_date": "2008-01-01",
+    "user_rating": "3.00",
+    "description": {
+        "full": "Fight in a Steampunk inspired post-industrial revolution conflict where you are the leader of a group of rebels trying to save what is left of America from an unstoppable arms dealer hell-bent on taking over the country. Damnation evolves the shooter genre with its unique and exhilarating combination of fluid action and combat.  Perform daredevil feats on the edge of human ability while navigating vast, breathtaking landscapes, each covering miles of distance and thousands of vertical feet.  Choose your own path and test your reflexes in frantic gun fights where attacks can come from any direction.",
+        "short": "Fight in a Steampunk inspired post-industrial revolution conflict where you are the leader of a group of rebels trying to save what is left of America from an unstoppable arms dealer hell-bent on taking over the country. Damnation evolves the shooter genre with its unique and exhilarating combination of fluid action and combat.  Perform daredevil feats on the edge of human ability while navigating vast, breathtaking landscapes, each covering miles of distance and thousands of vertical feet.  Ch…"
+    },
+    "media": [
+        {
+            "media_id": "2BCAA97E",
+            "title": "Damnation",
+            "edition": "Original, Promo",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0806/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0806/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0806/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0806/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0806/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0806/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0806/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0806/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d0806/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

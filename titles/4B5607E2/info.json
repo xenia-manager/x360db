@@ -1,0 +1,47 @@
+{
+    "id": "4B5607E2",
+    "title": {
+        "full": "Yaiba Ninja Gaiden Z",
+        "reduced": "Yaiba Ninja Gaiden Z"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "comcept Inc./Spark Unlimited",
+    "publisher": "TECMO KOEI AMERICA Corporation",
+    "release_date": "2014-03-18",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Japanese, Chinese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Step into a living comic book in this new take on the Ninja Gaiden series. Brandishing his ninja sword and the mecha weapons in his cyber arm, Yaiba slaughters zombies with brutal, over-the-top abandon. Will you slice enemies to pieces, crush them with Yaiba's cyborg arm or just rip off a zombie’s arms to use as nunchucks?",
+        "short": "Step into a living comic book in this new take on the Ninja Gaiden series."
+    },
+    "media": [
+        {
+            "media_id": "4DC9C68B",
+            "title": "Yaiba: Ninja Gaiden Z",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607e2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607e2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607e2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607e2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607e2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607e2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607e2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607e2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607e2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607e2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5607e2/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4b5607e2/x360god-YAIBA_ENG-140224sps.pdf"
+        ]
+    }
+}

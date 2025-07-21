@@ -1,0 +1,51 @@
+{
+    "id": "534507E3",
+    "title": {
+        "full": "Phantasy Star Universe",
+        "reduced": "Phantasy Star Universe"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "release_date": "2010-08-10",
+    "user_rating": "4.25",
+    "description": {
+        "full": "An epic, science fiction RPG with fantastic visuals. Treat yourself to infinite possibilities! *Online service has ended as of September 7th, 2012.",
+        "short": "An epic, science fiction RPG with fantastic visuals. Treat yourself to infinite possibilities! *Online service has ended as of September 7th, 2012."
+    },
+    "media": [
+        {
+            "media_id": "4D33612E",
+            "title": "Phantasy Star Universe",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "51D5696B",
+            "title": "Phantasy Star Universe",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e3/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/534507e3/e95d4836-c3a7-4d70-983d-3fb709656d94.PDF"
+        ]
+    }
+}

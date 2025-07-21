@@ -1,0 +1,41 @@
+{
+    "id": "4541098C",
+    "title": {
+        "full": "Madden NFL 13 Early Release",
+        "reduced": "Madden NFL 13 Early Release"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA SPORTS",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2012-08-28",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Madden NFL 13 is all-new from boot up to credits.  Every mode, every screen, every pixel has been reinvented delivering the most innovative, connected, and authentic Madden NFL experience in franchise history. ",
+        "short": "Madden NFL 13 is all-new from boot up to credits.  Every mode, every screen, every pixel has been reinvented delivering the most innovative, connected, and authentic Madden NFL experience in franchise history. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541098c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541098c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541098c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541098c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541098c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541098c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541098c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541098c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541098c/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4541098B",
+                "title": "Madden NFL 13"
+            }
+        ],
+        "related": []
+    }
+}

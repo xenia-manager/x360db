@@ -1,0 +1,53 @@
+{
+    "id": "41560845",
+    "title": {
+        "full": "Blur",
+        "reduced": "Blur"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Bizarre Creations",
+    "publisher": "Activision",
+    "release_date": "2010-05-27",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Blur: Powered-Up Racing. Travel the globe to beat the best the streets have to offer. Utilize an armory of Power-ups including huge bursts of energy, defensive shields, nitro speed boosts and mines to beat your rivals across the finish line. Blur features insane collisions, realistic damage, stunning racing environments, real world locations and licensed photo-realistic cars. In multiplayer Blur supports competitive game-play for up to 20 racers online and 4 players locally split-screen.",
+        "short": "Blur: Powered-Up Racing. Travel the globe to beat the best the streets have to offer. Utilize an armory of Power-ups including huge bursts of energy, defensive shields, nitro speed boosts and mines to beat your rivals across the finish line. Blur features insane collisions, realistic damage, stunning racing environments, real world locations and licensed photo-realistic cars. In multiplayer Blur supports competitive game-play for up to 20 racers online and 4 players locally split-screen."
+    },
+    "media": [
+        {
+            "media_id": "01C784D3",
+            "title": "Blur",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "1BD798FB",
+            "title": "Blur Racerz",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560845/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560845/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560845/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560845/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560845/7177/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560845/7177/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560845/7177/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560845/7177/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560845/7177/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560845/7177/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560845/7177/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560845/7177/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560845/7177/screenlg18.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

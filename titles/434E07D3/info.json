@@ -1,0 +1,38 @@
+{
+    "id": "434E07D3",
+    "title": {
+        "full": "Autobahn Polizei",
+        "reduced": "Autobahn Polizei"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Racing & Flying"
+    ],
+    "developer": "Synetic",
+    "publisher": "Conspiracy",
+    "release_date": "2008-01-01",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Features: - Solve intriguing criminal cases! - Get your missions directly from a game world where you can freely drive around and explore! - Immerse yourself in an action-packed atmosphere, performing a variety of stunts!",
+        "short": "Features: - Solve intriguing criminal cases! - Get your missions directly from a game world where you can freely drive around and explore! - Immerse yourself in an action-packed atmosphere, performing a variety of stunts!"
+    },
+    "media": [
+        {
+            "media_id": "64FE3897",
+            "title": "Autobahn Polizei",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434e07d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434e07d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434e07d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434e07d3/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

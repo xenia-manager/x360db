@@ -1,0 +1,33 @@
+{
+    "id": "585505AC",
+    "title": {
+        "full": "Ballern2D",
+        "reduced": "Ballern2D"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Daliman Imperium",
+    "publisher": "Daliman Imperium",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=1/3, Mature Content=1/3. Expect spectacular battles in the most beautiful place in the entire universe! In a hitherto unprecedented monotonous scenery and the unique one-level system, you must shoot at everything that moves.",
+        "short": "Expect spectacular battles in the most beautiful place in the entire universe! In a hitherto unprecedented monotonous scenery and the unique one-level system, you must shoot at everything that moves."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585505ac00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505AC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505ac/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505AC_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505AC_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

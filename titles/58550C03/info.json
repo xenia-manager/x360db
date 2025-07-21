@@ -1,0 +1,35 @@
+{
+    "id": "58550C03",
+    "title": {
+        "full": "ShootOut",
+        "reduced": "ShootOut"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "monufrak1",
+    "publisher": "monufrak1",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Take up arms and shoot the targets! ShootOut is a 3D FPS, where players shoot their way through firing ranges in attempts to get a new high score, best time, or better accuracy. Featuring over 15 levels spanning various locations, 6 guns to master, weapon challenges, secret items to find, tons of medals to earn and unlock, and a great soundtrack makes ShootOut a must have for all FPS players.",
+        "short": "Take up arms and shoot the targets! ShootOut is a 3D FPS, where players shoot their way through firing ranges in attempts to get a new high score, best time, or better accuracy. Featuring over 15 levels spanning various locations, 6 guns to master, weapon challenges, secret items to find, tons of medals to earn and unlock, and a great soundtrack makes ShootOut a must have for all FPS players."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550c03/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C03_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c03/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C03_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C03_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C03_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C03_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

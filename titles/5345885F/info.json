@@ -1,0 +1,48 @@
+{
+    "id": "5345885F",
+    "title": {
+        "full": "SONIC GENERATIONS Demo",
+        "reduced": "SONIC GENERATIONS Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family",
+        "Platformer"
+    ],
+    "developer": "SEGA ",
+    "publisher": "SEGA ",
+    "release_date": "2011-06-23",
+    "user_rating": "5.00",
+    "description": {
+        "full": "Sonic’s universe is thrown into chaos when a mysterious new power comes into force, creating  ‘time holes’ which take Sonic and his friends back in time.  Whilst there, Sonic runs into some very familiar characters from his past including a younger version of himself!  Now they must team up to defeat their enemies, save their friends, and find out who is behind this diabolical deed.  ",
+        "short": "Play as both Classic Sonic and Modern Sonic in the ultimate Sonic celebration."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345885f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345885f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345885f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345885f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345885f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345885f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345885f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345885f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345885f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345885f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345885f/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345885f/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345885f/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345885f/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "53450848",
+                "title": "Sonic Generations"
+            }
+        ],
+        "related": []
+    }
+}

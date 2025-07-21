@@ -1,0 +1,35 @@
+{
+    "id": "58550B6F",
+    "title": {
+        "full": "Little Ninjas",
+        "reduced": "Little Ninjas"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Blanc Game Studio",
+    "publisher": "Blanc Game Studio",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. In a world populated by ninjas, you must slice your way through waves of invading ninja puppets. Team up with your friends or ninjas controlled by artificial intelligence and let the battle begin!",
+        "short": "In a world populated by ninjas, you must slice your way through waves of invading ninja puppets. Team up with your friends or ninjas controlled by artificial intelligence and let the battle begin!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550b6f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B6F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b6f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B6F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B6F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B6F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B6F_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

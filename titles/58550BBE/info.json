@@ -1,0 +1,35 @@
+{
+    "id": "58550BBE",
+    "title": {
+        "full": "2 JAWSOME",
+        "reduced": "2 JAWSOME"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "ECHS BACHS",
+    "publisher": "ECHS BACHS",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. 2 JAWSOME - The hunter becomes the hunted.  Help save swimmers and catch Sharks in beaches around the Map.                             GAMES.ARCHOR.COM",
+        "short": "2 JAWSOME - The hunter becomes the hunted.  Help save swimmers and catch Sharks in beaches around the Map.                             GAMES.ARCHOR.COM"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550bbe/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550BBE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550bbe/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550BBE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BBE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BBE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BBE_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

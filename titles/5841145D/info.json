@@ -1,0 +1,33 @@
+{
+    "id": "5841145D",
+    "title": {
+        "full": "Banjo Games Bundle",
+        "reduced": "Banjo Games Bundle"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "4J Studios",
+    "publisher": "Microsoft Studios",
+    "release_date": "2014-07-09",
+    "user_rating": "4.50",
+    "description": {
+        "full": "This bundle contains the two classic Banjo games: “Banjo-Kazooie” and “Banjo-Tooie”. PLEASE NOTE: this bundle pack offers these games together at a discounted rate over individual purchases from the Xbox Games marketplace. Be aware that it is possible to download the same game twice. If you already own one of these games there is no additional discount on this bundle, nor do you receive an additional copy of the game you already own. ",
+        "short": "This bundle contains the two classic Banjo games: “Banjo-Kazooie” and “Banjo-Tooie”. PLEASE NOTE: this bundle pack offers these games together at a discounted rate over individual purchases from the Xbox Games marketplace. Be aware that it is possible to download the same game twice. If you already own one of these games there is no additional discount on this bundle, nor do you receive an additional copy of the game you already own. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841145d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841145d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841145d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841145d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841145d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841145d/1033/screenlg2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

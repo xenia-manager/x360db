@@ -1,0 +1,44 @@
+{
+    "id": "555307E6",
+    "title": {
+        "full": "Enchanted Arms",
+        "reduced": "Enchanted Arms"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "FROM SOFTWARE",
+    "publisher": "FROM SOFTWARE",
+    "release_date": "2006-01-12",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Embark on an epic RPG adventure and escape to a fantasy world filled with beautiful cinematic-quality graphics, unique characters, and bizarre creatures. Take on the role of Atsuma, Enchanter in-Training, and transform from a naïve student into the most powerful savior in a war 1,000 years in the making. Immerse yourself in a deep storyline as you face increasingly difficult challenges and learn to master Atsuma's special fighting and magical attacks.",
+        "short": "Embark on an epic RPG adventure and escape to a fantasy world filled with beautiful cinematic-quality graphics, unique characters, and bizarre creatures."
+    },
+    "media": [
+        {
+            "media_id": "41637F65",
+            "title": "Enchanted Arms",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307e6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307e6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307e6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307e6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307e6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307e6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307e6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307e6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307e6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307e6/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

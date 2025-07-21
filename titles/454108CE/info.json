@@ -1,0 +1,119 @@
+{
+    "id": "454108CE",
+    "title": {
+        "full": "Mass Effect 2",
+        "reduced": "Mass Effect 2"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "BioWare",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-01-26",
+    "user_rating": "4.75",
+    "description": {
+        "full": "Across the galaxy, entire human colonies are vanishing. As Commander Shepard, you will recruit an elite team of the galaxy’s most dangerous and skilled experts, and lead them on an assault into the most dangerous area of the galaxy - from which you might not return. Download new equipment and missions to continue your adventure even after the main story is complete. They say the mission is suicide. Prove them wrong.",
+        "short": "Across the galaxy, entire human colonies are vanishing. As Commander Shepard, you will recruit an elite team of the galaxy’s most dangerous and skilled experts, and lead them on an assault into the most dangerous area of the galaxy - from which you might not return. Download new equipment and missions to continue your adventure even after the main story is complete. They say the mission is suicide. Prove them wrong."
+    },
+    "media": [
+        {
+            "media_id": "78B0A26C",
+            "title": "Mass Effect 2 (Disc 1)",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "6EE5A52F",
+            "title": "Mass Effect 2 (Disc 1)",
+            "edition": "Original, Platinum Hits, Mass Effect Trilogy",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "0B7BB8FE",
+            "title": "Mass Effect 2 (Disc 1)",
+            "edition": "Original",
+            "region": "Poland"
+        },
+        {
+            "media_id": "415677E2",
+            "title": "Mass Effect 2 (Disc 1)",
+            "edition": "Original",
+            "region": "Italy"
+        },
+        {
+            "media_id": "0A064D08",
+            "title": "Mass Effect 2 (Disc 1)",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "027D8AAF",
+            "title": "Mass Effect 2 (Disc 2)",
+            "edition": "Original, Platinum Hits, Mass Effect Trilogy",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "28799176",
+            "title": "Mass Effect 2 (Disc 2)",
+            "edition": "Original",
+            "region": "Italy"
+        },
+        {
+            "media_id": "1558826B",
+            "title": "Mass Effect 2 (Disc 2)",
+            "edition": "Original",
+            "region": "Poland"
+        },
+        {
+            "media_id": "3768739E",
+            "title": "Mass Effect 2 (Disc 2)",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "592BA3B4",
+            "title": "Mass Effect 2 (Disc 2)",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "45307C80",
+            "title": "Mass Effect 2 (Disque 1)",
+            "edition": "Original",
+            "region": "Canada"
+        },
+        {
+            "media_id": "4EE6A15F",
+            "title": "Mass Effect 2 (Disque 2)",
+            "edition": "Original",
+            "region": "Canada"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "585505F2",
+    "title": {
+        "full": "Word Attack Action",
+        "reduced": "Word Attack Action"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Zenix",
+    "publisher": "Zenix",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Classic brick game action with combined clever word play, you'll need both to excel at Word Attack Action.  Letters fall from the sky, and it's up to you to make them into words. The more difficult the word the more points you get!  3 Different game modes offer a challenge for anyone.",
+        "short": "Classic brick game action with combined clever word play, you'll need both to excel at Word Attack Action.  Letters fall from the sky, and it's up to you to make them into words. The more difficult the word the more points you get!  3 Different game modes offer a challenge for anyone."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585505f2/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505F2_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505f2/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505F2_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505F2_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505F2_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505F2_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

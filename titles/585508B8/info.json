@@ -1,0 +1,35 @@
+{
+    "id": "585508B8",
+    "title": {
+        "full": "World Wars",
+        "reduced": "World Wars"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Swissplayers Game Studios",
+    "publisher": "Swissplayers Game Studios",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=0/3. Take the command of the 101th airborne on June 6, 1944! Struggle along the heavily-fortified French coastline to bring the decision day to a success. Then German troops invade Norway in a cloak-and-dagger operation, facing heavy battles with naval units. Finally clear the way from Stalingrad to Berlin with Soviet troops in order to bring the Third Reich to fall. Does Hitler survive? You decide...",
+        "short": "Take the command of the 101th airborne on June 6, 1944! Struggle along the heavily-fortified French coastline to bring the decision day to a success. Then German troops invade Norway in a cloak-and-dagger operation, facing heavy battles with naval units. Finally clear the way from Stalingrad to Berlin with Soviet troops in order to bring the Third Reich to fall. Does Hitler survive? You decide..."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585508b8/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508B8_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508b8/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508B8_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508B8_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508B8_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508B8_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

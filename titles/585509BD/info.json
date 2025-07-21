@@ -1,0 +1,35 @@
+{
+    "id": "585509BD",
+    "title": {
+        "full": "Desert Commando",
+        "reduced": "Desert Commando"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Big Head Games Ltd.",
+    "publisher": "Big Head Games Ltd.",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Oldschool 80's style military action on your very own arcade machine! Five tough multi-objective missions including stealth, a tank rampage and of course straight up explosive enemy annihilation. Multiple weapons include grenades, rockets, c4 and good old semi automatic machine gun.",
+        "short": "Oldschool 80's style military action on your very own arcade machine! Five tough multi-objective missions including stealth, a tank rampage and of course straight up explosive enemy annihilation. Multiple weapons include grenades, rockets, c4 and good old semi automatic machine gun."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585509bd00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585509BD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585509bd/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585509BD_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509BD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509BD_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509BD_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

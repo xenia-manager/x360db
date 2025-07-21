@@ -1,0 +1,54 @@
+{
+    "id": "445007FC",
+    "title": {
+        "full": "Ben 10 Galactic Racing",
+        "reduced": "Ben 10 Galactic Racing"
+    },
+    "genre": [
+        "Family",
+        "Racing & Flying"
+    ],
+    "developer": "Monkey Bar Games",
+    "publisher": "D3Publisher of America, Inc.",
+    "release_date": "2011-10-18",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German and Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". In Ben 10 Galactic Racing, the first and only racing game based on the popular Ben 10 television series on Cartoon Network, fans will enjoy a Ben 10 multiplayer experience like never before in a galactic grand prix filled with surprises at every turn. Ben 10 Galactic Racing features over 25 exhilarating and challenging tracks spread across five massive worlds from the Ben 10 universe. Play as either Ben, Kevin or choose from 13 fan-favorite aliens and equip them in more than 30 unique karts. Ben 10 Galactic Racing presents the ultimate racing experience this fall, where every character has a special ability to utilize on the race track and even Ben can transform into different aliens mid-race!",
+        "short": "Ben 10 Galactic Racing, the first and only kart racing game based on the hit Ben 10 television series on Cartoon Network, features Ben and his alien heroes competing in an over-the-top, galactic grand prix race in over 25 exhilarating tracks spread across five massive worlds! Play as either Ben, Kevin or choose from 13 fan-favorite aliens and equip them in more than 30 unique karts. Compete for the best times in the high-speed grand prix modes or engage in four-player multiplayer mayhem!"
+    },
+    "media": [
+        {
+            "media_id": "08BDABC8",
+            "title": "Ben 10: Galactic Racing",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fc/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fc/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fc/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fc/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fc/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fc/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fc/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007fc/1033/screenlg13.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/445007fc/Ben10GR_360_ManualGuts_NONPRINTED_FINAL.pdf"
+        ]
+    }
+}

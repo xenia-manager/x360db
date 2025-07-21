@@ -1,0 +1,43 @@
+{
+    "id": "4E4D886B",
+    "title": {
+        "full": "NARUTO SHIPPUDEN UN STORM Revolution DEMO",
+        "reduced": "NARUTO STORM R Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting"
+    ],
+    "developer": "CyberConnect2 Co., Ltd.",
+    "publisher": "BANDAI NAMCO Entertainment Inc.",
+    "release_date": "2014-07-01",
+    "user_rating": "4.50",
+    "description": {
+        "full": "For a limited time, play online battles in NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution DEMO! Fight against rivals and score battle points to become a top player in the rankings. Single player arcade mode is also included. New characters introduced in this installment and Mecha-Naruto, new character designed by Masashi Kishimoto is also playable! Experience the evolved battle system including Ultimate Combo Jutsu that can be performed with a combination of set characters and True Awakening!",
+        "short": "For a limited time, play online in NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution DEMO! Become a top player online or check out single player arcade mode!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d886b/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d886b/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d886b/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d886b/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d886b/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d886b/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d886b/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d886b/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d886b/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d886b/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4E4D0868",
+                "title": "NARUTO STORM R"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": "58410B34",
+    "title": {
+        "full": "Haunt",
+        "reduced": "Haunt"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family",
+        "Kinect"
+    ],
+    "developer": "NanaOn-Sha co., ltd.",
+    "publisher": "Microsoft Studios",
+    "release_date": "2011-09-30",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Welcome to Benjy's Mansion - a spooky haunted house where you are the first visitor for a generation! Haunt leverages the power of Kinect to enable you to freely explore the house using just your body as the controller - you'll need to stay on your toes in order to outsmart the mansion's host of fiendish ghosts and unravel the sinister secrets that shroud the mansion in mystery!",
+        "short": "Welcome to Benjy's Mansion - a spooky haunted house where you are the first visitor for a generation! Haunt leverages the power of Kinect to enable you to freely explore the house using just your body as the controller - you'll need to stay on your toes in order to outsmart the mansion's host of fiendish ghosts and unravel the sinister secrets that shroud the mansion in mystery!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b34/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b34/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b34/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b34/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b34/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b34/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b34/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b34/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b34/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b34/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b34/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b34/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b34/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b34/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b34/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b34/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

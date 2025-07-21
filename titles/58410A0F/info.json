@@ -1,0 +1,37 @@
+{
+    "id": "58410A0F",
+    "title": {
+        "full": "Days of ThunderArcade",
+        "reduced": "Days of Thunder Arcade"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Piranha Games Inc.",
+    "publisher": "Paramount Digital Entertainment®",
+    "release_date": "2011-02-02",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Days of Thunder: Arcade is a high adrenaline Stock car arcade racer. Coached by Rowdy Burns himself you can relive the intensity of the film while you race to the top of the leader boards. Watch out for Cole trickle and Russ Wheeler though! Race on Oval and road tracks to prove that you've got what it takes.",
+        "short": "A High adrenaline stock car arcade racer based on the hit movie \"Days of Thunder\"."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a0f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a0f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a0f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a0f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a0f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a0f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a0f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a0f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a0f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a0f/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

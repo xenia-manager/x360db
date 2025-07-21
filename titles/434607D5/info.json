@@ -1,0 +1,47 @@
+{
+    "id": "434607D5",
+    "title": {
+        "full": "Ever17",
+        "reduced": "Ever17"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "株式会社MAGES.",
+    "publisher": "株式会社サイバーフロント",
+    "release_date": "2011-12-01",
+    "user_rating": null,
+    "description": {
+        "full": "2017年、春。 どこにでもいそうな大学生、倉成武が訪れたのは、海中にあるテーマパーク「レミュウ」。 武はそこで発生したとある事故に巻き込まれ、レミュウに閉じ込められてしまう。  　取り残された一人であるシステム・オペレーターの”空”は、レミュウが水圧で圧壊するまでの時間を告げた。  　約170時間17分――。  　救援は絶望的な中、武は謎の少女「つぐみ」や案内員の「優」達とともに、地上へと脱出する方法を求めて レミュウを彷徨う。  青く神秘の海底に沈んだ、夢と希望のテーマパーク。そこにはまだ、夢と希望は残っているのだろうか？ それともまた、何か別の謎があるのだろうか。  その答えは、「あなた」が知っている――。  オリジナルの物語の骨格はそのままに，よりスピーディな展開にリライトされ，新たなエンディングも追加。新主題歌と新エンディングの収録，さらに本編中に表示されるイベントCG以外の，キャラクター立ち絵などを2D画像から3Dモデリングに変更されるなど、多数の追加・変更要素を備え、新生「Ever17」　Xbox360に登場！  ",
+        "short": "KIDが世に送り出した、名作「Ever17」 オリジナルの物語の骨格はそのままに，よりスピーディな展開にリライトし、語られることのなかった、もうひとつの新たなエンディングも追加。新主題歌と新エンディングの収録，さらに本編中に表示されるイベントCG以外の，キャラクター立ち絵などを2D画像から3Dモデリングに変更、イベントCGの追加など多数の追加・変更要素を備え、新生「Ever17」　Xbox360に登場！  "
+    },
+    "media": [
+        {
+            "media_id": "4F9214F1",
+            "title": "Ever 17",
+            "edition": "Original, Shokai Genteiban",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d5/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d5/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d5/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d5/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d5/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d5/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d5/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d5/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d5/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d5/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d5/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d5/1041/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434607d5/1041/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

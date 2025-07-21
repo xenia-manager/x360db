@@ -1,0 +1,72 @@
+{
+    "id": "4E4D0846",
+    "title": {
+        "full": "Dragon Ball Z Ultimate Tenkaichi",
+        "reduced": "Dragon Ball Z UT"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Spike Co., Ltd.",
+    "publisher": "NAMCO BANDAI Games America Inc.",
+    "release_date": "2011-10-25",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Dragon Ball Z® Ultimate Tenkaichi features upgraded environmental and character graphics, with designs drawn from the original manga series. Destructible battlefields, including massive craters and ki blasts cutting across the sky deliver a more dynamic experience and immediate sense of urgency to the exhilarating fights. An enhanced story mode drops players into the rich Dragon Ball Z universe, filled with beloved characters and powerful enemies. An accessible battle system allows gamers of all ages to hold their own in fast-paced battles, while still retaining tactical depth for hardcore fans.",
+        "short": "Dragon Ball Z® Ultimate Tenkaichi features upgraded environmental and character graphics, with designs drawn from the original manga series. Destructible battlefields and ki blasts cutting across the sky deliver a more dynamic experience to the exhilarating fights. An enhanced story mode drops players into the rich Dragon Ball Z universe and an accessible battle system allows gamers of all ages to hold their own in fast-paced battles, while still retaining tactical depth for hardcore fans."
+    },
+    "media": [
+        {
+            "media_id": "44399864",
+            "title": "Dragon Ball: Ultimate Blast",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "01A8D385",
+            "title": "Dragon Ball Z: Ultimate Tenkaichi",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "4789F89D",
+            "title": "Dragon Ball Z: Ultimate Tenkaichi",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1041/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1041/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1041/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1041/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1041/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1041/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1041/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1041/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1041/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1041/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1041/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1041/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0846/1041/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4e4d0846/DBZUT_X360_GonD_Manual_EN_CustomerService.pdf"
+        ]
+    }
+}

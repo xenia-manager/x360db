@@ -1,0 +1,35 @@
+{
+    "id": "5855017A",
+    "title": {
+        "full": "Fields - Soldier of Time",
+        "reduced": "Fields - Soldier of Time"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "reedake2",
+    "publisher": "reedake2",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. FIELDS has all the ACTION of a SHOOTER crammed into a 3D PLATFORMER!!!  You have a special device which creates a “temporal field” that slows time around you. This ability allows you to evade bombing runs, dodge projectiles, escape twisters and lots more. Combined with some commando stunts and a nice gun you'll be fully equipped to tackle this amazing action-packed shooter!",
+        "short": "FIELDS has all the ACTION of a SHOOTER crammed into a 3D PLATFORMER!!!  You have a special device which creates a “temporal field” that slows time around you. This ability allows you to evade bombing runs, dodge projectiles, escape twisters and lots more. Combined with some commando stunts and a nice gun you'll be fully equipped to tackle this amazing action-packed shooter!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855017a/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855017A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855017a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855017A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855017A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855017A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855017A_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

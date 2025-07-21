@@ -1,0 +1,47 @@
+{
+    "id": "4343082B",
+    "title": {
+        "full": "Capcom Digital Collection",
+        "reduced": "Capcom DC"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting"
+    ],
+    "developer": "Backbone Entertainment",
+    "publisher": "Capcom U.S.A., Inc.",
+    "release_date": "2012-03-20",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Eight of Capcom's hit digital titles are available in one collection at a great value.  These titles pack the same features – HD, Online gameplay and more -  as the original releases!  Included are:  Super Street Fighter II Turbo HD Remix, 1942: Joint Strike, Bionic Commando Rearmed 2, Final Fight Double Impact (with Magic Sword), Flock!, Super Puzzle Fighter II Turbo HD Remix, Rocketmen: Axis of Evil (with It Came From Uranus expansion), and Wolf of the Battlefield: Commando 3.    ",
+        "short": "Eight of Capcom's hit digital titles are available in one collection at a great value.  Included are:  Super Street Fighter II Turbo HD Remix, 1942: Joint Strike, Bionic Commando Rearmed 2, Final Fight Double Impact (with Magic Sword), Flock!, Super Puzzle Fighter II Turbo HD Remix, Rocketmen: Axis of Evil (with It Came From Uranus expansion), and Wolf of the Battlefield: Commando 3.  "
+    },
+    "media": [
+        {
+            "media_id": "16598382",
+            "title": "Capcom Digital Collection",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082b/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082b/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082b/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082b/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082b/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082b/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082b/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082b/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082b/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082b/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082b/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343082b/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

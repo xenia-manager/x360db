@@ -1,0 +1,35 @@
+{
+    "id": "58550781",
+    "title": {
+        "full": "Boom Kikker",
+        "reduced": "Boom Kikker"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "DandySoft",
+    "publisher": "DandySoft",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Boom Kikker is an addictive puzzle game! Boom Kikker is Afrikaans for tree frog and an amazing assortment of these colorful frogs need your help returning to their pond.  Place your frog tiles correctly to clear the board and win the game. Sounds easy, right? Not so fast! 25 levels of frog mayhem will challenge even the brainiest puzzle aficionado.",
+        "short": "Boom Kikker is an addictive puzzle game! Boom Kikker is Afrikaans for tree frog and an amazing assortment of these colorful frogs need your help returning to their pond.  Place your frog tiles correctly to clear the board and win the game. Sounds easy, right? Not so fast! 25 levels of frog mayhem will challenge even the brainiest puzzle aficionado."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855078100000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550781_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550781/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550781_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550781_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550781_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550781_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

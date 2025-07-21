@@ -1,0 +1,42 @@
+{
+    "id": "4B4F07E1",
+    "title": {
+        "full": "DYNASTY WARRIORS 6",
+        "reduced": "DYNASTY WARRIORS 6"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "KOEI Co., Ltd.",
+    "publisher": "Koei",
+    "release_date": "2008-01-01",
+    "user_rating": "0.00",
+    "description": {
+        "full": "The latest title in the hit action game series \"DYNASTY WARRIORS\" is finally here! With a brand new Renbu System, it delivers all of the fast-paced action of a kung-fu movie! Experience the thrill of being an army unto oneself with extreme action backed by entirely new character actions and graphics, and battlefields featuring dramatically enhanced realism and strategic thinking!",
+        "short": "The latest title in the hit action game series \"DYNASTY WARRIORS\" is finally here! With a brand new Renbu System, it delivers all of the fast-paced action of a kung-fu movie! Experience the thrill of being an army unto oneself with extreme action backed by entirely new character actions and graphics, and battlefields featuring dramatically enhanced realism and strategic thinking!"
+    },
+    "media": [
+        {
+            "media_id": "15145A8F",
+            "title": "Dynasty Warriors 6",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07e1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07e1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07e1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07e1/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4B4F07E0",
+                "title": "DYNASTY WARRIORS 6"
+            }
+        ],
+        "related": []
+    }
+}

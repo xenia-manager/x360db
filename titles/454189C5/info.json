@@ -1,0 +1,35 @@
+{
+    "id": "454189C5",
+    "title": {
+        "full": "Madden NFL 25 DEMO",
+        "reduced": "Madden NFL 25 DEMO"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Tiburon",
+    "publisher": "Electronic Arts",
+    "release_date": "2013-08-13",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Celebrating 25 years of innovation, Madden NFL 25 unlocks the power, precision, and creativity of the NFL ball-carrier.  Whether you’re a slashing running-back, dual-threat QB, or ball-hawking safety, unleash 30 new moves and string together devastating combos with the all-new precision modifier in Madden NFL 25.",
+        "short": "Celebrating 25 years of innovation, Madden NFL 25 unlocks the power, precision, and creativity of the NFL ball-carrier.  Whether you’re a slashing running-back, dual-threat QB, or ball-hawking safety, unleash 30 new moves and string together devastating combos with the all-new precision modifier in Madden NFL 25."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189c5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189c5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189c5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189c5/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454109C1",
+                "title": "Madden NFL 25"
+            }
+        ],
+        "related": []
+    }
+}

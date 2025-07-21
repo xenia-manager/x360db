@@ -1,0 +1,42 @@
+{
+    "id": "454189AC",
+    "title": {
+        "full": "Medal of Honor Warfighter Open Beta",
+        "reduced": "MoH Warfighter Beta"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Danger Close Games",
+    "publisher": "Electronic Arts",
+    "release_date": "2012-10-02",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Fight alongside the most elite Special Forces units in the world in the Open Beta. Create a two man squad of death, your FIRETEAM, and fight together for rewards. Take to the battle in one of the unique, real world terrorist hotspots in the only authentic modern military shooter this holiday. Plow through shrapnel, debris, fire, and more as the Frostbite 2 powered multiplayer frenetically connects you to the battle. ",
+        "short": "Fight alongside the most elite Special Forces units in the world in the Open Beta. Create a two man squad of death, your FIRETEAM, and fight together for rewards. Take to the battle in one of the unique, real world terrorist hotspots in the only authentic modern military shooter this holiday. Plow through shrapnel, debris, fire, and more as the Frostbite 2 powered multiplayer frenetically connects you to the battle. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189ac/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189ac/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189ac/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189ac/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189ac/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189ac/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189ac/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189ac/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189ac/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189ac/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "45410993",
+                "title": "Medal of Honor™ Warfighter "
+            }
+        ],
+        "related": []
+    }
+}

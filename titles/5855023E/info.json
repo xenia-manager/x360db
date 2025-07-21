@@ -1,0 +1,35 @@
+{
+    "id": "5855023E",
+    "title": {
+        "full": "Sushi Bumper",
+        "reduced": "Sushi Bumper"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Tinderbox Entertainment",
+    "publisher": "Tinderbox Entertainment",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Enjoy this 1 - 4 player party game! You and three other sumo plate friends battle to keep the last remaining piece of sushi away from each other. Knock the plate holding the sushi out of the ring and take control of the sushi while they ride helplessly around the conveyor belt. Be the one to keep the sushi on your plate the longest and become the new Sushi Bumper Sumo Fun Game Champion!",
+        "short": "Enjoy this 1 - 4 player party game! You and three other sumo plate friends battle to keep the last remaining piece of sushi away from each other. Knock the plate holding the sushi out of the ring and take control of the sushi while they ride helplessly around the conveyor belt. Be the one to keep the sushi on your plate the longest and become the new Sushi Bumper Sumo Fun Game Champion!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855023e/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855023E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855023e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855023E_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855023E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855023E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855023E_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

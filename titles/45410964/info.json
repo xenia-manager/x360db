@@ -1,0 +1,44 @@
+{
+    "id": "45410964",
+    "title": {
+        "full": "NHL12",
+        "reduced": "NHL12"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts Canada",
+    "publisher": "Electronic Arts",
+    "release_date": "2011-07-15",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English, German, Czech, Russian.  Be the next legend in hockey with NHL 12. As the sport’s next superstar, earn every shift on the ice with stellar play, big hits, and spectacular goals and prove you have the toughness and skill to lead your team to the Stanley Cup®. Take to the ice in all-new interactive environments where bone-crushing hits, glass-shattering collisions, and bruising checks along the boards are always part of the action. Experience the intensity, speed, and physicality of authentic NHL hockey with NHL 12.  ",
+        "short": "As the sport’s next superstar, earn every shift on the ice with stellar play, big hits, and spectacular goals and prove you have the toughness and skill to lead your team to the Stanley Cup®. Be the next legend in hockey with NHL 12.  "
+    },
+    "media": [
+        {
+            "media_id": "41AF51B7",
+            "title": "NHL 12",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410964/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410964/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410964/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410964/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410964/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410964/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410964/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410964/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410964/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410964/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

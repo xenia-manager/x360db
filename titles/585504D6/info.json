@@ -1,0 +1,33 @@
+{
+    "id": "585504D6",
+    "title": {
+        "full": "Ambient Water",
+        "reduced": "Ambient Water"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "yaystuff",
+    "publisher": "yaystuff",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Do you love water? Do you need it to live? Yaystuff quenches your thirst...to relax. When you're done putting the pedal to the metal, saving the world and blowing stuff up - load up Ambient Water. Relax and recharge. Maybe even take a nap. Come back fresh and frosty.",
+        "short": "Do you love water? Do you need it to live? Yaystuff quenches your thirst...to relax. When you're done putting the pedal to the metal, saving the world and blowing stuff up - load up Ambient Water. Relax and recharge. Maybe even take a nap. Come back fresh and frosty."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585504d600000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585504D6_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585504d6/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585504D6_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504D6_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

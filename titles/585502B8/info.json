@@ -1,0 +1,34 @@
+{
+    "id": "585502B8",
+    "title": {
+        "full": "クレッシェンドシンフォニー 鏡の騎士",
+        "reduced": "クレッシェンドシンフォニー 鏡の騎士"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "nakfiv",
+    "publisher": "nakfiv",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. RPGのバトルシーンをモチーフとした知的戦略バトルゲーム。アクションマトリクスを上手に操作して鏡の騎士を倒せ!",
+        "short": "RPGのバトルシーンをモチーフとした知的戦略バトルゲーム。アクションマトリクスを上手に操作して鏡の騎士を倒せ!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585502b8/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585502B8_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585502b8/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585502B8_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585502B8_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585502B8_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

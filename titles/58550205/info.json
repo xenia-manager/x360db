@@ -1,0 +1,35 @@
+{
+    "id": "58550205",
+    "title": {
+        "full": "Clover",
+        "reduced": "Clover"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Binary Tweed",
+    "publisher": "Binary Tweed",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=3/3. Adventure platform puzzle game reminiscent of Maniac Mansion and Fantastic Dizzy. Following an act of foreign aggression, we find Sam obliging the wishes of authorities in order to maintain his orphan's allowance.  Features an unlockable artwork gallery with designers notes, progress saving, and 150Mb of watecolour art and original piano music.",
+        "short": "Adventure platform puzzle game reminiscent of Maniac Mansion and Fantastic Dizzy. Following an act of foreign aggression, we find Sam obliging the wishes of authorities in order to maintain his orphan's allowance.  Features an unlockable artwork gallery with designers notes, progress saving, and 150Mb of watecolour art and original piano music."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855020500000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550205_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550205/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550205_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550205_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550205_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550205_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

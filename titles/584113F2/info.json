@@ -1,0 +1,37 @@
+{
+    "id": "584113F2",
+    "title": {
+        "full": "STORM",
+        "reduced": "STORM"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "IndiePub",
+    "publisher": "NAMCO BANDAI Games",
+    "release_date": "2013-06-14",
+    "user_rating": "3.00",
+    "description": {
+        "full": "Storm is a physics-based puzzle platform game where players use natural phenomena to guide a simple seed to fertile soil so it can take root and spring to life. Use logic and the power of wind, rain, lightning, snow, tornadoes, ice and even bubbles to solve environmental puzzles while guiding a seed to fertile ground. Relax and enjoy adventure, challenge or spirit modes, each set in gorgeous environments and enhanced by soothing, nature-inspired soundscapes.",
+        "short": "Take a deep breath and relax with Storm, the unique physics-based puzzle game described as “an intriguing cross between Braid and Flower.” Master the elements of rain, lightning, wind, fire and snow as you guide a simple seed through the seasons."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113f2/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

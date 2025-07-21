@@ -1,0 +1,80 @@
+{
+    "id": "4E4D081C",
+    "title": {
+        "full": "ACE COMBAT ASSAULT HORIZON",
+        "reduced": "ACE COMBAT AH"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Racing & Flying",
+        "Shooter"
+    ],
+    "developer": "BANDAI NAMCO Entertainment Inc.",
+    "publisher": "NAMCO BANDAI Games America",
+    "release_date": "2011-10-11",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Fly at supersonic speeds and experience intense shooting gameplay with mass destruction! Engage the enemy in intense close range dogfights with a fighter plane! Wipe out enemy ground forces in one full sweep as you evade explosions in an attacker plane!   Use an attack helicopter, a bomber, and a gunship to destroy enemy forces with massive firepower!  Experience an exciting story set in the real-world in the single player campaign and participate in a variety of 2-16 player online game modes!   The story and events depicted in this work are fiction. Any resemblance to actual political states, geographic locations, persons, living or dead, corporations and organizations is purely coincidental. The work contains actual architectural structures, locations, governments and militaries, but is not affiliated with and does not endorse, nor is a benefactor of, any associated corporations, organizations, political states or persons.  All trademarks and trade names are the property of their respective owners.  All trademarks and copyrights associated with the manufacturers, aircraft, models, trade names, brands and visual images depicted in this game are the property of their respective owners, and used with such permissions.  ©GeoEye/JAPAN SPACE IMAGING CORPORATION ©DigitalGlobe,Inc.,All Rights Reserved.  ACE COMBAT ® ASSAULT HORIZON & ©2011 NAMCO BANDAI Games Inc.",
+        "short": "Fly at supersonic speeds and experience intense shooting gameplay with mass destruction! Based in the real-world, control your aircraft and engage the enemy in intense dogfights! Overpower the enemy with a variety of aircraft, including attackers, fighters, and bombers. Each is equipped with unique weapons! Experience a variety of gameplay in the single-player campaign and the 2-16 player online game modes! "
+    },
+    "media": [
+        {
+            "media_id": "51834F31",
+            "title": "Ace Combat: Assault Horizon",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "2F9FFA5F",
+            "title": "Ace Combat: Assault Horizon",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "7B4A397B",
+            "title": "Ace Combat: Assault Horizon",
+            "edition": "Limited Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "3D527684",
+            "title": "Ace Combat: Assault Horizon",
+            "edition": "Limited Edition",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d081c/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4e4d081c/AceCombatAH_Xbox360_GoD_US.pdf"
+        ]
+    }
+}

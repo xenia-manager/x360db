@@ -1,0 +1,67 @@
+{
+    "id": "41560911",
+    "title": {
+        "full": "Skylanders Trap TeamTM",
+        "reduced": "Skylanders Trap TeamTM"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Toys for Bob",
+    "publisher": "Activision",
+    "release_date": "2014-10-05",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Capture Evil. Unleash Good.  Kaos has blown up the walls of the feared Cloudcracker Prison freeing the most notorious villains in Skylands. It’s up to you and the Skylanders to find and capture them. Using Traptanium™, a magic material that can harness the power of the Elements, you have the amazing ability to trap the villains and return them to Skylands to fight for you! Begin the ultimate adventure as you explore Skylands in search of the escaped villains! ",
+        "short": "The most notorious villains in Skylands have escaped from Cloudcracker Prison! Using magical Traptanium™ crystals, you now have the amazing ability to trap the villains and return them to Skylands to fight for you. Begin the ultimate adventure as you explore Skylands in search of the escaped villains! "
+    },
+    "media": [
+        {
+            "media_id": "17DAF9D3",
+            "title": "Skylanders: Trap Team",
+            "edition": "Starter Pack",
+            "region": "Europe"
+        },
+        {
+            "media_id": "041803BB",
+            "title": "Skylanders: Trap Team",
+            "edition": "Original",
+            "region": "Latin America"
+        },
+        {
+            "media_id": "7A74A451",
+            "title": "Skylanders: Trap Team",
+            "edition": "Starter Pack",
+            "region": "Europe"
+        },
+        {
+            "media_id": "3AF0B6AF",
+            "title": "Skylanders: Trap Team",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "44D8BCCF",
+            "title": "Skylanders: Trap Team",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560911/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560911/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560911/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560911/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560911/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560911/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560911/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560911/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560911/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

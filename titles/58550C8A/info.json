@@ -1,0 +1,35 @@
+{
+    "id": "58550C8A",
+    "title": {
+        "full": "Dynasty of Dusk",
+        "reduced": "Dynasty of Dusk"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Brian Paine",
+    "publisher": "Brian Paine",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=1/3. Dynasty of Dusk is a classic-style RPG set in medieval China where a young man must stand up to an emperor trying to gain immortality at the expense of an entire civilization. Featuring four distinct classes and fully customizable skill trees, Dynasty of Dusk is a modern reimagining of the traditional JRPG style",
+        "short": "Dynasty of Dusk is a classic-style RPG set in medieval China where a young man must stand up to an emperor trying to gain immortality at the expense of an entire civilization. Featuring four distinct classes and fully customizable skill trees, Dynasty of Dusk is a modern reimagining of the traditional JRPG style"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550c8a00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C8A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c8a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C8A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C8A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C8A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C8A_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

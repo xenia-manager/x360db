@@ -1,0 +1,35 @@
+{
+    "id": "58550204",
+    "title": {
+        "full": "Math Sniper 3D",
+        "reduced": "Math Sniper 3D"
+    },
+    "genre": [
+        "Educational"
+    ],
+    "developer": "Hotshot10101",
+    "publisher": "Hotshot10101",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Practice math times tables and have fun at the same time. Game play focuses on solving the math problems while also providing a targeting challenge.  The user plays the roll of a sniper taking out spies who know the answer to the math problem. Be careful not to hit the normal workers who don't know the right answer.",
+        "short": "Practice math times tables and have fun at the same time. Game play focuses on solving the math problems while also providing a targeting challenge.  The user plays the roll of a sniper taking out spies who know the answer to the math problem. Be careful not to hit the normal workers who don't know the right answer."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550204/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550204_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550204/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550204_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550204_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550204_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550204_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

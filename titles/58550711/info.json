@@ -1,0 +1,35 @@
+{
+    "id": "58550711",
+    "title": {
+        "full": "Curse of the Crescent Isle",
+        "reduced": "Curse of the Crescent Isle"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "AdamTheOtaku",
+    "publisher": "AdamTheOtaku",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=1/3, Mature Content=1/3. A king sets out to rid his kingdom of a horrible curse.",
+        "short": "A king sets out to rid his kingdom of a horrible curse."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855071100000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550711_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550711/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550711_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550711_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550711_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550711_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

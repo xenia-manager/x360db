@@ -1,0 +1,35 @@
+{
+    "id": "5855079E",
+    "title": {
+        "full": "Incident of Dreamy Vale Church",
+        "reduced": "Incident of Dreamy Vale Church"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "DarthCheesiest",
+    "publisher": "DarthCheesiest",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=3/3, Mature Content=2/3. Fight your way through hoards of un-dead skeletons all set on not letting you leave. - - - - 1 or 2 player sideways scrolling beat’em up adventure with four levels and many combos! - - - - Features a comic book style storyboard, you can also listen to the game’s music in options and look at development shots in the Gallery.",
+        "short": "Fight your way through hoards of un-dead skeletons all set on not letting you leave. - - - - 1 or 2 player sideways scrolling beat’em up adventure with four levels and many combos! - - - - Features a comic book style storyboard, you can also listen to the game’s music in options and look at development shots in the Gallery."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855079e00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855079E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855079e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855079E_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855079E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855079E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855079E_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

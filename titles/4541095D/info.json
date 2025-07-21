@@ -1,0 +1,97 @@
+{
+    "id": "4541095D",
+    "title": {
+        "full": "Mass Effect 3",
+        "reduced": "Mass Effect 3"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Kinect",
+        "Role Playing"
+    ],
+    "developer": "BioWare™",
+    "publisher": "Electronic Arts Inc. ",
+    "release_date": "2012-03-06",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Mass Effect 3 plunges you into an all-out galactic war to take Earth back from a nearly unstoppable foe – and how you fight that war is entirely up to you.  With over 40+ perfect review scores, USA Today heralds Mass Effect 3 as \"the first true blockbuster of the year.\" ",
+        "short": "Mass Effect 3 plunges you into an all-out galactic war to take Earth back from a nearly unstoppable foe – and how you fight that war is entirely up to you.  With over 40+ perfect review scores, USA Today heralds Mass Effect 3 as \"the first true blockbuster of the year.\" "
+    },
+    "media": [
+        {
+            "media_id": "0091D7E2",
+            "title": "Mass Effect 3 (Disc 1)",
+            "edition": "Original",
+            "region": "France"
+        },
+        {
+            "media_id": "445C882A",
+            "title": "Mass Effect 3 (Disc 1)",
+            "edition": "Original, Mass Effect Trilogy",
+            "region": "World"
+        },
+        {
+            "media_id": "2ED0E404",
+            "title": "Mass Effect 3 (Disc 1)",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "614428C0",
+            "title": "Mass Effect 3 (Disc 2)",
+            "edition": "Original",
+            "region": "France"
+        },
+        {
+            "media_id": "3FCD7B99",
+            "title": "Mass Effect 3 (Disc 2)",
+            "edition": "Original, Mass Effect Trilogy",
+            "region": "World"
+        },
+        {
+            "media_id": "6C45F6EE",
+            "title": "Mass Effect 3 (Disc 2)",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "7AF5AD76",
+            "title": "Mass Effect 3 (Disco 1)",
+            "edition": "Original",
+            "region": "Italy"
+        },
+        {
+            "media_id": "4FC8A698",
+            "title": "Mass Effect 3 (Disco 2)",
+            "edition": "Original",
+            "region": "Italy"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "id": "4156090E",
+    "title": {
+        "full": "Destiny Beta",
+        "reduced": "Destiny Beta"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Bungie",
+    "publisher": "Activision",
+    "release_date": "2014-07-24",
+    "user_rating": "4.50",
+    "description": {
+        "full": "NOTE: Xbox 360 Hard Drive is required. USB Storage is not supported.  Welcome to the Destiny Beta, a sampling of activities you'll find in the final experience on 9/9/2014. Destiny is the next evolution of the first-person action genre that combines an unprecedented combination of storytelling, cooperative, and competitive modes, with in-depth character creation and a huge variety of weapons, armor, and abilities. Create a character. Take it into every mode. Venture out into the world alone, or play with friends in search of action and adventure. The Destiny Beta does not represent final code. Players may experience bugs and incomplete features. Thanks for helping us pave the way to Destiny’s launch on September 9th, 2014. We hope you have a blast!",
+        "short": "NOTE: Xbox 360 Hard Drive is required. USB Storage is not supported.  Welcome to the Destiny Beta, a sampling of activities you'll find in the final experience on 9/9/2014. Destiny is the next evolution of the first-person action genre that combines an unprecedented combination of storytelling, cooperative, and competitive modes, with in-depth character creation and a huge variety of weapons, armor, and abilities."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156090e/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "415608F8",
+                "title": "Destiny"
+            }
+        ],
+        "related": []
+    }
+}

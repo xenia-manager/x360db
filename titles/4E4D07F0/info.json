@@ -1,0 +1,53 @@
+{
+    "id": "4E4D07F0",
+    "title": {
+        "full": "SPLATTERHOUSE",
+        "reduced": "SPLATTERHOUSE"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "NAMCO BANDAI Games America, Inc.",
+    "publisher": "NAMCO BANDAI Games America, Inc.",
+    "release_date": "2010-11-23",
+    "user_rating": "4.25",
+    "description": {
+        "full": "When Jennifer is kidnapped by evil Dr. West, Rick is plunged into darkness, and finds that nightmare creatures are waiting for him.  Left for dead in West Mansion Rick makes a pact with the Terror Mask to save Rick’s life in return for blood.   Transformed into a brutal killer Rick pursues Dr. West on a journey through time and terror, battling hordes of the undead and risking his soul to save the woman he loves.  Use your bare fists, weapons and the re-purposed dead energy of your slain enemies to mutilate and maim your way back to your lost girlfriend.  Welcome… to Splatterhouse.",
+        "short": "When Jennifer is kidnapped by evil Dr. West, Rick is plunged into darkness, and finds that nightmare creatures are waiting for him.  Left for dead in West Mansion Rick makes a pact with the Terror Mask to save Rick’s life in return for blood.   Transformed into a brutal killer Rick pursues Dr. West on a journey through time and terror, battling hordes of the undead and risking his soul to save the woman he loves.  Welcome… to Splatterhouse."
+    },
+    "media": [
+        {
+            "media_id": "6668E457",
+            "title": "Splatterhouse",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07f0/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

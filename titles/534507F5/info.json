@@ -1,0 +1,48 @@
+{
+    "id": "534507F5",
+    "title": {
+        "full": "SEGA Superstars Tennis",
+        "reduced": "SEGA Superstars Tennis"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Sumo Digital Ltd",
+    "publisher": "Sega",
+    "release_date": "2010-03-19",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) This game supports English, French, Italian, German, and Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". SEGA Superstars™ Tennis, a game that brings together some of the most treasured and well known characters from the SEGA universe, in some of the most unusual courts and outrageous settings ever imagined. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "SEGA Superstars™ Tennis, a game that brings together some of the most treasured and well known characters from the SEGA universe, in some of the most unusual courts and outrageous settings ever imagined."
+    },
+    "media": [
+        {
+            "media_id": "00437548",
+            "title": "Sega Superstars Tennis",
+            "edition": "Original, Bundled with Xbox 360: Sega Superstars Tennis + Xbox Live Arcade Compilation Disc",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f5/2057/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f5/2057/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507f5/2057/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/534507f5/f8ad7a6f-bc79-4776-96dc-5987fe0a9f77.PDF"
+        ]
+    }
+}

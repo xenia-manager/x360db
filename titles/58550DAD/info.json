@@ -1,0 +1,32 @@
+{
+    "id": "58550DAD",
+    "title": {
+        "full": "Invisipong",
+        "reduced": "Invisipong"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "FallenMaster",
+    "publisher": "FallenMaster",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Engage in a pong battle for up to four players! Predict the ball's movement as it goes invisible. Do you have the balls to be the last survivor in the \"Survival\" mode? If you are feeling lazy you can just let the AI fight in the \"Endless\" mode, and bet which paddle will win!",
+        "short": "Engage in a pong battle for up to four players! Predict the ball's movement as it goes invisible. Do you have the balls to be the last survivor in the \"Survival\" mode? If you are feeling lazy you can just let the AI fight in the \"Endless\" mode, and bet which paddle will win!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550dad/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550DAD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550dad/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550DAD_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

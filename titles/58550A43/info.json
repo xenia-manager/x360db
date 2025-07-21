@@ -1,0 +1,35 @@
+{
+    "id": "58550A43",
+    "title": {
+        "full": "One Man Army",
+        "reduced": "One Man Army"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "TrippinAlien",
+    "publisher": "TrippinAlien",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=2/3. Built in an underground lab by a team of scientists from steel alloy and raw rage. Raised by a pride of lions until you killed them for food at age six. Trained to withstand face-melting heat, eyeball-freezing cold, and mind-numbing fear. You are Army, the world's preeminent badass. And you must stand alone.  - All proceeds from this game will go to charity.",
+        "short": "Built in an underground lab by a team of scientists from steel alloy and raw rage. Raised by a pride of lions until you killed them for food at age six. Trained to withstand face-melting heat, eyeball-freezing cold, and mind-numbing fear. You are Army, the world's preeminent badass. And you must stand alone.  - All proceeds from this game will go to charity."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550a43/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A43_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a43/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A43_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A43_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A43_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A43_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

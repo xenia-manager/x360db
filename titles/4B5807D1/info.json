@@ -1,0 +1,53 @@
+{
+    "id": "4B5807D1",
+    "title": {
+        "full": "円卓の生徒",
+        "reduced": "円卓の生徒"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "株式会社エクスペリエンス",
+    "publisher": "株式会社エクスペリエンス",
+    "release_date": "2011-02-10",
+    "user_rating": null,
+    "description": {
+        "full": "エルフやドワーフなどが住む、剣と魔法のファンタジー世界で、主人公（プレイヤー）は教師となり、魔王を倒すために様々な種族を円卓の騎士に育てます。世界各地には大森林や砂漠などのフィールドや迷宮があり、そこに待ち受ける試練を共に乗り越える事で生徒との強さと絆が育っていきます。そして、最終的にその力で魔王倒す事を目指します。ゲームシステムに偏りがちな従来のダンジョンRPGを、昨今のユーザーが親しみ易いようシナリオ面を大幅強化。キャラクターメイキングや探索収集などのやり込み要素はよりわかりやすく、奥深く。育成をしながらシナリオをより楽しんで頂く為にキャラクターとの親密度を育てる新システムを導入。本格的なゲーム性とシナリオを両立させたゲーム内容で、ダンジョンRPGに、新しいスタイルの確立するゲームとなっています。",
+        "short": "本格的なゲーム性とシナリオを両立させた、新しいスタイルのダンジョンRPG。"
+    },
+    "media": [
+        {
+            "media_id": "29241DA5",
+            "title": "Entaku no Seito: Students of Round",
+            "edition": "DRPG Selection",
+            "region": "Japan"
+        },
+        {
+            "media_id": "42A35340",
+            "title": "Entaku no Seito: Students of Round",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d1/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d1/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d1/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d1/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d1/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d1/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d1/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d1/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d1/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d1/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d1/1041/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5807d1/1041/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

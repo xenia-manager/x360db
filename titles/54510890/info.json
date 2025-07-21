@@ -1,0 +1,54 @@
+{
+    "id": "54510890",
+    "title": {
+        "full": "WWE 12",
+        "reduced": "WWE 12"
+    },
+    "genre": [
+        "Fighting",
+        "Independent & Music Videos",
+        "Music and Short Videos",
+        "Sports",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "\"YUKE�S Co. Ltd.\"",
+    "publisher": "2K Sports",
+    "release_date": "2011-11-22",
+    "user_rating": "4.25",
+    "description": {
+        "full": "NOTE: ONLINE MULTIPLAYER SUPPORT FOR THIS TITLE WAS TERMINATED ON 10/29/2013.  ONLINE/MULTIPLAYER FEATURES ARE NOT ACTIVE OR INCLUDED. The Games on Demand version supports  English, French, Italian, German, Spanish.  Every champion must reinvent himself, and every Superstar has an evolution.  Reinvented with each challenge, always primed and ready to strike with more edge and intensity than ever before, he is reborn – bigger, badder and better.  FINALLY … the WWE experience you've been demanding has arrived!  THQ's flagship franchise in the company’s WWE videogame portfolio is reborn, delivering the best and most realistic WWE action ever.  With new Predator Technology™, an overhauled gameplay experience and new broadcast TV presentation that promises the most fluid, dynamic, authentic and action-packed WWE simulation experience to date, WWE '12 gives you more control over WWE than ever before.  ",
+        "short": "FINALLY … the WWE experience you’ve been demanding has arrived!  THQ's flagship franchise in the company's WWE videogame portfolio is reborn, delivering the best and most realistic WWE action ever.  With new Predator Technology™, an overhauled gameplay experience and new broadcast TV presentation that promises the most fluid, dynamic, authentic and action-packed WWE simulation experience to date, WWE '12 gives you more control over WWE than ever before.  "
+    },
+    "media": [
+        {
+            "media_id": "712076A5",
+            "title": "WWE '12",
+            "edition": "",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510890/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510890/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510890/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510890/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510890/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510890/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510890/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510890/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510890/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510890/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510890/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510890/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510890/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510890/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/54510890/WWE12_Manual_EN_updated.pdf"
+        ]
+    }
+}

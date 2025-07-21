@@ -1,0 +1,42 @@
+{
+    "id": "58411447",
+    "title": {
+        "full": "The Legend of Korra",
+        "reduced": "The Legend of Korra"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting"
+    ],
+    "developer": "PlatinumGames",
+    "publisher": "Activision",
+    "release_date": "2014-10-22",
+    "user_rating": "4.25",
+    "description": {
+        "full": "An ancient evil force has emerged from the portals and threatens the balance of both worlds!  Only the Avatar stands a chance in defeating this new threat! •Original Avatar storyline penned by the TV show’s creators. •Wield the power of all 4 elements—water, earth, fire, and air as only the Avatar can! •Change bending styles at any time to unleash devastating combos. •Beat overwhelming odds by activating the all-powerful Avatar state.",
+        "short": "An ancient evil force has emerged from the portals and threatens the balance of both worlds!  Only the Avatar stands a chance in defeating this new threat! •Original Avatar storyline penned by the TV show’s creators. •Wield the power of all 4 elements—water, earth, fire, and air as only the Avatar can! •Change bending styles at any time to unleash devastating combos. •Beat overwhelming odds by activating the all-powerful Avatar state."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411447/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411447/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411447/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411447/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411447/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411447/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411447/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411447/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411447/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411447/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411447/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411447/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411447/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411447/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

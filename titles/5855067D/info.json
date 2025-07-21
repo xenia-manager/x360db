@@ -1,0 +1,34 @@
+{
+    "id": "5855067D",
+    "title": {
+        "full": "U Want Cookie",
+        "reduced": "U Want Cookie"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "AxB",
+    "publisher": "AxB",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Cookies. Who doesn't like them? Who wouldn't do anything to get one? Would you brave a world cluttered with dangerous turrets, mines and other various objects of destruction just to get a taste of that sweet treat? If you do, then go ahead and explore our 100 levels. If you don't then why not try a game of Crumb Collector, Builders Block or any other of our multiplayer game modes.",
+        "short": "Cookies. Who doesn't like them? Who wouldn't do anything to get one? Would you brave a world cluttered with dangerous turrets, mines and other various objects of destruction just to get a taste of that sweet treat? If you do, then go ahead and explore our 100 levels. If you don't then why not try a game of Crumb Collector, Builders Block or any other of our multiplayer game modes."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855067d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855067D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855067d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855067D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855067D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855067D_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

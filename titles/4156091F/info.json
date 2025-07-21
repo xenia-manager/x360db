@@ -1,0 +1,59 @@
+{
+    "id": "4156091F",
+    "title": {
+        "full": "Skylanders SuperChargers Portal Owners Pack",
+        "reduced": "Skylanders SuperChargers Portal Owners Pack"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Racing & Flying"
+    ],
+    "developer": "Vicarious Visions",
+    "publisher": "Activision",
+    "release_date": "2015-09-21",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French.  XBOX 360 PORTAL OF POWER™ REQUIRED TO PLAY*  Kick your adventure into overdrive! The Skylanders® SuperChargers Portal Owner’s Pack includes the full video game, works with any Portal of Power from the Skylanders® series and includes Instant Spitfire and Instant Hot Streak. Expand your gameplay experience with over 40 Skylanders and vehicles to collect.  Skylands is in peril! Kaos has unleashed his most evil weapon yet – the Doomstation of Ultimate Doomstruction. With all of Skylands on the verge of collapse, a special team called the SuperChargers has been assembled to pilot an unstoppable fleet of incredible vehicles. Now you and the SuperChargers must embark on epic adventures over land, under sea, and through the sky to stop Kaos and save Skylands!  Purchasing and using the software constitutes acceptance of the Software License Agreement available at support.activision.com/license.  *Skylanders® Spyro’s Adventure portal does not support PvP or Co-op play with SWAP ForceTM Skylanders.",
+        "short": "XBOX 360 PORTAL OF POWER™ REQUIRED TO PLAY*   The Skylanders® SuperChargers Portal Owner’s Pack includes the full video game, works with any portal from the Skylanders series and includes Instant Spitfire and Instant Hot Streak. Expand your gameplay experience with over 40 Skylanders and vehicles to collect, and embark on epic adventures over land, under sea, and through the sky to save Skylands!  *Skylanders Spyro’s Adventure portal does not support PvP or Co-op play with SWAP Force Skylanders."
+    },
+    "media": [
+        {
+            "media_id": "74144F53",
+            "title": "Skylanders: SuperChargers",
+            "edition": "Starter Pack",
+            "region": "Europe"
+        },
+        {
+            "media_id": "1F27A822",
+            "title": "Skylanders: SuperChargers",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "2F592E6A",
+            "title": "Skylanders: SuperChargers",
+            "edition": "Starter Pack",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091f/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156091f/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

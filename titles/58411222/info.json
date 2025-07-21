@@ -1,0 +1,42 @@
+{
+    "id": "58411222",
+    "title": {
+        "full": "Alien Spidy",
+        "reduced": "Alien Spidy"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer"
+    ],
+    "developer": "Enigma",
+    "publisher": "Kalypso Media",
+    "release_date": "2012-09-26",
+    "user_rating": "3.00",
+    "description": {
+        "full": "After losing contact with his explorer friend Virgi, our fearless alien hero Spidy heads to Earth in his spacecraft to find her. While entering the Earth’s atmosphere, his spacecraft suddenly fails and starts to break up, causing Spidy to crash-land on the strange planet, with his craft scattered across forests, throughout ponds and into dark caves. Spidy finds himself alone on an alien world and faces the epic challenge of tracking down Virgi, battling strange new enemies and finding the missing pieces from his spacecraft in order to repair the damage and make their escape home. ",
+        "short": "The stage is set for the adventure of a lifetime as Spidy embarks on a perilous journey through a visually stunning 2D/3D world, where quick reflexes and fast-paced platform action create a fun and rewarding gameplay experience, which is easy to pick up, but challenging to master. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411222/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411222/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411222/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411222/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411222/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411222/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411222/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411222/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411222/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411222/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411222/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411222/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411222/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411222/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

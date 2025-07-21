@@ -1,0 +1,70 @@
+{
+    "id": "4541083F",
+    "title": {
+        "full": "UEFA EURO 2008",
+        "reduced": "UEFA EURO 2008"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "release_date": "2008-01-01",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Experience the revolution of football gaming. UEFA EURO 2008™ brings you the most believable recreation of football yet seen for videogames blurring the boundaries between the virtual world and real life. Advanced physics and superlative visuals combine to realise the truest expression of the world's greatest sport.",
+        "short": "Experience the revolution of football gaming. UEFA EURO 2008™ brings you the most believable recreation of football yet seen for videogames blurring the boundaries between the virtual world and real life. Advanced physics and superlative visuals combine to realise the truest expression of the world's greatest sport."
+    },
+    "media": [
+        {
+            "media_id": "61207CC6",
+            "title": "UEFA Euro 2008: Austria-Switzerland",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "454B887F",
+            "title": "UEFA Euro 2008: Austria-Switzerland",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "149B1E01",
+            "title": "UEFA Euro 2008: Austria-Switzerland",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "7741796B",
+            "title": "UEFA Euro 2008: Austria-Switzerland",
+            "edition": "Original",
+            "region": "Russia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083f/2057/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083f/2057/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083f/2057/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083f/2057/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083f/2057/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083f/2057/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083f/2057/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541083f/2057/screenlg14.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

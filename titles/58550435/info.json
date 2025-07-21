@@ -1,0 +1,35 @@
+{
+    "id": "58550435",
+    "title": {
+        "full": "Kollectiv360",
+        "reduced": "Kollectiv360"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "SquigglyFrog Studios",
+    "publisher": "SquigglyFrog Studios",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Kollectiv 360 is a fast paced puzzle based action game that combines elements from other popular puzzle and strategy games to come up with a brand new, unique and addicting gameplay style and objective. Players will delight in the mutiple levels of difficulty and various gameplay modes. Plan your moves accordingly and try to aim for the awesome bonus of the Kollectiv!",
+        "short": "Kollectiv 360 is a fast paced puzzle based action game that combines elements from other popular puzzle and strategy games to come up with a brand new, unique and addicting gameplay style and objective. Players will delight in the mutiple levels of difficulty and various gameplay modes. Plan your moves accordingly and try to aim for the awesome bonus of the Kollectiv!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855043500000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550435_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550435/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550435_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550435_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550435_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550435_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

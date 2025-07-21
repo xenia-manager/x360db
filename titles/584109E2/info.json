@@ -1,0 +1,41 @@
+{
+    "id": "584109E2",
+    "title": {
+        "full": "Earthworm Jim HD",
+        "reduced": "Earthworm Jim HD"
+    },
+    "genre": [
+        "Classics",
+        "Platformer"
+    ],
+    "developer": "Gameloft",
+    "publisher": "Microsoft Studios",
+    "release_date": "2010-06-04",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(ONLINE INTERACTIONS NOT RATED BY THE ESRB)  Rediscover the grooviest action game of all time in full HD glory! For the first time, grab friends and combine your wormy powers in 4-player co-op locally or online. Explore all the original levels, experience wild gameplay and rock out the remastered cult soundtrack. But there's more to discover with brand new enemies to blast into pieces and never-before-seen locations. Now that's groooovy! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "(Online Interactions Not Rated by the ESRB) The world's most famous worm is back on his original adventures through the galaxy, with a lot of new surprises!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109e2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109e2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109e2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109e2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109e2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109e2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109e2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109e2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109e2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109e2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109e2/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109e2/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109e2/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

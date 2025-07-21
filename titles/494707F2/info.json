@@ -1,0 +1,35 @@
+{
+    "id": "494707F2",
+    "title": {
+        "full": "Alone In The Dark JP",
+        "reduced": "Alone In The Dark JP"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Eden Games",
+    "publisher": "Atari",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "セントラルパークには秘密が眠っている。TVゲームの傑作タイトル『アローン・イン・ザ・ダーク』が、まったく新しいシステムでよみがえる。  主人公はエドワード・カーンビー。彼に与えられた宿命...、それは、マンハッタンの広大な公園に眠る驚くべき真実を暴き出すこと。  かつてないほどリアルな操作感覚と描写、そして、斬新なストーリー展開を誇る『アローン・イン・ザ・ダーク』が、これまでのゲームの常識をくつがえし、次世代ゲーム機に遂に登場！",
+        "short": "セントラルパークには秘密が眠っている。TVゲームの傑作タイトル『アローン・イン・ザ・ダーク』が、まったく新しいシステムでよみがえる。  主人公はエドワード・カーンビー。彼に与えられた宿命...、それは、マンハッタンの広大な公園に眠る驚くべき真実を暴き出すこと。  かつてないほどリアルな操作感覚と描写、そして、斬新なストーリー展開を誇る『アローン・イン・ザ・ダーク』が、これまでのゲームの常識をくつがえし、次世代ゲーム機に遂に登場！"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707f2/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707f2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707f2/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494707f2/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "494707D1",
+                "title": "Alone In The Dark"
+            }
+        ],
+        "related": []
+    }
+}

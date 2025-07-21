@@ -1,0 +1,43 @@
+{
+    "id": "575207D5",
+    "title": {
+        "full": "Looney Tunes AA EUR",
+        "reduced": "Looney Tunes AA EUR"
+    },
+    "genre": [
+        "Family",
+        "Platformer"
+    ],
+    "developer": "RedTribe",
+    "publisher": "N/A",
+    "release_date": "2008-01-01",
+    "user_rating": "0.00",
+    "description": {
+        "full": "Tag-team with the Tunes in the fight for their lives while commanding an arsenal of crazy ACME weapons.",
+        "short": "Tag-team with the Tunes in the fight for their lives while commanding an arsenal of crazy ACME weapons."
+    },
+    "media": [
+        {
+            "media_id": "34690674",
+            "title": "Looney Tunes: Acme Arsenal",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d5/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "575207D2",
+                "title": "Looney Tunes AA"
+            }
+        ],
+        "related": []
+    }
+}

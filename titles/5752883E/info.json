@@ -1,0 +1,38 @@
+{
+    "id": "5752883E",
+    "title": {
+        "full": "LEGO Marvel Super Heroes Demo",
+        "reduced": "LEGO Marvel"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family"
+    ],
+    "developer": "TT Games",
+    "publisher": "WB Games",
+    "release_date": "2013-10-15",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Play as Hulk, Iron Man and Spider-Man to defeat Sandman and the Abomination, who have taken over Grand Central Station.  Fire off Iron Man’s repulsor rays and missiles, use Spider-Man’s spider-sense and web-slinging abilities, and SMASH SMASH SMASH as the Hulk! ",
+        "short": "Play as Hulk, Iron Man and Spider-Man to defeat Sandman and the Abomination, who have taken over Grand Central Station.  Fire off Iron Man’s repulsor rays and missiles, use Spider-Man’s spider-sense and web-slinging abilities, and SMASH SMASH SMASH as the Hulk! "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752883e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752883e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752883e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752883e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752883e/1033/screenlg1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "57520835",
+                "title": "LEGO Marvel"
+            }
+        ],
+        "related": []
+    }
+}

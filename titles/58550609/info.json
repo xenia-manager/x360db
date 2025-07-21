@@ -1,0 +1,35 @@
+{
+    "id": "58550609",
+    "title": {
+        "full": "A Jumper Robot Adventure",
+        "reduced": "A Jumper Robot Adventure"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "AZS",
+    "publisher": "AZS",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. If you enjoy retro platformers, you will love this one!",
+        "short": "If you enjoy retro platformers, you will love this one!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550609/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550609_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550609/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550609_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550609_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550609_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550609_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

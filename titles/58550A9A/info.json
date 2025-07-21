@@ -1,0 +1,35 @@
+{
+    "id": "58550A9A",
+    "title": {
+        "full": "Denizens Den",
+        "reduced": "Denizens Den"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Flattened Pixel",
+    "publisher": "Flattened Pixel",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. A top down dungeon adventure that is randomly generated so every game is a new experience. Over 25 weapon types, including projectiles, will be at your hero's disposal. Scrolls, Wands, Rings and potions will help tip the scales in the favor of your valiant adventurer, but beware, these dungeons will house traps, darkness like no other, secret doors and more.",
+        "short": "A top down dungeon adventure that is randomly generated so every game is a new experience. Over 25 weapon types, including projectiles, will be at your hero's disposal. Scrolls, Wands, Rings and potions will help tip the scales in the favor of your valiant adventurer, but beware, these dungeons will house traps, darkness like no other, secret doors and more."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550a9a/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A9A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a9a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A9A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A9A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A9A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550A9A_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

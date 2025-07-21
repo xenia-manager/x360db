@@ -1,0 +1,35 @@
+{
+    "id": "58550462",
+    "title": {
+        "full": "Zatacka 360",
+        "reduced": "Zatacka 360"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "baptist dog",
+    "publisher": "baptist dog",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Zatacka 360 is a remake of the classic multiplayer DOS game in which players must steer their curves away from one another in order to survive. Players can gain the upper hand by trapping their opponents or using powerups . The classic game has been expanded with five crazy powerups and additional game modes, all in full HD and features an original soundtrack",
+        "short": "Zatacka 360 is a remake of the classic multiplayer DOS game in which players must steer their curves away from one another in order to survive. Players can gain the upper hand by trapping their opponents or using powerups . The classic game has been expanded with five crazy powerups and additional game modes, all in full HD and features an original soundtrack"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550462/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550462_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550462/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550462_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550462_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550462_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550462_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

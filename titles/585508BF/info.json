@@ -1,0 +1,35 @@
+{
+    "id": "585508BF",
+    "title": {
+        "full": "When Maidens Attack",
+        "reduced": "When Maidens Attack"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Creaturesoft",
+    "publisher": "Creaturesoft",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=2/3, Mature Content=1/3. Action-RPG Platformer; gain experience, improve your attributes, collect gems and purchase powers. Your prized possessions have been stolen. Fight through 23 insanely zaptastical areas! 2-4 hours of re-playable fun! Can you get back what is yours?",
+        "short": "Action-RPG Platformer; gain experience, improve your attributes, collect gems and purchase powers. Your prized possessions have been stolen. Fight through 23 insanely zaptastical areas! 2-4 hours of re-playable fun! Can you get back what is yours?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585508bf/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508BF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508bf/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508BF_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508BF_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508BF_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508BF_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

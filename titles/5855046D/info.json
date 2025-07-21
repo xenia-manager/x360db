@@ -1,0 +1,35 @@
+{
+    "id": "5855046D",
+    "title": {
+        "full": "Colony Defense",
+        "reduced": "Colony Defense"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Mana Bomb Games",
+    "publisher": "Mana Bomb Games",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=2/3. Colony Defense is 360 degrees of fast-paced tower defense strategy where the player has to defend an entire planet and multiple paths against invading alien forces. Defend each planets colonies from the alien onslaught in this high action, strategy title. 10 upgradable weapons to fight the good fight with. Ricochet laser cannons, flame throwers, stasis towers, artillery cannons, and many more",
+        "short": "Colony Defense is 360 degrees of fast-paced tower defense strategy where the player has to defend an entire planet and multiple paths against invading alien forces. Defend each planets colonies from the alien onslaught in this high action, strategy title. 10 upgradable weapons to fight the good fight with. Ricochet laser cannons, flame throwers, stasis towers, artillery cannons, and many more"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855046d/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855046D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855046d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855046D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855046D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855046D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855046D_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

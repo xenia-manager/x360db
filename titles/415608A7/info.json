@@ -1,0 +1,64 @@
+{
+    "id": "415608A7",
+    "title": {
+        "full": "PROTOTYPE 2",
+        "reduced": "PROTOTYPE 2"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Radical",
+    "publisher": "Activision",
+    "release_date": "2012-04-24",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports  English, German.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  WELCOME TO NEW YORK ZERO. Prototype ® 2 takes the unsurpassed carnage of the original Prototype® and continues the experience of becoming the ultimate shape-shifting weapon. A devastating viral outbreak has claimed the lives of Sgt James Heller’s family and transformed him into a PROTOTYPE.  Powered by incredible new shapeshifting powers and abilities, you must hunt, kill and consume your way across the infected wasteland of New York Zero to take revenge on the man responsible: Alex Mercer.",
+        "short": "WELCOME TO NEW YORK ZERO. Prototype ® 2 takes the unsurpassed carnage of the original Prototype® and continues the experience of becoming the ultimate shape-shifting weapon. A devastating viral outbreak has claimed the lives of Sgt James Heller’s family and transformed him into a PROTOTYPE.  Powered by incredible new shapeshifting powers and abilities, you must hunt, kill and consume your way across the infected wasteland of New York Zero to take revenge on the man responsible: Alex Mercer."
+    },
+    "media": [
+        {
+            "media_id": "74E2C6CD",
+            "title": "Prototype 2",
+            "edition": "Original, Limited Edition",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "5671BD65",
+            "title": "Prototype 2",
+            "edition": "Original",
+            "region": "Italy"
+        },
+        {
+            "media_id": "2155671F",
+            "title": "Prototype 2",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "50F06464",
+            "title": "Prototype 2",
+            "edition": "Original",
+            "region": "Spain"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608a7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608a7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608a7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608a7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608a7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608a7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608a7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608a7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608a7/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608a7/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/415608a7/5113_d20120322-002_Games%20On%20Demand%20Manual%2001.pdf"
+        ]
+    }
+}

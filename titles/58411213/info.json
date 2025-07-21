@@ -1,0 +1,39 @@
+{
+    "id": "58411213",
+    "title": {
+        "full": "Magic 2013",
+        "reduced": "Magic 2013"
+    },
+    "genre": [
+        "Card & Board",
+        "Strategy & Simulation"
+    ],
+    "developer": "Wizards of the Coast LLC/Stainless Games, Ltd.",
+    "publisher": "Microsoft Studios",
+    "release_date": "2012-06-20",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  Face a greater challenge in the latest version of this hit franchise. Play with friends or the AI, take on new encounters and opponents, and face up to three other players in the Planechase multiplayer format.    Featuring ten customizable decks, Magic 2013 offers new game items to unlock and introduces the option to choose what lands to tap when you cast your spells.",
+        "short": "(Online Interactions Not Rated by the ESRB)  Face a greater challenge in the latest version of this hit franchise. Play with friends or the AI, take on new encounters and opponents, and face up to three other players in the Planechase multiplayer format.    Featuring ten customizable decks, Magic 2013 offers new game items to unlock and introduces the option to choose what lands to tap when you cast your spells."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411213/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411213/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411213/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411213/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411213/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411213/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411213/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411213/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411213/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411213/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411213/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

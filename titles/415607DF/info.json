@@ -1,0 +1,43 @@
+{
+    "id": "415607DF",
+    "title": {
+        "full": "ET QUAKE Wars",
+        "reduced": "ET QUAKE Wars"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Nerve Software",
+    "publisher": "Activision",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The QUAKE universe explodes into the ultimate team based shooter!  12 stunning battlefields inspired by artic, tropical and desert locations.  Fully upgradeable capabilities and statistics.  Intense combat in land, sea and air vehicles.",
+        "short": "The QUAKE universe explodes into the ultimate team based shooter!  12 stunning battlefields inspired by artic, tropical and desert locations.  Fully upgradeable capabilities and statistics.  Intense combat in land, sea and air vehicles."
+    },
+    "media": [
+        {
+            "media_id": "3B7CBB2D",
+            "title": "Enemy Territory: Quake Wars",
+            "edition": "Original, Promo",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607df/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607df/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607df/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607df/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607df/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607df/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607df/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607df/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607df/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

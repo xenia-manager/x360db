@@ -1,0 +1,40 @@
+{
+    "id": "465387E2",
+    "title": {
+        "full": "ARMORED CORE Ⅴ Trial version",
+        "reduced": "ARMORED CORE Ⅴ　体験版"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "株式会社フロム・ソフトウェア",
+    "publisher": "株式会社フロム・ソフトウェア",
+    "release_date": "2012-01-19",
+    "user_rating": null,
+    "description": {
+        "full": "アーマード・コア　Ⅴの先行体験版です。 ２０１２年１月２１日（土）２２日（日）の二日間のみオンラインによるチームプレイを一部体験することができます。期間以外ではオフラインによるストーリーミッションのみプレイ可能です。 領地争奪による白熱した仲間と共に闘うチームプレイと、豊富なパーツを自由に組み替え自分だけのオリジナルメカで数々の任務に挑むシングルプレイをお楽しみください。 お問い合わせ（株）フロム・ソフトウェアユーザーサポート ＴＥＬ：０３－３３２０－６０３１（１３：００～１７：００土日祝日休業） ｍａｉｌ：ｗｅｂ－ｓｕｐｐｏｒｔ＠ｆｒｏｍｓｏｆｔｗａｒｅ．ｃｏ．ｊｐ",
+        "short": "２０１２年１月２１日（土）２２日（日）の二日間のみオンラインによるチームプレイを一部体験することができます。期間以外ではオフラインによるストーリーミッションのみプレイ可能です。 領地争奪による白熱したチームプレイと、パーツを自由に組み替え自分だけのオリジナルメカで数々の任務に挑むシングルプレイをお楽しみください。"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e2/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e2/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e2/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e2/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e2/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e2/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465387e2/1041/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "465307DF",
+                "title": "アーマード・コアⅤ"
+            }
+        ],
+        "related": []
+    }
+}

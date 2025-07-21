@@ -1,0 +1,34 @@
+{
+    "id": "585506AF",
+    "title": {
+        "full": "Burn1420",
+        "reduced": "Burn1420"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "HZen",
+    "publisher": "HZen",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Multi directional, level pattern, strategy shooter.  Campaign and Practice modes.  Global high scores. 80pts- hours of entertainment.",
+        "short": "Multi directional, level pattern, strategy shooter.  Campaign and Practice modes.  Global high scores. 80pts- hours of entertainment."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585506af/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506AF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506af/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506AF_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506AF_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506AF_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "id": "415608F8",
+    "title": {
+        "full": "Destiny",
+        "reduced": "Destiny"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Bungie",
+    "publisher": "Bungie",
+    "release_date": "2014-09-09",
+    "user_rating": "4.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese. (NOTE: Xbox 360 Hard Drive is required. USB Storage is not supported.)  Destiny is a next generation first person shooter featuring an unprecedented combination of cinematic storytelling, cooperative, competitive, and public gameplay, and personal activities that are woven into an expansive, persistent online world.  Venture out alone or join up with friends. The choice is yours.  Personalize and upgrade every aspect of how you look and fight with a nearly limitless combination of armor, weapons, and visual customizations. Take your upgraded character into every mode, including campaign, cooperative, social, public, and competitive multiplayer.  Explore the ancient ruins of our solar system, from the red dunes of Mars to the lush jungles of Venus. Earn and wield incredible weapons and powers to defeat your enemies. Reclaim all that we have lost.   Become Legend.",
+        "short": "From the Creators of Halo® and the Company that Brought You Call of Duty®.   Destiny is a next generation first person shooter, with rich cinematic storytelling set in huge worlds to explore. Create and customize your Guardian. Defeat your enemies. Become Legend in intense cooperative, competitive, and innovative public gameplay modes."
+    },
+    "media": [
+        {
+            "media_id": "088F3E06",
+            "title": "Destiny",
+            "edition": "Original, Destiny: The Taken King: Legendary Edition",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608f8/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

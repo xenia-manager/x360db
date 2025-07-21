@@ -1,0 +1,35 @@
+{
+    "id": "585505CF",
+    "title": {
+        "full": "SketchBox 360",
+        "reduced": "SketchBox 360"
+    },
+    "genre": [
+        "Classics"
+    ],
+    "developer": "Soulfire Software",
+    "publisher": "Soulfire Software",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Sketch your way to the finish in Trace Race; dominate your side of the court in Sketchet Ball; work through the frustration of twenty challenging levels in Bumpers.  For the artist in you, bring on the nostalgia with the twisty sketching of the Masterpiece. The days of dial driven drawing return with SketchBox 360.  It’s all here, just the way you remember it, and then some.",
+        "short": "Sketch your way to the finish in Trace Race; dominate your side of the court in Sketchet Ball; work through the frustration of twenty challenging levels in Bumpers.  For the artist in you, bring on the nostalgia with the twisty sketching of the Masterpiece. The days of dial driven drawing return with SketchBox 360.  It’s all here, just the way you remember it, and then some."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585505cf00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505CF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505cf/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505CF_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505CF_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505CF_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505CF_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

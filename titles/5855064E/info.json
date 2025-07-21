@@ -1,0 +1,35 @@
+{
+    "id": "5855064E",
+    "title": {
+        "full": "360 Mega Pack HD Remix",
+        "reduced": "360 Mega Pack HD Remix"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Seph",
+    "publisher": "Seph",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=2/3, Mature Content=1/3. A collection of titles such as Super Button Mashing Bros,  Ultra Clock, TwinStick Shooter, Omega Calculator, Masters of Memory, Rumble Lounge, Arrow Panic, Fortuitous Fortune Cookie, Fantastic Flashlight, Ping, and Gravity Dash.  Gravity Dash is a fast paced platformer in which you must intelligently manipulate gravity.  Includes a campaign as well as a full-feature level editor.",
+        "short": "A collection of titles such as Super Button Mashing Bros,  Ultra Clock, TwinStick Shooter, Omega Calculator, Masters of Memory, Rumble Lounge, Arrow Panic, Fortuitous Fortune Cookie, Fantastic Flashlight, Ping, and Gravity Dash.  Gravity Dash is a fast paced platformer in which you must intelligently manipulate gravity.  Includes a campaign as well as a full-feature level editor."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855064e00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855064E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855064e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855064E_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855064E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855064E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855064E_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

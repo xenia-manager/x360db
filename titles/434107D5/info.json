@@ -1,0 +1,46 @@
+{
+    "id": "434107D5",
+    "title": {
+        "full": "通信対戦麻雀 闘龍門",
+        "reduced": "通信対戦麻雀 闘龍門"
+    },
+    "genre": [
+        "Family"
+    ],
+    "developer": "Yuki Enterprise Inc.",
+    "publisher": "AQ INTERACTIVE Inc.",
+    "release_date": "2010-04-20",
+    "user_rating": null,
+    "description": {
+        "full": "アーケードゲームでおなじみの通信対戦麻雀闘龍門がXBOX360に登場！",
+        "short": "アーケードゲームでおなじみの通信対戦麻雀闘龍門がXBOX360に登場！"
+    },
+    "media": [
+        {
+            "media_id": "7FDFBC46",
+            "title": "Tsuushin Taisen Mahjong: Touryuumon",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d5/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d5/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550E78",
+    "title": {
+        "full": "Space Flowers",
+        "reduced": "Space Flowers"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Sssjim",
+    "publisher": "Sssjim",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Space Flowers - an intragalactic trade wars game!  Build a space empire buying and selling flowers.  Negotiate trade alliances or upgrade your ship and take systems by force.  The choice is yours.  Be quick, though.  The galaxy is about to be invaded!  Single player fun.  Playtime approximately 6 hrs.",
+        "short": "Space Flowers - an intragalactic trade wars game!  Build a space empire buying and selling flowers.  Negotiate trade alliances or upgrade your ship and take systems by force.  The choice is yours.  Be quick, though.  The galaxy is about to be invaded!  Single player fun.  Playtime approximately 6 hrs."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550e7800000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E78_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e78/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E78_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E78_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E78_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E78_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

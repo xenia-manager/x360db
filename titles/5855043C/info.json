@@ -1,0 +1,35 @@
+{
+    "id": "5855043C",
+    "title": {
+        "full": "Drunk Zombies",
+        "reduced": "Drunk Zombies"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "24kt_Studios",
+    "publisher": "24kt_Studios",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=2/3, Mature Content=3/3. Its year 2012 and the dead are coming to life! They are only after one thing, the thing we value the most..........our alcohol! You must defend your last stash of booze. For every zombie that gets past you, you will lose a bottle. Once all the bottles are gone, its Game Over. If you are able to defend your stash against all 10 waves of zombies, a special surprise waits for you.",
+        "short": "Its year 2012 and the dead are coming to life! They are only after one thing, the thing we value the most..........our alcohol! You must defend your last stash of booze. For every zombie that gets past you, you will lose a bottle. Once all the bottles are gone, its Game Over. If you are able to defend your stash against all 10 waves of zombies, a special surprise waits for you."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855043c/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855043C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855043c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855043C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855043C_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855043C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855043C_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

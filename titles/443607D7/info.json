@@ -1,0 +1,43 @@
+{
+    "id": "443607D7",
+    "title": {
+        "full": "The Jackbox Party Pack",
+        "reduced": "The Jackbox Party Pack"
+    },
+    "genre": [
+        "Card & Board"
+    ],
+    "developer": "Jackbox Games",
+    "publisher": "Telltale Publishing",
+    "release_date": "2015-11-10",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English  For 1-100 players! Your phones or tablets are your controllers!   The team behind YOU DON’T KNOW JACK presents FIVE guffaw-inducing party games in one pack!   Games include:  1) The comedy trivia sensation YOU DON’T NOW JACK 2015 (1-4 players) with hundreds of all-new questions.  2) The hilarious bluffing game Fibbage XL (2-8 players), with 50% more questions added to the original hit game Fibbage.  3) The bizarre drawing game Drawful (3-8 players) - you draw right there on your phone or tablet (very little/no real skill required).  4) The racy-as-you-want-to-be fill-in-the-blank word game Word Spud (2-8 players).  5) The wacky-fact-filled Lie Swatter (1-100 players).   Players play using their phones, tablets, or even computers as controllers – making it the perfect easy-in entertainment piece for your next game night or party. Once a game is started from the in-pack menu, players simply connect to the “jackbox.tv” web address on their device and then enter the on-screen room code to enter a game. No big mess of controllers needed!   You’re gonna need more than one party for this.",
+        "short": "For 1-100 players! Your phones or tablets are your controllers!   The team behind YOU DON’T KNOW JACK presents FIVE guffaw-inducing party games in one pack!   Note: The games included in this pack are in English only."
+    },
+    "media": [
+        {
+            "media_id": "004B9972",
+            "title": "The Jackbox Party Pack",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d7/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

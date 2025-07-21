@@ -1,0 +1,35 @@
+{
+    "id": "5855034D",
+    "title": {
+        "full": "GANBARE NATSUKI SAN",
+        "reduced": "GANBARE NATSUKI SAN"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "DK Alpla",
+    "publisher": "DK Alpla",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=3/3, Mature Content=0/3. アンカーで壁を、天井を掴んで全50面のフィールドを縦横無尽に駆け巡れ!アンカー操作をマスターしタイムアタック、ジャンプアタックに挑戦しよう。タイトル画面Bボタンで裏50面が出現!君は全クリできるか!?操作方法、A:掴む、B:ジャンプ、Y:メニュー。Copyright 2009 あるふぁ～秘密基地(Alpha Secret Base). All Rights Reserved.",
+        "short": "アンカーで壁を、天井を掴んで全50面のフィールドを縦横無尽に駆け巡れ!アンカー操作をマスターしタイムアタック、ジャンプアタックに挑戦しよう。タイトル画面Bボタンで裏50面が出現!君は全クリできるか!?操作方法、A:掴む、B:ジャンプ、Y:メニュー。Copyright 2009 あるふぁ～秘密基地(Alpha Secret Base). All Rights Reserved."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855034d/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855034D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855034d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855034D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855034D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855034D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855034D_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

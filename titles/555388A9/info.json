@@ -1,0 +1,36 @@
+{
+    "id": "555388A9",
+    "title": {
+        "full": "TCs Ghost Recon Future Soldier MULTIPLAYER BETA",
+        "reduced": "MULTIPLAYER BETA"
+    },
+    "genre": [
+        "Kinect",
+        "Shooter"
+    ],
+    "developer": "Ubisoft Paris",
+    "publisher": "Ubisoft",
+    "release_date": "2012-04-17",
+    "user_rating": "4.75",
+    "description": {
+        "full": "Play the multiplayer closed Beta!   Get instant access to:   2 Maps: Pipeline Mill  2 Game modes:  Conflict Saboteur",
+        "short": "Play the multiplayer closed Beta!   Get instant access to:   2 Maps: Pipeline Mill  2 Game modes:  Conflict Saboteur"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388a9/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "55530833",
+                "title": "Ghost Recon: Future Soldier™"
+            }
+        ],
+        "related": []
+    }
+}

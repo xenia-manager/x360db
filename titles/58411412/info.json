@@ -1,0 +1,37 @@
+{
+    "id": "58411412",
+    "title": {
+        "full": "Halo Spartan Assault",
+        "reduced": "Halo Spartan Assault"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Vanguard Games",
+    "publisher": "Microsoft® Studios",
+    "release_date": "2014-01-31",
+    "user_rating": "4.00",
+    "description": {
+        "full": "In approximately ONE YEAR, in December 2021, online services for legacy Halo Xbox 360 titles will be discontinued. Owners of these titles will still be able to play these games indefinitely, however, certain online features and experiences, particularly online matchmaking, will be limited or disabled.    Halo: Spartan Assault is a fast paced top-down shooter set during the timeline between “Halo 3” and “Halo 4,” progress your Spartan career as you engage in over 30 exciting Campaign missions using many  of favorite Halo weapons, vehicles and armor abilities.  Team-up on Xbox Live and fight with a friend against waves of the nightmarish Flood in the all-new online co-op multiplayer mode.  Earn achievements, complete weekly Assault Ops and compete for the top scores in the leaderboards.  ",
+        "short": "Halo: Spartan Assault brings you an epic campaign featuring 30 action-packed levels, an intense online co-op mode, and many of your favorite Halo weapons, vehicles and enemies."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411412/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411412/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411412/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411412/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411412/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411412/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411412/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411412/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411412/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "58550ABD",
+    "title": {
+        "full": "Dark Forest",
+        "reduced": "Dark Forest"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "studio meow games",
+    "publisher": "studio meow games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Dark Forest is a strategy game where the player must build up their magical kingdom to lure in various types of creatures and drive the opposition out of the forest. Dark Forest contains 11 different types of creature, 11 campaign missions and 14 skirmish missions.",
+        "short": "Dark Forest is a strategy game where the player must build up their magical kingdom to lure in various types of creatures and drive the opposition out of the forest. Dark Forest contains 11 different types of creature, 11 campaign missions and 14 skirmish missions."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550abd/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550ABD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550abd/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550ABD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550ABD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550ABD_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

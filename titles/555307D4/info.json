@@ -1,0 +1,74 @@
+{
+    "id": "555307D4",
+    "title": {
+        "full": "Assassins Creed",
+        "reduced": "Assassins Creed"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Ubisoft Montreal",
+    "publisher": "UbiSoft",
+    "release_date": "2010-08-03",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". 1191 AD. The Third Crusade is tearing the Holy Land apart. You are Altair, a Master Assassin sent to kill corrupted leaders profiting from the war. As you carry out your missions, you find yourself tangled up in a conflict that threatens not only the Holy Land, but the entire world.  Master the skills, tactics, and weapons of history's deadliest and most secretive clan of warriors. Plan your attacks, strike without mercy, and fight your way to escape. Experience a living, breathing world in which all your actions have consequences. Crowds react to your moves, and will either help or hinder you on your quests. Do whatever it takes to achieve your objectives. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "1191 AD. The Third Crusade is tearing the Holy Land apart. You are Altair, a Master Assassin sent to kill corrupted leaders profiting from the war. As you carry out your missions, you find yourself tangled up in a conflict that threatens not only the Holy Land, but the entire world.  Master the skills, tactics, and weapons of history's deadliest and most secretive clan of warriors. Plan your attacks, strike without mercy, and fight your way to escape. Experience a living, breathing world in whic"
+    },
+    "media": [
+        {
+            "media_id": "795CE63E",
+            "title": "Assassin's Creed",
+            "edition": "Original, Platinum Collection",
+            "region": "Japan"
+        },
+        {
+            "media_id": "15C1FA47",
+            "title": "Assassin's Creed",
+            "edition": "Classics, Platinum Hits, Assassin's Creed: Heritage Collection",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "59A9DD10",
+            "title": "Assassin's Creed",
+            "edition": "Original, Promo",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "74BD6EC9",
+            "title": "Assassin's Creed",
+            "edition": "Classics",
+            "region": "Poland"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d4/1033/screenlg16.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/555307d4/0b03e7e0-995a-47d5-82a6-1c5eb62d7203.PDF"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "43438829",
+    "title": {
+        "full": "Dragons Dogma Demo",
+        "reduced": "Dragons Dogma Demo"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "CAPCOM CO., LTD.",
+    "publisher": "CAPCOM CO., LTD.",
+    "release_date": "2012-04-24",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Whet your appetite with a taste of the high fantasy, open world action that Dragon's Dogma has to offer in this demo. Battle as an Arisen of the past or rid the countryside of a fearsome magickal beast -- the choice is yours. Use the robust character creation tool to customize your Arisen and main pawn, play them in the Countryside Quest now, and import them into the full game later. From height to hairstyle, eye color to nose shape, mold your heroes as you see fit.",
+        "short": "Dragon's Dogma demo. Try your hand at 2 quests and customize your own characters who can be imported into the full game!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243438829/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243438829/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243438829/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243438829/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "43430814",
+                "title": "DD: Dark Arisen"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550659",
+    "title": {
+        "full": "Hypership Out of Control",
+        "reduced": "Hypership Out of Control"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Fun Infused Games",
+    "publisher": "Fun Infused Games",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. Space is a dangerous placed for even the most seasoned starship pilot, full of asteroids, multicolored floating blocks, and space mines. It's even more dangerous when you your accelerator is stuck to the floor and your brakes are out. Can you survive long enough to get that elusive high score or are you destined to add a new crater to the face of an unsuspecting asteroid?",
+        "short": "Space is a dangerous placed for even the most seasoned starship pilot, full of asteroids, multicolored floating blocks, and space mines. It's even more dangerous when you your accelerator is stuck to the floor and your brakes are out. Can you survive long enough to get that elusive high score or are you destined to add a new crater to the face of an unsuspecting asteroid?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550659/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550659_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550659/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550659_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550659_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550659_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550659_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "id": "465307E4",
+    "title": {
+        "full": "DARK SOULS II",
+        "reduced": "DARK SOULS II"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "FromSoftware, Inc.",
+    "publisher": "NAMCO BANDAI Games America Inc.",
+    "release_date": "2014-03-11",
+    "user_rating": "4.25",
+    "description": {
+        "full": "\"End of Online Service The game's online service will end on March 31, 2024. We would like to express our deepest gratitude to all the players and ask for your understanding.  End date schedule: - CEST 3/31 (Sun) 14:00  Affected content: - Multiplayer elements (summon/invasion/PvP arena) - Rewards for multiplayer quests - Areas/bosses unique to multiplayer - Online messages/bloodstains/ghosts - Bell Keeper invasions  Unaffected content: - Offline gameplay When the player starts the game after online service ends, a text box will appear informing the player that the game server is no longer available. By canceling the attempt to log in, the player can continue the game offline.  *Schedule is subject to change.\" ",
+        "short": "Developed by FROM SOFTWARE, Dark Souls™ II is the highly anticipated sequel to the punishing 2011 breakout hit Dark Souls™.  Go Beyond Death"
+    },
+    "media": [
+        {
+            "media_id": "72EA8B94",
+            "title": "Dark Souls II",
+            "edition": "Original, Black Armour Edition",
+            "region": "World"
+        },
+        {
+            "media_id": "16536CE2",
+            "title": "Dark Souls II",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "458B3E06",
+            "title": "Dark Souls II: Scholar of the First Sin (Disc 1)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "0C94D453",
+            "title": "Dark Souls II: Scholar of the First Sin (Disc 2)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307e4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307e4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307e4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307e4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307e4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307e4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307e4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465307e4/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "55538899",
+    "title": {
+        "full": "Rayman Origins - Demo",
+        "reduced": "Rayman Origins - Demo"
+    },
+    "genre": [
+        "Family",
+        "Platformer"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2011-11-09",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Download the demo of Rayman Origins and immerse yourself in this gorgeous 2D platfomer!  Explore the lands of the Gibberish Jungle and Gourmand Land and discover or rediscover the magical universe and legendary 2D gameplay that captured the hearts of millions of fans.",
+        "short": "Download the demo of Rayman Origins and immerse yourself in this gorgeous 2D platfomer!  Explore the lands of the Gibberish Jungle and Gourmand Land and discover or rediscover the magical universe and legendary 2D gameplay that captured the hearts of millions of fans."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538899/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538899/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538899/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538899/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538899/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538899/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538899/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538899/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "55530884",
+                "title": "Rayman® Origins"
+            }
+        ],
+        "related": []
+    }
+}

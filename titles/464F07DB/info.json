@@ -1,0 +1,37 @@
+{
+    "id": "464F07DB",
+    "title": {
+        "full": "Field  Stream TOC",
+        "reduced": "Field  Stream TOC"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Beast Studios",
+    "publisher": "505 Games",
+    "release_date": "2010-05-18",
+    "user_rating": "2.50",
+    "description": {
+        "full": "THE THRILL OF THE HUNT!  Engage in an action-packed traditional hunting adventure. Use real-life hunting skills to track trophy animals across beautiful destinations. True adventure awaits.  - More than 25 different game animals including bear, elk, deer, turkey and moose.  - 26 firearms including rifles, shotguns and handguns.  - Call in and ambush your prey using authentic calls, lures, scents, stands and blinds.",
+        "short": "THE THRILL OF THE HUNT!  Engage in an action-packed traditional hunting adventure. Use real-life hunting skills to track trophy animals across beautiful destinations. True adventure awaits.  - More than 25 different game animals including bear, elk, deer, turkey and moose.  - 26 firearms including rifles, shotguns and handguns.  - Call in and ambush your prey using authentic calls, lures, scents, stands and blinds."
+    },
+    "media": [
+        {
+            "media_id": "12515BA9",
+            "title": "Field & Stream: Total Outdoorsman Challenge",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07db/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07db/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07db/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07db/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

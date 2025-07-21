@@ -1,0 +1,35 @@
+{
+    "id": "58550379",
+    "title": {
+        "full": "Neo Terra",
+        "reduced": "Neo Terra"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Elbert Perez",
+    "publisher": "Elbert Perez",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Conquer planets in this frantic race to dominate, conquer and subjugate neutral planets as well as your enemy planets. Use cunning, deceit, and strategy to further your own goal of conquering the galaxy. Offers 8 player games (4 humans and 4 AI), and a bevy of different map customizations.",
+        "short": "Conquer planets in this frantic race to dominate, conquer and subjugate neutral planets as well as your enemy planets. Use cunning, deceit, and strategy to further your own goal of conquering the galaxy. Offers 8 player games (4 humans and 4 AI), and a bevy of different map customizations."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550379/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550379_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550379/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550379_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550379_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550379_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550379_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

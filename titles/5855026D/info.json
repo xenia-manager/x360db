@@ -1,0 +1,35 @@
+{
+    "id": "5855026D",
+    "title": {
+        "full": "Maladras",
+        "reduced": "Maladras"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "SoolStyle",
+    "publisher": "SoolStyle",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Maladras is a fun and brain twisting puzzle game where it is up to you so solve forty puzzles across five different environments. Each environment give’s its own twist and diversity to the puzzles!",
+        "short": "Maladras is a fun and brain twisting puzzle game where it is up to you so solve forty puzzles across five different environments. Each environment give’s its own twist and diversity to the puzzles!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855026d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855026D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855026d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855026D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855026D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855026D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855026D_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "584111F2",
+    "title": {
+        "full": "Sonic The Hedgehog 4 Episode II",
+        "reduced": "SONIC 4 Episode II"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer"
+    ],
+    "developer": "SEGA",
+    "publisher": "SEGA",
+    "release_date": "2012-05-16",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  The Sonic 4 Saga continues in Episode II with the return of a beloved side kick and fan-favorite villains!  Following the events of Episode I, Metal Sonic has returned to form an alliance with Dr. Eggman! To face this new evil, Sonic will have to call upon an old friend to help him save the day! Now joined by Tails, race across four new Zones and take down fearsome new badniks with deadly combination moves in order to put an end to this dastardly duo’s plans!   Experience the Sonic 4 saga as never before with the addition of a brand new engine; bringing you gameplay with updated physics and zones in stunning HD graphics! Also new to Episode II is the addition of online/local collaborative play where players can team up with a friend to take control of Sonic and Tails as they battle against Dr. Eggman!  BONUS! Owners of both Episode I & Episode II will unlock Episode Metal! Play as Sonic’s greatest rival in this exclusive zone and experience the untold story behind Metal Sonic’s revival!",
+        "short": "(Online Interactions Not Rated by the ESRB)  The Sonic 4 Saga continues in Episode II! Metal Sonic has returned to form a formidable alliance with Dr. Eggman! Now Joined by Tails, race across four new Zones and take down fearsome new badniks with deadly combination moves in order to save the day!   BONUS! Owners of both Episodes I & II gain access to Episode Metal, featuring exclusive levels and a playable Metal Sonic."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "58410A91",
+    "title": {
+        "full": "From Dust",
+        "reduced": "From Dust"
+    },
+    "genre": [
+        "Other",
+        "Strategy & Simulation"
+    ],
+    "developer": "UBISOFT MONTPELLIER",
+    "publisher": "UBISOFT",
+    "release_date": "2011-07-27",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Discover a unique Modern God game where nature is the star: From Dust, the latest original concept by Eric Chahi, visionary creator of Another World. Behold the beauty of a primitive world pulsing with life and face the might of nature.  Beware the danger of a world that is constantly changing under your command.  Control the destiny of a tribe struggling to survive and help it recover its ancestors’ lost powers.  Immerse yourself in a world as exotically beautiful as it is dangerous. A universe where Nature reclaims what is Hers; and you are your people’s only chance of survival.",
+        "short": "Discover a unique Modern God game where nature is the star: From Dust, the latest original concept by Eric Chahi, visionary creator of Another World. Behold the beauty of a primitive world pulsing with life and face the might of nature.  Beware the danger of a world that is constantly changing under your command.  Control the destiny of a tribe struggling to survive and help it recover its ancestors’ lost powers."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a91/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a91/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a91/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a91/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a91/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a91/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a91/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a91/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a91/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

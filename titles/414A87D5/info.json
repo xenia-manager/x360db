@@ -1,0 +1,35 @@
+{
+    "id": "414A87D5",
+    "title": {
+        "full": "黄金夢想曲Ｘ　体験版",
+        "reduced": "黄金夢想曲Ｘ　体験版"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "株式会社アルケミスト",
+    "publisher": "株式会社アルケミスト",
+    "release_date": "2011-09-20",
+    "user_rating": null,
+    "description": {
+        "full": "「うみねこのなく頃に」を原作に持つタッグ式対戦格闘ゲームが遂に登場！ 「Ｘ」では原作版の10キャラに加え、要望の多かった譲治、朱志香のいとこ組、さらに楼座も参戦決定！ 体験版では、戦人、縁寿、ルシファー、ベアトリーチェの４人が使用できます。",
+        "short": "「うみねこのなく頃に」を原作に持つタッグ式対戦格闘ゲームが遂に登場！"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414a87d5/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414a87d5/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414a87d5/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802414a87d5/1041/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "414A07D3",
+                "title": "黄金夢想曲Ｘ"
+            }
+        ],
+        "related": []
+    }
+}

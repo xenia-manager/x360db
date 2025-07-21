@@ -1,0 +1,43 @@
+{
+    "id": "544F07D1",
+    "title": {
+        "full": "ゾイドインフィニティEX NEO",
+        "reduced": "ゾイドインフィニティEX NEO"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Shooter"
+    ],
+    "developer": "株式会社翔泳社",
+    "publisher": "Tomy Co., LTD.",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "アーケードで大人気の「ゾイドインフィニティEX」が Xbox 360 に登場！実際にゾイドに乗っているような感覚で遊ぶ事が出来る対戦アクションゲームです。総カスタマイズパーツ数は、200 以上！登場ゾイドは、20 年を越えるゾイドの歴史の中から、ファンに人気のあるゾイドを厳選。「ゾイドジェネシス」のキャラクターとゾイドも新規に追加。",
+        "short": "アーケードで大人気の「ゾイドインフィニティEX」が Xbox 360 に登場！実際にゾイドに乗っているような感覚で遊ぶ事が出来る対戦アクションゲームです。総カスタマイズパーツ数は、200 以上！登場ゾイドは、20 年を越えるゾイドの歴史の中から、ファンに人気のあるゾイドを厳選。「ゾイドジェネシス」のキャラクターとゾイドも新規に追加。"
+    },
+    "media": [
+        {
+            "media_id": "26200E59",
+            "title": "Zoids Infinity EX Neo",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d1/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d1/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d1/1041/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550E1E",
+    "title": {
+        "full": "Survivalist",
+        "reduced": "Survivalist"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "lolznoob",
+    "publisher": "lolznoob",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=3/3. A huge open-world game where you have the freedom to play how you want - but your choices have consequences.  You've survived the zombie apocalypse by living in a bunker for a year and now it's time to venture out.  Scavenge for supplies, find other survivors, trade or fight with them, form relationships and build a community.  Go on quests, face moral dilemmas, and uncover dark, terrible secrets!",
+        "short": "A huge open-world game where you have the freedom to play how you want - but your choices have consequences.  You've survived the zombie apocalypse by living in a bunker for a year and now it's time to venture out.  Scavenge for supplies, find other survivors, trade or fight with them, form relationships and build a community.  Go on quests, face moral dilemmas, and uncover dark, terrible secrets!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550e1e/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E1E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e1e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E1E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E1E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E1E_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E1E_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

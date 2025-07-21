@@ -1,0 +1,40 @@
+{
+    "id": "42560838",
+    "title": {
+        "full": "Star Wars Jedi Knight Jedi Academy",
+        "reduced": "Star Wars Jedi Knight Jedi Academy"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Classics"
+    ],
+    "developer": "Raven Software",
+    "publisher": "LucasArts",
+    "release_date": "2018-04-26",
+    "user_rating": null,
+    "description": {
+        "full": "Jedi Knight: Jedi Academy is the latest installment of the highly acclaimed Jedi Knight series.  Take on the role of a new student eager to learn the ways of the Force from Jedi Master Luke Skywalker.  Interact with famous Star Wars characters in many classic Star Wars locations as you face the ultimate choice:  fight for good and freedom on the light side or follow the path of power and evil to the dark side.",
+        "short": "Forge your weapon and follow the path of the Jedi"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

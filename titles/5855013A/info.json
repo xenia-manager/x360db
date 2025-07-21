@@ -1,0 +1,35 @@
+{
+    "id": "5855013A",
+    "title": {
+        "full": "Adventurer Pets HD",
+        "reduced": "Adventurer Pets HD"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Arrogancy Games",
+    "publisher": "Arrogancy Games",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Adventurer Pets is best described as a ‘competitive arcade style platformer.’ The game is modeled as a mix of classic arcade style single screen platformers and competitive multiplayer party games. There are two single player modes available and one local mutiplayer, which supports from 1-4 players.",
+        "short": "Adventurer Pets is best described as a ‘competitive arcade style platformer.’ The game is modeled as a mix of classic arcade style single screen platformers and competitive multiplayer party games. There are two single player modes available and one local mutiplayer, which supports from 1-4 players."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855013a/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855013A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855013a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855013A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855013A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855013A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855013A_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

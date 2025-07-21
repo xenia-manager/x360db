@@ -1,0 +1,35 @@
+{
+    "id": "585506CF",
+    "title": {
+        "full": "SUSHIDO",
+        "reduced": "SUSHIDO"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Kohei",
+    "publisher": "Kohei",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Get the right sushi and satisfy your guests. It's as easy as raising the satisfaction level to 100% within the time limit.  For this sushi game, almost everything has been drawn with brush.",
+        "short": "Get the right sushi and satisfy your guests. It's as easy as raising the satisfaction level to 100% within the time limit.  For this sushi game, almost everything has been drawn with brush."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585506cf00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506CF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506cf/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506CF_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506CF_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506CF_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506CF_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

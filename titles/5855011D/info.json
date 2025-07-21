@@ -1,0 +1,35 @@
+{
+    "id": "5855011D",
+    "title": {
+        "full": "Fatal Abyss",
+        "reduced": "Fatal Abyss"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "CyanideGames",
+    "publisher": "CyanideGames",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Fatal Abyss is a top down shooter in the vein of classics such as Galaga but with some modern twists.  Automatically adjustable AI makes the game challenging for players of all skill levels.  Raise your combo meter and get the highest score!  Filled to the brim with codes and secrets, Fatal Abyss will keep you coming back for more!",
+        "short": "Fatal Abyss is a top down shooter in the vein of classics such as Galaga but with some modern twists.  Automatically adjustable AI makes the game challenging for players of all skill levels.  Raise your combo meter and get the highest score!  Filled to the brim with codes and secrets, Fatal Abyss will keep you coming back for more!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855011d/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855011D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855011d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855011D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855011D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855011D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855011D_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

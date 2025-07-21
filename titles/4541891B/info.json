@@ -1,0 +1,36 @@
+{
+    "id": "4541891B",
+    "title": {
+        "full": "Rock Band 3 Demo",
+        "reduced": "Rock Band 3 Demo"
+    },
+    "genre": [
+        "Music",
+        "Strategy & Simulation"
+    ],
+    "developer": "Harmonix Music Systems, Inc.",
+    "publisher": "Mad Catz",
+    "release_date": "2010-11-02",
+    "user_rating": "4.75",
+    "description": {
+        "full": "Take your band to a whole new level with Rock Band 3!   Full game includes: • 83 epic on-disc rock songs from every genre. • Pro Instruments – Become a Pro on Pro Guitar, advanced drums with cymbals, or keyboards.* • Career – Track your successes and round out your rock ‘n’ roll career. • Vocal Harmonies – Prove your true skill as a singer; up to three vocalists at a time can harmonize! • Road Challenges --  Try your hand at special gig challenges to find out if your band can make it on the road. • Get More Songs – Currently access to over 2000 tracks through the Rock Band platform. • Much more!  * Rock Band 3 Pro mode requires Pro mode compatible Rock Band controllers, each sold separately.",
+        "short": "Take it up a notch with Rock Band 3! In this demo, check out 4 of the full game's 83 epic tracks. Show off your pipes with Vocal Harmonies and get the band back in action and ready to rock. This demo expires on December 31st. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541891b/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541891b/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541891b/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541891b/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "45410914",
+                "title": "Rock Band 3"
+            }
+        ],
+        "related": []
+    }
+}

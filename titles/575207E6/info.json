@@ -1,0 +1,54 @@
+{
+    "id": "575207E6",
+    "title": {
+        "full": "LEGO Harry Potter",
+        "reduced": "LEGO Harry Potter"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family"
+    ],
+    "developer": "Traveller's Tales (UK), Ltd.",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "release_date": "2010-06-03",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Experience the magic of Harry Potter’s first 4 years at Hogwarts™ School of Witchcraft and Wizardry in an exciting new way. LEGO® Harry Potter™: Years 1-4 combines the first four Harry Potter books and films in an interactive fun-filled videogame. Players can build the adventure from Privet Drive to the Triwizard Tournament through new LEGO gameplay elements like magical building and spell-casting. Select from over 100 playable characters including Harry Potter, Ron Weasley™ and Hermione Granger™. Experience the wonder of Hogwarts: attend lessons, mix potions, fly on broomsticks, and complete tasks to collect LEGO studs and relive the adventures like never before with tongue-in-cheek humour and creative customisation unique to LEGO videogames.",
+        "short": "Experience the magic of Harry Potter’s first 4 years at Hogwarts™ School of Witchcraft and Wizardry in an exciting new way. LEGO® Harry Potter™: Years 1-4 combines the first four Harry Potter books and films in an interactive fun-filled videogame. Players can build the adventure from Privet Drive to the Triwizard Tournament through new LEGO gameplay elements like magical building and spell-casting. Select from over 100 playable characters including Harry Potter, Ron Weasley™ and Hermione Grange…"
+    },
+    "media": [
+        {
+            "media_id": "3E371834",
+            "title": "LEGO Harry Potter: Years 1-4",
+            "edition": "Original, Collector's Edition",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "391FC36C",
+            "title": "LEGO Harry Potter: Years 1-4",
+            "edition": "Platinum Hits",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": "4541093A",
+    "title": {
+        "full": "Rango",
+        "reduced": "Rango"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Behaviour",
+    "publisher": "Electronic Arts",
+    "release_date": "2011-03-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Experience Rango’s all-new tall tales. Play Rango, the best Sheriff the town of Dirt has ever known, and explore a variety of environments that expand beyond those seen in the film! ",
+        "short": "Experience Rango’s all-new tall tales. Play Rango, the best Sheriff the town of Dirt has ever known, and explore a variety of environments that expand beyond those seen in the film! "
+    },
+    "media": [
+        {
+            "media_id": "44DAB892",
+            "title": "Rango",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541093a/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

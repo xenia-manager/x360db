@@ -1,0 +1,42 @@
+{
+    "id": "5553086D",
+    "title": {
+        "full": "ユアシェイプ　フィットネスエボルブ",
+        "reduced": "ユアシェイプ　フィットネスエボルブ"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "ユービーアイソフト株式会社",
+    "release_date": "2010-12-09",
+    "user_rating": "0.00",
+    "description": {
+        "full": "カラダ全体でコントロールする未来型フィットネスゲームが誕生！Kinectセンサーがプレイヤーの体型を50,000以上のポイントで細かく計測し、より正しい動きへと導きます。 トレーニングメニューはプレイヤーそれぞれの目的やレベルに合わせてエクササイズが選べます。パーソナルトレーナーと一緒にクラスをとったり、ジムゲームを楽しんだり・・。細かい指導に従うことで、プレイヤーの運動効果は格段にアップ。楽しみながらエクササイズしている間にカロリーが消費できるのです。",
+        "short": "カラダ全体でコントロールする未来型フィットネスゲームが誕生！Kinectセンサーがプレイヤーの体型を50,000以上のポイントで細かく計測し、より正しい動きへと導きます。 トレーニングメニューはプレイヤーそれぞれの目的やレベルに合わせてエクササイズが選べます。パーソナルトレーナーと一緒にクラスをとったり、ジムゲームを楽しんだり・・。細かい指導に従うことで、プレイヤーの運動効果は格段にアップ。楽しみながらエクササイズしている間にカロリーが消費できるのです。"
+    },
+    "media": [
+        {
+            "media_id": "35E50BE3",
+            "title": "Your Shape: Fitness Evolved",
+            "edition": "Bundled with Xbox 360",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553086d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553086d/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553086d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553086d/1041/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5553084F",
+                "title": "Your Shape™ : Fitness Evolved"
+            }
+        ],
+        "related": []
+    }
+}

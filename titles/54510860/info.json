@@ -1,0 +1,46 @@
+{
+    "id": "54510860",
+    "title": {
+        "full": "Marvel Super Hero Squad The Infinity Gauntlet",
+        "reduced": "Super Hero Squad TIG"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family"
+    ],
+    "developer": "Griptonite Games, Inc.",
+    "publisher": "Nordic Games GmbH",
+    "release_date": "2013-09-13",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand Version supports English, French, Italian and German. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual”.  Marvel Super Hero Squad The Infinity Gauntlet sends players on a race across the galaxy to collect the legendary Infinity Stones.  Ironman, Hulk, Wolverine and the rest of the Super hero Squad are ready to beat up the baddies, and solve the tricky puzzles of this co-op adventure. It’s time to Hero Up!",
+        "short": "Marvel Super Hero Squad The Infinity Gauntlet sends players on a race across the galaxy to collect the legendary Infinity Stones.  Ironman, Hulk, Wolverine and the rest of the Super hero Squad are ready to beat up the baddies, and solve the tricky puzzles of this co-op adventure. It’s time to Hero Up!"
+    },
+    "media": [
+        {
+            "media_id": "34A3334E",
+            "title": "Marvel Super Hero Squad: The Infinity Gauntlet",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510860/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510860/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510860/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510860/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510860/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510860/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510860/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510860/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510860/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/54510860/UK_US.pdf"
+        ]
+    }
+}

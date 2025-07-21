@@ -1,0 +1,49 @@
+{
+    "id": "425607DF",
+    "title": {
+        "full": "HSM3 Senior Year DANCE",
+        "reduced": "HSM3 Senior Year DANCE"
+    },
+    "genre": [
+        "Family",
+        "Music"
+    ],
+    "developer": "Page 44 Studios LLC.",
+    "publisher": "Disney",
+    "release_date": "2008-01-01",
+    "user_rating": "2.25",
+    "description": {
+        "full": "Experience the music, characters and locations of all three High School Musical movies, including the latest from High School Musical 3: Senior Year! Step to the beat of your favorite songs on your dance pad while playing as your favorite HSM character, or as your own customized Wildcat. Unlock songs, levels and explore behind- the-scenes footage. All new music from High School Musical 3: Senior Year will keep the Wildcat fun moving!",
+        "short": "Experience the music, characters and locations of all three High School Musical movies, including the latest from High School Musical 3: Senior Year! Step to the beat of your favorite songs on your dance pad while playing as your favorite HSM character, or as your own customized Wildcat. Unlock songs, levels and explore behind- the-scenes footage. All new music from High School Musical 3: Senior Year will keep the Wildcat fun moving!"
+    },
+    "media": [
+        {
+            "media_id": "3F15997A",
+            "title": "Disney High School Musical 3: Senior Year Dance!",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607df/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607df/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607df/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607df/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607df/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607df/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607df/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607df/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607df/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607df/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607df/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607df/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607df/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607df/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

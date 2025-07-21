@@ -1,0 +1,48 @@
+{
+    "id": "415607D9",
+    "title": {
+        "full": "WSOP TOC",
+        "reduced": "WSOP TOC"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Left Field Productions",
+    "publisher": "Activision",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Building on last year's #1 poker title & the #1 poker brand, World Series of Poker®: Tournament of Champions takes a story-based approach as it puts players on the Circuit as a newly turned poker pro under the wing of Chris \"Jesus\" Ferguson as his protégé. Players will test their skills against the world's best poker pros in the premier Circuit Events in hopes of qualifying for the winner-take-all, invitation-only Tournament of Champions at the Rio Resort in Las Vegas. Along the way, players will face-off against more top pros than ever before, including: Joseph Hachem, the 2005 World Series of Poker Main Event Champion; Jennifer Tilly, the Academy Award nominated actress & World Series of Poker bracelet holder, & many others in hopes of bringing home the Tournament of Champions trophy. The game takes high-stakes poker action to new heights with twice as extensive poker tools for improving your poker game & DigiMask™ Technology that actually maps a player's face into the game!",
+        "short": "Building on last year's #1 poker title & the #1 poker brand, World Series of Poker®: Tournament of Champions takes a story-based approach as it puts players on the Circuit as a newly turned poker pro under the wing of Chris \"Jesus\" Ferguson as his protégé. Players will test their skills against the world's best poker pros in the premier Circuit Events in hopes of qualifying for the winner-take-all, invitation-only Tournament of Champions at the Rio Resort in Las Vegas. Along the way, players wil"
+    },
+    "media": [
+        {
+            "media_id": "054BC09E",
+            "title": "World Series of Poker: Tournament of Champions: 2007 Edition",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "5DE0B54E",
+            "title": "World Series of Poker: Tournament of Champions: 2007 Edition",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d9/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550B13",
+    "title": {
+        "full": "Dice",
+        "reduced": "Dice"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "PAWN Interactive",
+    "publisher": "PAWN Interactive",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Hear ye! Hear ye! Role players come forth! Why spend the expense of 10 dollars for a new set of dice when you can get your very own cool-looking digital dice here at XBOX live Indie games for just A DOLLAR! No longer need to carry any dice around. Loose all worries of wearing any dice out. It's ten times less expensive!",
+        "short": "Hear ye! Hear ye! Role players come forth! Why spend the expense of 10 dollars for a new set of dice when you can get your very own cool-looking digital dice here at XBOX live Indie games for just A DOLLAR! No longer need to carry any dice around. Loose all worries of wearing any dice out. It's ten times less expensive!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550b1300000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B13_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b13/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B13_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B13_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B13_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B13_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

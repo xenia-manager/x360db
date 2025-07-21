@@ -1,0 +1,75 @@
+{
+    "id": "5752082C",
+    "title": {
+        "full": "Middle-earth Shadow of Mordor",
+        "reduced": "Shadow of Mordor"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Monolith",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "release_date": "2014-09-30",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Russian.  Fight through Mordor and uncover the truth of the spirit that compels you, discover the origins of the Rings of Power, build your legend and ultimately confront the evil of Sauron in this new chronicle of Middle-earth.",
+        "short": "Fight through Mordor and uncover the truth of the spirit that compels you, discover the origins of the Rings of Power, build your legend and ultimately confront the evil of Sauron in this new chronicle of Middle-earth."
+    },
+    "media": [
+        {
+            "media_id": "01219FCA",
+            "title": "Middle-Earth: Shadow of Mordor (Disc 1)",
+            "edition": "Original",
+            "region": "World"
+        },
+        {
+            "media_id": "3C1D0E85",
+            "title": "Middle-Earth: Shadow of Mordor (Disc 1)",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "45C61BDD",
+            "title": "Middle-Earth: Shadow of Mordor (Disc 2)",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "4451D6B8",
+            "title": "Middle-Earth: Shadow of Mordor (Disc 2)",
+            "edition": "Original",
+            "region": "World"
+        },
+        {
+            "media_id": "599F8453",
+            "title": "Terra-Média: Sombras de Mordor (Disco 1)",
+            "edition": "Original",
+            "region": "Brazil"
+        },
+        {
+            "media_id": "3C8B16E0",
+            "title": "Terra-Média: Sombras de Mordor (Disco 2)",
+            "edition": "Original",
+            "region": "Brazil"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752082c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752082c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752082c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752082c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752082c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752082c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752082c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752082c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752082c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752082c/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752082c/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

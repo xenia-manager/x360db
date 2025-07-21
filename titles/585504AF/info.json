@@ -1,0 +1,35 @@
+{
+    "id": "585504AF",
+    "title": {
+        "full": "Super Avatar",
+        "reduced": "Super Avatar"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Super Boise",
+    "publisher": "Super Boise",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=3/3. Have you ever wanted to be a Super Hero?  Have you ever wanted to dodge a potato? The answer better be yes.",
+        "short": "Have you ever wanted to be a Super Hero?  Have you ever wanted to dodge a potato? The answer better be yes."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585504af/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585504AF_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585504af/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585504AF_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504AF_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504AF_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504AF_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

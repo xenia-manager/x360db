@@ -1,0 +1,32 @@
+{
+    "id": "585507F0",
+    "title": {
+        "full": "Black Jack Card Counter",
+        "reduced": "Black Jack Card Counter"
+    },
+    "genre": [
+        "Card & Board"
+    ],
+    "developer": "Thundering Nerd",
+    "publisher": "Thundering Nerd",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=3/3. You have heard the stories about people going to Vegas, counting cards, and getting rich. To bad you can't keep dozens of numbers and probability tables in you head. Let your Xbox will take care of the details of keeping track of the cards and sorting thru the tens of thousands of possible hands to calculate the odds. You are free to mastermind the strategy. Can you achieve simulated riches?",
+        "short": "You have heard the stories about people going to Vegas, counting cards, and getting rich. To bad you can't keep dozens of numbers and probability tables in you head. Let your Xbox will take care of the details of keeping track of the cards and sorting thru the tens of thousands of possible hands to calculate the odds. You are free to mastermind the strategy. Can you achieve simulated riches?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585507f0/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585507F0_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585507f0/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585507F0_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": "58411219",
+    "title": {
+        "full": "Anomaly Warzone Earth",
+        "reduced": "Anomaly Warzone Earth"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "11 bit Studios",
+    "publisher": "Microsoft Studios",
+    "release_date": "2012-04-06",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The award-winning Anomaly Warzone Earth comes to Xbox Live Arcade, with loads of exclusive XBLA content! Experience the innovative Tower Offense formula where you are the attacking side. Be captivated by a new approach to strategy designed specifically for gamepad. Take on the role of the Commander whose special abilities are crucial in the quest for victory. Manage your armor squad's tactics – choose your formation and plot your course. Gather resources for new units and upgrades. Jump into a variety of modes – story campaign and two Squad Assault Modes. Become the strategy master by solving puzzles in Xbox-exclusive Tactical Trials levels. Enjoy extraordinary mixture of strategy and action packaged in great visuals and atmospheric sound!",
+        "short": "The critically acclaimed Anomaly Warzone Earth comes to Xbox Live Arcade with loads of exclusive XBLA content! Experience a thrilling and colorful  mix of action and strategy designed for the gamepad. Become the Commander whose  special abilities can turn the tide of the battle. Master a  wealth of tactics – squad forming, battle route planning, gathering resources. Enjoy a variety of modes including Tactical Trials – an exclusive for the Xbox!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411219/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

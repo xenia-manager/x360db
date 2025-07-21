@@ -1,0 +1,35 @@
+{
+    "id": "5855098E",
+    "title": {
+        "full": "There Will Be Brains",
+        "reduced": "There Will Be Brains"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "DavidParker",
+    "publisher": "DavidParker",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=1/3, Mature Content=2/3. Bludgeon, bomb, snipe, and slice your way through the undead horde as you go across the USA to save your loved ones and find a cure.  2 different endings, 7 cities, 12 weapons, and literally hundreds of different weapon combinations.",
+        "short": "Bludgeon, bomb, snipe, and slice your way through the undead horde as you go across the USA to save your loved ones and find a cure.  2 different endings, 7 cities, 12 weapons, and literally hundreds of different weapon combinations."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855098e/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855098E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855098e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855098E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855098E_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855098E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855098E_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

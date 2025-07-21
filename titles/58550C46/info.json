@@ -1,0 +1,35 @@
+{
+    "id": "58550C46",
+    "title": {
+        "full": "Robot Legions",
+        "reduced": "Robot Legions"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Dusk and Dawn Interactive",
+    "publisher": "Dusk and Dawn Interactive",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Blast your way through the legions of robots to liberate your homeplanet!  Robot Legions is a twin-stick arena shooter that features several different enemy types, each with unique behavior. As players defeat enemies, they will collect cash that they can use to upgrade their defense and firepower. The game also features several special feats to accomplish for players who want an extra challenge.",
+        "short": "Blast your way through the legions of robots to liberate your homeplanet!  Robot Legions is a twin-stick arena shooter that features several different enemy types, each with unique behavior. As players defeat enemies, they will collect cash that they can use to upgrade their defense and firepower. The game also features several special feats to accomplish for players who want an extra challenge."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550c46/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C46_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c46/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C46_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C46_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C46_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C46_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

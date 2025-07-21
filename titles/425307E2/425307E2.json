@@ -1,0 +1,42 @@
+{
+    "id": "425307E2",
+    "title": {
+        "full": "Oblivion",
+        "reduced": "Oblivion"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2010-03-29",
+    "user_rating": null,
+    "description": {
+        "full": "Step inside the most richly detailed and vibrant game-world ever created. Oblivion is the latest chapter in the epic Elder Scrolls saga. With a powerful combination of freeform gameplay and unprecedented graphics, you can unravel the main quest at your own pace or explore the vast world and find your own challenges.",
+        "short": "Step inside the most richly detailed and vibrant game-world ever created. Oblivion is the latest chapter in the epic Elder Scrolls saga. With a powerful combination of freeform gameplay and unprecedented graphics, you can unravel the main quest at your own pace or explore the vast world and find your own challenges."
+    },
+    "media": [
+        {
+            "media_id": "06B20860",
+            "title": "The Elder Scrolls IV: Oblivion: Game of the Year Edition",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": null,
+        "banner": null,
+        "boxart": null,
+        "icon": null,
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "425307D1",
+                "title": "Oblivion"
+            }
+        ],
+        "related": []
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": "434307FD",
+    "title": {
+        "full": "モンスターハンター フロンティアＺ",
+        "reduced": "モンスターハンター フロンティアＺ"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "release_date": "2016-11-09",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Xbox 360版『モンスターハンター フロンティアＺ』は2018年8月1日（水）メンテナンスをもちまして、サービスを終了させていただきました。 ゲームクライアントならびに一部のダウンロードコンテンツは、同日をもって配信停止させていただいております。 ※ゲーマーアイコン・テーマ・アバターなどのアイテムは引き続きご利用いただけます。 その他、詳細につきましては、公式サイトをご確認ください。<http://xbox360.mhf-z.jp/index.html> Xbox 360版『モンスターハンター フロンティアＺ』をご利用いただき、誠にありがとうございました。",
+        "short": "Xbox 360版『モンスターハンター フロンティアＺ』は2018年8月1日（水）メンテナンスをもちまして、サービスを終了させていただきました。 ゲームクライアントならびに一部のダウンロードコンテンツは、同日をもって配信停止させていただいております。 ※ゲーマーアイコン・テーマ・アバターなどのアイテムは引き続きご利用いただけます。 その他、詳細につきましては、公式サイトをご確認ください。<http://xbox360.mhf-z.jp/index.html> Xbox 360版『モンスターハンター フロンティアＺ』をご利用いただき、誠にありがとうございました。"
+    },
+    "media": [
+        {
+            "media_id": "05FFC7D5",
+            "title": "Monster Hunter Frontier G1: Premium Package (Disc 1) (Data Disc)",
+            "edition": "Original, Monster Hunter Frontier G: Anniversary 2013 Premium Package (Disc 1) (Data Disc), Monster Hunter Frontier G7 Premium Package (Disc 1) (Data Disc)",
+            "region": "Japan"
+        },
+        {
+            "media_id": "61852BF4",
+            "title": "Monster Hunter Frontier Online",
+            "edition": "Taikenban, Beginner's Package, Forward.1 Premium Package, Forward.5 Premium Package, Monster Hunter Frontier G: Anniversary 2013 Premium Package (Disc 2) (Game Disc), Monster Hunter Frontier G1: Premium Package (Disc 2) (Game Disc)",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fd/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fd/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fd/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fd/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fd/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fd/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fd/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fd/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

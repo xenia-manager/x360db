@@ -1,0 +1,75 @@
+{
+    "id": "4E4D07D1",
+    "title": {
+        "full": "ACE COMBAT 6 Fires of Liberation",
+        "reduced": "ACE COMBAT 6"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Racing & Flying"
+    ],
+    "developer": "BANDAI NAMCO Entertainment Inc.",
+    "publisher": "BANDAI NAMCO Entertainment Inc.",
+    "release_date": "2007-10-23",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Witness high definition graphics rendering the world around you into super realistic war zones, made possible only by next generation  processing power. Lead not only aerial combat units but also naval and ground combat units to victory. Massive conflicts unfold on a “living battlefield” integrated by the “Dynamic Operation System” where up to six independent aerial, ground, and naval battles can break out at once as allies and enemies clash in real-time.",
+        "short": "Witness high definition graphics rendering the world around you into super realistic war zones, made possible only by next generation  processing power. Lead not only aerial combat units but also naval and ground combat units to victory. Massive conflicts unfold on a “living battlefield” integrated by the “Dynamic Operation System” where up to six independent aerial, ground, and naval battles can break out at once as allies and enemies clash in real-time."
+    },
+    "media": [
+        {
+            "media_id": "531C30BE",
+            "title": "Ace Combat 6: Fires of Liberation",
+            "edition": "Original",
+            "region": "USA, Japan"
+        },
+        {
+            "media_id": "0379EFB3",
+            "title": "Ace Combat 6: Fires of Liberation",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "36D871BC",
+            "title": "Ace Combat 6: Fires of Liberation",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "2F5B2CDB",
+            "title": "Ace Combat 6: Kaihou e no Senka",
+            "edition": "Bundled with Xbox 360",
+            "region": "Japan, Asia"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07d1/1033/screenlg18.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

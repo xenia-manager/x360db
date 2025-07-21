@@ -1,0 +1,41 @@
+{
+    "id": "41560900",
+    "title": {
+        "full": "SpongeBob Squarepants Planktons Robotic Revenge",
+        "reduced": "SB Robotic Revenge"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Behaviour",
+    "publisher": "Activision",
+    "release_date": "2013-10-11",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Dutch, Swedish.  Plankton and his new legion of evil robots have destroyed the Krusty Krab and stolen the safe that houses the famous Krabby Patty formula! It’s up to you and your friends to locate the hidden keys before the secret is lost forever! • Play as 5 of your favorite characters—SpongeBob, Patrick, Sandy, Squidward and Mr. Krabbs.  Switch between them as often as you’d like! • Jump in and out of gameplay at any time with 3 of your friends. If at least one player continues, so does the game! • Embark on side quests to level-up your “doodad” artillery!",
+        "short": "Plankton and his new legion of evil robots have destroyed the Krusty Krab and stolen the safe that houses the famous Krabby Patty formula! It’s up to you and your friends to locate the hidden keys before the secret is lost forever!"
+    },
+    "media": [
+        {
+            "media_id": "5563505F",
+            "title": "Nickelodeon SpongeBob SquarePants: Plankton's Robotic Revenge",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560900/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560900/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560900/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560900/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560900/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560900/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560900/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

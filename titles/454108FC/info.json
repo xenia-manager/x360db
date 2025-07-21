@@ -1,0 +1,38 @@
+{
+    "id": "454108FC",
+    "title": {
+        "full": "EA SPORTS MMA",
+        "reduced": "EA SPORTS MMA"
+    },
+    "genre": [
+        "Fighting",
+        "Sports & Recreation"
+    ],
+    "developer": "EA Tiburon",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2010-08-10",
+    "user_rating": "3.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  The multiplayer functionality of this title is no longer available.  You will only have access to the single player aspects of the game after download  EA SPORTS MMA brings the authenticity of the world’s most intense combat sport home like never before. Go on the offensive with a dynamic control system for strikes, elbows, knees and kicks and strategically manage advances and counters with an intuitive submission system.  Battle it out in the Strikeforce cage or deliver vicious soccer kicks and head stomps in a ring in Japan. Are you ready?  Let’s get it on!",
+        "short": "EA SPORTS MMA brings the authenticity of the world’s most intense combat sport home like never before. Go on the offensive with a dynamic control system for strikes, elbows, knees and kicks and strategically manage advances and counters with an intuitive submission system.  Battle it out in the Strikeforce cage or deliver vicious soccer kicks and head stomps in a ring in Japan. Are you ready?  Let’s get it on!"
+    },
+    "media": [
+        {
+            "media_id": "324DBAD4",
+            "title": "EA Sports MMA",
+            "edition": "Original, Promo",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108fc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108fc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108fc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108fc/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

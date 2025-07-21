@@ -1,0 +1,79 @@
+{
+    "id": "454107DC",
+    "title": {
+        "full": "Burnout Revenge",
+        "reduced": "Burnout Revenge"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Criterion Games",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-08-03",
+    "user_rating": "4.25",
+    "description": {
+        "full": "This time it’s not about winning. It’s about total domination and an utter disregard for the rules of the road.  Burnout™ Revenge launches you into the fastest, most dangerous racer on the road. Exact revenge on rush hour traffic, vindictive rival racers, and everything else that gets between you and the finish line.  This time it’s personal. This time it’s about revenge.  KEY FEATURES • Prepare for Carnage—Battling is the only way to advance in Burnout Revenge. Use the new Revenge Meter to track your progress as you reap rewards for playing dirty • Choose Your Car, Choose Your Weapon—Every vehicle is a potential weapon, whether you’re ramming an unsuspecting commuter into your rival or orchestrating an explosive multi-car pileup • Tracks Tricked Out for Takedowns—Navigate multi-level race tracks loaded with alternate routes, extreme jumps, hard stops, and nasty chokepoints. Burnout Revenge is built for battle. • Car-to-Car Combat—Smash through traffic and wreak havoc to beat the clock in the fast and furious Traffic Attack mode. • Crash Mode Revolutionized—This popular game mode is back, overhauled from the ground up to include more destruction and devastation than ever before.  Burnout Revenge servers are no longer available for online features, however single-player gameplay is still available.  Please see https://www.ea.com/service-updates for more details.",
+        "short": "This time it’s not about winning. It’s about total domination and an utter disregard for the rules of the road.  Burnout™ Revenge launches you into the fastest, most dangerous racer on the road. Exact revenge on rush hour traffic, vindictive rival racers, and everything else that gets between you and the finish line.  This time it’s personal. This time it’s about revenge."
+    },
+    "media": [
+        {
+            "media_id": "213B2D4C",
+            "title": "Burnout Revenge",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "04A4BD54",
+            "title": "Burnout Revenge",
+            "edition": "Original",
+            "region": "Asia"
+        },
+        {
+            "media_id": "29FD0247",
+            "title": "Burnout Revenge",
+            "edition": "Original, Classics",
+            "region": "Europe"
+        },
+        {
+            "media_id": "04F27E18",
+            "title": "Burnout Revenge",
+            "edition": "Original",
+            "region": "Korea"
+        },
+        {
+            "media_id": "223759FA",
+            "title": "Burnout Revenge",
+            "edition": "Original, Platinum Hits",
+            "region": "USA"
+        },
+        {
+            "media_id": "26EE80ED",
+            "title": "Burnout Revenge",
+            "edition": "Original, Platinum Collection",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107dc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107dc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107dc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107dc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107dc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107dc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107dc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107dc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107dc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107dc/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107dc/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107dc/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454107dc/7177/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/454107dc/2b174d8e-25d7-4cb7-b5e9-550395b4a6c4.PDF"
+        ]
+    }
+}

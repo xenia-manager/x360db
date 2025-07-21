@@ -1,0 +1,52 @@
+{
+    "id": "4E4D084F",
+    "title": {
+        "full": "Armored Core V",
+        "reduced": "Armored Core V"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "FromSoftware, Inc.",
+    "publisher": "NAMCO BANDAI Games America Inc.",
+    "release_date": "2012-03-20",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) The ravages of war & natural disasters have depleted natural resources, leaving mankind in peril. Dictatorship of Father reigns down on the scattered masses while the Resistance bravely fights for democracy. Wage fierce battles for control of territories using the most powerful weapons of war: Armored Core!",
+        "short": "The ravages of war & natural disasters have depleted natural resources, leaving mankind in peril. Wage fierce battles for control of territories using the most powerful weapons of war: Armored Core! "
+    },
+    "media": [
+        {
+            "media_id": "320FF4C0",
+            "title": "Armored Core V",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084f/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084f/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d084f/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4E4D0853",
+                "title": "Armored Core V"
+            }
+        ],
+        "related": []
+    }
+}

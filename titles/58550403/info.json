@@ -1,0 +1,35 @@
+{
+    "id": "58550403",
+    "title": {
+        "full": "BACTERIO",
+        "reduced": "BACTERIO"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "MayaAC",
+    "publisher": "MayaAC",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Bacterio is 3D Action Puzzle game. You should avoid fallen blocks, eat and separate for making the road to the goal. Survive!",
+        "short": "Bacterio is 3D Action Puzzle game. You should avoid fallen blocks, eat and separate for making the road to the goal. Survive!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550403/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550403_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550403/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550403_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550403_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550403_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550403_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "id": "4156083F",
+    "title": {
+        "full": "Ice Age 3",
+        "reduced": "Ice Age 3"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Eurocom Entertainment Software",
+    "publisher": "Activision",
+    "release_date": "2008-01-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "In the Ice Age: Dawn of the Dinosaurs Video Game, join Ice Age’s unlikely herd of prehistoric pals for their wildest, wackiest, most exciting adventure yet! For the first time, play as six beloved Ice Age characters as they embark on a rescue mission across melting snow to the mysterious Dinosaur World – an all-new, fur-raising jungle of carnivorous plants, lush foliage and fierce dinosaurs. Based on the highly anticipated Fox film of the same name, it’s a rollicking ride of mammoth proportions!",
+        "short": "In the Ice Age: Dawn of the Dinosaurs Video Game, join Ice Age’s unlikely herd of prehistoric pals for their wildest, wackiest, most exciting adventure yet! For the first time, play as six beloved Ice Age characters as they embark on a rescue mission across melting snow to the mysterious Dinosaur World – an all-new, fur-raising jungle of carnivorous plants, lush foliage and fierce dinosaurs. Based on the highly anticipated Fox film of the same name, it’s a rollicking ride of mammoth proportions!"
+    },
+    "media": [
+        {
+            "media_id": "69E07C05",
+            "title": "Ice Age: Dawn of the Dinosaurs",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "2773CE1C",
+            "title": "L'Era Glaciale 3: L'Alba dei Dinosauri",
+            "edition": "Original",
+            "region": "Italy"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156083f/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

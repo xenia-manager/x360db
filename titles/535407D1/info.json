@@ -1,0 +1,48 @@
+{
+    "id": "535407D1",
+    "title": {
+        "full": "SuperStar",
+        "reduced": "SuperStar"
+    },
+    "genre": [
+        "Family",
+        "Music",
+        "Other"
+    ],
+    "developer": "스튜디오나인",
+    "publisher": "Studio 9",
+    "release_date": "2008-01-01",
+    "user_rating": "0.00",
+    "description": {
+        "full": "Xbox360 전용 가족 노래방 게임 슈퍼스타와 함께 하시게 된 것을 축하합니다. 슈퍼스타는 가족들과 함께 노래를 부르며 즐길 수 있는 노래방과 홀로 노래 부르는 지루함을 달래기 위한 리듬액션 게임과 함께 이루어져 있습니다. 이제부터 노래를 새로운 방법으로 즐겨보세요.",
+        "short": "Xbox360 전용 가족 노래방 게임 슈퍼스타와 함께 하시게 된 것을 축하합니다. 슈퍼스타는 가족들과 함께 노래를 부르며 즐길 수 있는 노래방과 홀로 노래 부르는 지루함을 달래기 위한 리듬액션 게임과 함께 이루어져 있습니다. 이제부터 노래를 새로운 방법으로 즐겨보세요."
+    },
+    "media": [
+        {
+            "media_id": "3802A857",
+            "title": "SuperStar Karaoke",
+            "edition": "Original",
+            "region": "Korea"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535407d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535407d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535407d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535407d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535407d1/1042/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535407d1/1042/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535407d1/1042/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535407d1/1042/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535407d1/1042/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535407d1/1042/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535407d1/1042/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535407d1/1042/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

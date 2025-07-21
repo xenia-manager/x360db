@@ -1,0 +1,35 @@
+{
+    "id": "58550B4D",
+    "title": {
+        "full": "Apple Jack 2",
+        "reduced": "Apple Jack 2"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "My Owl Software",
+    "publisher": "My Owl Software",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=1/3, Mature Content=0/3. Poor Apple Jack – slaving away in the offices of a plastics company just isn't what apple-headed men were made for. 61 levels of varied puzzle-platform action await as he grabs enemies, hurls them together, runs, jumps, rolls, crushes, combos and rewinds his way through an epic new adventure!",
+        "short": "Poor Apple Jack – slaving away in the offices of a plastics company just isn't what apple-headed men were made for. 61 levels of varied puzzle-platform action await as he grabs enemies, hurls them together, runs, jumps, rolls, crushes, combos and rewinds his way through an epic new adventure!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550b4d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B4D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b4d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B4D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B4D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B4D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B4D_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "585506F4",
+    "title": {
+        "full": "Valet Parking Inc",
+        "reduced": "Valet Parking Inc"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "CandelaCreations",
+    "publisher": "CandelaCreations",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Be ready to face the stuggles of work life as you run around trying to please customers, strategize, manage your time and your life style.  Unlock special incentives in an attempt to earn more money and fame. Compare your earnings with other XBox Live users and strive to be the best in the business. This is your life as an attendant.",
+        "short": "Be ready to face the stuggles of work life as you run around trying to please customers, strategize, manage your time and your life style.  Unlock special incentives in an attempt to earn more money and fame. Compare your earnings with other XBox Live users and strive to be the best in the business. This is your life as an attendant."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585506f4/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506F4_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506f4/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506F4_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506F4_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506F4_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506F4_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

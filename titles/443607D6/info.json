@@ -1,0 +1,44 @@
+{
+    "id": "443607D6",
+    "title": {
+        "full": "Back to the Future The Game - 30th Anniversary Edition",
+        "reduced": "Back to the Future The Game"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Telltale Games",
+    "publisher": "Skybound Games",
+    "release_date": "2015-10-14",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, German.  Six months after Back to the Future Part III, the DeLorean time machine mysteriously returns to Hill Valley – driverless! Marty McFly must once again go back in time, or else the space-time continuum will be forever unraveled!  Featuring Christopher Lloyd as Doc Brown, Tom Wilson as Biff Tannen, and Claudia Wells as Jennifer Parker, with a special appearance by Michael J. Fox, and introducing A.J. LoCascio voicing Marty McFly. Created in cooperation with movie series Co-Writer and Producer, Bob Gale.  Includes an exclusive retrospective behind the scenes video, featuring an interview with Bob Gale, and others involved in the creation of the game! (Internet connection required)",
+        "short": "The Games on Demand version supports English, French, German.  Six months after Back to the Future Part III, the DeLorean time machine mysteriously returns to Hill Valley – driverless! Marty McFly must once again go back in time, or else the space-time continuum will be forever unraveled!"
+    },
+    "media": [
+        {
+            "media_id": "522100B7",
+            "title": "Back to the Future: The Game: 30th Anniversary Edition",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d6/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": "454108E7",
+    "title": {
+        "full": "Green Day Rock Band",
+        "reduced": "Green Day Rock Band"
+    },
+    "genre": [
+        "Music",
+        "Strategy & Simulation"
+    ],
+    "developer": "Harmonix Music Systems, Inc.",
+    "publisher": "MTV Games",
+    "release_date": "2010-04-14",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Experience the rise of Green Day from hometown punk heroes to worldwide musical vanguards. All your favorite tracks are here, including songs from Dookie all the way up to 21st Century Breakdown. Relive the famed punk scene of the early '90s and carry the banner of rock music into the 21st century.",
+        "short": "Experience the rise of Green Day from hometown punk heroes to worldwide musical vanguards. All your favorite tracks are here, including songs from Dookie all the way up to 21st Century Breakdown. Relive the famed punk scene of the early '90s and carry the banner of rock music into the 21st century."
+    },
+    "media": [
+        {
+            "media_id": "1BAD64D5",
+            "title": "Green Day: Rock Band",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e7/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e7/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e7/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e7/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108e7/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

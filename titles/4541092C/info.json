@@ -1,0 +1,35 @@
+{
+    "id": "4541092C",
+    "title": {
+        "full": "Rock Band Country TP 2",
+        "reduced": "Rock Band Country TP 2"
+    },
+    "genre": [
+        "Family",
+        "Music"
+    ],
+    "developer": "Harmonix Music Systems, Inc.",
+    "publisher": "MTV Games",
+    "release_date": "2011-02-01",
+    "user_rating": "0.00",
+    "description": {
+        "full": "Rock Band Country Track Pack 2 is a standalone software product that let’s country music fans master guitar, bass, drums or vocals on 21 seminal country hits, hand-picked with care by Harmonix . This Track Pack can be played on its own in single-player, competitive, or collaborative band modes, and includes the added bonus of having the option to export all 21 songs from the disc into your Rock Band®, Rock Band® 2 and Rock Band® 3 music library*! This Track Pack is also compatible with all Rock Band and most other music game instrument controllers.",
+        "short": "Rock Band® Country Track Pack™ 2 is the 2nd country music track pack utilizing the Rock Band platform; the smash-hit collaborative, competitive and single-player music game experience. Rock Band lets you and your friends form your own band and live out your rock and roll fantasies to music’s greatest soundtrack – now with another 21 country hits to wet your whistle!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092c/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "id": "5454086C",
+    "title": {
+        "full": "LA Noire",
+        "reduced": "LA Noire"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Team Bondi",
+    "publisher": "Rockstar Games",
+    "release_date": "2011-05-17",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Amid the post-war boom of Hollywood’s Golden Age, an idealistic detective, Cole Phelps, is thrown headfirst into a city drowning in violence and corruption. Utilizing groundbreaking new technology that captures an actor’s facial performance in astonishing detail, L.A. Noire is a violent crime thriller that blends breathtaking action with true detective work to deliver an unprecedented interactive experience. Interrogate witnesses, search for clues and chase down suspects as you struggle to find the truth in a city where everyone has something to hide.",
+        "short": "A dark and violent crime thriller set against the backdrop of 1940’s Los Angeles, where everyone has something to hide. "
+    },
+    "media": [
+        {
+            "media_id": "47E2937B",
+            "title": "L.A. Noire (Disc 1)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "5C1CD62D",
+            "title": "L.A. Noire (Disc 1)",
+            "edition": "Original, Rockstar Games Collection: Edition 1",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "0D7A8F9F",
+            "title": "L.A. Noire (Disc 2)",
+            "edition": "Original, Rockstar Games Collection: Edition 1",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "4FAC054F",
+            "title": "L.A. Noire (Disc 2)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "72D92698",
+            "title": "L.A. Noire (Disc 3)",
+            "edition": "Original, Rockstar Games Collection: Edition 1",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "674023AD",
+            "title": "L.A. Noire (Disc 3)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "52F99F1B",
+            "title": "L.A. Noire: The Complete Edition (Disc 1)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "7DF010BA",
+            "title": "L.A. Noire: The Complete Edition (Disc 2)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "7AD3C1C0",
+            "title": "L.A. Noire: The Complete Edition (Disc 3)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "56126C0E",
+            "title": "L.A. Noire: The Complete Edition (Disc 4)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086c/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086c/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086c/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086c/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086c/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454086c/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

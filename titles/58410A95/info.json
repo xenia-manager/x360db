@@ -1,0 +1,38 @@
+{
+    "id": "58410A95",
+    "title": {
+        "full": "Iron Brigade",
+        "reduced": "Iron Brigade"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Double Fine Productions",
+    "publisher": "Xbox Game Studios",
+    "release_date": "2010-08-06",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) Protect humanity from the evil Monovision menace in this Tower Defense Shooter from Tim Schafer’s Double Fine Productions.  Join The  Mobile Trench Brigade!  Use a combination of mobile firepower and stationary defenses to turn the tide of war in our favor.  Customize your trench with thousands of possible loadouts.  March side by side with allies from around the world as you fight your way through Europe, Africa, and the Pacific.  The Mobile Trench Brigade.  Walk with us.",
+        "short": "(Online Interactions Not Rated by the ESRB) Join the Mobile Trench Brigade!  Use a combination of mobile firepower and stationary defenses to protect humanity from the evil Monovision menace.  March side by side with allies from around the world as you fight your way through Europe, Africa, and the Pacific. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a95/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a95/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a95/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a95/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a95/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a95/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a95/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a95/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a95/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a95/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "5855075F",
+    "title": {
+        "full": "Zombie Cow-Milking",
+        "reduced": "Zombie Cow-Milking"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Ali Rawashdeh",
+    "publisher": "Ali Rawashdeh",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. The zombies now have a taste for milk! See if you can milk more than your friends in this frantic fun-filled party game! Who will be the champion?",
+        "short": "The zombies now have a taste for milk! See if you can milk more than your friends in this frantic fun-filled party game! Who will be the champion?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855075f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855075F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855075f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855075F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855075F_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855075F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855075F_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

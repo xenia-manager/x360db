@@ -1,0 +1,43 @@
+{
+    "id": "545408B5",
+    "title": {
+        "full": "NBA 2K15",
+        "reduced": "NBA 2K15"
+    },
+    "genre": [
+        "Sports & Recreation",
+        "Strategy & Simulation"
+    ],
+    "developer": "Visual Concepts",
+    "publisher": "2K",
+    "release_date": "2014-10-07",
+    "user_rating": "4.50",
+    "description": {
+        "full": "NOTE: All multiplayer servers for NBA 2K15 will be shutdown as of 12/31/2016. After that time, all game functions requiring online servers will no longer function.  The Games on Demand version supports English, French, Italian, German, Spanish, Japanese, Chinese. On the heels of NBA 2K14’s 70 Game of the Year Award Nominations, the NBA 2K franchise is the ultimate basketball simulation experience. Featuring NBA MVP Kevin Durant on the cover, NBA 2K15 hits the court with unprecedented life-like graphics, ultra-realistic NBA gameplay, and more. Take your MyPLAYER online and hit the courts in our fully-featured Crew Mode, now with NBA Rules. Every jersey, juke, and pom pon is brought to life with unrivaled realism. To top it off, NBA 2K15’s music has been curated by famed producer and musician, Pharrell. NBA 2K15 has created a truly authentic NBA adventure. It’s up to you to claim your destiny. #YourTimeHasCome ",
+        "short": "On the heels of NBA 2K14’s 70 Game of the Year Award Nominations, the NBA 2K franchise is the ultimate basketball simulation experience. Featuring NBA MVP Kevin Durant on the cover, NBA 2K15 hits the court with unprecedented life-like graphics, ultra-realistic NBA gameplay, and more.  It’s up to you to claim your destiny. #YourTimeHasCome"
+    },
+    "media": [
+        {
+            "media_id": "110CBC3F",
+            "title": "NBA 2K15",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b5/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

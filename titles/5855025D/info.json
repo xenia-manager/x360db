@@ -1,0 +1,33 @@
+{
+    "id": "5855025D",
+    "title": {
+        "full": "Pop Quiz",
+        "reduced": "Pop Quiz"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Thunder Hammer Studios",
+    "publisher": "Thunder Hammer Studios",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Pop Quiz hotshot!!!  Do you think you are some hotshot know it all?  Prove it.  We have the ultimate Pop Quiz covering Anime, Manga, Movies, Television, Music, and Video Games.  Think you know more than your friends challenge them to one of our 4 game modes. Take the Pop Quiz and show your right!!  (Only Single Player is available when in Trial Mode)",
+        "short": "Pop Quiz hotshot!!!  Do you think you are some hotshot know it all?  Prove it.  We have the ultimate Pop Quiz covering Anime, Manga, Movies, Television, Music, and Video Games.  Think you know more than your friends challenge them to one of our 4 game modes. Take the Pop Quiz and show your right!!  (Only Single Player is available when in Trial Mode)"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855025d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855025D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855025d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855025D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855025D_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

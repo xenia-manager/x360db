@@ -1,0 +1,58 @@
+{
+    "id": "494607D8",
+    "title": {
+        "full": "Ore No Yome",
+        "reduced": "Ore No Yome"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "デザインファクトリー株式会社/アイディアファクトリー株式会社",
+    "publisher": "Idea Factory Co., Ltd",
+    "release_date": "2010-10-21",
+    "user_rating": "0.00",
+    "description": {
+        "full": "“Gal games” mainly focus on “romance”, and typically do not touch on further life stages such as “marriage” or “life after marriage” at all. Perhaps there is no such demand at present. However, phrases such as “my wife” have become common recently, showing that gamers not only long for the heroine to play the role of a “lover”, but also that of a “wife”, to fulfill their “male desires”. This game combines “romance and marriage”, catering to “modern needs” indeed.",
+        "short": "いわゆる『ギャルゲー』は『恋愛』を扱ったものがメインで、その次の領域である『結婚』、更に『結婚後の生活』を扱ったものになるとほとんど皆無です確かにこれまでは、そういった需要が無かったのかもしれません。しかし昨今、各所で目にするようになった『俺の嫁』という言葉――それはヒロインに『恋人としての役割』だけでなく、『妻としての役割』を求め始めた、『男性陣の願望の現れ』ではないでしょうか？『恋愛＆結婚』を扱った本作は『新しい時代のニーズ』に応えるものです！"
+    },
+    "media": [
+        {
+            "media_id": "0EEBDAB1",
+            "title": "Ore no Yome: Anata dake no Hanayome",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802494607d8/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

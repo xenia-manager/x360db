@@ -1,0 +1,32 @@
+{
+    "id": "5855018E",
+    "title": {
+        "full": "Barf And Beer",
+        "reduced": "Barf And Beer"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Danimal",
+    "publisher": "Danimal",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=3/3. Chug your beer as fast as you can!  Drink too much without burping and you’ll puke, wasting valuable drinking time!  Punch your opponents while they’re burping to make THEM puke!  Test your drinking skills against up to three other human or computer players at five difficulty levels!",
+        "short": "Chug your beer as fast as you can!  Drink too much without burping and you’ll puke, wasting valuable drinking time!  Punch your opponents while they’re burping to make THEM puke!  Test your drinking skills against up to three other human or computer players at five difficulty levels!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855018e00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855018E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855018e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855018E_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

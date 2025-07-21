@@ -1,0 +1,48 @@
+{
+    "id": "575207F2",
+    "title": {
+        "full": "WtWTA",
+        "reduced": "WtWTA"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Platformer"
+    ],
+    "developer": "Griptonite Games, a Foundation 9 Studio",
+    "publisher": "WB Games, Inc.",
+    "release_date": "2009-10-13",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   “Where the Wild Things Are” sends you on a raucous romp through the world of the Wild Things, as seen in the hit Warner Bros. film, directed by Spike Jonze, and based on the classic book by Maurice Sendak. Featuring an original storyline, all-new dangers and mysteries, and a truly surreal atmosphere, this game is sure to delight the Wild Thing inside adults and kids alike.",
+        "short": "“Where the Wild Things Are” sends you on a raucous romp through the world of the Wild Things, as seen in the hit Warner Bros. film, directed by Spike Jonze, and based on the classic book by Maurice Sendak. Featuring an original storyline, all-new dangers and mysteries, and a truly surreal atmosphere, this game is sure to delight the Wild Thing inside adults and kids alike."
+    },
+    "media": [
+        {
+            "media_id": "7B63EB01",
+            "title": "Where the Wild Things Are: The Videogame",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207f2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207f2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207f2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207f2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207f2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207f2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207f2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207f2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207f2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207f2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207f2/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://epix.xbox.com/shaXam/0201/58/ac/58ac8228-8ca9-4926-bbbb-0aa6c16cfff5.PDF?v=1#WTWTA-EN.PDF"
+        ]
+    }
+}

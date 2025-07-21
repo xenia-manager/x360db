@@ -1,0 +1,48 @@
+{
+    "id": "475007D2",
+    "title": {
+        "full": "Hail to the Chimp",
+        "reduced": "Hail to the Chimp"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family",
+        "Fighting",
+        "Other"
+    ],
+    "developer": "Wideload Games",
+    "publisher": "Gamecock Media Group",
+    "release_date": "2008-01-01",
+    "user_rating": "2.75",
+    "description": {
+        "full": "Hail to the Chimp is a fast, furious, and funny party game where you and up to three friends compete to become the first President of the Animal Kingdom! When the King of the Animals resigns in disgrace, ten animals enter a brutal contest to become President. Battle in your living room or across Xbox LIVE. Dynamic maps and crazy traps let you win with brains as well as brawn. Team up with a rival for a special move to blow away your common enemies. Courage, speed, cunning, trickery - do you have what it takes to win it all?",
+        "short": "Hail to the Chimp is a fast, furious, and funny party game where you and up to three friends compete to become the first President of the Animal Kingdom! When the King of the Animals resigns in disgrace, ten animals enter a brutal contest to become President. Battle in your living room or across Xbox LIVE. Dynamic maps and crazy traps let you win with brains as well as brawn. Team up with a rival for a special move to blow away your common enemies. Courage, speed, cunning, trickery - do you have"
+    },
+    "media": [
+        {
+            "media_id": "773093A4",
+            "title": "Hail to the Chimp",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802475007d2/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

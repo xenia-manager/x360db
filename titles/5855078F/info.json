@@ -1,0 +1,35 @@
+{
+    "id": "5855078F",
+    "title": {
+        "full": "Maid_sans Caving Adventure",
+        "reduced": "Maid_sans Caving Adventure"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Kohei",
+    "publisher": "Kohei",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=1/3, Mature Content=0/3. A maid wandered into a cave where the Benars live. Can she escape the cave safely by using her specialty \"trembling\" to get away from them?",
+        "short": "A maid wandered into a cave where the Benars live. Can she escape the cave safely by using her specialty \"trembling\" to get away from them?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855078f00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855078F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855078f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855078F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855078F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855078F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855078F_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

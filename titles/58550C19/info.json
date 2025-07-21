@@ -1,0 +1,35 @@
+{
+    "id": "58550C19",
+    "title": {
+        "full": "Extreme XOXO",
+        "reduced": "Extreme XOXO"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Dingy",
+    "publisher": "Dingy",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Annihilate your opponents in this strategic twist on the classic game of Tic Tac Toe! Breed your X's and O's and maintain a stable population to defend against your attackers. Welcome to Extreme Tic Tac Toe.",
+        "short": "Annihilate your opponents in this strategic twist on the classic game of Tic Tac Toe! Breed your X's and O's and maintain a stable population to defend against your attackers. Welcome to Extreme Tic Tac Toe."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550c1900000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C19_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c19/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C19_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C19_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C19_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C19_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

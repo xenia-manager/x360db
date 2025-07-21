@@ -1,0 +1,35 @@
+{
+    "id": "58550CE9",
+    "title": {
+        "full": "Wizard Monkeys",
+        "reduced": "Wizard Monkeys"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Blanc Game Studio",
+    "publisher": "Blanc Game Studio",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Combat 9 evil wizard monkeys and various fluffy creatures. Steal a wizard hat and use its 4 different spells to complete the many different levels. Play alone or cooperatively with your friends (up to 4 players). Includes a deathmatch and survival game mode.",
+        "short": "Combat 9 evil wizard monkeys and various fluffy creatures. Steal a wizard hat and use its 4 different spells to complete the many different levels. Play alone or cooperatively with your friends (up to 4 players). Includes a deathmatch and survival game mode."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550ce900000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CE9_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550ce9/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CE9_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CE9_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CE9_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CE9_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

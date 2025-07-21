@@ -1,0 +1,79 @@
+{
+    "id": "454109DB",
+    "title": {
+        "full": "EA SPORTS FIFA 15",
+        "reduced": "FIFA 15"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2014-09-23",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French and Spanish  Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  FIFA 15 brings football to life so fans can experience the sport like never before. Authentic Player Visuals make players look lean, athletic, and true to their real-life appearance. Player Control heightens the responsiveness of player movement, giving athletes more control and personality on the ball, and makes Man-to-Man Battles more rewarding than ever before. Football is the greatest drama on earth and FIFA 15 puts fans center stage allowing them to experience the intensity of the world’s greatest sport.",
+        "short": "FIFA 15 brings football to life so fans can experience the sport like never before. Authentic Player Visuals make players look lean, athletic, and true to their real-life appearance. Player Control heightens the responsiveness of player movement, giving athletes more control and personality on the ball, and makes Man-to-Man Battles more rewarding than ever before."
+    },
+    "media": [
+        {
+            "media_id": "202F3601",
+            "title": "FIFA 15",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "7996B9F9",
+            "title": "FIFA 15",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "15985B51",
+            "title": "FIFA 15",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "45B73E8B",
+            "title": "FIFA 15",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "3312D6CE",
+            "title": "FIFA 15",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "36B4BD25",
+            "title": "FIFA 15",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "1C5CADA0",
+            "title": "FIFA 15",
+            "edition": "Original",
+            "region": "Brazil"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109db/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109db/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109db/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109db/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109db/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109db/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109db/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109db/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109db/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

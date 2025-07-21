@@ -1,0 +1,35 @@
+{
+    "id": "58550D5D",
+    "title": {
+        "full": "Fishy Warfare",
+        "reduced": "Fishy Warfare"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Zkenshin",
+    "publisher": "Zkenshin",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. The goal of the game is to defeat the enemy toy submarines using a submarine you construct out of various components purchased through the shipyard, all while confined to a fish tank.",
+        "short": "The goal of the game is to defeat the enemy toy submarines using a submarine you construct out of various components purchased through the shipyard, all while confined to a fish tank."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550d5d/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D5D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d5d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D5D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D5D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D5D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D5D_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

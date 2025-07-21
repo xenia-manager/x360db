@@ -1,0 +1,35 @@
+{
+    "id": "58550E0E",
+    "title": {
+        "full": "Attack of the Zombie Horde 2",
+        "reduced": "Attack of the Zombie Horde 2"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Krooked Gaming",
+    "publisher": "Krooked Gaming",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=3/3. A gritty zombie shooter focused on refined game mechanics. Xbox LIVE and local multiplayer co-op zombie killing action. Use turrets, nukes, mini-guns and chainsaws to go on a 4 player coop rampage killing zombies and anything else that moves. A deep weapon loadout and perk system to allow you to choose how you play, from cluster mines, to air strikes to flame throwers and everything in between.",
+        "short": "A gritty zombie shooter focused on refined game mechanics. Xbox LIVE and local multiplayer co-op zombie killing action. Use turrets, nukes, mini-guns and chainsaws to go on a 4 player coop rampage killing zombies and anything else that moves. A deep weapon loadout and perk system to allow you to choose how you play, from cluster mines, to air strikes to flame throwers and everything in between."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550e0e/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E0E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e0e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E0E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E0E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E0E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E0E_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

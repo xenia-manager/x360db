@@ -1,0 +1,30 @@
+{
+    "id": "543807DC",
+    "title": {
+        "full": "Advent Rising",
+        "reduced": "Advent Rising"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "GlyphX Games",
+    "publisher": "Ziggurat Interactive, Inc.",
+    "release_date": "2021-11-30",
+    "user_rating": null,
+    "description": {
+        "full": "A common legend pervades the galaxy-that of a powerful, highly intelligent ancient race that will one day deliver the universe. They are known as Humans. The Advent of Humanity Begins…",
+        "short": "A common legend pervades the galaxy-that of a powerful, highly intelligent ancient race that will one day deliver the universe. They are known as Humans. The Advent of Humanity Begins…"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d802543807dc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d802543807dc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d802543807dc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/certnet/images/66acd000-77fe-1000-9115-d802543807dc/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

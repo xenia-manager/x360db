@@ -1,0 +1,35 @@
+{
+    "id": "58550CBD",
+    "title": {
+        "full": "King Swing",
+        "reduced": "King Swing"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Carlo Sunseri",
+    "publisher": "Carlo Sunseri",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. King Swing is the first ever physics based swinging game for Xbox Live Indie Games. Fly high above the jungle canopy launching from one dangerous cliff to the next! However, make a mistake and you will tumble toward the river below, quickly becoming a victim of hungry piranhas!  ***Features include ragdoll physics, online high scores, three unique game modes, day and night cycle***",
+        "short": "King Swing is the first ever physics based swinging game for Xbox Live Indie Games. Fly high above the jungle canopy launching from one dangerous cliff to the next! However, make a mistake and you will tumble toward the river below, quickly becoming a victim of hungry piranhas!  ***Features include ragdoll physics, online high scores, three unique game modes, day and night cycle***"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550cbd/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CBD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550cbd/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CBD_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CBD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CBD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CBD_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "4C5307D3",
+    "title": {
+        "full": "Superstars V8 Racing",
+        "reduced": "Superstars V8 Racing"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Milestone",
+    "publisher": "Lago",
+    "release_date": "2010-07-01",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Superstars® V8 Racing",
+        "short": "Superstars® V8 Racing"
+    },
+    "media": [
+        {
+            "media_id": "750DEA34",
+            "title": "Superstars V8 Racing",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": null,
+        "banner": null,
+        "boxart": "https://www.vgchartz.com/games/boxart/full_8388290PALFrontccc.jpg",
+        "icon": "http://www.xboxunity.net/Resources/Lib/Icon.php?tid=4C5307D3",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550954",
+    "title": {
+        "full": "Jellyfish MD",
+        "reduced": "Jellyfish MD"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Kevin Costello",
+    "publisher": "Kevin Costello",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Pollution has struck Jellyfish City! Take on the role of the esteemed Dr Jellyfish's new assistant. Use your powers of perception and spatial reasoning to match up colored bubbles to cure the adorable denizens of Jellyfish City in this unique and challenging puzzle game.",
+        "short": "Pollution has struck Jellyfish City! Take on the role of the esteemed Dr Jellyfish's new assistant. Use your powers of perception and spatial reasoning to match up colored bubbles to cure the adorable denizens of Jellyfish City in this unique and challenging puzzle game."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855095400000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550954_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550954/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550954_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550954_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550954_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550954_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

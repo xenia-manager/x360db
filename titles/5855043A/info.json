@@ -1,0 +1,35 @@
+{
+    "id": "5855043A",
+    "title": {
+        "full": "Yet Another Zombie Defense",
+        "reduced": "Yet Another Zombie Defense"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "AwesomeGamesStudio",
+    "publisher": "AwesomeGamesStudio",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=3/3. Darkness is coming. How long can you survive?",
+        "short": "Darkness is coming. How long can you survive?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855043a00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855043A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855043a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855043A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855043A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855043A_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855043A_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

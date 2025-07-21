@@ -1,0 +1,48 @@
+{
+    "id": "545407EB",
+    "title": {
+        "full": "NHL 2K7",
+        "reduced": "NHL 2K7"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Kush",
+    "publisher": "2K Games",
+    "release_date": "2008-01-01",
+    "user_rating": "3.25",
+    "description": {
+        "full": "NHL 2K7",
+        "short": "NHL 2K7"
+    },
+    "media": [
+        {
+            "media_id": "178F83BB",
+            "title": "NHL 2K7",
+            "edition": "Promo",
+            "region": "Europe"
+        },
+        {
+            "media_id": "0B3D772A",
+            "title": "NHL 2K7",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407eb/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407eb/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407eb/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407eb/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407eb/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407eb/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407eb/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407eb/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

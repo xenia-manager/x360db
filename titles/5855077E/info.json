@@ -1,0 +1,35 @@
+{
+    "id": "5855077E",
+    "title": {
+        "full": "Beach Bubbles",
+        "reduced": "Beach Bubbles"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Team Shuriken",
+    "publisher": "Team Shuriken",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=3/3, Mature Content=0/3. Collect bubbles ! Track your progress with gorgeous evolving backgrounds !",
+        "short": "Collect bubbles ! Track your progress with gorgeous evolving backgrounds !"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855077e/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855077E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855077e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855077E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855077E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855077E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855077E_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

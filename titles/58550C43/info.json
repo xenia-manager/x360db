@@ -1,0 +1,35 @@
+{
+    "id": "58550C43",
+    "title": {
+        "full": "Aeternum",
+        "reduced": "Aeternum"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Brooks Bishop",
+    "publisher": "Brooks Bishop",
+    "release_date": null,
+    "user_rating": "4.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. When your best friend is missing, kidnapped or maybe just out to lunch, what’s a magical demon girl to do? Tear Aeternum Academy of Magic Arts and Sciences apart trying to find her (or where she’s eating) of course! Cat-wrangling squids, corgis in spaceships or hipster witches, nothing can stop Ellica in this quirky bullet-hell shooter that will test your limits to their limits. And maybe beyond.",
+        "short": "When your best friend is missing, kidnapped or maybe just out to lunch, what’s a magical demon girl to do? Tear Aeternum Academy of Magic Arts and Sciences apart trying to find her (or where she’s eating) of course! Cat-wrangling squids, corgis in spaceships or hipster witches, nothing can stop Ellica in this quirky bullet-hell shooter that will test your limits to their limits. And maybe beyond."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550c43/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C43_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c43/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C43_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C43_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C43_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C43_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

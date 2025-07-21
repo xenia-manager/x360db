@@ -1,0 +1,35 @@
+{
+    "id": "585505A1",
+    "title": {
+        "full": "Leximo",
+        "reduced": "Leximo"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Ninth Planet Games",
+    "publisher": "Ninth Planet Games",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Can you beat the clock? Can you beat the challenges?! Are you 1337 enough to SPELL?! I don't think you are. Move along...",
+        "short": "Can you beat the clock? Can you beat the challenges?! Are you 1337 enough to SPELL?! I don't think you are. Move along..."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585505a100000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505A1_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505a1/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505A1_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505A1_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505A1_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505A1_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

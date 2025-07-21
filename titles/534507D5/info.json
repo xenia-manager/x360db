@@ -1,0 +1,52 @@
+{
+    "id": "534507D5",
+    "title": {
+        "full": "Full Auto",
+        "reduced": "Full Auto"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Racing & Flying",
+        "Shooter"
+    ],
+    "developer": "Pseudo Interactive Inc.",
+    "publisher": "Sega",
+    "release_date": "2006-02-14",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  (Online Interactions Not Rated by the ESRB) Welcome to the most destructive racing game ever made. Combine raw horsepower with awesome firepower to destroy your rivals and tear the world apart. Don't be afraid of pushing the limits--Full Auto's innovative \"Unwreck\" feature affords you the racing genre's first real-time \"second chance.\"",
+        "short": "Welcome to the most destructive racing game ever made. Combine raw horsepower with awesome firepower to destroy your rivals and tear the world apart. Don't be afraid of pushing the limits--Full Auto's innovative \"Unwreck\" feature affords you the racing genre's first real-time \"second chance.\""
+    },
+    "media": [
+        {
+            "media_id": "1D5F3880",
+            "title": "Full Auto",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "35CFA089",
+            "title": "Full Auto",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507d5/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

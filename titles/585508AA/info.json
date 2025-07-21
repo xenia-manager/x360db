@@ -1,0 +1,35 @@
+{
+    "id": "585508AA",
+    "title": {
+        "full": "Lair of the Evildoer",
+        "reduced": "Lair of the Evildoer"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Going Loud Studios",
+    "publisher": "Going Loud Studios",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. The evil Dr. Odious has you trapped in his lair. He’s also not very fond of you. Make your escape by battling through hundreds of monsters, collecting over 25 weapons and leveling up as you go. Procedurally generated levels will keep you on your toes in this action RPG shooter, ensuring a different experience with every playthrough!",
+        "short": "The evil Dr. Odious has you trapped in his lair. He’s also not very fond of you. Make your escape by battling through hundreds of monsters, collecting over 25 weapons and leveling up as you go. Procedurally generated levels will keep you on your toes in this action RPG shooter, ensuring a different experience with every playthrough!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585508aa/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508AA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508aa/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508AA_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508AA_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508AA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508AA_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

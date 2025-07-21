@@ -1,0 +1,45 @@
+{
+    "id": "54510859",
+    "title": {
+        "full": "The Biggest Loser Ultimate Workout",
+        "reduced": "The Biggest Loser Ultimate Workout"
+    },
+    "genre": [
+        "Family",
+        "Kinect",
+        "Sports & Recreation"
+    ],
+    "developer": "Blitz Games Studios Ltd",
+    "publisher": "THQ",
+    "release_date": "2010-11-04",
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game requires a Kinect™ Sensor. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   The Biggest Loser: Ultimate Workout brings a healthy lifestyle into the family living room as never before, providing new ways to play together and motivate each other through exercise, diet, stat comparisons and light-hearted competition.",
+        "short": "The Biggest Loser: Ultimate Workout brings a healthy lifestyle into the family living room as never before, providing new ways to play together and motivate each other through exercise, diet, stat comparisons and light-hearted competition."
+    },
+    "media": [
+        {
+            "media_id": "5F80306C",
+            "title": "The Biggest Loser: Ultimate Workout",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510859/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510859/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510859/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510859/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510859/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510859/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510859/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510859/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510859/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

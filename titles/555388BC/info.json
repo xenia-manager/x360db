@@ -1,0 +1,35 @@
+{
+    "id": "555388BC",
+    "title": {
+        "full": "Marvel Avengers Battle for Earth Demo",
+        "reduced": "Marvel Avengers Battle for Earth Demo"
+    },
+    "genre": [
+        "Kinect"
+    ],
+    "developer": "Ubisoft Quebec",
+    "publisher": "Ubisoft",
+    "release_date": "2799-12-30",
+    "user_rating": null,
+    "description": {
+        "full": "Exciting single player demo featuring 4 of your favourite Super Heroes from Marvel Avengers™: Battle for Earth.",
+        "short": "Marvel Avengers™: Battle for Earth demo with four characters."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388bc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388bc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388bc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555388bc/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "555308AD",
+                "title": "Marvel Avengers™: Battle for Earth"
+            }
+        ],
+        "related": []
+    }
+}

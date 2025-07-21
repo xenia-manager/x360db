@@ -1,0 +1,35 @@
+{
+    "id": "5855096E",
+    "title": {
+        "full": "SEncounter",
+        "reduced": "SEncounter"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "WSBSoftware",
+    "publisher": "WSBSoftware",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=3/3. At the end of World War II a selection of elite military personnel and scientists  established a secret base on the Antarctic continent. Your mission is to infiltrate this secret base and collect all technical information pertaining to their new weapons development.",
+        "short": "At the end of World War II a selection of elite military personnel and scientists  established a secret base on the Antarctic continent. Your mission is to infiltrate this secret base and collect all technical information pertaining to their new weapons development."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855096e00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855096E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855096e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855096E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855096E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855096E_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855096E_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

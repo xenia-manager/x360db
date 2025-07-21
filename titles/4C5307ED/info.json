@@ -1,0 +1,55 @@
+{
+    "id": "4C5307ED",
+    "title": {
+        "full": "Kung-Fu High Impact",
+        "reduced": "Kung-Fu"
+    },
+    "genre": [
+        "Kinect"
+    ],
+    "developer": "Virtual Air Guitar Company",
+    "publisher": "Ignition Games",
+    "release_date": "2011-11-24",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor.  Kung-Fu High Impact is a full-body motion fighting adventure that uses Kinect to scan YOU inside the game! Fight baddies using your killer-instincts to throw kicks and punches. Become the hero and star in your own comic book adventure. Challenge your friends in unique multiplayer combat.",
+        "short": "You are a traditional Kung-Fu hero fighting as yourself, using superior hand-to-hand combat abilities. Unlock and enjoy freedom-of-movement as a character inside an adventurous comic book environment that hosts an extensive Kung-Fu storyline and includes custom battles, story comics, and epic survival modes. Become a star!"
+    },
+    "media": [
+        {
+            "media_id": "777A24E3",
+            "title": "Kung-Fu High Impact",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "14B6A8B6",
+            "title": "Kung-Fu High Impact",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307ed/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307ed/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307ed/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307ed/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307ed/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307ed/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307ed/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307ed/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307ed/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307ed/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307ed/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307ed/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c5307ed/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4c5307ed/KFHI_Xbox_MANUAL_ENG.pdf"
+        ]
+    }
+}

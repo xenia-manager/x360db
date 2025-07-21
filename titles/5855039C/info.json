@@ -1,0 +1,35 @@
+{
+    "id": "5855039C",
+    "title": {
+        "full": "Duel The Art of Combat",
+        "reduced": "Duel The Art of Combat"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "AwesomeGamesStudio",
+    "publisher": "AwesomeGamesStudio",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=0/3. Duel is a side-view 3D action game full of shooting, jumping, fleeing, chasing, slashing, dodging, rope-swinging and trying to kill your opponent. The game shows its best when you're playing in split-screen mode with your friend. There's also challenging story mode and cooperative survival mode. Try it!",
+        "short": "Duel is a side-view 3D action game full of shooting, jumping, fleeing, chasing, slashing, dodging, rope-swinging and trying to kill your opponent. The game shows its best when you're playing in split-screen mode with your friend. There's also challenging story mode and cooperative survival mode. Try it!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855039c00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855039C_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855039c/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855039C_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855039C_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855039C_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855039C_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

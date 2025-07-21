@@ -1,0 +1,42 @@
+{
+    "id": "58411216",
+    "title": {
+        "full": "The Wolf Among Us",
+        "reduced": "The Wolf Among Us"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Telltale Games",
+    "publisher": "Telltale Games",
+    "release_date": "2013-10-11",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Download Episode One of The Wolf Among Us, a five-part game series from the creators of the 2012 Game of the Year: The Walking Dead. As Bigby Wolf - THE big bad wolf - you will discover that a brutal, bloody murder is just a taste of things to come in a game series where your every decision can have enormous consequences. Fairytale characters are being murdered in this hard-boiled, violent and mature thriller based on the award-winning Fables comic book series (DC Comics/Vertigo) by Bill Willingham. Additional episodes available as downloadable content.",
+        "short": "From the creators of the 2012 Game of the Year: The Walking Dead. A violent and mature thriller based on the award-winning Fables comic books (DC Comics/Vertigo). As Bigby Wolf - THE big bad wolf - you will discover that a brutal, bloody murder is just a taste of things to come in a game series where your every decision can have enormous consequences. Additional episodes available as downloadable content."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411216/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411216/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411216/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411216/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411216/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411216/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411216/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411216/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411216/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411216/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "443607D5",
+                "title": "The Wolf Among Us"
+            }
+        ],
+        "related": []
+    }
+}

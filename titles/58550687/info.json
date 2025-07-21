@@ -1,0 +1,35 @@
+{
+    "id": "58550687",
+    "title": {
+        "full": "Controdazone",
+        "reduced": "Controdazone"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Pudge Games",
+    "publisher": "Pudge Games",
+    "release_date": null,
+    "user_rating": "2.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Controdazone! It’s \"Control\" + \"The\" + \"Zone\", get it? This game is a twin stick shooter with a twist. Instead of killing your opponents you fight vigorously for control over the “zone”, a circular area that travels around the screen. Battle with up to 4 friends, or hone your skills against the bots. Grab power ups to give you an edge in battle. Only 80 points to play forever!",
+        "short": "Controdazone! It’s \"Control\" + \"The\" + \"Zone\", get it? This game is a twin stick shooter with a twist. Instead of killing your opponents you fight vigorously for control over the “zone”, a circular area that travels around the screen. Battle with up to 4 friends, or hone your skills against the bots. Grab power ups to give you an edge in battle. Only 80 points to play forever!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550687/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550687_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550687/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550687_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550687_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550687_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550687_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

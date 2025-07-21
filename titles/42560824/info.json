@@ -1,0 +1,46 @@
+{
+    "id": "42560824",
+    "title": {
+        "full": "Fantasia Music Evolved",
+        "reduced": "Fantasia Music Evolved"
+    },
+    "genre": [
+        "Kinect",
+        "Music"
+    ],
+    "developer": "Harmonix Music Systems ",
+    "publisher": "Disney Interactive",
+    "release_date": "2014-10-21",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Music Downloads Not Rated by the ESRB.   The Games on Demand version supports English, French, Italian, German, Spanish, Brazilian Portuguese, and Russian.   This game requires a Kinect™ Sensor.  Fantasia: Music Evolved is a breakthrough musical motion game where players embark on an interactive and immersive motion-controlled journey through fantastical worlds of music and magic.  Players will control music from some of the world's biggest acts, from over 25 leading artists including chart-topper Bruno Mars, rock royalty Queen and electronic DJ and producer AVICII.  Using intuitive motion controls and natural, free-flowing gesture-based gameplay, players will control the musical flow of these hits, unlocking the power to transform the music and living world.   ",
+        "short": "A breakthrough musical motion game where players embark on an interactive and immersive motion-controlled journey through worlds of music and magic. Players will control music from some of the world's biggest acts, from over 25 leading artists and bands."
+    },
+    "media": [
+        {
+            "media_id": "17A869F7",
+            "title": "Disney Fantasia: Music Evolved",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560824/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560824/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560824/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560824/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560824/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560824/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560824/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560824/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560824/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560824/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560824/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

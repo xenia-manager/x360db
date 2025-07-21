@@ -1,0 +1,47 @@
+{
+    "id": "465607DE",
+    "title": {
+        "full": "Phantom Breaker",
+        "reduced": "Phantom Breaker"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "5pb.",
+    "publisher": "SOFTMAX Co., Ltd.",
+    "release_date": "2011-11-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "5pb.が贈る完全新作対戦格闘ゲーム『ファントムブレイカー』は、自らの願いを叶えるため戦いに身を投じる美しきデュエリストたちの物語。簡単操作で気軽に熱い対戦が可能で、初心者から上級者まで広く楽しめます。",
+        "short": "5pb.が贈る完全新作対戦格闘ゲーム『ファントムブレイカー』は、自らの願いを叶えるため戦いに身を投じる美しきデュエリストたちの物語。簡単操作で気軽に熱い対戦が可能で、初心者から上級者まで広く楽しめます。"
+    },
+    "media": [
+        {
+            "media_id": "45D6E997",
+            "title": "Phantom Breaker",
+            "edition": "Shokai Genteiban",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607de/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607de/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607de/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607de/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607de/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607de/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607de/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607de/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "535007ED",
+                "title": "Phantom Breaker"
+            }
+        ],
+        "related": []
+    }
+}

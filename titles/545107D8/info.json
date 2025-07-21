@@ -1,0 +1,64 @@
+{
+    "id": "545107D8",
+    "title": {
+        "full": "FrontlinesFuel of War",
+        "reduced": "FrontlinesFuel of War"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Kaos Studios",
+    "publisher": "THQ",
+    "release_date": "2010-07-02",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Frontlines: Fuel of War is a military-themed infantry and vehicle based, open-world first person shooter.  The newly formed Red Star Alliance, led by Russia and China, clash with Western Coalition (U.S. & the European Union) forces over increasing energy shortages. This sets the stage for a massive conventional apocalypse pitting the biggest military powers against each other as they try to defend their interests and support their collapsing economies.  Frontlines™: Fuel of War Dedicated Servers will no longer be available for the Microsoft® Xbox 360 after August 31st, 2011. Players can continue to host their own sessions, with a maximum player count of 16.",
+        "short": "Frontlines: Fuel of War is a military-themed infantry and vehicle based, open-world first person shooter.  The newly formed Red Star Alliance, led by Russia and China, clash with Western Coalition (U.S. & the European Union) forces over increasing energy shortages. This sets the stage for a massive conventional apocalypse pitting the biggest military powers against each other as they try to defend their interests and support their collapsing economies."
+    },
+    "media": [
+        {
+            "media_id": "130DAC2E",
+            "title": "Frontlines: Fuel of War",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "5A3B8C1E",
+            "title": "Frontlines: Fuel of War",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "63616460",
+            "title": "Frontlines: Fuel of War",
+            "edition": "Original, Promo, Bundled with Soundtrack Disc",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d8/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d8/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d8/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d8/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107d8/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/545107d8/0b9b2a0f-3216-4909-b7d8-f776b635fd06.PDF"
+        ]
+    }
+}

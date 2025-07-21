@@ -1,0 +1,30 @@
+{
+    "id": "545107F3",
+    "title": {
+        "full": "MotoGP 06 Far East",
+        "reduced": "MotoGP 06 Far East"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Climax Racing Ltd",
+    "publisher": "THQ",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "Race across the 17 MotoGP 2006 official circuits and take to the streets over 17 extreme tracks.",
+        "short": "Race across the 17 MotoGP 2006 official circuits and take to the streets over 17 extreme tracks."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545107f3/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

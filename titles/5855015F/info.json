@@ -1,0 +1,32 @@
+{
+    "id": "5855015F",
+    "title": {
+        "full": "Amazing Wizard",
+        "reduced": "Amazing Wizard"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "XtianP",
+    "publisher": "XtianP",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Amazing Wizard is a Magic Game.  Make your XBOX magically answer any questions.  English Only.  NOTE: CHATPAD REQUIRED. (Similar to 'Peter Answers' / 'Wizard 666')",
+        "short": "Amazing Wizard is a Magic Game.  Make your XBOX magically answer any questions.  English Only.  NOTE: CHATPAD REQUIRED. (Similar to 'Peter Answers' / 'Wizard 666')"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855015f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855015F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855015f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855015F_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

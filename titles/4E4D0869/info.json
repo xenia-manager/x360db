@@ -1,0 +1,53 @@
+{
+    "id": "4E4D0869",
+    "title": {
+        "full": "Digimon All-Star Rumble",
+        "reduced": "Digimon ASR"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting"
+    ],
+    "developer": "PROPE, LTD.",
+    "publisher": "BANDAI NAMCO Games America, Inc.",
+    "release_date": "2014-11-11",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Spanish, Portuguese.  Let’s get ready to Digi-Rumble! Jam-packed with an all-star cast from the Digimon Universe, Digimon All-Star Rumble throws down with immersive 3D battle arenas and high-impact, in-your-face fighting action. ",
+        "short": "Jam-packed with an all-star cast from the Digimon Universe, Digimon All-Star Rumble throws down with immersive 3D battle arenas and high-impact fighting action."
+    },
+    "media": [
+        {
+            "media_id": "5D8923FF",
+            "title": "Digimon All-Star Rumble",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "72D4DBDA",
+            "title": "Digimon All-Star Rumble",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

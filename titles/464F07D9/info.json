@@ -1,0 +1,37 @@
+{
+    "id": "464F07D9",
+    "title": {
+        "full": "Naval Assault",
+        "reduced": "Naval Assault"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Artech Studios",
+    "publisher": "505 Games",
+    "release_date": "2010-06-01",
+    "user_rating": "3.25",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Follows a dramatic storyline of subterfuge inspired by the events of WWII where you command a fully armed submarine. Engage in sea warfare against enemy ships, subs and aircrafts, leading a daring US Naval Special Ops team across 30 levels that culminate in a spectacular sea battle!",
+        "short": "Follows a dramatic storyline of subterfuge inspired by the events of WWII where you command a fully armed submarine. Engage in sea warfare against enemy ships, subs and aircrafts, leading a daring US Naval Special Ops team across 30 levels that culminate in a spectacular sea battle!"
+    },
+    "media": [
+        {
+            "media_id": "02FFF93C",
+            "title": "Naval Assault: The Killing Tide",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d9/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

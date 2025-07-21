@@ -1,0 +1,54 @@
+{
+    "id": "415607EF",
+    "title": {
+        "full": "Singularity",
+        "reduced": "Singularity"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Raven Software",
+    "publisher": "Activision",
+    "release_date": "2010-05-22",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English, French, Italian, Spanish.  Strange and alarming activities have recently been detected at a top-secret Russian military research base on a remote island off the coast of Siberia. Fearing another Chernobyl disaster, your job as a U.S. Special Forces Operative, is to learn the truth behind the island of Katorga-12, the site of Soviet experimentation in the 1950’s that led to a catastrophic SINGULARITY, an event that fractured time itself.  You’ll soon discover this island is at the center of a massive Russian cover-up that threatens the world as we know it. Armed with powerful advanced weapons from the island and the experimental Time Manipulation Device, you’ll fight enemies from the past, the future, and abominations caught somewhere between time and reality.  Fight the past to save the future, and Stop the SINGULARITY.",
+        "short": "Strange and alarming activities have recently been detected at a top-secret Russian military research base on a remote island off the coast of Siberia. Fearing another Chernobyl disaster, your job as a U.S. Special Forces Operative, is to learn the truth behind the island of Katorga-12, the site of Soviet experimentation in the 1950’s that led to a catastrophic SINGULARITY, an event that fractured time itself.  You’ll soon discover this island is at the center of a massive Russian cover-up tha…"
+    },
+    "media": [
+        {
+            "media_id": "1B62BF41",
+            "title": "Singularity",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "09A9A7D9",
+            "title": "Singularity",
+            "edition": "Original",
+            "region": "Germany"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607ef/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607ef/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607ef/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607ef/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607ef/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607ef/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607ef/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607ef/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607ef/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607ef/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607ef/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/415607ef/Singularity_Manual_EN_Revised.pdf"
+        ]
+    }
+}

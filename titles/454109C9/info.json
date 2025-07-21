@@ -1,0 +1,54 @@
+{
+    "id": "454109C9",
+    "title": {
+        "full": "Plants vs Zombies Garden Warfare",
+        "reduced": "Plants vs Zombies Garden Warfare"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "PopCap",
+    "publisher": "Electronic Arts",
+    "release_date": "2014-02-25",
+    "user_rating": "4.25",
+    "description": {
+        "full": "REQUIRES XBOX LIVE GOLD, SOLD SEPARATELY.  The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese and Japanese.  Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  \"Plants vs. Zombies Garden Warfare digs into the trenches with an explosive new Co-op and Multiplayer action experience. Blast zombies and plants across a mine-blowing world that delivers the depth of a traditional online shooter blended with the refreshing humor of Plants vs. Zombies.  KEY FEATURES: 24-player multiplayer action: Choose your side, plants or zombies 4-player online co-op: Take on zombie waves and unique new bosses Customization: Personalize your favorite and new plants and zombies\" ",
+        "short": "The ultimate battle for brainz! Plants vs. Zombies Garden Warfare digs into the trenches with an explosive new action experience. Blast zombies, plants and new characters across a mine-blowing world that delivers the depth of a traditional online shooter blended with the refreshing humor of Plant vs. Zombies.  Take on Co-op and Multiplayer action with your friends and sow the seeds of victory! "
+    },
+    "media": [
+        {
+            "media_id": "7A7716F7",
+            "title": "Plants vs. Zombies: Garden Warfare",
+            "edition": "Original, Platinum Hits",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109c9/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

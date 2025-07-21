@@ -1,0 +1,49 @@
+{
+    "id": "5451087D",
+    "title": {
+        "full": "UFC Undisputed 3",
+        "reduced": "UFC Undisputed 3"
+    },
+    "genre": [
+        "Fighting",
+        "Sports & Recreation"
+    ],
+    "developer": "Yukes",
+    "publisher": "THQ Inc",
+    "release_date": "2012-01-03",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English, French, Italian, German, Spanish, Potuguese.  The best-selling franchise returns to take players inside the Octagon™ with UFC® Undisputed™ 3,  delivering UFC action focused on intense toe-to-toe combat, impressive visual presentation and increased accessibility. Featuring the addition of PRIDE Mode, a new submission system, new ways to finish the fight and increased accessibility, players will experience intense combat every time they step inside the Octagon. ",
+        "short": "(Online Interactions Not Rated by the ESRB) The best-selling franchise returns to take players inside the Octagon™ with UFC® Undisputed™ 3,  delivering UFC action focused on intense toe-to-toe combat, impressive visual presentation and increased accessibility. Featuring the addition of PRIDE Mode, a new submission system, new ways to finish the fight and increased accessibility, players will experience intense combat every time they step inside the Octagon."
+    },
+    "media": [
+        {
+            "media_id": "4105C0CC",
+            "title": "UFC Undisputed 3",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "3E0E52AB",
+            "title": "UFC Undisputed 3",
+            "edition": "Original,  UFC Double Pack",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451087d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451087d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451087d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451087d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451087d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451087d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451087d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025451087d/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

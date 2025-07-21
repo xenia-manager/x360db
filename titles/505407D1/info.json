@@ -1,0 +1,42 @@
+{
+    "id": "505407D1",
+    "title": {
+        "full": "CLANNAD",
+        "reduced": "CLANNAD"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "プロトタイプ",
+    "publisher": "Prototype",
+    "release_date": "2010-06-01",
+    "user_rating": "5.00",
+    "description": {
+        "full": "高校3年生の岡崎朋也は、無気力な毎日を送っている。毎日同じことの繰り返し。周りの皆のように学校生活を楽しむこともできず、毎日に遅刻してばかり。そのためか、構内では浮いた存在になっていた。ある日、朋也は学校まで続く坂道の下で一人の少女と出会う。そして、二人は上りだす。",
+        "short": "高校3年生の岡崎朋也は、無気力な毎日を送っている。毎日同じことの繰り返し。周りの皆のように学校生活を楽しむこともできず、毎日に遅刻してばかり。そのためか、構内では浮いた存在になっていた。ある日、朋也は学校まで続く坂道の下で一人の少女と出会う。そして、二人は上りだす。"
+    },
+    "media": [
+        {
+            "media_id": "113D6FBC",
+            "title": "Clannad",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505407d1/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

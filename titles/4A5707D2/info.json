@@ -1,0 +1,72 @@
+{
+    "id": "4A5707D2",
+    "title": {
+        "full": "ArcaniA - Gothic 4",
+        "reduced": "ArcaniA"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Spellbound Entertainment AG",
+    "publisher": "Nordic Games GmbH",
+    "release_date": "2013-07-30",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand Version supports English, French, Italian, German and Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual”.  ArcaniA continues the successful \"Gothic\" RPG-Series. Ten years have passed since the end of Gothic 3 and the world has changed - the Southern Islands have become embroiled in a grueling conflict, and set the stage for the player to brave countless adventures in the guise of a nameless hero. In a vibrant and elaborate environment, decisions will have to be made which will change not only the future of the Southern Islands, but of the entire world.",
+        "short": "ArcaniA continues the successful \"Gothic\" RPG-Series. Ten years have passed since the end of Gothic 3 and the world has changed - the Southern Islands have become embroiled in a grueling conflict, and set the stage for the player to brave countless adventures in the guise of a nameless hero. In a vibrant and elaborate environment, decisions will have to be made which will change not only the future of the Southern Islands, but of the entire world."
+    },
+    "media": [
+        {
+            "media_id": "33ECFD74",
+            "title": "Arcania: Gothic 4",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "5584B3DF",
+            "title": "Arcania: Gothic 4",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "603062B7",
+            "title": "Arcania: The Complete Tale",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5707d2/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4a5707d2/Arcania_XBox360_Manual_US.pdf"
+        ]
+    }
+}

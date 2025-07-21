@@ -1,0 +1,30 @@
+{
+    "id": "4D530980",
+    "title": {
+        "full": "Springfield Beta",
+        "reduced": ""
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "???",
+    "publisher": "???",
+    "release_date": "2010-07-27",
+    "user_rating": null,
+    "description": {
+        "full": "Download this to take part in the beta program!",
+        "short": "???"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530980/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530980/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530980/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530980/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

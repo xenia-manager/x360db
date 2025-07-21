@@ -1,0 +1,37 @@
+{
+    "id": "434107D2",
+    "title": {
+        "full": "TGM ACE",
+        "reduced": "TGM ACE"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "<Insert display string text>",
+    "publisher": "AQ INTERACTIVE Inc.",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "<Insert display string text>",
+        "short": "<Insert display string text>"
+    },
+    "media": [
+        {
+            "media_id": "111991FC",
+            "title": "Tetris: The Grand Master Ace",
+            "edition": "Original, Bundled with Xbox 360",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434107d2/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

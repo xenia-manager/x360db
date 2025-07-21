@@ -1,0 +1,40 @@
+{
+    "id": "584111DB",
+    "title": {
+        "full": "Skullgirls",
+        "reduced": "Skullgirls"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "Lab Zero",
+    "publisher": "MarvelousAQL",
+    "release_date": "2012-04-04",
+    "user_rating": "4.25",
+    "description": {
+        "full": "(ONLINE INTERACTIONS NOT RATED BY THE ESRB) Skullgirls is a fast-paced 2-D fighting game that puts you in control of fierce warriors in a Dark Deco world.  All-new game systems test the skills of veteran fighting game fans while also making the genre enjoyable and accessible to newcomers.  A modern take on classic arcade fighters with a hand-drawn high-definition twist, Skullgirls is a one-of-a-kind, action-packed competition complete with awesome combos and an intriguing backstory.",
+        "short": "(ONLINE INTERACTIONS NOT RATED BY THE ESRB) Skullgirls is a fast-paced 2-D fighting game that puts you in control of fierce warriors in a Dark Deco world.  All-new game systems test the skills of veteran fighting game fans while also making the genre enjoyable and accessible to newcomers.  A modern take on classic arcade fighters with a hand-drawn high-definition twist, Skullgirls is a one-of-a-kind, action-packed competition complete with awesome combos and an intriguing backstory."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111db/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111db/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111db/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111db/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111db/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111db/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111db/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111db/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111db/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111db/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111db/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111db/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111db/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

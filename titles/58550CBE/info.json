@@ -1,0 +1,35 @@
+{
+    "id": "58550CBE",
+    "title": {
+        "full": "Marble Masters The Pit",
+        "reduced": "Marble Masters The Pit"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Polyart",
+    "publisher": "Polyart",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Destroy the other marbles in 50 challenging levels. Battle your friends in a 4 player arena. Do you have what it takes to become a Marble Master?",
+        "short": "Destroy the other marbles in 50 challenging levels. Battle your friends in a 4 player arena. Do you have what it takes to become a Marble Master?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550cbe/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550CBE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550cbe/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550CBE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CBE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CBE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550CBE_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

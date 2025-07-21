@@ -1,0 +1,44 @@
+{
+    "id": "565707D4",
+    "title": {
+        "full": "迷宮クロスブラッド リローデッド",
+        "reduced": "迷宮クロスブラッド リローデッド"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "エクスペリエンス",
+    "publisher": "角川ゲームス",
+    "release_date": "2011-11-10",
+    "user_rating": null,
+    "description": {
+        "full": "人気の学園ダンジョンRPG「ジェネレーションXthシリーズ」の集大成がパワーアップしてXbox360へ登場。 行方不明になった若者が、年老いた姿で発見される。急老症と呼ばれるそんな怪事件が人々を恐怖させていた。そんな折、下校中に何者かに拉致されてしまう主人公。目覚めるとそこは暗い都市迷宮。そして謎の黒い騎士が襲い掛かる。絶体絶命のその時、現れたエクス隊の隊長によって主人公は窮地を救われる。才能を見出され、異形と闘うエクス隊員となる主人公。隊の仲間たちと共に、今怪事件の捜査が始まる。 ",
+        "short": "人気の学園ダンジョンRPG「ジェネレーションXthシリーズ」の集大成がパワーアップしてXbox360へ登場。 行方不明になった若者が、年老いた姿で発見される。急老症と呼ばれるそんな怪事件が人々を恐怖させていた。才能を見出され、異形と闘うエクス隊員となる主人公。隊の仲間たちと共に、今怪事件の捜査が始まる。"
+    },
+    "media": [
+        {
+            "media_id": "485DF652",
+            "title": "Meikyuu Cross Blood: Reloaded",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d4/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d4/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d4/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d4/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d4/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d4/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d4/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d4/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d4/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d4/1041/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

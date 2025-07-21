@@ -1,0 +1,56 @@
+{
+    "id": "54540894",
+    "title": {
+        "full": "NBA 2K12",
+        "reduced": "NBA 2K12"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Visual Concepts Entertainment",
+    "publisher": "2K Sports",
+    "release_date": "2011-10-04",
+    "user_rating": "4.25",
+    "description": {
+        "full": "NOTE: ONLINE MULTIPLAYER SUPPORT FOR THIS TITLE WAS TERMINATED ON 11/15/2012.  ONLINE/MULTIPLAYER FEATURES ARE NOT ACTIVE OR INCLUDED. The Games on Demand version supports  English, French, Italian, German, Spanish, Japanese, Chinese.  Winner of over 20 Sports Game of the Year awards last year, the NBA 2K franchise is back and bigger than ever. NBA 2K12 delivers more action than any NBA game to date, putting gamers as close to the court as possible without having to lace up a pair of kicks. Join your favorite NBA stars in NBA 2K12 this fall.  ",
+        "short": "Winner of over 20 Sports Game of the Year awards last year, the NBA 2K franchise is back and bigger than ever. NBA 2K12 delivers more action than any NBA game to date, putting gamers as close to the court as possible without having to lace up a pair of kicks. Join your favorite NBA stars in NBA 2K12 this fall.  "
+    },
+    "media": [
+        {
+            "media_id": "6848ADF5",
+            "title": "NBA 2K12",
+            "edition": "Original, 2K Sports Combo Pack",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "1B1AA8EC",
+            "title": "NBA 2K12: Game of the Year Edition",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540894/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540894/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540894/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540894/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540894/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540894/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540894/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540894/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540894/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540894/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540894/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540894/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540894/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540894/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/54540894/NBA2K12_Manual_EN_Revised.pdf"
+        ]
+    }
+}

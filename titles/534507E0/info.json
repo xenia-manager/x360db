@@ -1,0 +1,46 @@
+{
+    "id": "534507E0",
+    "title": {
+        "full": "Viking",
+        "reduced": "Viking"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting",
+        "Role Playing"
+    ],
+    "developer": "The Creative Assembly",
+    "publisher": "Sega",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Viking: Battle for Asgard is a 3rd person action adventure based upon a twisted and horrific version of Viking mythology. Turn the tide against Hel’s invasion as Skarin, chosen defender of Midgard and rage-fuelled Viking warrior. Direct this meat-grinder of fury against an undead horde across 3 open-world environments in a series of deadly skirmishes and epic thousand-man battles.",
+        "short": "Viking: Battle for Asgard is a 3rd person action adventure based upon a twisted and horrific version of Viking mythology. Turn the tide against Hel’s invasion as Skarin, chosen defender of Midgard and rage-fuelled Viking warrior. Direct this meat-grinder of fury against an undead horde across 3 open-world environments in a series of deadly skirmishes and epic thousand-man battles."
+    },
+    "media": [
+        {
+            "media_id": "621AB556",
+            "title": "Viking: Battle for Asgard",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e0/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e0/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

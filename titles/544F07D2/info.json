@@ -1,0 +1,48 @@
+{
+    "id": "544F07D2",
+    "title": {
+        "full": "ZOIDS ALTERNATIVE",
+        "reduced": "ZOIDS ALTERNATIVE"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "SEモバイル・アンド・オンライン株式会社",
+    "publisher": "Tomy Co., LTD.",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "飛び散る薬莢！立ち上る爆煙！！「ゾイド」が新しいコンセプトで Xbox 360 に登場！！ゾイドの原点である“戦争”をテーマにミリタリーテイスト溢れる戦いが展開される！Xbox 360 ならではのビジュアル。プレイヤーの戦術眼が試されるゲームシステム。そして、オリジナルキャラクターによる完全オリジナルシナリオ。ゾイド新章が「ゾイドオルタナティブ」で幕を開ける！！",
+        "short": "飛び散る薬莢！立ち上る爆煙！！「ゾイド」が新しいコンセプトで Xbox 360 に登場！！ゾイドの原点である“戦争”をテーマにミリタリーテイスト溢れる戦いが展開される！Xbox 360 ならではのビジュアル。プレイヤーの戦術眼が試されるゲームシステム。そして、オリジナルキャラクターによる完全オリジナルシナリオ。ゾイド新章が「ゾイドオルタナティブ」で幕を開ける！！"
+    },
+    "media": [
+        {
+            "media_id": "66C8758D",
+            "title": "Zoids Alternative",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d2/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d2/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d2/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d2/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d2/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d2/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d2/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d2/1041/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d2/1041/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544f07d2/1041/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

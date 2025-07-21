@@ -1,0 +1,35 @@
+{
+    "id": "58550BCC",
+    "title": {
+        "full": "Little Kingdom Advanced",
+        "reduced": "Little Kingdom Advanced"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Andreil Game",
+    "publisher": "Andreil Game",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. You’re the leader of a small kingdom aiming to conquer the world. In this peaceful world without war or battle. Strengthen your economy and dominate the world with your influence. Contains a map generator.  It's the enhanced version, more buildings, more resources, new graphism, a new HUD, new gameplay options, more enemies , bigger map...",
+        "short": "You’re the leader of a small kingdom aiming to conquer the world. In this peaceful world without war or battle. Strengthen your economy and dominate the world with your influence. Contains a map generator.  It's the enhanced version, more buildings, more resources, new graphism, a new HUD, new gameplay options, more enemies , bigger map..."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550bcc/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550BCC_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550bcc/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550BCC_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BCC_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BCC_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550BCC_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

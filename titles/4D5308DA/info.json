@@ -1,0 +1,30 @@
+{
+    "id": "4D5308DA",
+    "title": {
+        "full": "LiPS Music Store",
+        "reduced": "Lips Music Store"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "iNiS",
+    "publisher": "Microsoft",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "Preview and purchase all the hottest downloadable tracks for Lips!",
+        "short": "Lips™ is the ultimate interactive singing experience. Two wireless motion-sensitive microphones pulse and shine as you and your friends sing and party to the hottest songs from the hottest artists. Got flow? Rap to epic hits like “Bust A Move” by Young MC. Got soul? Wow friends on hot new hits like “Mercy” from Duffy. Plus, get more tunes from top artists on Xbox LIVE®, and sing to your DRM-free songs on select music players. Got backup? Get a friend to pick up a mic and sing with you. And, whe…"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://mktplassets.xbox.com/NR/rdonlyres/5FD70193-30F0-40EB-9846-168C39932975/0/cbacklipsmusicstore.jpg",
+        "banner": "http://avatar.xboxlive.com/global/t.4d5308da/marketplace/0/4d5308daf0000001",
+        "boxart": "http://mktplassets.xbox.com/NR/rdonlyres/FBAFBC5F-7238-4453-8FF7-038445C40D39/0/cboxlipsmusicstore.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.4d5308da/icon/0/8000",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

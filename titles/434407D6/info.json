@@ -1,0 +1,43 @@
+{
+    "id": "434407D6",
+    "title": {
+        "full": "Divinity II",
+        "reduced": "Divinity II"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "Larian Studios",
+    "publisher": "dtp entertainment AG cdv entertainment USA",
+    "release_date": "2009-11-16",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Divinity II - Ego Draconis   Many years have passed since the darkness of Damian’s armies was repelled and he was banished from the world of Rivellon. While men enjoy their first years of real peace, Damian breaks free from his bonds and returns to take vengeance. And with him come the dragons...  You are the only thing that stands in the way of evil. In this new installment of the award-winning Divinity series, you must face your destiny and become one of the world’s most mysterious and powerful beings: a Dragon Knight.  Fight as both human and dragon, use your powerful battle tower as your base of operations, create your own creatures to support you in battle, and delve deep into a story that unfolds depending on your choices. Your decisions will determine the fate of Rivellon.",
+        "short": "Divinity II - Ego Draconis   Many years have passed since the darkness of Damian’s armies was repelled and he was banished from the world of Rivellon. While men enjoy their first years of real peace, Damian breaks free from his bonds and returns to take vengeance. And with him come the dragons...  You are the only thing that stands in the way of evil. In this new installment of the award-winning Divinity series, you must face your destiny and become one of the world’s most mysterious and po…"
+    },
+    "media": [
+        {
+            "media_id": "694477AE",
+            "title": "Divinity II: Ego Draconis",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434407d6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434407d6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434407d6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434407d6/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "445407D3",
+                "title": "Divinity II"
+            }
+        ],
+        "related": []
+    }
+}

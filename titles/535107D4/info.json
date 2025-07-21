@@ -1,0 +1,56 @@
+{
+    "id": "535107D4",
+    "title": {
+        "full": "PROJECT SYLPHEED",
+        "reduced": "PROJECT SYLPHEED"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "GAME ARTS / SETA",
+    "publisher": "Square",
+    "release_date": "2010-07-13",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Project Sylpheed is an engaging space saga from Square Enix, the makers of Final Fantasy & Kingdom Hearts. For five centuries, Terran forces have colonized the galaxy. The rebel ADAN “Freedom Alliance” has declared war to end the so-called “Terran tyranny”. Two best friends and up-and-coming Terran ace pilots--Katana and Margras--are separated by the unstable political situation on Margras’ home planet of Acheron. Soon after Margras is forced into exile, Acheron is destroyed in a suspicious accident that kills his family and renders the planet uninhabitable. Driven by revenge, Margras joins the ADAN fleet and leads raids against the Terran fleet. In preparation for just this type of conflict, the Terran Central Government (TCG) had created a superior space combat fighter called the Delta Saber under a top secret initiative called Project Sylpheed. As Katana, it’s up to you to valiantly pilot the Delta Saber in order to stop your closest friend and end this cosmos-spanning war that thre",
+        "short": "Project Sylpheed is an engaging space saga from Square Enix, the makers of Final Fantasy & Kingdom Hearts. For five centuries, Terran forces have colonized the galaxy. The rebel ADAN “Freedom Alliance” has declared war to end the so-called “Terran tyranny”. Two best friends and up-and-coming Terran ace pilots--Katana and Margras--are separated by the unstable political situation on Margras’ home planet of Acheron. Soon after Margras is forced into exile, Acheron is destroyed in a suspicious acci"
+    },
+    "media": [
+        {
+            "media_id": "503A0710",
+            "title": "Project Sylpheed",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "2D2E2EEB",
+            "title": "Project Sylpheed: Arc of Deception",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107d4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107d4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107d4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107d4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107d4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107d4/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107d4/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107d4/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107d4/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107d4/1033/screenlg12.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "584111E0",
+    "title": {
+        "full": "REAL STEEL",
+        "reduced": "REAL STEEL"
+    },
+    "genre": [
+        "Fighting",
+        "Sports & Recreation"
+    ],
+    "developer": "YUKE'S Co., Ltd.",
+    "publisher": "YUKE'S Co., Ltd.",
+    "release_date": "2011-12-14",
+    "user_rating": "4.00",
+    "description": {
+        "full": "This is a robot boxing game based on the upcoming film, \"REAL STEEL\".  The player assumes the role of an owner of a fighting robot, and must battle against many different rival robots in an attempt to become champion of several levels of fighting tiers. Players earn in-game money by winning matches and, using this money, must periodically improve their robot, making it stronger and more fit to compete in the higher level match tiers. The vast amount of customizable parts and selectable equipment makes for over 100 million possibilities of custom robots! In addition to single-player mode, the game also supports online multiplayer combat, which means players can search for new opponents from all around the world. Take your own personalized robot and aim for the top of the world of robot boxing!",
+        "short": "A boxing-style fighting game featuring robots as combatanants, based on the upcoming film, \"REAL STEEL\"."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e0/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e0/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e0/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e0/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e0/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

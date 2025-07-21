@@ -1,0 +1,35 @@
+{
+    "id": "5855096D",
+    "title": {
+        "full": "President John America",
+        "reduced": "President John America"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Maverick Games",
+    "publisher": "Maverick Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=2/3. The United States is on the verge of collapse.  In steps John America to win the 2012 presidential election.  His intellect is the size of his ego, which is also the size of his biceps, which just so happen to also be the size of his love for America.  John promises to personally hunt down the most dangerous terrorist threat the world has ever known, and eliminate a national debt of trillions!",
+        "short": "The United States is on the verge of collapse.  In steps John America to win the 2012 presidential election.  His intellect is the size of his ego, which is also the size of his biceps, which just so happen to also be the size of his love for America.  John promises to personally hunt down the most dangerous terrorist threat the world has ever known, and eliminate a national debt of trillions!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855096d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855096D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855096d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855096D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855096D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855096D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855096D_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

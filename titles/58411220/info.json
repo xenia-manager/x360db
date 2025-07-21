@@ -1,0 +1,37 @@
+{
+    "id": "58411220",
+    "title": {
+        "full": "AMY",
+        "reduced": "AMY"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "VectorCell",
+    "publisher": "Lexis Numérique",
+    "release_date": "2012-01-10",
+    "user_rating": "3.00",
+    "description": {
+        "full": "The city is infected! Walking corpses sniff the air, flaring out anything still alive. There is only one thing keeping you from running for your life. A special little girl holds your hand... You're not going anywhere without her. AMY offers you a tense, innovative and immersive experience in survival horror gaming. Play two original characters who alone are desperately fragile, but united become a force capable of confronting the denizens of a living hell.   Get ready to become infected. ",
+        "short": "AMY is tense, innovative and immersive! Survive in a world of zombies like never before. Rescue a child, and save the future of humanity."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411220/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411220/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411220/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411220/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411220/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411220/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411220/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411220/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411220/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411220/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

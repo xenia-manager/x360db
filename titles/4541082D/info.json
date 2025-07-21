@@ -1,0 +1,43 @@
+{
+    "id": "4541082D",
+    "title": {
+        "full": "NASCAR 08 EU",
+        "reduced": "NASCAR 08 EU"
+    },
+    "genre": [
+        "Racing & Flying",
+        "Sports & Recreation"
+    ],
+    "developer": "EA Tiburon",
+    "publisher": "Electronic Arts",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "Take the wheel and drive your way to the NASCAR® NEXTEL Cup Series championship in the most realistic NASCAR® racing game yet.  As the new rookie driver on the circuit, develop your racing skills to gain licenses and contracts from hungry owners and unlock top performing cars from NASCAR’s biggest stars. Gain new experiences during every race then modify your car’s handling with over 40 tuning options to truly master every track.  Experience tomorrow’s racing today in NASCAR® 08.",
+        "short": "Take the wheel and drive your way to the NASCAR® NEXTEL Cup Series championship in the most realistic NASCAR® racing game yet.  As the new rookie driver on the circuit, develop your racing skills to gain licenses and contracts from hungry owners and unlock top performing cars from NASCAR’s biggest stars. Gain new experiences during every race then modify your car’s handling with over 40 tuning options to truly master every track.  Experience tomorrow’s racing today in NASCAR® 08."
+    },
+    "media": [
+        {
+            "media_id": "3CBB2A48",
+            "title": "NASCAR 08",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541082d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541082d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541082d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541082d/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "45410814",
+                "title": "NASCAR 08"
+            }
+        ],
+        "related": []
+    }
+}

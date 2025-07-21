@@ -1,0 +1,55 @@
+{
+    "id": "415608B5",
+    "title": {
+        "full": "The Amazing Spider-Man",
+        "reduced": "The Amazing Spider-Man"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Beenox",
+    "publisher": "Activision",
+    "release_date": "2012-09-25",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Harness Spider-Man’s powers with Manhattan as your playground!  Set shortly after the events of Columbia Pictures' new film, The Amazing Spider-Man throws New York City's brand new hero back into free-roaming, web-slinging action, as he protects the Big Apple from a deluge of unimaginable threats. •Spider-Man’s Triumphant Return to New York –Everybody’s favorite web-head is back in Manhattan with the return of the fan-favorite, free-roaming, web-slinging gameplay.   •Web Rush: Player Choice Evolved – Players use real-time navigational and combat choices to fight crime and pull off Spidey’s signature acrobatic moves like never before. •Find Out What Happens Next – Uncover the rest of Peter Parker’s untold story in the all-new epilogue story to the Columbia Pictures' 2012 blockbuster theatrical release. •Push Spider-Man’s Abilities to the Limit – Battle all-new versions of classic Super Villains as well as original, larger than life enemies while racing to save Manhattan.",
+        "short": "Harness Spider-Man’s powers with Manhattan as your playground! Set shortly after the events of Columbia Pictures' new film, The Amazing Spider-Man throws New York City's brand new hero back into free-roaming, web-slinging action, as he protects the Big Apple from a deluge of unimaginable threats."
+    },
+    "media": [
+        {
+            "media_id": "56D7E1A4",
+            "title": "The Amazing Spider-Man",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "63461509",
+            "title": "The Amazing Spider-Man",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608b5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608b5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608b5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608b5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608b5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608b5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608b5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608b5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608b5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608b5/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608b5/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608b5/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608b5/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/415608b5/6067_d20120329-014_Xbox%20360%20GonD%20Manual_01.pdf"
+        ]
+    }
+}

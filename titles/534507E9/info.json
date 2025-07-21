@@ -1,0 +1,35 @@
+{
+    "id": "534507E9",
+    "title": {
+        "full": "Phantasy Star Universe Demo",
+        "reduced": "Phantasy Star Universe Demo"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "release_date": "2010-12-08",
+    "user_rating": null,
+    "description": {
+        "full": "100 years of peace is shattered as a mysterious force infects the Gurhal System. Now, its four races must put aside their differences and band together... or face annihilation. Phantasy Star Universe breaks new ground in the legendary sci-fi RPG franchise by offering both single-player and online gameplay for the first time. Experience the game through the eyes of the main character, or create your own persona and embark on a huge variety of online quests with a squad of up to six players. A universe of adventure awaits! This demo offers a taste of the online \"Xbox Live\" mode. *Game data from the Xbox Live Demo cannot be used with the product version.",
+        "short": "Phantasy Star Universe is an epic sci-fi RPG that offers both an epic single-player story and online gameplay. This demo features the online \"Xbox Live\" mode."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534507e9/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "534507E3",
+                "title": "Phantasy Star Universe"
+            }
+        ],
+        "related": []
+    }
+}

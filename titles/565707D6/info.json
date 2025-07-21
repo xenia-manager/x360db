@@ -1,0 +1,60 @@
+{
+    "id": "565707D6",
+    "title": {
+        "full": "KILLER IS DEAD",
+        "reduced": "KILLER IS DEAD"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Grasshopper Manufacture, Kadokawa Games",
+    "publisher": "XSEED Games",
+    "release_date": "2013-08-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English and Japanese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   The latest from the demented mind of celebrated game creator, SUDA51, serving as a spiritual successor to previous cult favorites No More Heroes and Killer 7. Stylish cel-shaded visuals set the mood in this gritty, bloody, ultra-violent world where biomechanical augmentations increase the power of criminals and “executioners” alike. Mondo Zappa, a newly recruited executioner, hunts criminals wielding a Japanese sword in his right hand, and powerful biomechanical engineering in his left.",
+        "short": "Stylish visuals set the mood in this gritty, bloody, ultra-violent world where executioner Mondo Zappa hunts criminals in this latest offering from SUDA51."
+    },
+    "media": [
+        {
+            "media_id": "6A101FAB",
+            "title": "Killer Is Dead",
+            "edition": "Limited Edition",
+            "region": "Europe"
+        },
+        {
+            "media_id": "3EB87990",
+            "title": "Killer Is Dead",
+            "edition": "Premium Edition",
+            "region": "Japan"
+        },
+        {
+            "media_id": "3E830B80",
+            "title": "Killer Is Dead",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d6/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d6/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d6/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d6/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d6/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d6/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d6/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d6/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802565707d6/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/565707d6/KID_X360_MANUAL%20INTERIOR_4digital_revised.pdf"
+        ]
+    }
+}

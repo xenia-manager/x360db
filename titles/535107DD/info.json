@@ -1,0 +1,106 @@
+{
+    "id": "535107DD",
+    "title": {
+        "full": "Star Ocean The Last Hope",
+        "reduced": "Star Ocean The Last Hope"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "tri-Ace",
+    "publisher": "Square Enix",
+    "release_date": "2009-02-04",
+    "user_rating": "4.50",
+    "description": {
+        "full": "From the creative minds of Square Enix and tri-Ace, STAR OCEAN - THE LAST HOPE takes place at the very beginning of the Star Ocean series. This action-packed RPG takes players on the epic journey of mankind’s last stand, with exploration and battle across some of the most mysterious, dangerous and fantastical worlds of the universe. Earth has been decimated by World War III and now humanity must turn to the stars in search of a new home. Explore the galaxy on your quest, make allies and enemies among the alien races you encounter and uncover a danger so great that it threatens all of creation.",
+        "short": "Explore the galaxy on your quest, make allies and enemies among the alien races you encounter, and uncover a danger so great that it threatens all of creation."
+    },
+    "media": [
+        {
+            "media_id": "6C4DD8FD",
+            "title": "Star Ocean: The Last Hope (Disc 01)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "0FF5577D",
+            "title": "Star Ocean: The Last Hope (Disc 02)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "462802FC",
+            "title": "Star Ocean: The Last Hope (Disc 03)",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "6E6174B0",
+            "title": "Star Ocean: The Last Hope (Disc 1)",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "72348697",
+            "title": "Star Ocean: The Last Hope (Disc 1)",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "7569E6AB",
+            "title": "Star Ocean: The Last Hope (Disc 2)",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "1F9EDBDE",
+            "title": "Star Ocean: The Last Hope (Disc 2)",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "13BB8E0E",
+            "title": "Star Ocean: The Last Hope (Disc 3)",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "6A1B6109",
+            "title": "Star Ocean: The Last Hope (Disc 3)",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/7177/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/7177/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/7177/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/7177/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/7177/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/7177/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/7177/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/7177/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/7177/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107dd/7177/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

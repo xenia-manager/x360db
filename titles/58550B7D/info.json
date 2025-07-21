@@ -1,0 +1,35 @@
+{
+    "id": "58550B7D",
+    "title": {
+        "full": "Avatar downhill",
+        "reduced": "Avatar downhill"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "RIC",
+    "publisher": "RIC",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Exciting bike races of your Avatar through mountains and forests, across lakes and tunnels, while avoiding obstacles and your opponents. Enjoy the 24 circuits and 6 game modes (Single Race, Time Attack, Racing for points and Tournaments), alone, against a friend in split screen or against the rest of the planet through Xbox Live.",
+        "short": "Exciting bike races of your Avatar through mountains and forests, across lakes and tunnels, while avoiding obstacles and your opponents. Enjoy the 24 circuits and 6 game modes (Single Race, Time Attack, Racing for points and Tournaments), alone, against a friend in split screen or against the rest of the planet through Xbox Live."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550b7d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B7D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b7d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B7D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B7D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B7D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B7D_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

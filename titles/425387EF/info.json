@@ -1,0 +1,43 @@
+{
+    "id": "425387EF",
+    "title": {
+        "full": "RAGE Demo",
+        "reduced": "RAGE Demo"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "id Software",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2011-11-22",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Welcome to Wellspring, a small oasis of civilization in the Wasteland. The Ghost Clan, a cult of murderous fanatics, has infiltrated the waterworks beneath the town with plans to poison the water supply, and you’re the only one with the weapons, talent and courage to stop them.  Also while in Wellspring you can meet the townsfolk, try your hand in games of skill and chance, peruse the wares of the local vendors or hit the Speedway for some white-knuckle racing.",
+        "short": "Experience the explosive action of RAGE! Save the town of Wellspring from a cult of murderous fanatics, and prove you have what it takes to survive in the Wasteland."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425387ef/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425387ef/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425387ef/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425387ef/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425387ef/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425387ef/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425387ef/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425387ef/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425387ef/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425387ef/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "425307EC",
+                "title": "RAGE"
+            }
+        ],
+        "related": []
+    }
+}

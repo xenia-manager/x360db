@@ -1,0 +1,35 @@
+{
+    "id": "58550B6E",
+    "title": {
+        "full": "SCHAR Blue Shield Alliance",
+        "reduced": "SCHAR Blue Shield Alliance"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "BA Productions",
+    "publisher": "BA Productions",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=1/3, Mature Content=1/3. Blue Shield Alliance is a twin stick shooter featuring strategy elements that takes place after Mankind has traveled across three star systems and multiple planets within, crossing an aggressive force known only as CoNs. Striking sci-fi visuals and dynamic music combine with disparate missions for hours of intriguing gameplay and overall replay value.",
+        "short": "Blue Shield Alliance is a twin stick shooter featuring strategy elements that takes place after Mankind has traveled across three star systems and multiple planets within, crossing an aggressive force known only as CoNs. Striking sci-fi visuals and dynamic music combine with disparate missions for hours of intriguing gameplay and overall replay value."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550b6e/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B6E_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b6e/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B6E_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B6E_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B6E_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B6E_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

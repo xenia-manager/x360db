@@ -1,0 +1,35 @@
+{
+    "id": "58550595",
+    "title": {
+        "full": "Paradox",
+        "reduced": "Paradox"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Manor Studios",
+    "publisher": "Manor Studios",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Paradox - A game that pits your wits against the cosmos. Match blocks together as they funnel into a time-space rip to get a higher score. The higher your score gets the harder the game becomes. Play across three different modes of play, and hone your skills to become a true Paradox Champion.",
+        "short": "Paradox - A game that pits your wits against the cosmos. Match blocks together as they funnel into a time-space rip to get a higher score. The higher your score gets the harder the game becomes. Play across three different modes of play, and hone your skills to become a true Paradox Champion."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550595/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550595_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550595/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550595_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550595_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550595_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550595_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

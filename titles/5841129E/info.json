@@ -1,0 +1,37 @@
+{
+    "id": "5841129E",
+    "title": {
+        "full": "Sonic the Fighters",
+        "reduced": "Sonic the Fighters"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "SEGA",
+    "publisher": "SEGA",
+    "release_date": "2012-11-28",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Join Sonic and friends in battle in this classic arcade game from AM2.  Originally on consoles as part of the Sonic Gems collection, Sonic the Fighters is back with an all-new online mode, including both online versus and tournament play.    In single player mode, choose from 10 playable characters and fight through 8 stages to stop Dr. Robotnik and Metal Sonic from unleashing the Death Egg II!  Features include:  True to its arcade form with all-new online modes  All 8 original characters and arenas  Online versus mode for head-to-head matches  Online Room match mode for up to 6 players   ",
+        "short": "Join Sonic and friends in battle in this classic arcade game from AM2.  Originally on the console as part of the Sonic Gems collection, Sonic the Fighters is back with an all-new online mode, including both online versus and tournament play.   "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841129e/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

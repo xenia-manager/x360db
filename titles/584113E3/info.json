@@ -1,0 +1,37 @@
+{
+    "id": "584113E3",
+    "title": {
+        "full": "Who Wants To Be A Millionaire Special Editions",
+        "reduced": "Who Wants To Be A Millionaire"
+    },
+    "genre": [
+        "Family"
+    ],
+    "developer": "doublesix",
+    "publisher": "Deep Silver",
+    "release_date": "2015-02-10",
+    "user_rating": "3.00",
+    "description": {
+        "full": "Get into the hot seat and play classic Millionaire for a chance to win a virtual million dollars! This all new version of ”Who Wants To Be A Millionaire” lets you play solo or challenge your friends.  You keep game play fresh and fun with a constant expanding library of question packs offering hundreds of new questions.  ",
+        "short": "Get into the hot seat and play classic Millionaire for a chance to win a virtual million dollars!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e3/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

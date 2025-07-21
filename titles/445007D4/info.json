@@ -1,0 +1,69 @@
+{
+    "id": "445007D4",
+    "title": {
+        "full": "Dark Sector",
+        "reduced": "Dark Sector"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Digital Extremes",
+    "publisher": "D3 Publisher",
+    "release_date": "2008-01-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports English, French, and Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Created by acclaimed developer Digital Extremes, Dark Sector™ is a new and original third-person action-shooter designed exclusively for next- generation gaming. Dark Sector thrusts players into the role of Hayden Tenno, a covert operative sent on a dangerous mission into Lasria, an Eastern European city on the brink of ruin that hides a deadly Cold War secret. In the midst of this mission, Hayden is attacked by an unknown enemy and infected by the Technocyte Virus, a brutal bio-weapon that twists its victims into mindless killing machines. Surviving this attack, Hayden finds that the Technocyte virus has granted him powerful, inhuman abilities unlike anything he has ever seen. Now, he must evolve with his powers, survive and become a hero.",
+        "short": "Created by acclaimed developer Digital Extremes, Dark Sector™ is a new and original third-person action-shooter designed exclusively for next- generation gaming. Dark Sector thrusts players into the role of Hayden Tenno, a covert operative sent on a dangerous mission into Lasria, an Eastern European city on the brink of ruin that hides a deadly Cold War secret. In the midst of this mission, Hayden is attacked by an unknown enemy and infected by the Technocyte Virus, a brutal bio-weapon that twis"
+    },
+    "media": [
+        {
+            "media_id": "620FF75D",
+            "title": "Dark Sector",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "480FCF7B",
+            "title": "Dark Sector",
+            "edition": "Original, Promo",
+            "region": "Europe"
+        },
+        {
+            "media_id": "09236868",
+            "title": "Dark Sector",
+            "edition": "Original",
+            "region": "Italy"
+        },
+        {
+            "media_id": "477378D1",
+            "title": "Dark Sector",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007d4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007d4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007d4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007d4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007d4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007d4/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007d4/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802445007d4/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/445007d4/ENGLISH.full%20trimmed%20DarkSector_X360_manual.pdf"
+        ]
+    }
+}

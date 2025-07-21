@@ -1,0 +1,32 @@
+{
+    "id": "58550A5F",
+    "title": {
+        "full": "3D Stereo Studio",
+        "reduced": "3D Stereo Studio"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Bitreaction Game Studios",
+    "publisher": "Bitreaction Game Studios",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. 3D Stereo Studio is an interactive studio to examine a large collection of stunning 3D anaglyph models. By watching the models with red/blue glasses, the objects become real and jump out of your screen!",
+        "short": "3D Stereo Studio is an interactive studio to examine a large collection of stunning 3D anaglyph models. By watching the models with red/blue glasses, the objects become real and jump out of your screen!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550a5f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550A5F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550a5f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550A5F_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

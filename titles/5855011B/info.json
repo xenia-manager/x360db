@@ -1,0 +1,35 @@
+{
+    "id": "5855011B",
+    "title": {
+        "full": "Snake360",
+        "reduced": "Snake360"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "yyrGames",
+    "publisher": "yyrGames",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. www.snake360.com - Fast-paced arcade-style Snake game with 300 levels, 9 game modes including battle modes for up to 4 players, a Goal Board with 12 unlockable features, Internet Ranking, full 3D graphics and a pumping soundtrack from SCI Recordings featuring almost 30 minutes of music!  Many hours of fun and challenge...a great value!",
+        "short": "www.snake360.com - Fast-paced arcade-style Snake game with 300 levels, 9 game modes including battle modes for up to 4 players, a Goal Board with 12 unlockable features, Internet Ranking, full 3D graphics and a pumping soundtrack from SCI Recordings featuring almost 30 minutes of music!  Many hours of fun and challenge...a great value!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855011b00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855011B_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855011b/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855011B_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855011B_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855011B_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855011B_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

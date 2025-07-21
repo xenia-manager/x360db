@@ -1,0 +1,44 @@
+{
+    "id": "45410881",
+    "title": {
+        "full": "Rock Band Song Pack 2",
+        "reduced": "Rock Band Song Pack 2"
+    },
+    "genre": [
+        "Music",
+        "Strategy & Simulation"
+    ],
+    "developer": "Harmonix Music Systems, Inc.",
+    "publisher": "Electronic Arts",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Live out your rock 'n' roll fantasy with the most cutting-edge music game ever!",
+        "short": "Live out your rock 'n' roll fantasy with the most cutting-edge music game ever!"
+    },
+    "media": [
+        {
+            "media_id": "531D1A9F",
+            "title": "Rock Band: Song Pack 2",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "52CF59F7",
+            "title": "Rock Band: Track Pack Volume 2",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410881/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410881/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410881/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410881/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

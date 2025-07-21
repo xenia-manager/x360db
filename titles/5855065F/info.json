@@ -1,0 +1,35 @@
+{
+    "id": "5855065F",
+    "title": {
+        "full": "Dossun World",
+        "reduced": "Dossun World"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "konoha",
+    "publisher": "konoha",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. This is scroll action game.  The enemy can be defeated by causing the wave.  The player can make the wave by the hip attack etc.  25 stages.",
+        "short": "This is scroll action game.  The enemy can be defeated by causing the wave.  The player can make the wave by the hip attack etc.  25 stages."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.5855065f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855065F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855065f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855065F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855065F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855065F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855065F_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": "41560881",
+    "title": {
+        "full": "Spider-ManDimensions",
+        "reduced": "Spider-ManDimensions"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family",
+        "Platformer"
+    ],
+    "developer": "Beenox",
+    "publisher": "Activision",
+    "release_date": "2010-09-07",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Spider-Man™: Shattered Dimensions is an action-packed adventure encompassing four dramatically different parallel universes, each with its own Spider-Man armed with unique strengths.  Each stunning universe has its own detailed art design and thrilling gameplay with challenging skill sets to master in order to unlock powerful new moves.  Explore dramatic, stunning environments, wield explosive new powers, and face epic boss battles against extraordinary foes.  Experience the legendary Super Hero like never before: Four unique worlds.  Four distinct Spider-Men.  One unparalleled experience!",
+        "short": "Spider-Man™: Shattered Dimensions is an action-packed adventure encompassing four dramatically different parallel universes, each with its own Spider-Man armed with unique strengths.  Each stunning universe has its own detailed art design and thrilling gameplay with challenging skill sets to master in order to unlock powerful new moves.  Explore dramatic, stunning environments, wield explosive new powers, and face epic boss battles against extraordinary foes.  Experience the legendary Super Her…"
+    },
+    "media": [
+        {
+            "media_id": "06AAF6AB",
+            "title": "Spider-Man: Shattered Dimensions",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560881/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560881/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560881/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560881/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560881/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560881/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560881/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560881/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560881/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560881/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560881/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560881/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/41560881/SMSD_X360_83967226UK_MG.pdf"
+        ]
+    }
+}

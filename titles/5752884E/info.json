@@ -1,0 +1,45 @@
+{
+    "id": "5752884E",
+    "title": {
+        "full": "LEGO Jurassic World DEMO",
+        "reduced": "LEGO Jurassic World DEMO"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Traveller's Tales",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "release_date": "2015-09-20",
+    "user_rating": "4.00",
+    "description": {
+        "full": "LEGO® Jurassic World™ is the first videogame to let players experience all four Jurassic films in humorous LEGO form.",
+        "short": "LEGO® Jurassic World™ is the first videogame to let players experience all four Jurassic films in humorous LEGO form."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752884e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752884e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752884e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752884e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752884e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752884e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752884e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752884e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752884e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752884e/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752884e/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752884e/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752884e/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5752084D",
+                "title": "LEGO® Jurassic World™ "
+            }
+        ],
+        "related": []
+    }
+}

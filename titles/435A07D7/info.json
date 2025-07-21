@@ -1,0 +1,40 @@
+{
+    "id": "435A07D7",
+    "title": {
+        "full": "虫姫さまふたり",
+        "reduced": "虫姫さまふたり"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "CAVE",
+    "publisher": "CAVE",
+    "release_date": "2009-12-11",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports  English.  On a time axis different from the present. A vertically-scrolling bullet hell shooter unfolds against the backdrop of the travel story of Reko, a girl who has become a goddess, and the dragon-riding boy Palm.  There are 3 game modes and 2 types of machines available. It is possible to choose a combination that suits you. Moreover, the Arrange Version also strives to “achieve new gaming characteristics\" and also \"give new players an enjoyable gaming experience\". “This journey will connect the memories of the two adventurers.\"",
+        "short": "今とは違う時間軸。 神さまとなった少女レコと ドラゴンに乗った少年パルムの 二人旅の物語を背景に繰り広げられる 弾幕縦スクロールシューティング。 ３つのゲームモードと自機タイプは それぞれ２つを持ち、組み合わせで 自分にあったものを選択できる。 また、アレンジ版として 「新しいゲーム性と追求したもの」と 「初心者でも爽快に楽しめるもの」 と二つが追加！！  「その旅は、ふたりの想いをつないでゆく」"
+    },
+    "media": [
+        {
+            "media_id": "60A28AE5",
+            "title": "Mushihimesama Futari Ver 1.5",
+            "edition": "Shokai Genteiban, Cave Shooting Collection",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435a07d7/1033/screenlg2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

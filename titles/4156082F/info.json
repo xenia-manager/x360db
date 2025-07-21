@@ -1,0 +1,45 @@
+{
+    "id": "4156082F",
+    "title": {
+        "full": "Marvel Ultimate Alliance 2",
+        "reduced": "Marvel Ult Alliance 2"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "Vicarious Visions",
+    "publisher": "Activision",
+    "release_date": "2799-12-30",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English.  The Marvel Universe is being torn apart. The Superhuman Registration Act becomes law and Super Heroes must register as weapons of mass destruction, becoming licensed government agents. As Civil War is stirred, Iron Man leads the Pro-Registration side while Captain America spearheads the stand on Anti-Registration. The enemies you battle and the missions you accomplish depend on which side you choose.  • Create and customize your ultimate team. Assemble your dream team from the Marvel Universe and select from over 24 playable characters, each with specialized powers.  • Cooperate with your ultimate alliance. Take full advantage of the Marvel Universe by playing Cooperative Mode with up to four friends, both online and offline. ",
+        "short": "The Marvel Universe is being torn apart. The Superhuman Registration Act becomes law and Super Heroes must register as weapons of mass destruction, becoming licensed government agents. As Civil War is stirred, Iron Man leads the Pro-Registration side while Captain America spearheads the stand on Anti-Registration. The enemies you battle and the missions you accomplish depend on which side you choose. "
+    },
+    "media": [
+        {
+            "media_id": "39B3E2C9",
+            "title": "Marvel: Ultimate Alliance 2",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024156082f/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550487",
+    "title": {
+        "full": "World War Toon",
+        "reduced": "World War Toon"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "JeBuS",
+    "publisher": "JeBuS",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Inspired by board games of old, World War Toon is a re-imagining for the digital era. This quick-paced turn-based strategy game is simple to play, but difficult to master.  Use the abilities of infantry, tank, and rocket launcher units to your advantage as you conquer the world.  Featuring random maps every game, no two games are ever the same.",
+        "short": "Inspired by board games of old, World War Toon is a re-imagining for the digital era. This quick-paced turn-based strategy game is simple to play, but difficult to master.  Use the abilities of infantry, tank, and rocket launcher units to your advantage as you conquer the world.  Featuring random maps every game, no two games are ever the same."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855048700000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550487_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550487/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550487_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550487_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550487_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550487_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

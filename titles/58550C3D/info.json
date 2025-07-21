@@ -1,0 +1,35 @@
+{
+    "id": "58550C3D",
+    "title": {
+        "full": "STRACO Episode 1",
+        "reduced": "STRACO Episode 1"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Not Very Original",
+    "publisher": "Not Very Original",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=1/3. Part tower defense, part twin stick shooter.  STRACO will test your wit and reflexes to survive against the odds!  Command your towers, gun down the enemy hoards, march to glorious victory, rescue the fair maiden... wait... what?  Forget that last part...",
+        "short": "Part tower defense, part twin stick shooter.  STRACO will test your wit and reflexes to survive against the odds!  Command your towers, gun down the enemy hoards, march to glorious victory, rescue the fair maiden... wait... what?  Forget that last part..."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550c3d/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550C3D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550c3d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550C3D_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C3D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C3D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550C3D_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

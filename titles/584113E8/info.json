@@ -1,0 +1,38 @@
+{
+    "id": "584113E8",
+    "title": {
+        "full": "How to Survive",
+        "reduced": "How to Survive"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "EKO Software",
+    "publisher": "505 Games Srl",
+    "release_date": "2013-10-23",
+    "user_rating": "4.00",
+    "description": {
+        "full": "You are shipwrecked on an isolated island, a desperate castaway in a total freakshow world. How will you survive?  Collect the pages of a Survival Guide and figure it out, of course! Find food, water, and shelter before you perish. Uh oh, is it getting dark? Figure out how to get through the night! While you’re at it, gather up some of this awesome stuff and piece together over 100 handmade weapons and tools—from shotguns to Molotov cocktails. Now you can defend yourself and your friends like a boss!  • Choose one of the three playable characters, each with different characteristics and skill trees. • Explore four islands filled with unique flora and fauna and a variety of abhorrent monstrosities • Collect “Survival guide” video chapters to learn tips that will save your life! • Play with a friend offline through the story mode or go online and play with a friend through 8 demanding challenges. • Try the “Iron Man” difficulty for a demanding hardcore game experience.",
+        "short": "You’re stranded on an island and surrounded by unholy horrors. Can you stay alive long enough to escape?  Not likely, but at least you’re armed with your brain (a very hot item around here), and a How To Survive guide written by an eccentric stranger. Forage for food, find shelter, and make the weapons and tools necessary to put off your inevitable end! Fight for your life…for as long as you can."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e8/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

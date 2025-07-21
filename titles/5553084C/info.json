@@ -1,0 +1,44 @@
+{
+    "id": "5553084C",
+    "title": {
+        "full": "Child of Eden",
+        "reduced": "Child of Eden"
+    },
+    "genre": [
+        "Kinect",
+        "Music",
+        "Shooter"
+    ],
+    "developer": "Q Entertainment",
+    "publisher": "Ubisoft",
+    "release_date": "2011-06-14",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  One of the most anticipated games of 2011 for Kinect.  Winner of 9 awards at E3 for innovative graphics, music, and gameplay.  Child of Eden is the “multi-sensory shooter” that will send players diving into a visual matrix of synchronized music and mind-blowing visuals.  It will usher forth yet another landmark game experience from the mind of renowned game designer Tetsuya Mizuguchi.",
+        "short": "One of the most anticipated games of 2011 for Kinect.  Winner of 9 awards at E3 for innovative graphics, music, and gameplay.  Child of Eden is the “multi-sensory shooter” that will send players diving into a visual matrix of synchronized music and mind-blowing visuals.  It will usher forth yet another landmark game experience from the mind of renowned game designer Tetsuya Mizuguchi."
+    },
+    "media": [
+        {
+            "media_id": "0E78C183",
+            "title": "Child of Eden",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

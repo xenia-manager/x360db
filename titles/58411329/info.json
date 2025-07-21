@@ -1,0 +1,38 @@
+{
+    "id": "58411329",
+    "title": {
+        "full": "Sanctum 2",
+        "reduced": "Sanctum 2"
+    },
+    "genre": [
+        "Shooter",
+        "Strategy & Simulation"
+    ],
+    "developer": "Coffee Stain Studios",
+    "publisher": "Reverb Communications Inc",
+    "release_date": "2013-05-15",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Sanctum 2 is the sequel to the world’s first Tower Defense/FPS hybrid game. Pick from four unique character classes and embark on a mission to protect the oxygen-producing Cores from hordes of deadly aliens who are threatened by their existence. In Sanctum 2, you will utilize elements from multiple gameplay genres to succeed. Construct towers and walls during the building phase before the enemies attack, then jump into the fray and blast everything to pieces in FPS mode. You can progress through the single-player campaign yourself, or play with up to four friends in co-op to discover the secrets of the planet LOEK III. ",
+        "short": "In Sanctum 2, you will utilize elements from multiple gameplay genres to succeed. Construct towers and walls during the building phase before the enemies attack, then jump into the fray and blast everything to pieces in FPS mode. You can progress through the single-player campaign yourself, or play with up to four friends in co-op to discover the secrets of the planet LOEK III and learn the backstory on why the aliens are so intent on destroying the Cores you are sworn to protect."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411329/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411329/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411329/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411329/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411329/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411329/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411329/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411329/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411329/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411329/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

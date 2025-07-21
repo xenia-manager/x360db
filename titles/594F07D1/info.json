@@ -1,0 +1,68 @@
+{
+    "id": "594F07D1",
+    "title": {
+        "full": "Yoostar2 In The Movies",
+        "reduced": "Yoostar2"
+    },
+    "genre": [
+        "Family",
+        "Independent & Music Videos",
+        "Kinect",
+        "More Entertainment",
+        "Music and Short Videos",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "Blitz Games Studios",
+    "publisher": "Yoostar Entertainment Group, Inc.",
+    "release_date": "2011-03-08",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Yoostar®2 brings the magic and fun of Hollywood to your living room.  Using your Kinect™ for Xbox 360®, you can insert yourself into famous movie and TV scenes, starring alongside or in place of your favorite actors.  Perform the lines as written, or improvise and deliver your own improvisation.  After you’ve finished, Yoostar scores your performance, and you can upload your scene to Yoostar 2’s in-game social portal, Xbox 360 Live, Yoostar.com and Facebook. Yoostar®2 is a fantastic party game that will appeal to both hardcore and casual players.  ",
+        "short": "Using your Kinect™ for Xbox 360®, Yoostar®2 brings the magic and fun of Hollywood to your living room.  "
+    },
+    "media": [
+        {
+            "media_id": "546953E5",
+            "title": "Yoostar 2: In the Movies",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "13CB39C4",
+            "title": "Yoostar 2: In the Movies",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802594f07d1/1033/screenlg19.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

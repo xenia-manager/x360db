@@ -1,0 +1,71 @@
+{
+    "id": "4E4D0819",
+    "title": {
+        "full": "NARUTO SHIPPUDEN ULTIMATE NINJA STORM 2",
+        "reduced": "NINJA STORM 2"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Fighting"
+    ],
+    "developer": "Cyber Connect 2 Co., Ltd.",
+    "publisher": "NAMCO BANDAI Games America Inc.",
+    "release_date": "2010-09-28",
+    "user_rating": "4.50",
+    "description": {
+        "full": "The tornado of fierce ninja action that is Naruto Shippuden hits Xbox 360® for the first time! NARUTO SHIPPUDEN™: Ultimate Ninja®: STORM 2 brings refined fighting mechanics, a rich story mode with deep replay value, and the first online play ever in the Ultimate Ninja franchise. Stunning graphics and real time animations place the player inside a living manga world packed with dramatic 3D boss battles against over 40 characters. See who's really the Ultimate Ninja by taking on real competitors online, while taking showmanship to a new level with a card system that allows players to show their ninja style. NARUTO SHIPPUDEN™: Ultimate Ninja®: STORM 2 is nothing less than the most electrifying, visually powerful fighting-adventure game ever.",
+        "short": "The tornado of fierce ninja action that is Naruto Shippuden hits Xbox 360® for the first time! NARUTO SHIPPUDEN™: Ultimate Ninja®: STORM 2 brings refined fighting mechanics, a rich story mode with deep replay value, and the first online play ever in the Ultimate Ninja franchise. Stunning graphics place the player inside a living manga world packed with dramatic 3D boss battles against over 40 characters."
+    },
+    "media": [
+        {
+            "media_id": "43E2BCB0",
+            "title": "Naruto Shippuden: Ultimate Ninja Storm 2",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "6501C146",
+            "title": "Naruto Shippuden: Ultimate Ninja Storm 2",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "27E3E2C5",
+            "title": "Naruto Shippuuden: Narutimate Storm 2",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0819/1033/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

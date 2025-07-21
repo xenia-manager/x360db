@@ -1,0 +1,35 @@
+{
+    "id": "58550874",
+    "title": {
+        "full": "Refractor",
+        "reduced": "Refractor"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "CurbDog Media Inc",
+    "publisher": "CurbDog Media Inc",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Refractor is an insanely addictive action puzzle experience in glorious eye popping 1080p that is both approachable and challenging for the pros. The killer visuals and custom soundtrack adjust to in-game progress. Experience the rush in single-player mode, cooperative mode, or crush your friends to bitter destruction in battle.",
+        "short": "Refractor is an insanely addictive action puzzle experience in glorious eye popping 1080p that is both approachable and challenging for the pros. The killer visuals and custom soundtrack adjust to in-game progress. Experience the rush in single-player mode, cooperative mode, or crush your friends to bitter destruction in battle."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855087400000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550874_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550874/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550874_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550874_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550874_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550874_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550E0D",
+    "title": {
+        "full": "Zombie Mine Quest",
+        "reduced": "Zombie Mine Quest"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Anthony Popp",
+    "publisher": "Anthony Popp",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=1/3, Mature Content=2/3. The world has been plagued by the Z-Virus. This zombifying virus brings a terrible death by infecting the host's lower extremities on up. Then it possesses the corpse. This newly zombified corpse will continue the cycle by infecting more innocent people. Your job is to retrieve the legendary N-Antivirus from the Dungeon of Doom. The question becomes, do you have the guts to make it out alive?",
+        "short": "The world has been plagued by the Z-Virus. This zombifying virus brings a terrible death by infecting the host's lower extremities on up. Then it possesses the corpse. This newly zombified corpse will continue the cycle by infecting more innocent people. Your job is to retrieve the legendary N-Antivirus from the Dungeon of Doom. The question becomes, do you have the guts to make it out alive?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550e0d00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E0D_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e0d/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E0D_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E0D_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E0D_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E0D_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

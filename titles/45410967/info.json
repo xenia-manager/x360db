@@ -1,0 +1,74 @@
+{
+    "id": "45410967",
+    "title": {
+        "full": "FIFA 12",
+        "reduced": "FIFA 12"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2011-09-27",
+    "user_rating": "4.00",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English, French.  FIFA 12 brings to the pitch the game-changing new Player Impact Engine, a physics engine built to deliver real-world physicality in every interaction on the pitch.  Experience the way real-world footballers challenge each other for the ball and test each other physically.  Revolutionary gameplay innovations make FIFA 12 deeper and more engaging. All-new Precision Dribbling creates a higher fidelity of touch on the ball for better control in tight spaces and more control over the pace of the game. Defending has been re-designed to make it as skilful and meaningful as real-world football with all-new Tactical Defending. CPU players have been infused with Pro Player Intelligence, a self-awareness that gives them the aptitude to understand the strengths and weaknesses of teammates in every situation on the field. FIFA 12 delivers an authentic Match Day experience, faster and easier navigation, and over 500 officially licensed clubs.",
+        "short": "FIFA 12 brings to the pitch the game-changing new Player Impact Engine, a physics engine built to deliver real-world physicality.  Revolutionary gameplay innovations inspired by the real-world of football make FIFA 12 deeper and more engaging. All-new Precision Dribbling offers more care on the ball for attacking players, while Tactical Defending fundamentally changes the approach to defending. "
+    },
+    "media": [
+        {
+            "media_id": "4ED903B6",
+            "title": "FIFA 12",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "6BE77557",
+            "title": "FIFA 12",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "2D19C758",
+            "title": "FIFA 12",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "48304DEA",
+            "title": "FIFA 12",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "2595C189",
+            "title": "FIFA 12: World Class Soccer",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "48859940",
+            "title": "FIFA Soccer 12",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410967/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410967/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410967/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410967/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410967/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410967/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410967/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410967/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410967/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410967/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

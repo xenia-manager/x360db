@@ -1,0 +1,53 @@
+{
+    "id": "57520841",
+    "title": {
+        "full": "The LEGO Movie Videogame",
+        "reduced": "LEGO Movie Videogame"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family"
+    ],
+    "developer": "Traveller's Tales",
+    "publisher": "Warner Brothers Interactive",
+    "release_date": "2014-02-06",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Danish, Dutch, Polish, Portuguese, Russian.  Join Emmet and an unlikely group of resistance fighters in their heroic quest to thwart Lord Business’ evil plans—a mission that Emmet is hopelessly and hilariously unprepared for.  It’s a wild ride with a surprising mix of over 90 playable characters including Batman, Superman, Wonder Woman, the Green Ninja, Gandalf, Shakespeare, Cleopatra and more.   ",
+        "short": "Join Emmet and an unlikely group of resistance fighters in their heroic quest to thwart Lord Business’ evil plans."
+    },
+    "media": [
+        {
+            "media_id": "777F972C",
+            "title": "The LEGO Movie: Videogame",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "1FF96185",
+            "title": "The LEGO Movie: Videogame",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520841/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520841/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520841/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520841/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520841/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520841/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520841/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520841/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520841/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520841/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520841/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520841/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

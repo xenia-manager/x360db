@@ -1,0 +1,35 @@
+{
+    "id": "585504DB",
+    "title": {
+        "full": "BattleWorms",
+        "reduced": "BattleWorms"
+    },
+    "genre": [
+        "Card & Board"
+    ],
+    "developer": "fr0man",
+    "publisher": "fr0man",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Battleships?  Phaw!  Instead of trying to sink your opponent's ships, try to squish his or her worms?   A fun twist on this classic board game.  Squish all the worms in your opponent's garden before he can squish all of yours.  Happy stomping!",
+        "short": "Battleships?  Phaw!  Instead of trying to sink your opponent's ships, try to squish his or her worms?   A fun twist on this classic board game.  Squish all the worms in your opponent's garden before he can squish all of yours.  Happy stomping!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585504db00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585504DB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585504db/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585504DB_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504DB_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504DB_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504DB_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

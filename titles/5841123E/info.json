@@ -1,0 +1,39 @@
+{
+    "id": "5841123E",
+    "title": {
+        "full": "Far Cry Classic",
+        "reduced": "Far Cry Classic"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release_date": "2014-02-12",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Far Cry Classic is the ultimate console version of the very first Far Cry game, bringing you back to the roots of this franchise. It's another beautiful day in tropical paradise...or is it?  Take the role of charter boat captain, Jack Carver, who finds himself hunted by an unrelenting team of highly trained mercenaries in this nature-gone-wrong FPS adventure. Choose to rely on firepower, strategy or stealth, abuse your freedom into massive outdoor environments, and fight for your life against tactically intelligent enemies. Features stunningly realistic foliage, real-time day and night cycles, drivable underwater, commandeer, or even flying vehicles, and more...",
+        "short": "It's another beautiful day in tropical paradise...or is it?  Take the role of charter boat captain, Jack Carver, who finds himself hunted by an unrelenting team of highly trained mercenaries. Choose to rely on firepower, strategy or stealth, abuse your freedom into massive outdoor environments, and fight for your life against tactically intelligent enemies."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123e/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841123e/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

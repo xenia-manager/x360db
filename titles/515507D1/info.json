@@ -1,0 +1,54 @@
+{
+    "id": "515507D1",
+    "title": {
+        "full": "ESCHATOS",
+        "reduced": "ESCHATOS"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Qute Corporation",
+    "publisher": "Qute Corporation",
+    "release_date": "2011-03-24",
+    "user_rating": "0.00",
+    "description": {
+        "full": "The Games on Demand version supports  Japanese.  「ESCHATOS」は、ハイテンポに駆け抜けるスピード感・爽快感、 空想科学的な世界観と、懐かしさ全開の80年代テイストを盛り込んだ、 正統派・縦スクロールの新作シューティングゲームです。 懐かしいながらも新しい体験をお楽しみいただけます。  さらに、ワンダースワン向けソフトとして発売された「JUDGEMENTSILVERSWORD –Rebirth Edition-」と、その続編「CARDINALSINS」の2本も同時収録。過去の名作も、Xbox 360で思う存分プレイできます。",
+        "short": "「ESCHATOS」は、ハイテンポに駆け抜けるスピード感・爽快感、 空想科学的な世界観と、懐かしさ全開の80年代テイストを盛り込んだ、 正統派・縦スクロールシューティングゲームです。"
+    },
+    "media": [
+        {
+            "media_id": "762AEFBD",
+            "title": "Eschatos",
+            "edition": "Wonder Price",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802515507d1/1033/screenlg16.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

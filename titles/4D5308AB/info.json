@@ -1,0 +1,82 @@
+{
+    "id": "4D5308AB",
+    "title": {
+        "full": "Gears of War 3",
+        "reduced": "Gears of War 3"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Epic Games, Inc",
+    "publisher": "Microsoft Studios",
+    "release_date": "2011-04-05",
+    "user_rating": "4.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English, French. “Gears of War 3” is the spectacular conclusion to one of the most memorable and celebrated sagas in videogames. Developed by Epic Games exclusively for Xbox 360, “Gears of War 3” plunges players into a harrowing tale of hope, survival and brotherhood.  In “Gears of War 3,” players fight on as Marcus Fenix, the grizzled war hero and leader of Delta Squad. Eighteen months after the fall of the last human city, the war against the Locust rages on. Meanwhile, deep beneath the surface, a fearsome new threat is infecting the planet from within. With survivors scattered and civilization in ruins, time is running out for Marcus and his comrades as they fight to save the human race.",
+        "short": "“Gears of War 3” is the spectacular conclusion to one of the most memorable and celebrated sagas in videogames. Developed by Epic Games exclusively for Xbox 360, “Gears of War 3” plunges players into a harrowing tale of hope, survival and brotherhood."
+    },
+    "media": [
+        {
+            "media_id": "52AC485A",
+            "title": "Gears of War 3",
+            "edition": "Original",
+            "region": "UK"
+        },
+        {
+            "media_id": "58122AD6",
+            "title": "Gears of War 3",
+            "edition": "Original",
+            "region": "World"
+        },
+        {
+            "media_id": "6EF14DF9",
+            "title": "Gears of War 3",
+            "edition": "Original",
+            "region": "Spain"
+        },
+        {
+            "media_id": "5AC92688",
+            "title": "Gears of War 3",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "7554392D",
+            "title": "Gears of War 3",
+            "edition": "Original",
+            "region": "Germany"
+        },
+        {
+            "media_id": "6EE9A50B",
+            "title": "Gears of War 3",
+            "edition": "Bundle Copy",
+            "region": "Italy"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg14.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "58550AED",
+    "title": {
+        "full": "Teddy Defender",
+        "reduced": "Teddy Defender"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Team Red",
+    "publisher": "Team Red",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. Do you have what it takes to become a 'Teddy Defender'? Take the role as Bear and protect your owner Jimmy from his nightmares in this exciting, maze building 'Tower Defence' game. Build toy defences to stop the nightmares from infecting Jimmy's dreams, strategically build mazes to alter the nightmares path and aim for a high score!",
+        "short": "Do you have what it takes to become a 'Teddy Defender'? Take the role as Bear and protect your owner Jimmy from his nightmares in this exciting, maze building 'Tower Defence' game. Build toy defences to stop the nightmares from infecting Jimmy's dreams, strategically build mazes to alter the nightmares path and aim for a high score!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550aed/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550AED_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550aed/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550AED_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AED_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AED_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AED_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

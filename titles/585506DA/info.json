@@ -1,0 +1,35 @@
+{
+    "id": "585506DA",
+    "title": {
+        "full": "Chaos Shift",
+        "reduced": "Chaos Shift"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Chaosoft Games",
+    "publisher": "Chaosoft Games",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=0/3. Classic arcade style gameplay in 3D. Take control of an experimental alien vessel and blast your way through hordes of relentless enemy ships, satellites, mines and asteroids. Kill as many enemies as fast as you can to boost your score and unleash the invincible \"Chaos Shift\".",
+        "short": "Classic arcade style gameplay in 3D. Take control of an experimental alien vessel and blast your way through hordes of relentless enemy ships, satellites, mines and asteroids. Kill as many enemies as fast as you can to boost your score and unleash the invincible \"Chaos Shift\"."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585506da/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506DA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506da/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506DA_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506DA_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506DA_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506DA_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

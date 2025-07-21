@@ -1,0 +1,35 @@
+{
+    "id": "585505D0",
+    "title": {
+        "full": "Seaside Racing",
+        "reduced": "Seaside Racing"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Gustav Olsson",
+    "publisher": "Gustav Olsson",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Compete with your friends in this multiplayer kart racer! Play 1-4 players splitscreen either locally, over system link or on Xbox Live for a total of 8 players. Use your own Xbox Avatar and race through 3 different seaside courses!",
+        "short": "Compete with your friends in this multiplayer kart racer! Play 1-4 players splitscreen either locally, over system link or on Xbox Live for a total of 8 players. Use your own Xbox Avatar and race through 3 different seaside courses!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585505d000000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505D0_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505d0/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505D0_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505D0_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505D0_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505D0_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

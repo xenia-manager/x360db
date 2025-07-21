@@ -1,0 +1,35 @@
+{
+    "id": "58550597",
+    "title": {
+        "full": "Avatar Fly",
+        "reduced": "Avatar Fly"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Ninja Fever",
+    "publisher": "Ninja Fever",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Wanna fly with your avatar? Now you can! Master the sky reaching all the rings you can and demonstrate your ability skills to the players all over the world. Will you reach the Top of the Hall of Fame?",
+        "short": "Wanna fly with your avatar? Now you can! Master the sky reaching all the rings you can and demonstrate your ability skills to the players all over the world. Will you reach the Top of the Hall of Fame?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855059700000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550597_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550597/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550597_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550597_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550597_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550597_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

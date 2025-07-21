@@ -1,0 +1,35 @@
+{
+    "id": "585507FD",
+    "title": {
+        "full": "Bouncing Avatars",
+        "reduced": "Bouncing Avatars"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Running Pixel",
+    "publisher": "Running Pixel",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Trapped in a bubble you can only bounce and climb up. Your goal is to rise as high as you can while avoiding dangerous objects, insidious platforms and much more. Play alone for the record or against your friends in a funny multiplayer match!",
+        "short": "Trapped in a bubble you can only bounce and climb up. Your goal is to rise as high as you can while avoiding dangerous objects, insidious platforms and much more. Play alone for the record or against your friends in a funny multiplayer match!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585507fd/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585507FD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585507fd/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585507FD_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507FD_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507FD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507FD_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

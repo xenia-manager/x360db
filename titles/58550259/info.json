@@ -1,0 +1,35 @@
+{
+    "id": "58550259",
+    "title": {
+        "full": "Get The Ball",
+        "reduced": "Get The Ball"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Clay Schubiner",
+    "publisher": "Clay Schubiner",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Although it may not be the most complicated game, Get The Ball could possibly be the most addicting game you'll ever play. The objective is simple: get the ball as quickly as possible. Features intense, fast-paced 4 player gameplay.",
+        "short": "Although it may not be the most complicated game, Get The Ball could possibly be the most addicting game you'll ever play. The objective is simple: get the ball as quickly as possible. Features intense, fast-paced 4 player gameplay."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855025900000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550259_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550259/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550259_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550259_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550259_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550259_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

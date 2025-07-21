@@ -1,0 +1,42 @@
+{
+    "id": "573607D8",
+    "title": {
+        "full": "Obut Pétanque 2",
+        "reduced": "Obut Pétanque 2"
+    },
+    "genre": [
+        "Kinect"
+    ],
+    "developer": "Kylotonn Entertainment",
+    "publisher": "Bigben Interactive",
+    "release_date": "2013-07-23",
+    "user_rating": null,
+    "description": {
+        "full": "The Games on Demand version supports English, French. Point, shoot... play! Enjoy the fun and tactics of pétanque in this game made in cooperation with the prestigious boules brand OBUT®.   - Have fun with up to 4 friends in Local Multiplayer!  - 8 arenas around the world and 4 different types of ground.  - Choose the members of your team depending on their abilities.  - From Training to Championship, progress through Career mode and become the best!",
+        "short": "Point, shoot... play! Enjoy the fun and tactics of pétanque in this game made in cooperation with the prestigious boules brand OBUT®. Have fun with up to 4 friends in Local Multiplayer! 8 arenas around the world and 4 different types of ground. Choose the members of your team depending on their abilities. From Training to Championship, progress through Career mode and become the best!"
+    },
+    "media": [
+        {
+            "media_id": "22A9E748",
+            "title": "Obut Pétanque 2",
+            "edition": "Original",
+            "region": "France"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d8/1033/screenlg4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": "454108F5",
+    "title": {
+        "full": "MONOPOLY Streets",
+        "reduced": "MONOPOLY Streets"
+    },
+    "genre": [
+        "Card & Board",
+        "Family"
+    ],
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-10-25",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish, Dutch. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  (Online Interactions Not Rated by the ESRB) Celebrate the 75th anniversary of one of the world’s most popular board games with the new MONOPOLY® Streets! It's everything you loved about the classic game brought to life in a living and breathing world. It's a metropolis you get to build up and own street by street as you travel around the city. Play with friends and the whole family! Take your game onto Xbox LIVE® and climb the Leaderboards as you compete against other MONOPOLY moguls from around the world!",
+        "short": "Celebrate the 75th anniversary of one of the world’s most popular board games with the new MONOPOLY® Streets! It is everything you loved about the classic game brought to life in a living and breathing world.  It is a metropolis you get to build up and own street by street as you travel around the city. Play with friends and the whole family! Take your game onto Xbox LIVE® and climb the Leaderboards as you compete against other MONOPOLY moguls from around the world!"
+    },
+    "media": [
+        {
+            "media_id": "5218474F",
+            "title": "Monopoly Streets",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f5/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f5/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f5/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f5/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f5/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f5/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f5/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f5/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f5/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f5/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/454108f5/3/MONOPST_EN_revised.pdf"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": "41560816",
+    "title": {
+        "full": "XMen Origins Wolverine",
+        "reduced": "XMen Origins Wolverine"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Raven Software",
+    "publisher": "Activision",
+    "release_date": "2008-01-01",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Unleash the razor sharp adamantium claws, feral instincts, and mutant regeneration powers of the world’s fiercest Super Hero – Wolverine – and uncage the story of how the ultimate weapon was created. Take on impossible odds and exact vicious revenge in the year’s most satisfying action game.",
+        "short": "Unleash the razor sharp adamantium claws, feral instincts, and mutant regeneration powers of the world’s fiercest Super Hero – Wolverine – and uncage the story of how the ultimate weapon was created. Take on impossible odds and exact vicious revenge in the year’s most satisfying action game."
+    },
+    "media": [
+        {
+            "media_id": "09FF5403",
+            "title": "X-Men Origins: Wolverine: Uncaged Edition",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560816/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560816/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560816/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560816/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560816/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560816/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560816/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560816/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560816/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560816/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/41560816/3/XMen%20Origins%20Wolverine_MNL%20DIGITAL.pdf"
+        ]
+    }
+}

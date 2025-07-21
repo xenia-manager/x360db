@@ -1,0 +1,35 @@
+{
+    "id": "58550B8F",
+    "title": {
+        "full": "Murder for Dinner",
+        "reduced": "Murder for Dinner"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Detroit Game Studio",
+    "publisher": "Detroit Game Studio",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=3/3. You have been invited to a dinner party at Miss Havisham's, a notorious old gossip. But upon arrival, your host is missing and the rest of the guests are exceptionally uncomfortable and oddly behaved. You determine to get to the root of all their behaviour and to explain the mystery you encounter.",
+        "short": "You have been invited to a dinner party at Miss Havisham's, a notorious old gossip. But upon arrival, your host is missing and the rest of the guests are exceptionally uncomfortable and oddly behaved. You determine to get to the root of all their behaviour and to explain the mystery you encounter."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550b8f/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550B8F_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550b8f/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550B8F_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B8F_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B8F_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550B8F_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

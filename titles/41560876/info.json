@@ -1,0 +1,54 @@
+{
+    "id": "41560876",
+    "title": {
+        "full": "Shrek Forever After",
+        "reduced": "Shrek Forever After"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Family"
+    ],
+    "developer": "XPEC Entertainment Inc.",
+    "publisher": "Activision",
+    "release_date": "2010-05-11",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Team up with your friends in the ultimate Shrek game, Shrek Forever After! Play as Shrek, Fiona, Donkey, and Puss In Boots to out-smart, out-fight, and outplay that crafty Rumpelstiltskin!",
+        "short": "Team up with your friends in the ultimate Shrek game, Shrek Forever After! Play as Shrek, Fiona, Donkey, and Puss In Boots to out-smart, out-fight, and outplay that crafty Rumpelstiltskin!"
+    },
+    "media": [
+        {
+            "media_id": "2A201CA6",
+            "title": "DreamWorks Shrek e Vissero Felici e Contenti",
+            "edition": "Original",
+            "region": "Italy"
+        },
+        {
+            "media_id": "3C79B27B",
+            "title": "DreamWorks Shrek Forever After",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "23E7BE68",
+            "title": "DreamWorks Shrek Forever After",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560876/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560876/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560876/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560876/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560876/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560876/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560876/1033/screenlg3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

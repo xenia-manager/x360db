@@ -1,0 +1,46 @@
+{
+    "id": "373387DB",
+    "title": {
+        "full": "Dance Central 3",
+        "reduced": "Dance Central 3"
+    },
+    "genre": [
+        "Kinect",
+        "Music"
+    ],
+    "developer": "Harmonix Music Systems, Inc.",
+    "publisher": "Microsoft Game Studios",
+    "release_date": "2799-12-30",
+    "user_rating": null,
+    "description": {
+        "full": "The #1-selling dance franchise for Kinect is back this fall with new features and an electrifying soundtrack featuring 40+ new tracks, from the disco grooves of the 70’s to current chart-topping dance hits. Learn favorite dance crazes from the past and master the hottest moves of today. This fall, get ready to own the dance floor with Dance Central 3, only on Kinect for Xbox 360.",
+        "short": "The #1-selling dance franchise for Kinect is back this fall with new features and an electrifying soundtrack featuring 40+ new tracks, from the disco grooves of the 70’s to current chart-topping dance hits. Learn favorite dance crazes from the past and master the hottest moves of today. This fall, get ready to own the dance floor with Dance Central 3, only on Kinect for Xbox 360."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373387db/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373387db/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373387db/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373387db/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373387db/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373387db/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373387db/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373387db/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373387db/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373387db/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373387db/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373387db/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373387db/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "373307D9",
+                "title": "Dance Central™ 3"
+            }
+        ],
+        "related": []
+    }
+}

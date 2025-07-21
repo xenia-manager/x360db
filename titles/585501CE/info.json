@@ -1,0 +1,34 @@
+{
+    "id": "585501CE",
+    "title": {
+        "full": "Dromedary",
+        "reduced": "Dromedary"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Reginald Shoe",
+    "publisher": "Reginald Shoe",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Dromedary, an interactive cartoon-based camel oriented action adventure! Maybe one of a kind!!  You and your trusty steed are 200 miles from home and on the wrong side of the desert.  Chased by lions and cunning natives, tormented by mother-nature herself you must use your wit and guile to get home.",
+        "short": "Dromedary, an interactive cartoon-based camel oriented action adventure! Maybe one of a kind!!  You and your trusty steed are 200 miles from home and on the wrong side of the desert.  Chased by lions and cunning natives, tormented by mother-nature herself you must use your wit and guile to get home."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585501ce00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585501CE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585501ce/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585501CE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501CE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501CE_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

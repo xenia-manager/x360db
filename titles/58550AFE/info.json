@@ -1,0 +1,35 @@
+{
+    "id": "58550AFE",
+    "title": {
+        "full": "Firing Range 2",
+        "reduced": "Firing Range 2"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Milkstone Studios S.L.",
+    "publisher": "Milkstone Studios S.L.",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=1/3. The sequel to the top selling FPS aiming indie game is here, bigger than ever! Featuring 12 weapons in 4 categories, sniper rifles, customizable weapons with lots of camouflage sets, night vision mode, and online versus multiplayer. Test your skills against other players in thrilling 1vs1 showdowns! Brought to you by Milkstone Studios.",
+        "short": "The sequel to the top selling FPS aiming indie game is here, bigger than ever! Featuring 12 weapons in 4 categories, sniper rifles, customizable weapons with lots of camouflage sets, night vision mode, and online versus multiplayer. Test your skills against other players in thrilling 1vs1 showdowns! Brought to you by Milkstone Studios."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550afe00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550AFE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550afe/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550AFE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AFE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AFE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550AFE_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

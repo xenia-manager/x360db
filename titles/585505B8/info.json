@@ -1,0 +1,35 @@
+{
+    "id": "585505B8",
+    "title": {
+        "full": "Super Avatar World",
+        "reduced": "Super Avatar World"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Arrogancy Games",
+    "publisher": "Arrogancy Games",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Super Avatar World is a single and multiplayer platformer adventure in which you and up to 3 different friends take full control of your Avatars through multiple worlds collecting stars and powerups while killing and avoiding enemies. Also, play the trial and you could win FREE Microsoft Points!",
+        "short": "Super Avatar World is a single and multiplayer platformer adventure in which you and up to 3 different friends take full control of your Avatars through multiple worlds collecting stars and powerups while killing and avoiding enemies. Also, play the trial and you could win FREE Microsoft Points!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585505b8/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505B8_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505b8/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505B8_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505B8_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505B8_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505B8_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

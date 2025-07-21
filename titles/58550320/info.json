@@ -1,0 +1,35 @@
+{
+    "id": "58550320",
+    "title": {
+        "full": "The Visualizer",
+        "reduced": "The Visualizer"
+    },
+    "genre": [
+        "Music"
+    ],
+    "developer": "Cold Beam Games",
+    "publisher": "Cold Beam Games",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Your music like you've never seen before! Turn up the volume, relax, and let the spectacle begin. Also includes novel 'Massage To Music' mode. Now you can really feel the beat!",
+        "short": "Your music like you've never seen before! Turn up the volume, relax, and let the spectacle begin. Also includes novel 'Massage To Music' mode. Now you can really feel the beat!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550320/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550320_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550320/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550320_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550320_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550320_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550320_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

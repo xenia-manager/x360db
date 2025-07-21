@@ -1,0 +1,35 @@
+{
+    "id": "55538863",
+    "title": {
+        "full": "RUSE Demo",
+        "reduced": "RUSE Demo"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Eugen Systems",
+    "publisher": "Ubisoft",
+    "release_date": "2010-08-30",
+    "user_rating": "3.50",
+    "description": {
+        "full": "Play through a full mission designed exclusively for R.U.S.E. demo. Command Allied forces from the Head Quarters and lead you army to a nuclear conflict and combine deceptive strategies to conquer the battleground.",
+        "short": "Play through a full mission designed exclusively for R.U.S.E. demo. Command Allied forces from the Head Quarters and lead you army to a nuclear conflict and combine deceptive strategies to conquer the battleground."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538863/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538863/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538863/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538863/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "555307F6",
+                "title": "R.U.S.E."
+            }
+        ],
+        "related": []
+    }
+}

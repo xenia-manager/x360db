@@ -1,0 +1,46 @@
+{
+    "id": "55530880",
+    "title": {
+        "full": "The Price Is Right Decades",
+        "reduced": "The Price Is Right"
+    },
+    "genre": [
+        "Family",
+        "Kinect"
+    ],
+    "developer": "Ludia",
+    "publisher": "Ubisoft",
+    "release_date": "2011-08-13",
+    "user_rating": "4.50",
+    "description": {
+        "full": "Feel the thrill of being called to “COME ON DOWN!” in the ultimate multiplayer The Price Is Right® Decades game featuring Kinect for Xbox 360! Compete with friends and family as you bid on thousands of products in 40 different pricing games from all four decades of the TV show. The game features all your favorite elements including Contestant’s Row, the Big Wheel and Showcase, plus rare pricing games taken from The Price Is Right TV show “vault” and all-new pricing challenges not included in any previous The Price Is Right video game. For the first time ever, you can play pricing games simultaneously with up to 4 players in multiplayer modes. Authentic stages and theme music from the 70s, 80s, 90s and 00s increase the fun!",
+        "short": "Feel the thrill of being called to “COME ON DOWN!” in the multiplayer The Price Is Right® Decades game! Compete with friends as you play through 40 pricing games from four decades of the show. The game features favorite elements including Contestant’s Row, the Big Wheel and Showcase, plus rare pricing games taken from The Price Is Right “vault” and new challenges not included in previous The Price Is Right video games. Play pricing games simultaneously with up to 4 players in multiplayer modes!"
+    },
+    "media": [
+        {
+            "media_id": "5A4412D3",
+            "title": "The Price Is Right: Decades",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530880/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530880/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530880/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530880/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530880/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530880/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530880/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530880/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530880/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530880/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530880/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

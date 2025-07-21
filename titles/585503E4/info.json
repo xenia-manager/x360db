@@ -1,0 +1,35 @@
+{
+    "id": "585503E4",
+    "title": {
+        "full": "Cubism",
+        "reduced": "Cubism"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "Jeppe Nielsen",
+    "publisher": "Jeppe Nielsen",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Cubism takes the puzzle genre to a new dimension.  Solve exciting and fun cube puzzles in an easy, yet challenging, intuitive way.  Drag pieces onto a cube shape to solve the three dimensional puzzle. Choose between three playing modes, including more than 50 levels, a puzzle and a free form mode.  Choose piece type, cube shape and texture to play your unique puzzle.",
+        "short": "Cubism takes the puzzle genre to a new dimension.  Solve exciting and fun cube puzzles in an easy, yet challenging, intuitive way.  Drag pieces onto a cube shape to solve the three dimensional puzzle. Choose between three playing modes, including more than 50 levels, a puzzle and a free form mode.  Choose piece type, cube shape and texture to play your unique puzzle."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585503e4/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585503E4_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585503e4/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585503E4_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503E4_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503E4_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503E4_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

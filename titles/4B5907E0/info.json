@@ -1,0 +1,54 @@
+{
+    "id": "4B5907E0",
+    "title": {
+        "full": "Air Conflicts Secret Wars",
+        "reduced": "Air Conflicts Secret Wars"
+    },
+    "genre": [
+        "Shooter",
+        "Strategy & Simulation"
+    ],
+    "developer": "Games Farm s.r.o.",
+    "publisher": "Kalypso Media USA, Inc.",
+    "release_date": "2011-08-30",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Air Conflicts: Secret Wars - is an arcade flight game with battles spanning both World Wars, featuring seven campaigns and 49 missions that engage players in white-knuckle air battles and secret missions across Europe and North Africa. An impressive selection of famous aircraft of the era is available to the player, each showcasing specific strengths and weaknesses in the battle for air supremacy.  Air Conflicts: Secret Wars - challenges players with an exciting mix of mission types, including - patrolling, sneaking/stealth, hit & run, bombing and escort objectives. Mission objectives are presented in an animated, graphic-novel style format as cockpit chatter keeps the game lively and fun.  Casual pilots and veteran simulation fans will appreciate the game's dual control schemes - either arcade, for simpler, faster control, or simulation mode, for more fine-tuned and realistic control. Air Conflicts: Secret Wars - extends its replayability with several multiplayer modes.",
+        "short": "Air Conflicts: Secret Wars - is an arcade flight game with battles spanning both World Wars, featuring seven campaigns and 49 missions that engage players in white-knuckle air battles and secret missions across Europe and North Africa. An impressive selection of famous aircraft of the era is available to the player, each showcasing specific strengths and weaknesses in the battle for air supremacy."
+    },
+    "media": [
+        {
+            "media_id": "0E449390",
+            "title": "Air Conflicts: Secret Wars",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e0/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e0/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e0/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e0/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e0/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e0/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e0/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e0/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e0/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e0/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e0/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e0/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e0/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e0/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e0/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e0/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907e0/1033/screenlg13.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4b5907e0/AirConflictsSecretWars_Manual_EN_Revised.pdf"
+        ]
+    }
+}

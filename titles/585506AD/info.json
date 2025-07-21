@@ -1,0 +1,35 @@
+{
+    "id": "585506AD",
+    "title": {
+        "full": "Mutant Zombie Onslaught",
+        "reduced": "Mutant Zombie Onslaught"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Photonic Games",
+    "publisher": "Photonic Games",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=3/3. The year is 2012 and the world as we know it has ended. A virus sent from the depths of Hell has decimated humanity. Genetic mutations caused by the virus have turned many of those remaining into mindless zombies with dangerous mutant powers. Can you survive the zombie onslaught and save humanity from Armageddon ?",
+        "short": "The year is 2012 and the world as we know it has ended. A virus sent from the depths of Hell has decimated humanity. Genetic mutations caused by the virus have turned many of those remaining into mindless zombies with dangerous mutant powers. Can you survive the zombie onslaught and save humanity from Armageddon ?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585506ad/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506AD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506ad/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506AD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506AD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506AD_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506AD_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

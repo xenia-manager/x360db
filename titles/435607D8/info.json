@@ -1,0 +1,45 @@
+{
+    "id": "435607D8",
+    "title": {
+        "full": "Deadliest Catch Sea of Chaos",
+        "reduced": "Deadliest Catch Sea of Chaos"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "DoubleTap Games",
+    "publisher": "Crave Games",
+    "release_date": "2010-11-16",
+    "user_rating": "0.00",
+    "description": {
+        "full": "Immerse Yourself in the Word's Most Dangerous Job.  Risk it all for the ultimate pay off. Bone-crushing crab pots, razor-sharp hooks, subzero arctic winds and the unpredictable Bering Sea conspire against the brave fishermen in the quest for red gold - Alaskan King Crab. The Emmy winning series is now ready to challenge your skill, strength and stamina in one of the world's deadliest - and most lucrative - job.  - Be the captain of your own fishing vessel that you create and customize and work with or against the legendary real life captains and their authentic vessels  - Utilize a unique combination of strategy and action to capture the biggest catch  - Experience the world's toughest job - set the pots, repair the ship, sort the catch, break through the ice, rescue a man-overboard and more  - Battle unpredictable seas and ever-changing conditions in the harsh Bering Sea  - Select from unique Campaigns, both King & Opilio Crab seasons as well as Derby or Quota style competition  - Relive actual past seasons, take on rivals - online & off, fish multi-season campaigns and more",
+        "short": "Immerse Yourself in the Word's Most Dangerous Job.  Risk it all for the ultimate pay off. Bone-crushing crab pots, razor-sharp hooks, subzero arctic winds and the unpredictable Bering Sea conspire against the brave fishermen in the quest for red gold - Alaskan King Crab. The Emmy winning series is now ready to challenge your skill, strength and stamina in one of the world's deadliest - and most lucrative - job."
+    },
+    "media": [
+        {
+            "media_id": "701CDD83",
+            "title": "Deadliest Catch: Sea of Chaos",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435607d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435607d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435607d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435607d8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435607d8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435607d8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435607d8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435607d8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435607d8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435607d8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435607d8/1033/screenlg7.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

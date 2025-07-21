@@ -1,0 +1,35 @@
+{
+    "id": "585507A7",
+    "title": {
+        "full": "Mummies vs GunnS",
+        "reduced": "Mummies vs GunnS"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "cgIRIS",
+    "publisher": "cgIRIS",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. Follow The Adventure of the explorer, Gunnthar Svensen, in discovering the treacherous tombs of Egypt!",
+        "short": "Follow The Adventure of the explorer, Gunnthar Svensen, in discovering the treacherous tombs of Egypt!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585507a700000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585507A7_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585507a7/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585507A7_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507A7_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507A7_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585507A7_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

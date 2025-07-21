@@ -1,0 +1,41 @@
+{
+    "id": "5841148E",
+    "title": {
+        "full": "Monster Jam Battlegrounds",
+        "reduced": "Monster Jam Battlegrounds"
+    },
+    "genre": [
+        "Sports & Recreation",
+        "Strategy & Simulation"
+    ],
+    "developer": "Team 6",
+    "publisher": "GameMill Entertainment",
+    "release_date": "2015-06-10",
+    "user_rating": "3.25",
+    "description": {
+        "full": "Monster Jam® Battlegrounds brings the ever popular touring show straight to the fans with roaring engines and crushing action.  Not only does this game replicate the world renowned Monster Jam stadium and arena events, but it also takes fans out of the stadium and into other environments for physics based skill and stunt challenges. Exciting features include:  *23 official Monster Jam trucks, including Grave Digger®, Max-D™, and Monster Mutt®  *Racing and Freestyle in 5 authentic Monster Jam stadiums, including the site of Monster Jam World Finals – Sam Boyd Stadium  *45 addictive, all-new tracks that test skill and challenge the player to master speed and balance to complete   *The all new Stunt mode offers insane jumps and ultimate destruction  *Online leaderboards to earn bragging rights as the best Monster Jam truck driver  *30 unlockable achievements offer players continuous motivation  *Interactive Replay mode to travel back in time and review your performance",
+        "short": "Monster Jam® Battlegrounds brings the ever popular touring show straight to the fans with roaring engines and crushing action.  Not only does this game replicate the world renowned Monster Jam stadium and arena events, but it also takes fans out of the stadium and into other environments for physics based skill and stunt challenges.  "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841148e/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841148e/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841148e/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841148e/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841148e/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841148e/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841148e/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841148e/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841148e/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841148e/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841148e/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841148e/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841148e/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": "415807D9",
+    "title": {
+        "full": "Record of Agarest War Zero",
+        "reduced": "Record of Agarest War Zero"
+    },
+    "genre": [
+        "Role Playing"
+    ],
+    "developer": "IDEA FACTORY Co.,Ltd.",
+    "publisher": "AKSYS GAMES",
+    "release_date": "2011-06-14",
+    "user_rating": "3.75",
+    "description": {
+        "full": "The Games on Demand version supports  English.  A battle across generations, with the fate of an entire planet at stake! Return to the world of Agarest, and lead new heroes to victory in both the martial and marital arenas.",
+        "short": "A battle across generations, with the fate of an entire planet at stake! Return to the world of Agarest, and lead new heroes to victory in both the martial and marital arenas."
+    },
+    "media": [
+        {
+            "media_id": "4AD11966",
+            "title": "Record of Agarest War Zero",
+            "edition": "Limited Edition",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d9/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d9/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d9/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d9/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "id": "534307E9",
+    "title": {
+        "full": "Battlestations Pacific",
+        "reduced": "Battlestations Pacific"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Strategy & Simulation"
+    ],
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "release_date": "2010-05-05",
+    "user_rating": "4.00",
+    "description": {
+        "full": "This game supports English, French, Italian, German, and Spanish.   Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Battlestations Pacific is the sequel to the critically acclaimed Battlestations Midway.                   Take the fight in the Pacific direct to the enemy in this epic action-strategy game where players command and take control of over 100 air, sea and undersea units.                   Fight in two massive historic single player campaigns and battle online in a deep multiplayer game featuring 5 unique modes across numerous battle scenarios. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+        "short": "Battlestations Pacific is the sequel to the critically acclaimed Battlestations Midway. Take the fight in the Pacific direct to the enemy in this epic action-strategy game where players command and take control of over 100 air, sea and undersea units. Fight in two massive historic single player campaigns and battle online in a deep multiplayer game featuring 5 unique modes across numerous battle scenarios."
+    },
+    "media": [
+        {
+            "media_id": "165FE9B6",
+            "title": "Battlestations: Pacific",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "509B59B7",
+            "title": "Battlestations: Pacific",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/7177/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/7177/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/7177/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/7177/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/7177/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/7177/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/7177/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/7177/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/7177/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802534307e9/7177/screenlg16.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/534307e9/4781baab-57bd-4d33-a9e7-52810cf9aeed.PDF"
+        ]
+    }
+}

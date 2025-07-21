@@ -1,0 +1,52 @@
+{
+    "id": "415807D8",
+    "title": {
+        "full": "DEATHSMILES NA",
+        "reduced": "DEATHSMILES NA"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "CAVE",
+    "publisher": "Aksys Games",
+    "release_date": "2010-05-28",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English.  Gothic horror and shoot-em-up action collide in Deathsmiles! Face wave upon wave of monstrous creatures intent on your destruction as you turn your skills to the defense of the besieged world of Gilverado. If your trigger finger's itchy, Deathsmiles is the only way to scratch it.",
+        "short": "The Games on Demand version supports English.  Gothic horror and shoot-em-up action collide in Deathsmiles! Face wave upon wave of monstrous creatures intent on your destruction as you turn your skills to the defense of the besieged world of Gilverado. If your trigger finger's itchy, Deathsmiles is the only way to scratch it."
+    },
+    "media": [
+        {
+            "media_id": "33EC8A99",
+            "title": "Deathsmiles",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d8/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d8/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d8/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d8/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d8/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d8/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d8/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d8/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d8/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d8/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d8/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d8/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415807d8/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "545A07D1",
+                "title": "DEATHSMILES"
+            }
+        ],
+        "related": []
+    }
+}

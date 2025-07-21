@@ -1,0 +1,35 @@
+{
+    "id": "58550382",
+    "title": {
+        "full": "City Rain",
+        "reduced": "City Rain"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "ovolo",
+    "publisher": "ovolo",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. CAN YOU IMAGINE A PUZZLE AND SIMULATION GAME ABOUT URBAN PLANNING AND SUSTAINABILITY? In City Rain, you play as a member of an elite environmental Swat Force in charge of restructuring cities, before they are penalized by the World Environment Protection agency. City Rain is an action-packed, yet eco-friendly, green city simulation puzzle.",
+        "short": "CAN YOU IMAGINE A PUZZLE AND SIMULATION GAME ABOUT URBAN PLANNING AND SUSTAINABILITY? In City Rain, you play as a member of an elite environmental Swat Force in charge of restructuring cities, before they are penalized by the World Environment Protection agency. City Rain is an action-packed, yet eco-friendly, green city simulation puzzle."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855038200000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550382_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550382/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550382_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550382_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550382_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550382_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

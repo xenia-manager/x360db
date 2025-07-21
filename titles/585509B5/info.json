@@ -1,0 +1,35 @@
+{
+    "id": "585509B5",
+    "title": {
+        "full": "Castle Of Pixel Skulls",
+        "reduced": "Castle Of Pixel Skulls"
+    },
+    "genre": [
+        "Platformer"
+    ],
+    "developer": "Josep Monzonis",
+    "publisher": "Josep Monzonis",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Fun retro-styled platformer game. Prepare for the craziest and most addictive platformer game ever. You must succeed in various challenging platform goodness. Complete a lot of different levels to escape from castle.  Will you get to the end of Castle Of Pixel Skulls? Are you ready?",
+        "short": "Fun retro-styled platformer game. Prepare for the craziest and most addictive platformer game ever. You must succeed in various challenging platform goodness. Complete a lot of different levels to escape from castle.  Will you get to the end of Castle Of Pixel Skulls? Are you ready?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585509b500000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585509B5_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585509b5/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585509B5_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509B5_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509B5_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585509B5_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

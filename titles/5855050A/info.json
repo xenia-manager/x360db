@@ -1,0 +1,33 @@
+{
+    "id": "5855050A",
+    "title": {
+        "full": "Lone Gunner",
+        "reduced": "Lone Gunner"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "thelostone",
+    "publisher": "thelostone",
+    "release_date": null,
+    "user_rating": "2.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=0/3. You are the Lone Gunner.  Face off against deadly enemies with your ship's unique weapons and the ability to control bullets mid-flight.  You control your ship equipment; choose from different weapons, ammo, accessories and mods that allow for thousands of unique ship setups. Can you survive 25 levels of intense action? Only one way to find out...",
+        "short": "You are the Lone Gunner.  Face off against deadly enemies with your ship's unique weapons and the ability to control bullets mid-flight.  You control your ship equipment; choose from different weapons, ammo, accessories and mods that allow for thousands of unique ship setups. Can you survive 25 levels of intense action? Only one way to find out..."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855050a00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855050A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855050a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855050A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855050A_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

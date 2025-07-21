@@ -1,0 +1,51 @@
+{
+    "id": "545A07D4",
+    "title": {
+        "full": "Under Defeat HD Deluxe Edition",
+        "reduced": "Under Defeat HD Deluxe Edition"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "GRev.",
+    "publisher": "Rising Star Games",
+    "release_date": "2014-08-25",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish.  Highly revered shoot’em up Under Defeat pushed the Dreamcast graphics engine to the limit when it was released in 2006, offering gamers an exhilarating shooter set in a visually stunning and detail-oriented environment. The new port is the game’s rebirth in HD-quality and offers a new widescreen mode. ",
+        "short": "Highly revered shoot’em up Under Defeat pushed the Dreamcast graphics engine to the limit when it was released in 2006, offering gamers an exhilarating shooter set in a visually stunning and detail-oriented environment. The new port is the game’s rebirth in HD-quality and offers a new widescreen mode. "
+    },
+    "media": [
+        {
+            "media_id": "54964412",
+            "title": "Under Defeat HD: Deluxe Edition",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d4/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d4/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d4/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d4/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d4/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d4/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d4/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d4/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d4/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d4/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d4/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d4/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "475207FC",
+                "title": "Under Defeat HD"
+            }
+        ],
+        "related": []
+    }
+}

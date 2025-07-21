@@ -1,0 +1,35 @@
+{
+    "id": "4B5687DC",
+    "title": {
+        "full": "Dead or Alive 5 Alpha-Demo Premium Edition",
+        "reduced": "DOA 5 Demo Premium Edition"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "TECMO KOEI GAMES.CO.,LTD/Team NINJA",
+    "publisher": "TECMO KOEI AMERICA Corporation",
+    "release_date": "2012-03-15",
+    "user_rating": null,
+    "description": {
+        "full": "The Dead or Alive 5 Alpha Demo, with a new Scramble stage and four classic characters: Hayabusa, Hayate, Ayane and Hitomi!",
+        "short": "The Dead or Alive 5 Alpha Demo, with a new Scramble stage and four classic characters: Hayabusa, Hayate, Ayane and Hitomi!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5687dc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5687dc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5687dc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5687dc/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "4B5607DA",
+                "title": "Dead or Alive 5"
+            }
+        ],
+        "related": []
+    }
+}

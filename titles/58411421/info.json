@@ -1,0 +1,40 @@
+{
+    "id": "58411421",
+    "title": {
+        "full": "Constant C",
+        "reduced": "Constant C"
+    },
+    "genre": [
+        "Platformer",
+        "Puzzle & Trivia"
+    ],
+    "developer": "International Games System Co.,LTD",
+    "publisher": "Mages.",
+    "release_date": "2014-03-12",
+    "user_rating": "3.25",
+    "description": {
+        "full": "In the year 1905, Albert Einstein published the theory of special relativity, suggesting that nothing can move faster than the speed of light, what if any mortal could break that constant? Stretch beyond that limits? Would human finally find a way to cheat death and wins over immortality? Or is it Chaos that follows the manipulation of time and gravity?   Constant C is a 2D Puzzle Platformer with two core gameplay mechanics, Gravity Shifting and the Time Field, using these two mechanics to control the game's various objects momentum to complete each level.  Dive into the world of Constant C, where rules of fundamental physics could no longer apply. In a space station away from Earth, mysterious event has triggered the distortion of time. Journey through the game as a lone robot, who step by step uncovering the truth behind the incident, and to find the purpose of his own creation. ",
+        "short": "Dive into the world of Constant C, where rules of fundamental physics could no longer apply. In a space station away from Earth, mysterious event has triggered the distortion of time. Journey through the game as a lone robot, who step by step uncovering the truth behind the incident, and to find the purpose of his own creation. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411421/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411421/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411421/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411421/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411421/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411421/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411421/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411421/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411421/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411421/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411421/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411421/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

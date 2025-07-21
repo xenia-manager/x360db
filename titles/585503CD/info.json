@@ -1,0 +1,35 @@
+{
+    "id": "585503CD",
+    "title": {
+        "full": "Felix Tale of the Night",
+        "reduced": "Felix Tale of the Night"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Kitasia",
+    "publisher": "Kitasia",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=1/3, Mature Content=1/3. The short but challenging adventure is mostly a beat 'em up formula with a few platformer elements. There's also minion adventure where players can join in as enemies to defeat you.  If you enjoy the fighting or simply need a bit of pratice, battle mode would be the mode of choice. There are 3 modes leaving players clawing their way to victory and 2 team modes on a total of 8 stages.",
+        "short": "The short but challenging adventure is mostly a beat 'em up formula with a few platformer elements. There's also minion adventure where players can join in as enemies to defeat you.  If you enjoy the fighting or simply need a bit of pratice, battle mode would be the mode of choice. There are 3 modes leaving players clawing their way to victory and 2 team modes on a total of 8 stages."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585503cd/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585503CD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585503cd/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585503CD_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503CD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503CD_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503CD_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

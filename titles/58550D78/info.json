@@ -1,0 +1,35 @@
+{
+    "id": "58550D78",
+    "title": {
+        "full": "Word Cheat",
+        "reduced": "Word Cheat"
+    },
+    "genre": [
+        "Card & Board"
+    ],
+    "developer": "RZ Games",
+    "publisher": "RZ Games",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=3/3. Hate losing at your favourite word board games? Well now you don't have to! Word Cheat allows you to configure the board for the game you're playing and will try to find the best possible word you could play from the tiles you have!",
+        "short": "Hate losing at your favourite word board games? Well now you don't have to! Word Cheat allows you to configure the board for the game you're playing and will try to find the best possible word you could play from the tiles you have!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550d7800000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550D78_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550d78/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550D78_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D78_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D78_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550D78_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

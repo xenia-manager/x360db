@@ -1,0 +1,35 @@
+{
+    "id": "58550896",
+    "title": {
+        "full": "Xtremes vs Zombies",
+        "reduced": "Xtremes vs Zombies"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Golconda",
+    "publisher": "Golconda",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=3/3. 2012 Apocalypse ended the lives of many on this planet. The feeble survivors assembled wrecks and created Xtremes in their war against the rising zombie hordes. Features two compelling modes Classic and Survival with special powers. Will you lead these amazing Xtremes in this last World War?",
+        "short": "2012 Apocalypse ended the lives of many on this planet. The feeble survivors assembled wrecks and created Xtremes in their war against the rising zombie hordes. Features two compelling modes Classic and Survival with special powers. Will you lead these amazing Xtremes in this last World War?"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550896/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550896_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550896/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550896_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550896_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550896_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550896_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

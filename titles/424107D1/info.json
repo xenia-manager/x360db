@@ -1,0 +1,55 @@
+{
+    "id": "424107D1",
+    "title": {
+        "full": "Zegapain",
+        "reduced": "Zegapain"
+    },
+    "genre": [
+        "Other",
+        "Shooter"
+    ],
+    "developer": "cavia Inc.",
+    "publisher": "Bandai",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "Through the collaboration of Microsoft, Sunrise, and Namco Bandai Games, the popular animation series Zegapain is transformed into an exciting 3D Mecha Action Shooting game. Only the Xbox360 can bring Zegapain’s mecha action to life with the fast sense of speed and the jaw dropping graphics never seen before. In addition to the characters from the animation series, there will also be various new and original characters exclusive to the game as well. Together, the old and new characters help to describe another side of Zegapain. Multiple mission paths, in-game events, relentless enemies all come together and help tell the true story of Zegapain. The player will be free to choose their own in-game partner character along will full customization of skills and parts to build their own unique Zegapain. Over 3,000 possible combinations is being planned on top of the many color choices for nearly infinite custom units! The player can choose to create units that are melee attack focused, r",
+        "short": "Through the collaboration of Microsoft, Sunrise, and Namco Bandai Games, the popular animation series Zegapain is transformed into an exciting 3D Mecha Action Shooting game. Only the Xbox360 can bring Zegapain’s mecha action to life with the fast sense of speed and the jaw dropping graphics never seen before. In addition to the characters from the animation series, there will also be various new and original characters exclusive to the game as well. Together, the old and new characters help to d"
+    },
+    "media": [
+        {
+            "media_id": "1BD1AE13",
+            "title": "Zegapain NOT",
+            "edition": "Original",
+            "region": "Japan"
+        },
+        {
+            "media_id": "0F03EDDB",
+            "title": "Zegapain XOR",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d1/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d1/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d1/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d1/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d1/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d1/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d1/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d1/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d1/1041/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d1/1041/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107d1/1041/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

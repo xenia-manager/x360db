@@ -1,0 +1,35 @@
+{
+    "id": "585505FB",
+    "title": {
+        "full": "MILITARY SNIPER-SIM 318",
+        "reduced": "MILITARY SNIPER-SIM 318"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "reedake2",
+    "publisher": "reedake2",
+    "release_date": null,
+    "user_rating": "2.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. If you are considering a career as a marine or army sniper, this is where you begin. The creator of MILITARY SNIPER-SIM, Matthew Reedake, is an ex-soldier of the Australian Army and has studied advanced physics at Sydney University. Designed to allow the practice of all key skills used by snipers and marksmen, it includes environment effects, moving targets, ballistics replay and much more.",
+        "short": "If you are considering a career as a marine or army sniper, this is where you begin. The creator of MILITARY SNIPER-SIM, Matthew Reedake, is an ex-soldier of the Australian Army and has studied advanced physics at Sydney University. Designed to allow the practice of all key skills used by snipers and marksmen, it includes environment effects, moving targets, ballistics replay and much more."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585505fb00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505FB_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505fb/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505FB_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505FB_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505FB_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505FB_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

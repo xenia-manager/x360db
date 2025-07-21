@@ -1,0 +1,35 @@
+{
+    "id": "58550819",
+    "title": {
+        "full": "Cow Catch",
+        "reduced": "Cow Catch"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "John Mitchell_0",
+    "publisher": "John Mitchell_0",
+    "release_date": null,
+    "user_rating": "3.50",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=1/3, Sex=0/3, Mature Content=0/3. Push your reflexes to the limits with this challenging game of endurance and skill. Featuring four progressive modes of stylish bovine action, defend the Earth against otherworldly invasion by intercepting genetically modified cattle being launched at rural communities. Save the world from destruction with the aid of your trusty wagon and become a legendary folk hero!",
+        "short": "Push your reflexes to the limits with this challenging game of endurance and skill. Featuring four progressive modes of stylish bovine action, defend the Earth against otherworldly invasion by intercepting genetically modified cattle being launched at rural communities. Save the world from destruction with the aid of your trusty wagon and become a legendary folk hero!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855081900000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550819_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550819/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550819_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550819_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550819_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550819_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

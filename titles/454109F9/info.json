@@ -1,0 +1,63 @@
+{
+    "id": "454109F9",
+    "title": {
+        "full": "EA SPORTS FIFA 19 Legacy Edition",
+        "reduced": "EA SPORTS FIFA 19 Legacy Edition"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "release_date": "2018-08-24",
+    "user_rating": null,
+    "description": {
+        "full": "EA SPORTS™ FIFA 19 Legacy Edition launches September 28th on Xbox 360 featuring the latest kits, clubs, and squads from top leagues around the world. Gameplay features and modes will have parity with FIFA 18 and FIFA 17 on Xbox 360 consoles.   GAMEPLAY  FIFA 19 Legacy Edition will feature the same gameplay innovation from FIFA 17 and FIFA 18 without any new development or significant enhancements.   PRESENTATION  FIFA 19 Legacy Edition will feature an updated visual identity with newly designed in-game front-end and menu screens.   LEGACY MODES  The following Game Modes will be included in FIFA 19 with the same features and innovations from FIFA 17 and FIFA 18.   • Kick Off • Career Mode • Tournaments – Licensed and Custom  • Women’s International Cup • Skill Games • Online Seasons • Online Friendlies • Be a Pro (Player/Goalkeeper)   FIFA ULTIMATE TEAM™  FIFA Ultimate Team will include:  • Manager Tasks  • Single Player & Online Seasons • Single Player & Online Tournaments  • Single Player & Online Draft • Online Single Match • Squad Building Challenges   FIFA Ultimate Team on FIFA 19 Legacy Edition will not include FUT ICONS.  © 2018 Electronic Arts Inc.  EA, EA SPORTS and the EA SPORTS logo are trademarks of Electronic Arts Inc. Official FIFA licensed product. © FIFA and FIFA's Official Licensed Product Logo are copyrights and/or trademarks of FIFA.  All rights reserved. Manufactured under license by Electronic Arts Inc.",
+        "short": "EA SPORTS™ FIFA 19 Legacy Edition launches September 28th on Xbox 360 featuring the latest kits, clubs, and squads from top leagues around the world. Gameplay features and modes will have parity with FIFA 18 and FIFA 17 on Xbox 360 consoles."
+    },
+    "media": [
+        {
+            "media_id": "090DA4E7",
+            "title": "FIFA 19: Edição Legacy",
+            "edition": "Original",
+            "region": "Brazil"
+        },
+        {
+            "media_id": "510E7F9A",
+            "title": "FIFA 19: Izdanie Legacy",
+            "edition": "Original",
+            "region": "Russia"
+        },
+        {
+            "media_id": "4319052B",
+            "title": "FIFA 19: Legacy Edition",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "5B8D71CD",
+            "title": "FIFA 19: Legacy Edition",
+            "edition": "Original",
+            "region": "Spain"
+        },
+        {
+            "media_id": "12684F31",
+            "title": "FIFA 19: Legacy Edition",
+            "edition": "Original",
+            "region": "Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f9/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f9/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f9/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f9/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109f9/1033/screenlg1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

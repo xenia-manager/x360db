@@ -1,0 +1,35 @@
+{
+    "id": "585504F4",
+    "title": {
+        "full": "Fabarite",
+        "reduced": "Fabarite"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "nobusi",
+    "publisher": "nobusi",
+    "release_date": null,
+    "user_rating": "1.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. In this falling block puzzle game, pairs of lines fall from the top of the screen. Match lines of the same color to form enclosures and make them disappear.  You can delete blocks by enclosing them with lines of the same color.",
+        "short": "In this falling block puzzle game, pairs of lines fall from the top of the screen. Match lines of the same color to form enclosures and make them disappear.  You can delete blocks by enclosing them with lines of the same color."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585504f4/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585504F4_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585504f4/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585504F4_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504F4_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504F4_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504F4_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

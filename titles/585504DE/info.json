@@ -1,0 +1,35 @@
+{
+    "id": "585504DE",
+    "title": {
+        "full": "Kapture",
+        "reduced": "Kapture"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "CandelaCreations",
+    "publisher": "CandelaCreations",
+    "release_date": null,
+    "user_rating": "2.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=2/3, Sex=0/3, Mature Content=2/3. Enroll as an agent to capture the one who has plagued our nation. Intensive training, aerial combats, ground battles and a car chase for a plethora of medals, glory and recognition in this action adventure. Find it tough? Enroll an accomplice and play as a team! Aim for 20 medals, 5 stars and build up an impressive profile.",
+        "short": "Enroll as an agent to capture the one who has plagued our nation. Intensive training, aerial combats, ground battles and a car chase for a plethora of medals, glory and recognition in this action adventure. Find it tough? Enroll an accomplice and play as a team! Aim for 20 medals, 5 stars and build up an impressive profile."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585504de00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585504DE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585504de/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585504DE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504DE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504DE_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585504DE_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

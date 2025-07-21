@@ -1,0 +1,30 @@
+{
+    "id": "424107DF",
+    "title": {
+        "full": "銀河英雄伝説",
+        "reduced": "銀河英雄伝説"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "MiCROViSiON　Inc.",
+    "publisher": "Bandai",
+    "release_date": "2008-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "銀河英雄伝説が リアルタイム艦隊シミュレーションとして 登場！  銀河英雄伝説の艦隊司令官となり、 大艦隊を指揮して敵を撃ち倒し 艦隊運用の何たるかを示すのだ！ 君の采配が銀河の運命を左右する！  全艦出撃！",
+        "short": "銀河英雄伝説が リアルタイム艦隊シミュレーションとして 登場！  銀河英雄伝説の艦隊司令官となり、 大艦隊を指揮して敵を撃ち倒し 艦隊運用の何たるかを示すのだ！ 君の采配が銀河の運命を左右する！  全艦出撃！"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107df/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107df/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107df/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424107df/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

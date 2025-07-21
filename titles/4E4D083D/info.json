@@ -1,0 +1,48 @@
+{
+    "id": "4E4D083D",
+    "title": {
+        "full": "SOULCALIBUR Ⅴ",
+        "reduced": "SOULCALIBUR Ⅴ"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "NAMCO BANDAI Games Inc.",
+    "publisher": "NAMCO BANDAI Games America Inc.",
+    "release_date": "2012-01-26",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Russian, Japanese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Online Interactions Not Rated by the ESRB SOULCALIBUR V, the latest chapter in the premier weapons-based fighting series, continues the epic story of the legendary soul swords 17 years after the events of SOULCALIBUR IV. SCV features a fluid 3D battle system, a new battle gauge that enables devastating attacks, increased freedom in character creation and a guest appearance by Ezio Auditore, the Master Assassin from \"Assassin's Creed®\".",
+        "short": "Online Interactions Not Rated by the ESRB SOULCALIBUR V, the latest chapter in the premier weapons-based fighting series, continues the epic story of the legendary soul swords 17 years after the events of SOULCALIBUR IV. SCV features a fluid 3D battle system, a new battle gauge that enables devastating attacks, increased freedom in character creation and a guest appearance by Ezio Auditore, the Master Assassin from \"Assassin's Creed®\"."
+    },
+    "media": [
+        {
+            "media_id": "165FAD4F",
+            "title": "Soulcalibur V",
+            "edition": "Original, Fighting Edition",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083d/1033/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4e4d083d/PPS_CMYK_SCV_Xbox360_MANUAL_GB_Q.pdf"
+        ]
+    }
+}

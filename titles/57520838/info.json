@@ -1,0 +1,43 @@
+{
+    "id": "57520838",
+    "title": {
+        "full": "Hot Wheels Worlds Best Driver",
+        "reduced": "Worlds Best Driver"
+    },
+    "genre": [
+        "Racing & Flying"
+    ],
+    "developer": "Firebrand Games",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "release_date": "2013-09-17",
+    "user_rating": "3.25",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, Spanish, Dutch, Portuguese.  Gear up for the most intense challenges only Hot Wheels® can deliver! Pick your team, choose your ride and go for it! Get behind the wheel of thrilling Hot Wheels vehicles while joining the elite ranks of Team Hot Wheels™. Compete in dozens of unique, fast-paced, re-playable challenges all highlighting the different driving styles of Team Hot Wheels: the speed record-breaking Green Team, the show-stopping stunts of the Red Team, the high-tech precision of the Blue Team and the world record-breaking jumps of the Yellow Team.  Do you have what it takes to be the World’s Best Driver? ",
+        "short": "Gear up for the most intense challenges only Hot Wheels® can deliver!  Join the elite ranks of Team Hot Wheels, choose from thrilling Hot Wheels vehicles and compete in dozens of unique, fast-paced, re-playable challenges! Do you have what it takes to be the World’s Best Driver? "
+    },
+    "media": [
+        {
+            "media_id": "4BB487E5",
+            "title": "Hot Wheels: World's Best Driver",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520838/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520838/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520838/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520838/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520838/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520838/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520838/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520838/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520838/1033/screenlg5.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

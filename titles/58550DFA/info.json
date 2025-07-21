@@ -1,0 +1,35 @@
+{
+    "id": "58550DFA",
+    "title": {
+        "full": "Zombie Hero",
+        "reduced": "Zombie Hero"
+    },
+    "genre": [
+        "Other"
+    ],
+    "developer": "Erpberger",
+    "publisher": "Erpberger",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=0/3, Mature Content=2/3. Eat your way to the top in this button-mashing, man-chasing, brain-eating frolic through the streets of Zombieopolis.",
+        "short": "Eat your way to the top in this button-mashing, man-chasing, brain-eating frolic through the streets of Zombieopolis."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.58550dfa/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550DFA_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550dfa/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550DFA_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DFA_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DFA_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550DFA_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

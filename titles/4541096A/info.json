@@ -1,0 +1,39 @@
+{
+    "id": "4541096A",
+    "title": {
+        "full": "NHL 12 Early Release",
+        "reduced": "NHL 12 Early Release"
+    },
+    "genre": [
+        "Independent & Music Videos",
+        "Music and Short Videos",
+        "Sports",
+        "Sports & Recreation",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2011-09-09",
+    "user_rating": null,
+    "description": {
+        "full": "Experience the glory of becoming a legend with NHL® 12 by shattering the records of some of the greatest to ever play the game, including Gretzky, Lemieux, Howe, and more. Playing as a legend or with your created pro, earn time on the ice with stellar play, big hits, and spectacular goals, then simulate the action to your next shift so you’re always on the ice. The franchise that has won 22 Sports game of the year awards brings to life the skill, aggression, and authenticity of hockey with the all-new Full Contact Physics Engine, Anticipation AI, the NHL Winter Classic®, Be a Pro revamped and Dynamic Goalies.",
+        "short": "Experience the glory of becoming a legend with NHL® 12 by shattering the records of some of the greatest to ever play the game, including Gretzky, Lemieux, Howe, and more. Playing as a legend or with your created pro, earn time on the ice with stellar play, big hits, and spectacular goals, then simulate the action to your next shift so you’re always on the ice. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096a/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "45410964",
+                "title": "NHL®12"
+            }
+        ],
+        "related": []
+    }
+}

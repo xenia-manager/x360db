@@ -1,0 +1,55 @@
+{
+    "id": "4B5907DF",
+    "title": {
+        "full": "Port Royale 3 Pirates  Merchants",
+        "reduced": "Port Royale 3"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Gaming Minds Studios",
+    "publisher": "Kalypso Media",
+    "release_date": "2012-12-13",
+    "user_rating": "3.50",
+    "description": {
+        "full": "The Games on Demand version supports English, French, Italian, German, and Spanish - Manuals can be downloaded from http://marketplace.xbox.com  The Caribbean, in the turbulent 17th Century. The mighty kingdoms of Spain, England, France and the Netherlands fight over the colonies. And there you are, a young sea captain whose only goal is to become the most powerful man in the New World. To achieve that goal, you may choose one of the two available campaigns: will you become an Adventurer or a Trader? For the first time in the acclaimed Port Royale series, you are not alone in the beautiful and seemingly so peaceful seas of the Caribbean. Develop a successful trading company, lead your ships in beautiful 3D naval battles and force your opponents to their knees! Main Features • Two different single player campaigns: Adventurer and Trader • Naval battles, raids, plundering and invasions await the Adventurer, while the Trader will develop trade routes and the economy to earn glory, fortune and power • 16 different ship types, such as powerful Galleons or versatile Frigates • Organize trade with 60 different cities such as Port-au-Prince or Tortuga • A comprehensive trade system, with supply and demand dynamically setting the price of goods and wares, like in the real world",
+        "short": "The Caribbean, in the turbulent 17th Century. The mighty kingdoms of Spain, England, France and the Netherlands fight over the colonies. And there you are, a young sea captain whose only goal is to become the most powerful man in the New World. To achieve that goal, you may choose one of the two available campaigns: will you become an Adventurer or a Trader?"
+    },
+    "media": [
+        {
+            "media_id": "6306045D",
+            "title": "Port Royale 3: Pirates & Merchants",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b5907df/1033/screenlg15.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4b5907df/PR3_XBOX_UK_MANUAL.pdf"
+        ]
+    }
+}

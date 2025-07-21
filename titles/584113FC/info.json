@@ -1,0 +1,31 @@
+{
+    "id": "584113FC",
+    "title": {
+        "full": "Assassins Creed III Liberation HD",
+        "reduced": "Assassins Creed III Liberation HD"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Role Playing"
+    ],
+    "developer": "Developer String",
+    "publisher": "Publisher String",
+    "release_date": "2014-04-08",
+    "user_rating": "4.25",
+    "description": {
+        "full": "Please download this content. Online features are no longer available for this product. ",
+        "short": "Please download this content"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113fc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113fc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113fc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113fc/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "58411420",
+    "title": {
+        "full": "Rekoil Liberator",
+        "reduced": "Rekoil Liberator"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Plastic Piranha ",
+    "publisher": "505 Games Srl",
+    "release_date": "2014-01-29",
+    "user_rating": "2.25",
+    "description": {
+        "full": "Frag your enemies back to the stone age! Set in a world devastated by an unrelenting pandemic, Rekoil is a fast action & highly balanced arena shooter that allows players to frag each other to oblivion. With 7 different game modes, 10 maps, & 40 different weapons, Rekoil is the action FPS refined to its purest form ensuring the fun is maximized & the best player with the greatest skills & most points wins. Whether you enjoy run & gun, or prefer a tactical setup, play the way you want to play.",
+        "short": "Frag your enemies back to the Stone Age! A fast action & highly balanced arena shooter with multiple game modes, maps & 40 different weapons. The FPS refined."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411420/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411420/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411420/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411420/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411420/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411420/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411420/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411420/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411420/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411420/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411420/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411420/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411420/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

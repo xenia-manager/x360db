@@ -1,0 +1,35 @@
+{
+    "id": "585503BE",
+    "title": {
+        "full": "PARTYBOAT",
+        "reduced": "PARTYBOAT"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "The Industry",
+    "publisher": "The Industry",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=3/3, Sex=3/3, Mature Content=3/3. Partyboat is a party on a boat! In this comedic sandbox simulator take on the persona of The Skipper - a retired, amoral divorcé who must sail, manage, design, gamble, steal, hire, fire, and event-coordinate the way from his sailboat to a cruise ship. It is presented as a unique blend of 2D animation, 3D renders, live action, lots of hilarious dialogue, and over 80 minutes of music!",
+        "short": "Partyboat is a party on a boat! In this comedic sandbox simulator take on the persona of The Skipper - a retired, amoral divorcé who must sail, manage, design, gamble, steal, hire, fire, and event-coordinate the way from his sailboat to a cruise ship. It is presented as a unique blend of 2D animation, 3D renders, live action, lots of hilarious dialogue, and over 80 minutes of music!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585503be/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585503BE_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585503be/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585503BE_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503BE_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503BE_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585503BE_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "id": "4B4F07D3",
+    "title": {
+        "full": "Dynasty Warriors 5 Empires",
+        "reduced": "DW5 Empires"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "TECMO KOEI GAMES.CO.,LTD",
+    "publisher": "TECMO KOEI AMERICA Corporation",
+    "release_date": "2008-01-01",
+    "user_rating": "4.00",
+    "description": {
+        "full": "The Games on Demand version supports English. Conquer the 25 areas of Ancient China and build an empire using cunning, diplomacy and uncompromising force. Before each battle meets with the war council to decide upon military and political policies for the kingdom; then it's time for war. The armies of the kingdom are at your command. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".",
+        "short": "Conquer the 25 areas of Ancient China and build an empire using cunning, diplomacy and uncompromising force. Before each battle meets with the war council to decide upon military and political policies for the kingdom; then it's time for war. The armies of the kingdom are at your command."
+    },
+    "media": [
+        {
+            "media_id": "289E8C6C",
+            "title": "Dynasty Warriors 5: Empires",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "61A14F80",
+            "title": "Dynasty Warriors 5: Empires",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "241B58C2",
+            "title": "Shin Sangoku Musou 4: Empires",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d3/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d3/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d3/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d3/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d3/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d3/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d3/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d3/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d3/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d3/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d3/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d3/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d3/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d3/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d3/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/4b4f07d3/DW5Ex360MAN(E)HR.pdf"
+        ]
+    }
+}

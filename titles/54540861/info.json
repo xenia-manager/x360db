@@ -1,0 +1,71 @@
+{
+    "id": "54540861",
+    "title": {
+        "full": "BioShock 2",
+        "reduced": "BioShock 2"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "2K Marin",
+    "publisher": "2K Games",
+    "release_date": "2010-02-09",
+    "user_rating": "4.50",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) The Games on Demand version supports English, French, and Spanish. In BioShock 2, you step into the boots of the most iconic denizen of Rapture, the Big Daddy, as you explore through the decrepit and beautiful fallen city, chasing an unseen foe in search of answers and your own survival. ",
+        "short": "In BioShock 2, you step into the boots of the most iconic denizen of Rapture, the Big Daddy, as you explore through the decrepit and beautiful fallen city, chasing an unseen foe in search of answers and your own survival.   The deep multiplayer mode is set during the fall of Rapture, where you assume the role of a combat test subject. The full depth of the BioShock experience is refined and transformed into a unique multiplayer experience that can only be found in Rapture."
+    },
+    "media": [
+        {
+            "media_id": "4B7650E3",
+            "title": "BioShock 2",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "454A0D15",
+            "title": "BioShock 2",
+            "edition": "Original, 2K Power Pack",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "586D73CB",
+            "title": "BioShock: Ultimate Rapture Edition (BioShock 2: Bonus Content)",
+            "edition": "Original",
+            "region": "USA"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/1041/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/1041/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/1041/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/1041/screenlg11.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/1041/screenlg12.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/1041/screenlg13.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/7177/screenlg14.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/7177/screenlg15.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/7177/screenlg16.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/7177/screenlg17.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/7177/screenlg18.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/7177/screenlg19.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254540861/7177/screenlg20.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

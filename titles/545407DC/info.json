@@ -1,0 +1,48 @@
+{
+    "id": "545407DC",
+    "title": {
+        "full": "Prizefighter",
+        "reduced": "Prizefighter"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "VenomGames",
+    "publisher": "2K Sports",
+    "release_date": "2008-01-01",
+    "user_rating": "2.75",
+    "description": {
+        "full": "Don King Presents Prizefighter is equal parts sports simulation and true boxing drama that takes place both inside and outside the ring. Build your boxing career from rags to riches and see your story unfold in a unique sports documentary style featuring famous boxers, celebrities, and Don King himself. Or play with up to 8 people on Xbox Live using any of the 40 professional boxers available or a customized boxer creation of your own. Need to work up a quick sweat, simply unleash your pugilistic skills on a buddy in exhibition mode.",
+        "short": "Don King Presents Prizefighter is equal parts sports simulation and true boxing drama that takes place both inside and outside the ring. Build your boxing career from rags to riches and see your story unfold in a unique sports documentary style featuring famous boxers, celebrities, and Don King himself. Or play with up to 8 people on Xbox Live using any of the 40 professional boxers available or a customized boxer creation of your own. Need to work up a quick sweat, simply unleash your pugilisti"
+    },
+    "media": [
+        {
+            "media_id": "35D436B1",
+            "title": "Don King Presents: Prizefighter",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dc/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dc/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dc/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dc/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407dc/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

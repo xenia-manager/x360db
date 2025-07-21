@@ -1,0 +1,41 @@
+{
+    "id": "58410A2D",
+    "title": {
+        "full": "MOON DIVER",
+        "reduced": "MOON DIVER"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "AQ INTERACTIVE INC.",
+    "publisher": "SQUARE ENIX CO., LTD.",
+    "release_date": "2011-05-04",
+    "user_rating": "3.75",
+    "description": {
+        "full": "(Online Interactions Not Rated by the ESRB) The Earth lies in ruins. In the year 2081, five warriors suddenly appeared during an eclipse and began the fight to take back Earth.  Introducing MOON DIVER, an easy-to-control side-scrolling action game for 1–4 players. Get ready for non-stop acrobatic action on the ground, walls, and even ceilings! Characters can level up, gain new abilities, and unleash devastating special attacks known as MoonSault Combinations! ",
+        "short": "(Online Interactions Not Rated by the ESRB) Side-scrolling co-op action game for 1–4 players. Features a wide variety of special attacks/co-op attacks and challenging stages. MOON DIVER, take the plunge!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a2d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a2d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a2d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a2d/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a2d/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a2d/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a2d/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a2d/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a2d/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a2d/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a2d/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a2d/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a2d/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a2d/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

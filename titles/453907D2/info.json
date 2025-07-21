@@ -1,0 +1,63 @@
+{
+    "id": "453907D2",
+    "title": {
+        "full": "Persona 4 Arena",
+        "reduced": "P4A"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "ATLUS/ARC SYSTEM WORKS",
+    "publisher": "ATLUS",
+    "release_date": "2012-07-31",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports English and Japanese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Two months after the ending of the hit RPG Persona 4, a new threat has emerged in Persona 4 Arena!  During Golden Week, a new rumor begins spreading through town about a mysterious TV program, the P-1 Grand Prix.  Visible if you look into a turned-off TV on a rainy night, this fighting tournament broadcasts high school friends fighting one another to the bitter end. When Yu Narukami and the others test this rumor, they see their friend Teddie announcing the beginning of the show: “May the manliest of all men come on down!” With that, the participants are shown, one by one... The Investigation Team is horrified to see their own faces introduced with twisted nicknames.  The members of the Investigation Team decide to dive into the TV once again to solve the case! What is behind the mysterious TV show?  Jump into the next chapter of the story as Persona 4 enters a new genre in this 2D fighting game from the dream team of ATLUS and Arc System Works, made to be enjoyed by fighting game beginners and experts alike!",
+        "short": "Two months after the ending of the hit RPG Persona 4, a new threat has emerged in Persona 4 Arena!  Jump into the next chapter of the story as Persona 4 enters a new genre in this 2D fighting game from the dream team of ATLUS and Arc System Works, made to be enjoyed by fighting game beginners and experts alike! "
+    },
+    "media": [
+        {
+            "media_id": "0A203E70",
+            "title": "Persona 4 Arena",
+            "edition": "Original",
+            "region": "Europe"
+        },
+        {
+            "media_id": "004DA610",
+            "title": "Persona 4 Arena",
+            "edition": "Original",
+            "region": "USA"
+        },
+        {
+            "media_id": "06F58FFF",
+            "title": "Persona 4: The Ultimate in Mayonaka Arena",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453907d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453907d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453907d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453907d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453907d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453907d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453907d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453907d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453907d2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453907d2/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453907d2/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453907d2/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453907d2/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453907d2/1033/screenlg10.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453907d2/1033/screenlg11.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": [
+            "http://download.xbox.com/content/453907d2/P4AFullmanualMSV.pdf"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": "53450858",
+    "title": {
+        "full": "Captain America Super Soldier",
+        "reduced": "Captain America Super Soldier"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Next Level Games",
+    "publisher": "Sega of America",
+    "release_date": "2011-07-19",
+    "user_rating": "4.00",
+    "description": {
+        "full": "Become Captain America™ as you face the Red Skull’s army in this gripping original third-person action adventure set in WWII’s darkest days. Wield Cap’s legendary shield and engage in devastating acrobatic combat and platforming as you traverse a mysterious castle to save the world from Cap’s villainous archenemies.   ",
+        "short": "Become Captain America™ and wield the shield of the world’s first Super-Soldier as you infiltrate a mysterious castle in a gripping original WWII action adventure. "
+    },
+    "media": [
+        {
+            "media_id": "74041439",
+            "title": "Captain America: Super Soldier",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450858/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450858/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450858/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450858/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450858/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450858/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450858/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450858/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450858/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450858/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450858/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450858/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450858/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450858/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

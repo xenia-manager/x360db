@@ -1,0 +1,41 @@
+{
+    "id": "5841127A",
+    "title": {
+        "full": "Pool Nation",
+        "reduced": "Pool Nation"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Cherry Pop Games",
+    "publisher": "Mastertronic Group Ltd.",
+    "release_date": "2012-10-31",
+    "user_rating": "3.75",
+    "description": {
+        "full": "Pool Nation is the ultimate pixel-perfect pool game for Xbox, featuring photo-realistic graphics, real-world physics, and a wealth of game modes and rule sets. Slow down and rewind time with the unique replay system which lets you review the action close up. Take on skilled virtual opponents in the extensive career modes, unlocking new balls, locations, and cues. Play other users around the world on Xbox LIVE, with single matches and tournaments. Get hooked on the insanely challenging Endurance mode, a frantic pot-against-the clock game which will keep you coming back for more. Share your times, scores and achievements with friends, family and the world through Facebook.",
+        "short": "Pool Nation is the ultimate pixel-perfect pool game for Xbox, featuring photo-realistic graphics, real-world physics, and a wealth of game modes and rule sets. Play other users around the world on Xbox LIVE, with single matches and tournaments. Get hooked on the insanely challenging Endurance mode, a frantic pot-against-the clock game which will keep you coming back for more. Share your times, scores and achievements with friends, family and the world through Facebook."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841127a/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841127a/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841127a/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841127a/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841127a/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841127a/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841127a/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841127a/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841127a/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841127a/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841127a/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841127a/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841127a/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841127a/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

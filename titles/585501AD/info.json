@@ -1,0 +1,35 @@
+{
+    "id": "585501AD",
+    "title": {
+        "full": "The Ballet of Light and Shadow",
+        "reduced": "The Ballet of Light and Shadow"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Vandash",
+    "publisher": "Vandash",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. In the burning light of a rainbow, fight the evil forces of shadows. Test your skills in four worlds of unique gameplay. Play in a dangerous ballet, detonate gears of shadows, avoid monstruous clouds and fight an epic war to liberate the rainbow from its foes.",
+        "short": "In the burning light of a rainbow, fight the evil forces of shadows. Test your skills in four worlds of unique gameplay. Play in a dangerous ballet, detonate gears of shadows, avoid monstruous clouds and fight an epic war to liberate the rainbow from its foes."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585501ad/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585501AD_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585501ad/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585501AD_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501AD_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501AD_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585501AD_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

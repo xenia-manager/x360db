@@ -1,0 +1,35 @@
+{
+    "id": "454189B7",
+    "title": {
+        "full": "NCAA FOOTBALL 14 DEMO",
+        "reduced": "NCAA FOOTBALL 14 DEMO"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "EA Tiburon",
+    "publisher": "EA SPORTS",
+    "release_date": "2013-06-25",
+    "user_rating": "4.50",
+    "description": {
+        "full": "NCAA® Football 14 unlocks the unpredictability and innovation of the college game. The new physics-driven animation system and a completely re-engineered spread and read option game influence the outcome of every moment allowing you to play true to your team. ",
+        "short": "NCAA® Football 14 unlocks the unpredictability and innovation of the college game. The new physics-driven animation system and re-engineered option game influence the outcome of every moment.  "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189b7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189b7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189b7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189b7/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "454109B6",
+                "title": "NCAA® Football 14"
+            }
+        ],
+        "related": []
+    }
+}

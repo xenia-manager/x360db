@@ -1,0 +1,59 @@
+{
+    "id": "434307FC",
+    "title": {
+        "full": "SUPER STREETFIGHTER IV ARCADE EDITION",
+        "reduced": "SUPER STREETFIGHTER IV ARCADE EDITION"
+    },
+    "genre": [
+        "Fighting"
+    ],
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "release_date": "2010-04-27",
+    "user_rating": "4.25",
+    "description": {
+        "full": "The Games on Demand version supports  English, French, Italian, German, Spanish, Japanese.  (Online Interactions Not Rated by the ESRB)   Street Fighter IV took the world by storm and now it’s back, and more Super than ever with Super Street Fighter IV! Ten new fighters, nostalgic Bonus Stages, new spectator features and the awesome Replay Channel will draw you in for one more brutal fight!",
+        "short": "Street Fighter IV took the world by storm and now it’s back, and more Super than ever with Super Street Fighter IV! Ten new fighters, nostalgic Bonus Stages, new spectator features and the awesome Replay Channel will draw you in for one more brutal fight!"
+    },
+    "media": [
+        {
+            "media_id": "56AEF23C",
+            "title": "Super Street Fighter IV",
+            "edition": "Original",
+            "region": "World"
+        },
+        {
+            "media_id": "33D09174",
+            "title": "Super Street Fighter IV: Arcade Edition",
+            "edition": "Original, Platinum Collection",
+            "region": "Japan, Europe"
+        },
+        {
+            "media_id": "7E76B603",
+            "title": "Ultra Street Fighter IV",
+            "edition": "Original",
+            "region": "World"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fc/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fc/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fc/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fc/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fc/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fc/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fc/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fc/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fc/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fc/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fc/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fc/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307fc/1033/screenlg9.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

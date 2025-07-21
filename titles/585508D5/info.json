@@ -1,0 +1,35 @@
+{
+    "id": "585508D5",
+    "title": {
+        "full": "Pirate Texas Holdem Defense",
+        "reduced": "Pirate Texas Holdem Defense"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "MindsEdge",
+    "publisher": "MindsEdge",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Texas Hold'em Poker anyone? Winning lots of money gets you powerful towers. You better hope that you have the towers you need placed in strategic locations. The waves of Pirates have no mercy! And just when you think you are good, the boss will show up to challenge you your dominion. This game is non-stop fun.",
+        "short": "Texas Hold'em Poker anyone? Winning lots of money gets you powerful towers. You better hope that you have the towers you need placed in strategic locations. The waves of Pirates have no mercy! And just when you think you are good, the boss will show up to challenge you your dominion. This game is non-stop fun."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/585508d500000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585508D5_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585508d5/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585508D5_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508D5_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508D5_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585508D5_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

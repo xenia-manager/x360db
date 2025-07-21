@@ -1,0 +1,35 @@
+{
+    "id": "415688E6",
+    "title": {
+        "full": "Call of Duty Modern Warfare 3 Single-Player Demo",
+        "reduced": "Modern Warfare 3 Demo"
+    },
+    "genre": [
+        "Shooter"
+    ],
+    "developer": "Infinity Ward and Sledgehammer Games",
+    "publisher": "Activision",
+    "release_date": "2012-07-31",
+    "user_rating": "2.25",
+    "description": {
+        "full": "The Call of Duty®: Modern Warfare® 3 Single-Player Demo is an epic gameplay experience that takes you to the front lines of World War 3 as a Special Operations soldier engaging in a fierce firefight with Russian infantry and vehicles throughout the financial district of New York City.  Highlights of the mission include close quarters urban warfare, controlling air support through the use of a attack  drone, and manning a helicopter mini-gun during extraction.",
+        "short": "The Call of Duty®: Modern Warfare® 3 Single-Player Demo is an epic gameplay experience that takes you to the front lines of World War 3 as a Special Operations soldier engaging in a fierce firefight with Russian infantry and vehicles throughout the financial district of New York City.  Highlights of the mission include close quarters urban warfare, controlling air support through the use of a attack  drone, and manning a helicopter mini-gun during extraction."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415688e6/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415688e6/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415688e6/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415688e6/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "415608CB",
+                "title": "Modern Warfare® 3"
+            }
+        ],
+        "related": []
+    }
+}

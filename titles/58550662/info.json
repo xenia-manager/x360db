@@ -1,0 +1,35 @@
+{
+    "id": "58550662",
+    "title": {
+        "full": "Jungle Animal Chess",
+        "reduced": "Jungle Animal Chess"
+    },
+    "genre": [
+        "Card & Board"
+    ],
+    "developer": "bit|switch games",
+    "publisher": "bit|switch games",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Jungle is a traditional Chinese board game that takes minutes to learn and months to master. A game of Jungle is a quick match compared to other strategy boardgames, yet there is great depth in its handful of playing pieces. Features new boards expanding on the classic gameplay, luscious artwork, and a sweeping soundtrack. Jungle is an adventure for thinkers of all ages",
+        "short": "Jungle is a traditional Chinese board game that takes minutes to learn and months to master. A game of Jungle is a quick match compared to other strategy boardgames, yet there is great depth in its handful of playing pieces. Features new boards expanding on the classic gameplay, luscious artwork, and a sweeping soundtrack. Jungle is an adventure for thinkers of all ages"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855066200000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550662_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550662/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550662_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550662_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550662_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550662_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

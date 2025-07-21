@@ -1,0 +1,35 @@
+{
+    "id": "58550872",
+    "title": {
+        "full": "Conquest",
+        "reduced": "Conquest"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Jason Keiderling",
+    "publisher": "Jason Keiderling",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Conquest is a live action vehicle combat game with real time strategy elements.  Your goal is to destroy your opponents base before they destroy yours.  You can build defense turrets and construct AI controlled drones that you can command to help you accomplish this.",
+        "short": "Conquest is a live action vehicle combat game with real time strategy elements.  Your goal is to destroy your opponents base before they destroy yours.  You can build defense turrets and construct AI controlled drones that you can command to help you accomplish this."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855087200000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550872_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550872/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550872_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550872_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550872_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550872_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

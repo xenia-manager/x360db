@@ -1,0 +1,35 @@
+{
+    "id": "58550E84",
+    "title": {
+        "full": "45 Trillion Puzzle",
+        "reduced": "45 Trillion Puzzle"
+    },
+    "genre": [
+        "Puzzle & Trivia"
+    ],
+    "developer": "We Love Hamsters Software",
+    "publisher": "We Love Hamsters Software",
+    "release_date": null,
+    "user_rating": "3.25",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Inspired by the puzzles of the early 80s, the 4.5 Trillion Puzzle defies you to arrange colored balls into columns. With three difficulty levels and the ability to save your puzzle in progress, test your intellect to the limit.",
+        "short": "Inspired by the puzzles of the early 80s, the 4.5 Trillion Puzzle defies you to arrange colored balls into columns. With three difficulty levels and the ability to save your puzzle in progress, test your intellect to the limit."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/58550e8400000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/58550E84_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.58550e84/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/58550E84_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E84_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E84_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/58550E84_World/screen1.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

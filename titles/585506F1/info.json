@@ -1,0 +1,35 @@
+{
+    "id": "585506F1",
+    "title": {
+        "full": "Table Soccer X",
+        "reduced": "Table Soccer X"
+    },
+    "genre": [
+        "Sports & Recreation"
+    ],
+    "developer": "Arcade Concept",
+    "publisher": "Arcade Concept",
+    "release_date": null,
+    "user_rating": "3.75",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Table Soccer X gives a very realistic experience of playing foosball. You can play with or against your friends, against the computer A.I. or play a single player game where you play against stronger and stronger computer opponents.",
+        "short": "Table Soccer X gives a very realistic experience of playing foosball. You can play with or against your friends, against the computer A.I. or play a single player game where you play against stronger and stronger computer opponents."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585506f1/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585506F1_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585506f1/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585506F1_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506F1_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506F1_World/screen4.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585506F1_World/screen3.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

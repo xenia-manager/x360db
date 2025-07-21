@@ -1,0 +1,33 @@
+{
+    "id": "585505F4",
+    "title": {
+        "full": "魔物な勇者と謎の遺跡",
+        "reduced": "魔物な勇者と謎の遺跡"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "ncc",
+    "publisher": "ncc",
+    "release_date": null,
+    "user_rating": "3.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. 魔王の力によりすべての人間が魔物に変えられた世界。 元の姿に戻すためには遺跡の奥に眠る秘宝を手に入れるしかない。 しかし、スライム姿になってしまった勇者は跳ねることしかできない 遺跡自体を傾けさせ、ゴールまで導こう！ 果たして勇者は秘宝を手に入れることはできるのか・・・",
+        "short": "魔王の力によりすべての人間が魔物に変えられた世界。 元の姿に戻すためには遺跡の奥に眠る秘宝を手に入れるしかない。 しかし、スライム姿になってしまった勇者は跳ねることしかできない 遺跡自体を傾けさせ、ゴールまで導こう！ 果たして勇者は秘宝を手に入れることはできるのか・・・"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.585505f4/marketplace/0/1",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/585505F4_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.585505f4/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/585505F4_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/585505F4_World/screen2.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

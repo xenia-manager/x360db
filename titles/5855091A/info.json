@@ -1,0 +1,35 @@
+{
+    "id": "5855091A",
+    "title": {
+        "full": "Avatar Farm",
+        "reduced": "Avatar Farm"
+    },
+    "genre": [
+        "Strategy & Simulation"
+    ],
+    "developer": "Milkstone Studios SL",
+    "publisher": "Milkstone Studios SL",
+    "release_date": null,
+    "user_rating": "4.00",
+    "description": {
+        "full": "This game was classified by the community with the following category scores - Violence=0/3, Sex=0/3, Mature Content=0/3. Cultivate your own farm: Plant crops & trees and take care of them as they grow!",
+        "short": "Cultivate your own farm: Plant crops & trees and take care of them as they grow!"
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.584e07d2/marketplace/0/5855091a00000001",
+        "boxart": "http://download.xbox.com:80/content/xna/assets/5855091A_World/xboxboxart.jpg",
+        "icon": "http://avatar.xboxlive.com/global/t.5855091a/icon/0/8000",
+        "gallery": [
+            "http://download.xbox.com:80/content/xna/assets/5855091A_World/screen2.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855091A_World/screen1.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855091A_World/screen3.jpg",
+            "http://download.xbox.com:80/content/xna/assets/5855091A_World/screen4.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}

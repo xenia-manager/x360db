@@ -1,0 +1,43 @@
+{
+    "id": "4541894F",
+    "title": {
+        "full": "EA SPORTS Fight Night Champion Demo",
+        "reduced": "EA SPORTS Fight Night Champion Demo"
+    },
+    "genre": [
+        "Fighting",
+        "Sports & Recreation"
+    ],
+    "developer": "Electronic Arts Canada",
+    "publisher": "Electronic Arts Inc.",
+    "release_date": "2011-02-01",
+    "user_rating": "3.75",
+    "description": {
+        "full": "EA SPORTS™ brings you the much anticipated Fight Night Champion. Learn the all-new Full Spectrum Punch Control mechanics that include button controls and step into the ring to do battle with boxing Legends Mike Tyson and Muhammad Ali and current day stars Manny Pacquiao and Miguel Cotto.  Also included are previews for new Fight Night Champion features including the highly anticipated Champion Mode trailer. ",
+        "short": "EA SPORTS™ brings you the much anticipated Fight Night Champion. Learn the all-new Full Spectrum Punch Control mechanics that include button controls and step into the ring to do battle with boxing Legends Mike Tyson and Muhammad Ali and current day stars Manny Pacquiao and Miguel Cotto.  Also included are previews for new Fight Night Champion features including the highly anticipated Champion Mode trailer. "
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541894f/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541894f/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541894f/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541894f/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541894f/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541894f/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541894f/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541894f/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541894f/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541894f/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "45410915",
+                "title": "FIGHT NIGHT CHAMPION"
+            }
+        ],
+        "related": []
+    }
+}

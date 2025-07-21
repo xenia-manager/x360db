@@ -1,0 +1,37 @@
+{
+    "id": "55538867",
+    "title": {
+        "full": "Your Shape Fitness Evolved",
+        "reduced": "Your Shape"
+    },
+    "genre": [
+        "Family",
+        "Kinect",
+        "Sports & Recreation"
+    ],
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "release_date": "2010-12-01",
+    "user_rating": null,
+    "description": {
+        "full": "Download this to participate in the Beta",
+        "short": "Download this to participate in the Beta"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538867/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538867/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538867/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255538867/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "5553084F",
+                "title": "Your Shape™ : Fitness Evolved"
+            }
+        ],
+        "related": []
+    }
+}
