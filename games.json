@@ -289,13 +289,6 @@
         "media_id": []
     },
     {
-        "id": "4E4207D2",
-        "alternative_id": [],
-        "title": "30 Rock",
-        "boxart": "http://mktplassets.xbox.com/NR/rdonlyres/3C70B130-209D-475A-A6C8-74BD4D91D442/0/cbox30rock.jpg",
-        "media_id": []
-    },
-    {
         "id": "5855055D",
         "alternative_id": [],
         "title": "360 Lines",
@@ -3393,13 +3386,6 @@
         "media_id": []
     },
     {
-        "id": "545A07D7",
-        "alternative_id": [],
-        "title": "Atticus",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545a07d7/1033/boxartlg.jpg",
-        "media_id": []
-    },
-    {
         "id": "5855011E",
         "alternative_id": [],
         "title": "Audiball",
@@ -6437,13 +6423,6 @@
         "media_id": []
     },
     {
-        "id": "424607D1",
-        "alternative_id": [],
-        "title": "Blind Ferret Entertainment",
-        "boxart": "http://mktplassets.xbox.com/NR/rdonlyres/CBE5698A-7283-4664-95BE-1930941D4E08/0/cboxblindferret.jpg",
-        "media_id": []
-    },
-    {
         "id": "58550488",
         "alternative_id": [],
         "title": "BlindGiRl",
@@ -7338,13 +7317,6 @@
         "alternative_id": [],
         "title": "Brand",
         "boxart": "http://download.xbox.com:80/content/xna/assets/58550A72_World/xboxboxart.jpg",
-        "media_id": []
-    },
-    {
-        "id": "424407D1",
-        "alternative_id": [],
-        "title": "Bravado Rock Vault",
-        "boxart": "http://mktplassets.xbox.com/NR/rdonlyres/960A8F62-A12F-4766-9AB9-E558186DA07D/0/cboxrockvault.jpg",
         "media_id": []
     },
     {
@@ -12563,13 +12535,6 @@
         ]
     },
     {
-        "id": "425607F1",
-        "alternative_id": [],
-        "title": "Disney Classics",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607f1/1033/boxartlg.jpg",
-        "media_id": []
-    },
-    {
         "id": "42560816",
         "alternative_id": [
             "4256881A"
@@ -14192,13 +14157,6 @@
         "media_id": []
     },
     {
-        "id": "425607FB",
-        "alternative_id": [],
-        "title": "Electric Mayhem",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607fb/1033/boxartlg.jpg",
-        "media_id": []
-    },
-    {
         "id": "58550EDC",
         "alternative_id": [],
         "title": "Electric Racing Car",
@@ -14276,13 +14234,6 @@
         "media_id": []
     },
     {
-        "id": "4C4107F4",
-        "alternative_id": [],
-        "title": "Empire Strikes Back 30th Anniversary",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024c4107f4/1033/boxartlg.jpg",
-        "media_id": []
-    },
-    {
         "id": "58550BA4",
         "alternative_id": [],
         "title": "Empire of Towers",
@@ -14306,13 +14257,6 @@
         "media_id": [
             "41637F65"
         ]
-    },
-    {
-        "id": "424307D1",
-        "alternative_id": [],
-        "title": "Enchanters Emporium",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802424307d1/1033/boxartlg.jpg",
-        "media_id": []
     },
     {
         "id": "58410907",
@@ -15150,13 +15094,6 @@
         ]
     },
     {
-        "id": "53510824",
-        "alternative_id": [],
-        "title": "FINAL FANTASY XV",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510824/1033/boxartlg.jpg",
-        "media_id": []
-    },
-    {
         "id": "585507AB",
         "alternative_id": [],
         "title": "FIREBIES The New Zombies",
@@ -15483,13 +15420,6 @@
         "alternative_id": [],
         "title": "Fanny Grannys Great Escape",
         "boxart": "http://download.xbox.com:80/content/xna/assets/58550D3B_World/xboxboxart.jpg",
-        "media_id": []
-    },
-    {
-        "id": "425607D6",
-        "alternative_id": [],
-        "title": "Fantasia",
-        "boxart": "http://mktplassets.xbox.com/NR/rdonlyres/49479117-66E1-418A-BB15-E8E6D12A4FF7/0/cboxfantasia.jpg",
         "media_id": []
     },
     {
@@ -16352,13 +16282,6 @@
         "media_id": []
     },
     {
-        "id": "4A5A07D3",
-        "alternative_id": [],
-        "title": "Flying Tiger Entertainment",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024a5a07d3/1033/boxartlg.jpg",
-        "media_id": []
-    },
-    {
         "id": "58550B3C",
         "alternative_id": [],
         "title": "Flying Zombie Invasion",
@@ -16838,7 +16761,7 @@
         "id": "5841098D",
         "alternative_id": [],
         "title": "Full House Poker",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a02/1033/boxartlg.jpg",
+        "boxart": "https://images.launchbox-app.com//67ce27f7-cfb6-4905-9d46-ff10d5c3ed26.jpg",
         "media_id": []
     },
     {
@@ -18847,13 +18770,6 @@
         ]
     },
     {
-        "id": "4D5309CF",
-        "alternative_id": [],
-        "title": "Halo Collection",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5309cf/1033/boxartlg.jpg",
-        "media_id": []
-    },
-    {
         "id": "4D53084C",
         "alternative_id": [],
         "title": "Halo Combat Evolved",
@@ -19355,13 +19271,6 @@
         "alternative_id": [],
         "title": "Herman",
         "boxart": "http://download.xbox.com:80/content/xna/assets/585503AE_World/xboxboxart.jpg",
-        "media_id": []
-    },
-    {
-        "id": "565607D1",
-        "alternative_id": [],
-        "title": "Heroes",
-        "boxart": "http://mktplassets.xbox.com/NR/rdonlyres/00840F3D-22E1-4303-8C0E-A2AACE1525BF/0/cboxheroes.jpg",
         "media_id": []
     },
     {
@@ -21739,13 +21648,6 @@
         "media_id": []
     },
     {
-        "id": "4D530A6F",
-        "alternative_id": [],
-        "title": "Karaoke",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a6f/1033/boxartlg.jpg",
-        "media_id": []
-    },
-    {
         "id": "4B4E0803",
         "alternative_id": [],
         "title": "Karaoke Revolution",
@@ -22068,13 +21970,6 @@
         "alternative_id": [],
         "title": "Kissy Poo",
         "boxart": "http://download.xbox.com:80/content/xna/assets/5855036D_World/xboxboxart.jpg",
-        "media_id": []
-    },
-    {
-        "id": "4B4E0824",
-        "alternative_id": [],
-        "title": "Kit Collection",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0824/1033/boxartlg.jpg",
         "media_id": []
     },
     {
@@ -23883,13 +23778,6 @@
         "alternative_id": [],
         "title": "MLB Bobblehead Pros",
         "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b7b/1033/boxartlg.jpg",
-        "media_id": []
-    },
-    {
-        "id": "4D5309D5",
-        "alternative_id": [],
-        "title": "MLB Collection",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5309d5/1033/boxartlg.jpg",
         "media_id": []
     },
     {
@@ -26438,13 +26326,6 @@
         "alternative_id": [],
         "title": "Mummies vs GunnS",
         "boxart": "http://download.xbox.com:80/content/xna/assets/585507A7_World/xboxboxart.jpg",
-        "media_id": []
-    },
-    {
-        "id": "425607FA",
-        "alternative_id": [],
-        "title": "Muppets",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607fa/1033/boxartlg.jpg",
         "media_id": []
     },
     {
@@ -29568,13 +29449,6 @@
         "media_id": []
     },
     {
-        "id": "4E4207DA",
-        "alternative_id": [],
-        "title": "Paul Frank",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4207da/1033/boxartlg.jpg",
-        "media_id": []
-    },
-    {
         "id": "58550298",
         "alternative_id": [
             "585502E0"
@@ -30091,7 +29965,7 @@
         "id": "435607D7",
         "alternative_id": [],
         "title": "Pinball Hall of Fame",
-        "boxart": "http://mktplassets.xbox.com/NR/rdonlyres/A65FA183-3311-4A63-B640-9E4B96A66264/0/cboxpinballhalloffame.jpg",
+        "boxart": "https://images.launchbox-app.com//a98ff33a-ec09-4eb3-80b3-878a9d73758e.jpg",
         "media_id": [
             "7A939E11"
         ]
@@ -34600,13 +34474,6 @@
         "media_id": []
     },
     {
-        "id": "565507E2",
-        "alternative_id": [],
-        "title": "Scarface",
-        "boxart": "http://mktplassets.xbox.com/NR/rdonlyres/EF8C1FC5-7CB9-404A-9174-69FD6B9DD712/0/cboxscarface.jpg",
-        "media_id": []
-    },
-    {
         "id": "58550EA8",
         "alternative_id": [],
         "title": "Scarlet the Zombie Slayer",
@@ -35293,13 +35160,6 @@
         "alternative_id": [],
         "title": "ShootOut Reloaded",
         "boxart": "http://download.xbox.com:80/content/xna/assets/58550CCB_World/xboxboxart.jpg",
-        "media_id": []
-    },
-    {
-        "id": "504107D3",
-        "alternative_id": [],
-        "title": "Shooter",
-        "boxart": "http://mktplassets.xbox.com/NR/rdonlyres/BC8A557E-C5E3-4F18-808A-43FF9A997E68/0/cboxshooter.jpg",
         "media_id": []
     },
     {
@@ -36454,13 +36314,6 @@
         "alternative_id": [],
         "title": "Soulcaster II",
         "boxart": "http://download.xbox.com:80/content/xna/assets/58550726_World/xboxboxart.jpg",
-        "media_id": []
-    },
-    {
-        "id": "523207D6",
-        "alternative_id": [],
-        "title": "South Park Avatar Collection",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802523207d6/1033/boxartlg.jpg",
         "media_id": []
     },
     {
@@ -39118,13 +38971,6 @@
         "media_id": []
     },
     {
-        "id": "4B4E0850",
-        "alternative_id": [],
-        "title": "Terminator 2 Judgement Day",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0850/1033/boxartlg.jpg",
-        "media_id": []
-    },
-    {
         "id": "455607D5",
         "alternative_id": [],
         "title": "Terminator Salvation",
@@ -39545,13 +39391,6 @@
         ]
     },
     {
-        "id": "5752082D",
-        "alternative_id": [],
-        "title": "The Dark Knight Rises",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025752082d/1033/boxartlg.jpg",
-        "media_id": []
-    },
-    {
         "id": "545407EE",
         "alternative_id": [
             "5454082A",
@@ -39844,13 +39683,6 @@
         "alternative_id": [],
         "title": "The Heckler",
         "boxart": "http://download.xbox.com:80/content/xna/assets/58550DAA_World/xboxboxart.jpg",
-        "media_id": []
-    },
-    {
-        "id": "57520834",
-        "alternative_id": [],
-        "title": "The Hobbit",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520834/1033/boxartlg.jpg",
         "media_id": []
     },
     {
@@ -40558,15 +40390,6 @@
         "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802443607d5/1033/boxartlg.jpg",
         "media_id": [
             "41D5897D"
-        ]
-    },
-    {
-        "id": "4B4D07E2",
-        "alternative_id": [],
-        "title": "The X Factor",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e2/1033/boxartlg.jpg",
-        "media_id": [
-            "6E1276E3"
         ]
     },
     {
@@ -42190,7 +42013,7 @@
         "id": "584107F3",
         "alternative_id": [],
         "title": "Uno",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a02/1033/boxartlg.jpg",
+        "boxart": "https://images.launchbox-app.com//133efc92-eeb0-4c81-be47-6562a0d3db46.jpg",
         "media_id": []
     },
     {
@@ -44438,13 +44261,6 @@
         "alternative_id": [],
         "title": "X-Orbtek II",
         "boxart": "http://download.xbox.com:80/content/xna/assets/58550D87_World/xboxboxart.jpg",
-        "media_id": []
-    },
-    {
-        "id": "484907E7",
-        "alternative_id": [],
-        "title": "XCOM 2",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802484907e7/1033/boxartlg.jpg",
         "media_id": []
     },
     {
