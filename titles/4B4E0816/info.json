@@ -1,8 +1,8 @@
 {
     "id": "4B4E0816",
     "title": {
-        "full": "Ninety-Nine NightsⅡEU",
-        "reduced": "Ninety-Nine NightsⅡEU"
+        "full": "Ninety-Nine Nights II",
+        "reduced": "Ninety-Nine Nights 2"
     },
     "genre": [
         "Action & Adventure"
@@ -31,12 +31,7 @@
         "gallery": []
     },
     "products": {
-        "parent": [
-            {
-                "id": "4D5307DB",
-                "title": "Ninety-Nine Nights"
-            }
-        ],
+        "parent": [],
         "related": []
     }
 }

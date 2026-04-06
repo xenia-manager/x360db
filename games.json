@@ -23616,7 +23616,7 @@
     {
         "id": "4B4E0840",
         "alternative_id": [],
-        "title": "METAL GEAR SOLID HD EDITION 2 & 3 (Metal Gear Solid HD Collection)",
+        "title": "Metal Gear Solid HD Collection",
         "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0840/1033/boxartlg.jpg",
         "media_id": [
             "62DC722C",
@@ -26705,7 +26705,7 @@
     {
         "id": "41560893",
         "alternative_id": [],
-        "title": "NASCAR The Game 2011",
+        "title": "NASCAR 2011: The Game",
         "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80241560893/1033/boxartlg.jpg",
         "media_id": [
             "08A77BA3"
@@ -27882,23 +27882,30 @@
     },
     {
         "id": "4D5307DB",
-        "alternative_id": [
-            "4B4E0818",
-            "4B4E0816",
-            "4B4E0817",
-            "4B4E0815",
-            "4B4E0810"
-        ],
-        "title": "Ninety-Nine Nights II",
+        "alternative_id": [],
+        "title": "Ninety-Nine Nights",
         "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307db/1033/boxartlg.jpg",
         "media_id": [
             "5657185F",
-            "5D48689C",
-            "0E36809B",
+            "5D48689C"
+        ]
+    },
+    {
+        "id": "4B4E0810",
+        "alternative_id": [
+            "4B4E0816",
+            "4B4E0815",
+            "4B4E0817",
+            "4B4E0818"
+        ],
+        "title": "Ninety-Nine Nights II",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e0810/1033/boxartlg.jpg",
+        "media_id": [
+            "56264D29",
             "7B183D1C",
-            "613CE4AB",
             "3A5739A5",
-            "56264D29"
+            "613CE4AB",
+            "0E36809B"
         ]
     },
     {
@@ -38032,7 +38039,7 @@
     {
         "id": "584108A4",
         "alternative_id": [],
-        "title": "Super Street Fighter 2 THD",
+        "title": "Super Street Fighter II Turbo HD Remix",
         "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108a4/1033/boxartlg.jpg",
         "media_id": []
     },
