@@ -1,7 +1,7 @@
 {
     "id": "485507D1",
     "title": {
-        "full": "BOMBERMAN ActZero",
+        "full": "BOMBERMAN: Act Zero",
         "reduced": "BOMBERMAN ActZero"
     },
     "genre": [
@@ -18,19 +18,19 @@
     "media": [
         {
             "media_id": "176C65AC",
-            "title": "Bomberman Act:Zero",
+            "title": "BOMBERMAN: Act Zero",
             "edition": "Original",
             "region": "USA"
         },
         {
             "media_id": "5CADE9F6",
-            "title": "Bomberman Act:Zero",
+            "title": "BOMBERMAN: Act Zero",
             "edition": "Original",
             "region": "Japan"
         },
         {
             "media_id": "0F8298C3",
-            "title": "Bomberman Act:Zero",
+            "title": "BOMBERMAN: Act Zero",
             "edition": "Original",
             "region": "Europe"
         }
