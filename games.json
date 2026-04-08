@@ -26486,7 +26486,15 @@
         "title": "\u30de\u30d6\u30e9\u30f4 \u30aa\u30eb\u30bf\u30cd\u30a4\u30c6\u30a3\u30f4\uff08Muv-Luv Alternative\uff09",
         "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f0/1033/boxartlg.jpg",
         "media_id": [
-            "49B76C6F",
+            "49B76C6F"
+        ]
+    },
+    {
+        "id": "465607E7",
+        "alternative_id": [],
+        "title": "マブラヴ オルタネイティヴ",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607e7/1041/boxartlg.jpg",
+        "media_id": [
             "79707CD9"
         ]
     },

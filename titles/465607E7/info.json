@@ -39,12 +39,7 @@
         ]
     },
     "products": {
-        "parent": [
-            {
-                "id": "465607F0",
-                "title": "Muv-luv Alternative Total Eclipse Disc Xbox360"
-            }
-        ],
+        "parent": [],
         "related": []
     }
 }
