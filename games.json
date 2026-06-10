@@ -32574,11 +32574,15 @@
         ]
     },
     {
-        "id": "5841144C",
-        "alternative_id": [],
+        "id": "43430840",
+        "alternative_id": [
+            "5841144C"
+        ],
         "title": "Resident Evil Revelations 2",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841144c/1033/boxartlg.jpg",
-        "media_id": []
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430840/1033/boxartlg.jpg",
+        "media_id": [
+            "4D8D9CDE"
+        ]
     },
     {
         "id": "58550BCF",
