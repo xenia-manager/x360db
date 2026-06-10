@@ -1,0 +1,46 @@
+{
+    "id": "413387D9",
+    "title": {
+        "full": "Air Conflicts: Vietnam",
+        "reduced": "Air Conflicts: Vietnam"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Games Farm",
+    "publisher": "bitComposer Entertainment AG",
+    "release_date": "2012-09-21",
+    "user_rating": null,
+    "description": {
+        "full": "Air Conflicts: Vietnam is a first-person shooter video game in the dangerous skies over Vietnam, played in an arcade-style format. As you destroy enemy encampments with explosive ordinance, demolish North Vietnamese fighter squadrons, and transfer soldiers to the ever-changing front lines of the savage war, you can go to the air in screaming fighter aircraft or grasp the reins of lethal helicopter gunships. KEY FEATURES Immerse yourself in a riveting story set during the conflict. Amid a legendary competition with heroic deeds and the uglier aspects of battle, Get in the driver’s seat for some on-the-spot action. For the first time in the Air Conflict series, fly more than 20 different planes, including helicopters, and configure them to your liking. Conquer the enemy with the help of your wingmen. Take control of up to four aircraft, each with its strengths and weaknesses, and use them to their full potential to achieve challenging goals. Put your pals to the test and see who has the upper hand in the air. You can compete against up to eight other players in nail-biting online air fights. Your ears are in for a treat with a fantastic rock soundtrack, like vintage tunes from the Vietnam era.",
+        "short": "Air Conflicts: Vietnam is a first-person shooter video game in the dangerous skies over Vietnam, played in an arcade-style format."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413387d7/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413387d7/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413387d7/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413387d7/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413387d7/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413387d7/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413387d7/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413387d7/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413387d7/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413387d7/1033/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413387d7/1033/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413387d7/1033/screenlg8.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413387d7/1033/screenlg9.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413387d7/1033/screenlg10.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "413307D9",
+                "title": "Air Conflicts: Vietnam"
+            }
+        ],
+        "related": []
+    }
+}
