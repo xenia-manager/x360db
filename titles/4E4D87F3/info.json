@@ -1,0 +1,30 @@
+{
+    "id": "4E4D87F3",
+    "title": {
+        "full": "Namco Museum - Virtual Arcade",
+        "reduced": "Namco Museum - Virtual Arcade"
+    },
+    "genre": [
+        "Compilation"
+    ],
+    "developer": "1",
+    "publisher": "Namco",
+    "release_date": "Nov 4, 2008",
+    "user_rating": "65%",
+    "description": {
+        "full": "Namco Museum: Virtual Arcade is one of Namco Bandai's numerous retro game collections. This particular one collects together all of their current Xbox Live Arcade releases as well as a selection of other '80s arcade titles, for a total of 34 games.",
+        "short": "Namco Museum: Virtual Arcade is one of Namco Bandai's numerous retro game collections. This particular one collects together all of their current Xbox Live Arcade releases as well as a selection of other '80s arcade titles, for a total of 34 games."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": null,
+        "boxart": null,
+        "icon": null,
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}
