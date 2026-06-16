@@ -35,12 +35,7 @@
         ]
     },
     "products": {
-        "parent": [
-            {
-                "id": "413307D9",
-                "title": "Air Conflicts: Vietnam"
-            }
-        ],
+        "parent": [],
         "related": []
     }
 }
