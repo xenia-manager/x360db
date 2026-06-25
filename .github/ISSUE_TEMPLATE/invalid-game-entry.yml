@@ -1,0 +1,91 @@
+name: Invalid Game Entry
+description: Report incorrect or missing data in a game's entry (title, developer, artwork, media IDs, etc.)
+labels: ["data"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve the game database! Please fill out the details below so the entry can be corrected.
+
+  - type: input
+    id: title_id
+    attributes:
+      label: Title ID
+      description: The 8-character Title ID of the game (e.g., 4D5309C9).
+      placeholder: "00000000"
+    validations:
+      required: true
+
+  - type: input
+    id: game_title
+    attributes:
+      label: Game Title
+      description: Current title shown in the entry.
+      placeholder: "Game Title"
+    validations:
+      required: true
+
+  - type: textarea
+    id: incorrect_fields
+    attributes:
+      label: Incorrect Fields
+      description: List the fields that are wrong and what the correct values should be.
+      placeholder: |
+        - title → should be "Forza Horizon 2", not "Forza Horizon"
+        - developer → should be "Playground Games", not "Turn 10"
+        - release_date → should be "2014-10-02", not "2012-10-23"
+      value: |
+        | Field | Current Value | Correct Value | Source |
+        |-------|--------------|---------------|--------|
+        |       |              |               |        |
+    validations:
+      required: true
+
+  - type: dropdown
+    id: artwork_issue_type
+    attributes:
+      label: Artwork Issue Type
+      description: If the issue is artwork-related, select the type. Otherwise leave unchecked.
+      multiple: true
+      options:
+        - "Broken / 404 artwork URL"
+        - "Wrong artwork image (wrong region / variant)"
+        - "Missing artwork (empty field)"
+        - "Incorrect gallery images"
+    validations:
+      required: false
+
+  - type: input
+    id: artwork_field
+    attributes:
+      label: Artwork Field
+      description: Which artwork field has the issue (background, banner, boxart, icon, gallery).
+      placeholder: "boxart"
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Source / Evidence
+      description: Where did you find the correct information? Link to Xbox marketplace, Wikipedia, official site, etc.
+      placeholder: |
+        - https://marketplace.xbox.com/...
+        - https://en.wikipedia.org/...
+        - Screenshot from in-game title screen
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Attach screenshots showing the incorrect data or providing evidence. Drag and drop images here.
+      placeholder: "Drag and drop images or paste image URLs here."
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional Context
+      description: Any other details that might help (e.g., all DLC/editions are missing, wrong region, etc.).
+      placeholder: "This game also has a platinum hits variant with different media ID."
