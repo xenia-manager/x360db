@@ -1,0 +1,64 @@
+name: Missing Game Entry
+description: Request that a game be added to the database
+labels: ["missing"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for requesting a new entry! Please fill out the details below so the game can be added.
+
+  - type: input
+    id: title_id
+    attributes:
+      label: Title ID
+      description: The 8-character Title ID of the game (e.g., 4D5309C9).
+      placeholder: "00000000"
+    validations:
+      required: true
+
+  - type: input
+    id: game_title
+    attributes:
+      label: Game Title
+      description: Full title of the game.
+      placeholder: "Missing Game Title"
+    validations:
+      required: true
+
+  - type: input
+    id: marketplace_link
+    attributes:
+      label: Xbox Marketplace Link
+      description: Link to the game on the Xbox Marketplace (if available) or other source such as Wikipedia.
+      placeholder: "https://marketplace.xbox.com/..."
+
+  - type: input
+    id: region
+    attributes:
+      label: Region(s)
+      description: Which region(s) the game was released in (e.g., USA, Europe, Japan).
+      placeholder: "Europe"
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: Additional Information
+      description: Any details you already know — developer, publisher, genre, media IDs, disc editions, etc.
+      placeholder: |
+        - Developer: Playground Games
+        - Publisher: Microsoft
+        - Genre: Racing
+        - Media ID: 5B1FDAF8 (if known)
+    validations:
+      required: false
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots / Evidence
+      description: Attach screenshots of the game's marketplace page, title screen, or disc. Drag and drop images here.
+      placeholder: "Drag and drop images or paste image URLs here."
