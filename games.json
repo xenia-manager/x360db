@@ -17394,29 +17394,16 @@
     },
     {
         "id": "4D53082D",
-        "alternative_id": [],
+        "alternative_id": [
+            "4D530872",
+            "4D5308C8"
+        ],
         "title": "Gears of War 2",
         "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d53082d/1033/boxartlg.jpg",
         "media_id": [
             "63AF211E",
             "33FCE762",
             "51D281BE"
-        ]
-    },
-    {
-        "id": "4D530872",
-        "alternative_id": [],
-        "title": "Gears of War 2",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530872/1033/boxartlg.jpg",
-        "media_id": []
-    },
-    {
-        "id": "4D5308C8",
-        "alternative_id": [],
-        "title": "Gears of War 2",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308c8/1033/boxartlg.jpg",
-        "media_id": [
-            "7738282D"
         ]
     },
     {
