@@ -1461,6 +1461,13 @@
         ]
     },
     {
+        "id": "413387D9",
+        "alternative_id": [],
+        "title": "Air Conflicts: Vietnam",
+        "boxart": null,
+        "media_id": []
+    },
+    {
         "id": "585505B2",
         "alternative_id": [],
         "title": "Air Forte",
@@ -3169,6 +3176,13 @@
         "media_id": []
     },
     {
+        "id": "5841084E",
+        "alternative_id": [],
+        "title": "Asteroids & Asteroids Deluxe",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841084e/1033/boxartlg.jpg",
+        "media_id": []
+    },
+    {
         "id": "58550716",
         "alternative_id": [],
         "title": "Asteroids Do Concern Me",
@@ -3285,13 +3299,6 @@
         "media_id": [
             "66DCBB9F"
         ]
-    },
-    {
-        "id": "5841084E",
-        "alternative_id": [],
-        "title": "ATARI ASTEROIDSASTEROIDS DELUXE",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841084e/1033/boxartlg.jpg",
-        "media_id": []
     },
     {
         "id": "58550A83",
@@ -11291,7 +11298,7 @@
     {
         "id": "54510865",
         "alternative_id": [],
-        "title": "de Blob 2 2014",
+        "title": "De Blob 2 2014",
         "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510865/1033/boxartlg.jpg",
         "media_id": [
             "42DCD5EC"
@@ -20243,7 +20250,7 @@
     {
         "id": "58410A1B",
         "alternative_id": [],
-        "title": "ilomilo",
+        "title": "IloMilo",
         "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a1b/1033/boxartlg.jpg",
         "media_id": []
     },
@@ -21266,7 +21273,7 @@
     {
         "id": "5841124E",
         "alternative_id": [],
-        "title": "JOJOS BIZARRE ADVENTURE HD Ver",
+        "title": "JoJo's Bizarre Adventure HD",
         "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841124e/1033/boxartlg.jpg",
         "media_id": []
     },
@@ -25184,9 +25191,12 @@
     {
         "id": "4B4E085E",
         "alternative_id": [],
-        "title": "METAL GEAR SOLID V THE PHANTOM PAIN",
+        "title": "Metal Gear Solid V: The Phantom Pain",
         "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e085e/1033/boxartlg.jpg",
-        "media_id": []
+        "media_id": [
+            "1395B6F2",
+            "1FF1D358"
+        ]
     },
     {
         "id": "584108CF",
@@ -26336,17 +26346,17 @@
         "media_id": []
     },
     {
-        "id": "58410837",
-        "alternative_id": [],
-        "title": "Ms PAC-MAN",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410837/1033/boxartlg.jpg",
-        "media_id": []
-    },
-    {
         "id": "58410B19",
         "alternative_id": [],
         "title": "Ms Splosion Man",
         "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b19/1033/boxartlg.jpg",
+        "media_id": []
+    },
+    {
+        "id": "58410837",
+        "alternative_id": [],
+        "title": "Ms. Pac-Man",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410837/1033/boxartlg.jpg",
         "media_id": []
     },
     {
@@ -26762,6 +26772,13 @@
             "38252BA4",
             "7B119BE4"
         ]
+    },
+    {
+        "id": "4E4D87F3",
+        "alternative_id": [],
+        "title": "Namco Museum - Virtual Arcade",
+        "boxart": null,
+        "media_id": []
     },
     {
         "id": "58550E7E",
