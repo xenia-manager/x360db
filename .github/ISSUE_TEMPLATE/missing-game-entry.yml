@@ -23,38 +23,146 @@ body:
     attributes:
       label: Game Title
       description: Full title of the game.
-      placeholder: "Missing Game Title"
+      placeholder: "Forza Horizon"
     validations:
       required: true
+
+  - type: input
+    id: reduced_title
+    attributes:
+      label: Reduced / Short Title
+      description: Abbreviated or shortened title (e.g., Forza Horizon if full title is longer).
+      placeholder: "Forza Horizon"
+
+  - type: input
+    id: developer
+    attributes:
+      label: Developer
+      description: The studio(s) that developed the game.
+      placeholder: "Playground Games"
+    validations:
+      required: true
+
+  - type: input
+    id: publisher
+    attributes:
+      label: Publisher
+      description: The company that published the game.
+      placeholder: "Microsoft Studios"
+    validations:
+      required: true
+
+  - type: input
+    id: genre
+    attributes:
+      label: Genre(s)
+      description: Comma-separated list of genres (e.g., Racing, Open World).
+      placeholder: "Racing, Open World"
+    validations:
+      required: true
+
+  - type: input
+    id: release_date
+    attributes:
+      label: Release Date
+      description: The original release date of the game (YYYY-MM-DD).
+      placeholder: "2012-10-23"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A short description of the game (1-3 sentences).
+      placeholder: "An open-world racing game set in a fictional representation of Southern Europe..."
+
+  - type: textarea
+    id: media
+    attributes:
+      label: Media / Disc Entries
+      description: Known disc/media releases. One per line in the format `media_id | title | edition | region`.
+      placeholder: |
+        5B1FDAF8 | Forza Horizon | Original | USA
+        5B1FDAF9 | Forza Horizon | Essentials | Europe
 
   - type: input
     id: marketplace_link
     attributes:
       label: Xbox Marketplace Link
-      description: Link to the game on the Xbox Marketplace (if available) or other source such as Wikipedia.
+      description: Link to the game page on the Xbox Marketplace (if available).
       placeholder: "https://marketplace.xbox.com/..."
 
-  - type: input
-    id: region
+  - type: markdown
     attributes:
-      label: Region(s)
-      description: Which region(s) the game was released in (e.g., USA, Europe, Japan).
-      placeholder: "Europe"
-    validations:
-      required: false
+      value: |
+        ## Artwork
+
+  - type: input
+    id: boxart_url
+    attributes:
+      label: Box Art URL
+      description: URL to the box art image.
+      placeholder: "http://download.xbox.com/.../boxartlg.jpg"
+
+  - type: input
+    id: background_url
+    attributes:
+      label: Background URL
+      description: URL to the background image.
+      placeholder: "http://download.xbox.com/.../background.jpg"
+
+  - type: input
+    id: banner_url
+    attributes:
+      label: Banner URL
+      description: URL to the banner image.
+      placeholder: "http://download.xbox.com/.../banner.png"
+
+  - type: input
+    id: icon_url
+    attributes:
+      label: Icon URL
+      description: URL to the icon / tile image.
+      placeholder: "http://download.xbox.com/.../tile.png"
+
+  - type: textarea
+    id: gallery_urls
+    attributes:
+      label: Gallery / Screenshots
+      description: URLs to gallery screenshots (one per line).
+      placeholder: |
+        http://download.xbox.com/.../screenlg1.jpg
+        http://download.xbox.com/.../screenlg2.jpg
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Relationships
+
+  - type: textarea
+    id: parent_products
+    attributes:
+      label: Parent Products
+      description: If this is DLC/expansion/child content, list the parent Title IDs (one per line).
+
+  - type: textarea
+    id: related_urls
+    attributes:
+      label: Related URLs
+      description: Any related URLs (manuals, official site, Wikipedia, etc.). One per line.
+      placeholder: |
+        http://download.xbox.com/content/4156081c/manual.PDF
+        https://en.wikipedia.org/wiki/Forza_Horizon
 
   - type: textarea
     id: additional_info
     attributes:
       label: Additional Information
-      description: Any details you already know — developer, publisher, genre, media IDs, disc editions, etc.
+      description: Anything else that may help — known variants, region differences, user rating, etc.
       placeholder: |
-        - Developer: Playground Games
-        - Publisher: Microsoft
-        - Genre: Racing
-        - Media ID: 5B1FDAF8 (if known)
-    validations:
-      required: false
+        - User Rating: 4.30 (if known)
+        - Also released as "Platinum Hits" variant
 
   - type: textarea
     id: screenshots
