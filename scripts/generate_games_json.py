@@ -73,12 +73,14 @@ def main() -> None:
         description="Generate games.json from title info files"
     )
     parser.add_argument(
-        "--output", "-o",
+        "--output",
+        "-o",
         default=str(DEFAULT_OUTPUT),
         help="Path for the generated games.json (default: <project_root>/games.json)",
     )
     parser.add_argument(
-        "--titles-dir", "-t",
+        "--titles-dir",
+        "-t",
         default=str(DEFAULT_TITLES_DIR),
         help="Path to the titles directory (default: <project_root>/titles)",
     )
@@ -136,20 +138,28 @@ def main() -> None:
         if boxart == "":
             boxart = None
 
-        entries.append({
+        entry: Dict[str, Any] = {
             "id": info_id,
             "alternative_id": children,
             "title": info.get("title", {}).get("full", ""),
             "boxart": boxart,
             "media_id": all_media_ids,
-        })
+        }
+        genre = info.get("genre", [])
+        if genre:
+            entry["genre"] = genre
+        for field in ("user_rating", "developer", "publisher", "release_date"):
+            val = info.get(field)
+            if val is not None:
+                entry[field] = val
+        entries.append(entry)
 
     entries.sort(key=lambda e: e["title"].lower())
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(entries, f, indent=4, ensure_ascii=False)
+        json.dump(entries, f, ensure_ascii=False)
         f.write("\n")
 
     elapsed_time = time.time() - start_time
