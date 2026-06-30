@@ -1,8 +1,8 @@
 {
     "id": "4B4E085E",
     "title": {
-        "full": "METAL GEAR SOLID V THE PHANTOM PAIN",
-        "reduced": "METAL GEAR SOLID V THE PHANTOM PAIN"
+        "full": "Metal Gear Solid V: The Phantom Pain",
+        "reduced": "Metal Gear Solid V: The Phantom Pain"
     },
     "genre": [
         "Action & Adventure"
@@ -15,7 +15,19 @@
         "full": "[Important Notification]  The online services of the Xbox 360 version of METAL GEAR SOLID V: THE PHANTOM PAIN and METAL GEAR ONLINE will be terminated by May 31, 2022 at 06:00 UTC.  The main game can still be played offline after the online service ends.  The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese, Russian, Japanese. Ushering in a new era for the METAL GEAR franchise with cutting-edge technology powered by the Fox Engine, METAL GEAR SOLID V: The Phantom Pain, will provide players a first-rate gaming experience as they are offered tactical freedom to carry out open-world missions.",
         "short": "Ushering in a new era for the METAL GEAR franchise with cutting-edge technology powered by the Fox Engine, METAL GEAR SOLID V: The Phantom Pain, will provide players a first-rate gaming experience as they are offered tactical freedom to carry out open-world missions."
     },
-    "media": [],
+    "media": [
+        {
+            "media_id": "1FF1D358",
+            "title": "Metal Gear Solid V: The Phantom Pain (Disc 1)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        },
+        {
+            "media_id": "1395B6F2",
+            "title": "Metal Gear Solid V: The Phantom Pain (Disc 2)",
+            "edition": "Original",
+            "region": "USA, Europe"
+        }],
     "artwork": {
         "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e085e/1033/background.jpg",
         "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e085e/1033/banner.png",
