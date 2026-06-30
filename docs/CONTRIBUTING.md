@@ -43,10 +43,11 @@ x360db/
 │           ├── icon.png
 │           └── banner.jpg
 ├── scripts/
-│   ├── generate_games_json.py  # Regenerates games.json from info.json files
-│   └── xbox_marketplace.py     # Scrapes data from Xbox Marketplace API
+│   ├── generate_games_json.py     # Regenerates games.json from info.json files
+│   ├── xbox_marketplace.py        # Scrapes data from Xbox Marketplace API
+│   └── backfill_artwork_urls.py   # Backfills artwork URLs from local files
 └── docs/
-    └── CONTRIBUTING.md     # This file
+    └── CONTRIBUTING.md            # This file
 ```
 
 ### games.json
@@ -138,9 +139,9 @@ artwork/
 
 ## Adding or Updating Game Data
 
-### Option 1: Using the Scraper (Preferred for Bulk)
+### Option 1: Using the Marketplace Scraper (Preferred for Bulk)
 
-The scraper fetches data from the Xbox Marketplace API and writes it to the `titles/` directory.
+The marketplace scraper fetches data from the Xbox Marketplace API and writes it to the `titles/` directory.
 
 1. Set up a JSON file with a list of Title IDs (see `config.py` for the expected format)
 2. Set the `GAMES_LIST_URL` environment variable pointing to your JSON
@@ -150,7 +151,13 @@ The scraper fetches data from the Xbox Marketplace API and writes it to the `tit
    python scripts/xbox_marketplace.py
    ```
 
-4. Regenerate `games.json`:
+4. Backfill artwork URLs from locally-downloaded artwork files:
+
+   ```bash
+   python scripts/backfill_artwork_urls.py
+   ```
+
+5. Regenerate `games.json`:
 
    ```bash
    python scripts/generate_games_json.py
@@ -161,13 +168,19 @@ The scraper fetches data from the Xbox Marketplace API and writes it to the `tit
 1. Create the title directory: `titles/{TitleID}/`
 2. Create `titles/{TitleID}/info.json` with the full metadata (use an existing entry as a template)
 3. Add artwork images to `titles/{TitleID}/artwork/`
-4. Regenerate `games.json`:
+4. Backfill artwork URLs:
+
+   ```bash
+   python scripts/backfill_artwork_urls.py
+   ```
+
+5. Regenerate `games.json`:
 
    ```bash
    python scripts/generate_games_json.py
    ```
 
-### Option 3: Report via Issue
+### Option 4: Report via Issue
 
 If you don't have the data or prefer not to edit files directly, use the issue templates:
 
@@ -202,6 +215,25 @@ set GAMES_LIST_URL=https://example.com/games-list.json
 python scripts/xbox_marketplace.py
 ```
 
+### `scripts/backfill_artwork_urls.py`
+
+Walks all `titles/{TitleID}/info.json` files and populates null or stale artwork fields with raw GitHub content URLs based on the actual files present in the `artwork/` and `gallery/` directories.
+
+```bash
+python scripts/backfill_artwork_urls.py
+```
+
+Options:
+
+| Flag | Description |
+|------|-------------|
+| `--dry-run` | Log proposed changes without modifying files |
+| `--log-file` | Path to write log output (also printed to console) |
+| `--branch` | Override auto-detected git branch (default: current HEAD) |
+| `--titles-dir` | Override the titles directory |
+
+When `--dry-run` is used with `--log-file`, a `.summary.json` file is written alongside the log with a complete report of all proposed changes.
+
 ### `scripts/config.py`
 
 Shared configuration for the scraper — retry limits, URL templates, artwork download settings.
@@ -219,6 +251,11 @@ Shared configuration for the scraper — retry limits, URL templates, artwork do
 
 - Add or edit `info.json` files in `titles/{TitleID}/`
 - Add artwork to `titles/{TitleID}/artwork/`
+- Backfill artwork URLs from local artwork files:
+  ```bash
+  python scripts/backfill_artwork_urls.py
+  ```
+  Use `--dry-run --log-file review.log` to preview changes first.
 - Regenerate `games.json`:
   ```bash
   python scripts/generate_games_json.py

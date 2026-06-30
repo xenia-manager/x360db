@@ -39,5 +39,5 @@ See the [Usage Guide](docs/USAGE.md) for schema documentation and consumption ex
 
 Data and resources have been gathered from:
 - [DBox](https://dbox.tools/) — for a comprehensive list of Title IDs
-- [Redump Disc Preservation Project](http://redump.org) — for release information
+- [Redump Disc Preservation Project](https://redump.info/) — for release information
 - [Xbox Marketplace](https://xbox.com) — for original metadata
