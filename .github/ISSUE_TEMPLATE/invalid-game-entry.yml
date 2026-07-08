@@ -9,6 +9,16 @@ body:
       value: |
         Thanks for helping improve the game database! Please fill out the details below so the entry can be corrected.
 
+  - type: checkboxes
+    id: validation
+    attributes:
+      label: Validation
+      options:
+        - label: I've checked that this Title ID exists in the database and the data is actually incorrect.
+          required: true
+        - label: I've searched for existing issues to avoid duplicates.
+          required: true
+
   - type: input
     id: title_id
     attributes:
@@ -33,13 +43,10 @@ body:
       label: Incorrect Fields
       description: List the fields that are wrong and what the correct values should be.
       placeholder: |
-        - title → should be "Forza Horizon 2", not "Forza Horizon"
-        - developer → should be "Playground Games", not "Turn 10"
-        - release_date → should be "2014-10-02", not "2012-10-23"
-      value: |
-        | Field | Current Value | Correct Value | Source |
-        |-------|--------------|---------------|--------|
-        |       |              |               |        |
+        | Field     | Current Value      | Correct Value     | Source          |
+        |-----------|-------------------|-------------------|-----------------|
+        | developer | Playground Games  | Turn 10 Studios   | Wikipedia       |
+        | title     | Forza Horizon     | Forza Horizon 2   | Marketplace     |
     validations:
       required: true
 

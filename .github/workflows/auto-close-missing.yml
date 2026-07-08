@@ -1,0 +1,45 @@
+name: Auto-Close Redundant Issues
+
+on:
+  issues:
+    types: [opened, reopened, edited]
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (report only, no changes)"
+        required: true
+        default: false
+        type: boolean
+      batch:
+        description: "Process all open issues"
+        required: true
+        default: false
+        type: boolean
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  filter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+      - run: pip install requests
+      - name: Run auto-close filter
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DRY_RUN: ${{ inputs.dry_run || '' }}
+          BATCH: ${{ inputs.batch || '' }}
+        run: |
+          ARGS=""
+          if [ "$DRY_RUN" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          if [ "$BATCH" = "true" ]; then
+            ARGS="$ARGS --batch"
+          fi
+          python scripts/auto_close_filter.py $ARGS

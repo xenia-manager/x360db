@@ -9,6 +9,16 @@ body:
       value: |
         Thanks for requesting a new entry! Please fill out the details below so the game can be added.
 
+  - type: checkboxes
+    id: validation
+    attributes:
+      label: Validation
+      options:
+        - label: I've checked that this Title ID does NOT already exist in the database.
+          required: true
+        - label: I've searched for existing issues to avoid duplicates.
+          required: true
+
   - type: input
     id: title_id
     attributes:
