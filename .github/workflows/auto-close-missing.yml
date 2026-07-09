@@ -15,6 +15,11 @@ on:
         required: true
         default: false
         type: boolean
+      issue:
+        description: "Specific issue number to process"
+        required: false
+        default: ""
+        type: number
 
 permissions:
   issues: write
@@ -34,6 +39,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DRY_RUN: ${{ inputs.dry_run || '' }}
           BATCH: ${{ inputs.batch || '' }}
+          ISSUE: ${{ inputs.issue || '' }}
         run: |
           ARGS=""
           if [ "$DRY_RUN" = "true" ]; then
@@ -41,5 +47,8 @@ jobs:
           fi
           if [ "$BATCH" = "true" ]; then
             ARGS="$ARGS --batch"
+          fi
+          if [ -n "$ISSUE" ]; then
+            ARGS="$ARGS --issue $ISSUE"
           fi
           python scripts/auto_close_filter.py $ARGS

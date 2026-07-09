@@ -93,9 +93,6 @@ def has_actual_corrections(text: str) -> bool:
             cells = [c.strip() for c in stripped.strip("|").split("|")]
             if any(c for c in cells):
                 return True
-        else:
-            if stripped:
-                return True
     return False
 
 
@@ -265,6 +262,11 @@ def main():
         action="store_true",
         help="Process all open issues (for workflow_dispatch)",
     )
+    parser.add_argument(
+        "--issue",
+        type=int,
+        help="Process a specific issue number (for workflow_dispatch)",
+    )
     args = parser.parse_args()
 
     owner, repo = get_owner_repo()
@@ -276,6 +278,15 @@ def main():
     if args.batch:
         logger.info("Batch mode: processing all open issues")
         process_all_open_issues(owner, repo, headers, args.dry_run)
+        return
+
+    if args.issue:
+        logger.info(f"Processing specific issue #{args.issue}")
+        url = f"{API_BASE}/repos/{owner}/{repo}/issues/{args.issue}"
+        resp = requests.get(url, headers=headers, timeout=15)
+        resp.raise_for_status()
+        issue = resp.json()
+        process_issue(owner, repo, issue, headers, args.dry_run)
         return
 
     event_path = os.getenv("GITHUB_EVENT_PATH")
