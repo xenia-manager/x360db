@@ -1,0 +1,53 @@
+{
+    "id": "425307F7",
+    "title": {
+        "full": "サイコブレイク",
+        "reduced": "サイコブレイク"
+    },
+    "genre": [
+        "Action & Adventure"
+    ],
+    "developer": "Tango Gameworks",
+    "publisher": "ベセスダ・ソフトワークス",
+    "release_date": "2014-10-23",
+    "user_rating": "3.25",
+    "description": {
+        "full": "ゲーム オン デマンドのバージョンは次の言語をサポートしています: 日本語、英語  取扱説明書をダウンロードするには、http://marketplace.xbox.com にて対象のゲームをお探しのうえ、[取扱説明書を読む] を選択してください。  全世界を震撼させた『サバイバルホラー』の生みの親、三上真司が新たにおくる恐怖体験！ 刑事セバスチャンは、相棒のジョセフ、キッドと共に、精神病院で起こった壮絶な大量死亡事件の現場へと急行するが、不穏な気配を察した次の瞬間気を失ってしまう。 目覚めた彼を待ち受けていたものは、目を覆いたくなるような様相の不気味な世界の住人達。何が起こるかわからない、次の扉を開ける恐怖。不意打ちを狙うかのように張り巡らされた死に至るトラップ。ひりつくような緊張感と葛藤。 死と隣り合わせの極限状態が続くこの現実は、なぜ起こってしまったのか？ 恐怖の向こうで様々に絡み合うドラマがセバスチャンの運命に大きく影を落としてゆく……",
+        "short": "全世界を震撼させた新生『サバイバルホラー』が、ついに登場！ 刑事セバスチャンは、相棒のジョセフ、キッドと共に、大量死亡事件の現場となった精神病院へ急行するが、捜索途中に気を失ってしまう。目覚めた彼を待ち受けていたものは、何が起こるかわからない、死と隣り合わせの極限状態が続く現実だった……"
+    },
+    "media": [
+        {
+            "media_id": "450FD970",
+            "title": "Psycho Break",
+            "edition": "Original",
+            "region": "Japan"
+        }
+    ],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f7/1041/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f7/1041/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f7/1041/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f7/1041/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f7/1041/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f7/1041/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f7/1041/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f7/1041/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f7/1041/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f7/1041/screenlg6.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f7/1041/screenlg7.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307f7/1041/screenlg8.jpg"
+        ]
+    },
+    "products": {
+        "parent": [
+            {
+                "id": "425307F4",
+                "title": "The Evil Within"
+            }
+        ],
+        "related": [
+            "http://download.xbox.com/content/425307f7/PsychoBreak_Xbox_360_GonD_Manual.pdf"
+        ]
+    }
+}
