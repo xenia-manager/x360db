@@ -1,354 +1,900 @@
+#!/usr/bin/env python3
 """
-Main script used to scrape game data
+Fetch Xbox Marketplace game data via dual-API strategy.
+
+Primary: marketplace-xb.xboxlive.com (legacy API with parent products)
+Fallback: catalog-cdn.xboxlive.com (newer API for other locales)
+
+Writes info.json per title, with optional artwork, gallery, and
+parent product fetching. Supports single Title ID or JSON batch input.
 """
 
-# Libraries
+import argparse
 import json
-import requests
-import xml.etree.ElementTree as ET
-import re
-import time
-from datetime import datetime
-from config import BASE_GAMES_LIST_JSON_URL, URL_TEMPLATE, MAX_RETRIES, RETRY_DELAY, MIME_TYPE_TO_EXTENSION, UPDATE_DATA, DOWNLOAD_ARTWORK
+import logging
 import os
+import re
 import sys
-from PIL import Image
+import time
+import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from io import BytesIO
-sys.stdout.reconfigure(encoding='utf-8')
 
-# Fetch base games list from the provided URL
-def fetch_base_games_list():
-    base_games_list = []
-    response = requests.get(BASE_GAMES_LIST_JSON_URL)
-    if response.status_code == 200:
-        base_games_list = response.json()
-    else:
-        print(f"Failed to fetch JSON data from the URL, status code: {response.status_code}")
-        base_games_list = []
-    return base_games_list
+import requests
+from PIL import Image
 
-# Function to extract numbers from the URL for proper sorting
+sys.stdout.reconfigure(encoding="utf-8")
+
+logger = logging.getLogger("xbox_marketplace")
+
+# =========================
+# Configuration
+# =========================
+
+LOCALES = [
+    "es-AR",
+    "pt-BR",
+    "en-CA",
+    "fr-CA",
+    "es-CL",
+    "es-CO",
+    "es-MX",
+    "en-US",
+    "nl-BE",
+    "fr-BE",
+    "cs-CZ",
+    "da-DK",
+    "de-DE",
+    "es-ES",
+    "fr-FR",
+    "en-IE",
+    "it-IT",
+    "hu-HU",
+    "nl-NL",
+    "nb-NO",
+    "de-AT",
+    "pl-PL",
+    "pt-PT",
+    "de-CH",
+    "sk-SK",
+    "fr-CH",
+    "fi-FI",
+    "sv-SE",
+    "en-GB",
+    "el-GR",
+    "ru-RU",
+    "en-AU",
+    "en-HK",
+    "en-IN",
+    "id-ID",
+    "en-MY",
+    "en-NZ",
+    "en-PH",
+    "en-SG",
+    "vi-VN",
+    "th-TH",
+    "ko-KR",
+    "zh-CN",
+    "zh-TW",
+    "ja-JP",
+    "zh-HK",
+    "en-ZA",
+    "tr-TR",
+    "he-IL",
+    "ar-AE",
+    "ar-SA",
+]
+
+ENGLISH_LOCALES = [
+    "en-US",
+    "en-GB",
+    "en-CA",
+    "en-AU",
+    "en-IE",
+    "en-NZ",
+    "en-SG",
+    "en-HK",
+    "en-IN",
+    "en-MY",
+    "en-PH",
+    "en-ZA",
+]
+
+MARKETPLACE_URL_TEMPLATE = (
+    "http://marketplace-xb.xboxlive.com/marketplacecatalog/v1/product/{locale}/"
+    "66ACD000-77FE-1000-9115-D802{title_id}"
+    "?bodytypes=1.3&detailview=detaillevel5&pagenum=1&pagesize=1&stores=1"
+    "&tiers=2.3&offerfilter=1&producttypes=1.5.18.19.20.21.22.23.30.34.37.46.47.61"
+)
+
+CATALOG_URL_TEMPLATE = (
+    "http://catalog-cdn.xboxlive.com/Catalog/Catalog.asmx/Query"
+    "?methodName=FindGames"
+    "&Names=Locale&Values={locale}"
+    "&Names=LegalLocale&Values={locale}"
+    "&Names=Store&Values=1"
+    "&Names=PageSize&Values=100"
+    "&Names=PageNum&Values=1"
+    "&Names=DetailView&Values=5"
+    "&Names=OfferFilterLevel&Values=1"
+    "&Names=MediaIds&Values=66acd000-77fe-1000-9115-d802{title_id}"
+    "&Names=UserTypes&Values=2"
+    "&Names=MediaTypes&Values=1"
+    "&Names=MediaTypes&Values=21"
+    "&Names=MediaTypes&Values=23"
+    "&Names=MediaTypes&Values=37"
+    "&Names=MediaTypes&Values=46"
+)
+
+OLD_RELATIONSHIP_MAP = {
+    "33": "boxart",
+    "25": "background",
+    "23": "icon",
+    "27": "banner",
+}
+
+NEW_RELATIONSHIP_MAP = {
+    "23": "icon",
+    "25": "background",
+    "27": "banner",
+    "33": "boxart",
+}
+
+GENRE_EXCLUDE_IDS = {"3000", "3027"}
+
+MIME_TYPE_TO_EXTENSION = {
+    "image/jpeg": ".jpg",
+    "image/png": ".png",
+    "image/bmp": ".bmp",
+    "image/webp": ".webp",
+    "image/tiff": ".tiff",
+    "image/vnd.microsoft.icon": ".ico",
+}
+
+MAX_WORKERS = 32
+MAX_RETRIES = 3
+RETRY_DELAY = 2
+
+OLD_NS = {
+    "a": "http://www.w3.org/2005/Atom",
+    "": "http://marketplace.xboxlive.com/resource/product/v1",
+}
+
+NEW_NS = {
+    "a": "http://www.w3.org/2005/Atom",
+    "live": "http://www.live.com/marketplace",
+}
+
+
+# =========================
+# Helper Functions
+# =========================
+
+
 def extract_number(url):
-    # Search for numbers in the URL (e.g., 'screenlg1', 'screenlg12')
-    match = re.search(r'screenlg(\d+)', url)
+    """Extract screenshot number from gallery URL for sorting."""
+    match = re.search(r"screenlg(\d+)", url)
     return int(match.group(1)) if match else 0
 
-# Function to extract the required data from the XML
-def extract_game_data(xml_content, titleid, media):
-    ns = {
-        'a': 'http://www.w3.org/2005/Atom',
-        '': 'http://marketplace.xboxlive.com/resource/product/v1'
-    }
-    
-    # Parse the XML content
+
+def clean_title(text):
+    """Remove 'Full Game - ' prefix and special characters from title."""
+    if text and text.startswith("Full Game - "):
+        text = text.replace("Full Game - ", "", 1)
+    return re.sub(r"[^\w\s-]", "", text).rstrip() if text else None
+
+
+def extract_game_data_old(xml_content, title_id, media):
+    """Parse OLD API (marketplace-xb) XML response into game data dict."""
+    logger.debug("Parsing OLD API XML for %s (%d bytes)", title_id, len(xml_content))
     root = ET.fromstring(xml_content)
-
-    # Find entry element
-    entry = root.find('.//a:entry', namespaces=ns)
+    entry = root.find(".//a:entry", namespaces=OLD_NS)
     if entry is None:
-        print(f"No game found with titleid: {titleid}")
+        logger.debug("No <entry> found in OLD API response for %s", title_id)
         return None
+    logger.debug("Found <entry> in OLD API response for %s", title_id)
 
-    # Element for storing game_data
+    def find_text(tag):
+        elem = entry.find(tag, namespaces=OLD_NS)
+        return elem.text if elem is not None and elem.text else None
+
     game_data = {
-        'id': titleid,
-        'title': {
-            'full': None,
-            'reduced': None
+        "id": title_id,
+        "title": {"full": None, "reduced": None},
+        "genre": [],
+        "developer": None,
+        "publisher": None,
+        "release_date": None,
+        "user_rating": None,
+        "description": {"full": None, "short": None},
+        "media": media,
+        "artwork": {
+            "background": None,
+            "banner": None,
+            "boxart": None,
+            "icon": None,
+            "gallery": [],
         },
-        'genre': [],
-        'developer': None,
-        'publisher': None,
-        'release_date': None,
-        'user_rating': None,
-        'description': {
-            'full': None,
-            'short': None
-        },
-        'media': media,
-        'artwork': {
-            'background': None,
-            'banner': None,
-            'boxart': None,
-            'icon': None,
-            'gallery': []
-        },
-        'products': {
-            'parent': [],
-            'related': []
-        }
+        "products": {"parent": [], "related": []},
     }
-    
-    # Parse full title of the game
-    full_title_element = entry.find('.//fullTitle', namespaces=ns)
-    full_title = full_title_element.text if full_title_element is not None else None
 
-    # Remove the "Full Game - " prefix from the title if it exists
-    if full_title and full_title.startswith("Full Game - "):
-        full_title = full_title.replace("Full Game - ", "", 1)
-    if full_title:
-        full_title = re.sub(r'[^\w\s-]', '', full_title)  # Keep alphanumeric characters, spaces, underscores, and hyphens
-        game_data['title']['full'] = full_title.rstrip() # Add full title to game_data
+    game_data["title"]["full"] = clean_title(find_text("fullTitle"))
+    game_data["title"]["reduced"] = clean_title(find_text("reducedTitle"))
+    game_data["developer"] = find_text("developerName")
+    game_data["publisher"] = find_text("publisherName")
+    game_data["description"]["full"] = find_text("fullDescription")
+    game_data["description"]["short"] = find_text("reducedDescription")
+    game_data["user_rating"] = find_text("userRating")
 
-    # Parse reduced title of the game
-    reduced_title_element = entry.find('.//reducedTitle', namespaces=ns)
-    reduced_title = reduced_title_element.text if reduced_title_element is not None else None
-    if reduced_title:
-        reduced_title = re.sub(r'[^\w\s-]', '', reduced_title)  # Keep alphanumeric characters, spaces, underscores, and hyphens
-        game_data['title']['reduced'] = reduced_title.rstrip()
+    release = find_text("globalOriginalReleaseDate")
+    if release:
+        game_data["release_date"] = re.sub(r"T.*$", "", release)
 
-    # Parse Genre
-    excluded_ids = ['3027', '3000'] # Filtered ID's
-    genres = entry.findall('.//categories/category', namespaces=ns)
-    genreList = []
-    for genre in genres:
-        genre_id = genre.find('categoryId', namespaces=ns).text
-        genre_category_id = genre.find('categorySystemId', namespaces=ns).text
-        if genre_category_id == '3000' and genre_id not in excluded_ids: # Check if category ID is 3000 and genre id is not excluded
-            genre_name = genre.find('categoryName', namespaces=ns).text
-            genreList.append(genre_name)
+    categories = entry.findall("categories/category", namespaces=OLD_NS)
+    for cat in categories:
+        cat_id = cat.find("categoryId", namespaces=OLD_NS)
+        system = cat.find("categorySystemId", namespaces=OLD_NS)
+        name = cat.find("categoryName", namespaces=OLD_NS)
+        if (
+            system is not None
+            and system.text == "3000"
+            and cat_id is not None
+            and cat_id.text not in GENRE_EXCLUDE_IDS
+            and name is not None
+            and name.text
+        ):
+            game_data["genre"].append(name.text)
+    game_data["genre"] = sorted(game_data["genre"])
 
-    game_data['genre'] = sorted(genreList) # Sorted genres alphabetically
-
-    # Parse developer
-    developer_element = entry.find('.//developerName', namespaces=ns)
-    game_data['developer'] = developer_element.text if developer_element is not None else None
-
-    # Parse publisher
-    publisher_element = entry.find('.//publisherName', namespaces=ns)
-    game_data['publisher'] = publisher_element.text if publisher_element is not None else None
-
-    # Parse release date
-    release_date_element = entry.find('.//globalOriginalReleaseDate', namespaces=ns)
-    game_data['release_date'] = datetime.strptime(release_date_element.text, "%Y-%m-%dT%H:%M:%S").strftime("%Y-%m-%d") if release_date_element is not None else None
-
-    # Parse user rating
-    user_rating_element = entry.find('.//userRating', namespaces=ns)
-    game_data['user_rating'] = user_rating_element.text if user_rating_element is not None else None
-    
-    # Parse full description
-    full_description_element = entry.find('.//fullDescription', namespaces=ns)
-    game_data['description']['full'] = full_description_element.text if full_description_element is not None else None
-
-    # Parse short description
-    short_description_element = entry.find('.//reducedDescription', namespaces=ns)
-    game_data['description']['short'] = short_description_element.text if short_description_element is not None else None
-
-    # Parse Artwork
-    images = entry.findall('.//image', namespaces=ns)
+    images = entry.findall("images/image", namespaces=OLD_NS)
     for image in images:
-        fileUrl = image.find('fileUrl', namespaces=ns).text
-        imageMediaType = image.find('imageMediaType', namespaces=ns).text
-        if imageMediaType == '14':
-            relationshipType = image.find('size', namespaces=ns).text
-            if relationshipType == '15':
-                game_data['artwork']['banner'] = fileUrl
-            elif relationshipType == '22':
-                game_data['artwork']['background'] = fileUrl
-            elif relationshipType == '23':
-                game_data['artwork']['boxart'] = fileUrl
-            elif relationshipType == '14':
-                game_data['artwork']['icon'] = fileUrl
-    
-    # Checking if the game has artwork, if it doesn't, don't add it to the list of games
-    """if game_data['artwork']['boxart'] is None:
-        print(f"{game_data['id']} has no boxart. Skipping it")
-        return None"""
-    
-    # Parse Slideshow
-    slideshow = entry.find('.//slideShows/slideShow', namespaces=ns)
-    if slideshow is not None:
-        slideshow_images = slideshow.findall('.//image', namespaces=ns)
-        for image in slideshow_images:
-            imageUrl = image.find('fileUrl', namespaces=ns).text
-            game_data['artwork']['gallery'].append(imageUrl)
-    game_data['artwork']['gallery'] = sorted(game_data['artwork']['gallery'], key=extract_number) # Sort the URLs of images for Slideshow
-    
-    # Parse parent products
-    parent_products_element = entry.find('.//parentProducts', namespaces=ns)
-    if parent_products_element is not None:
-        elements = parent_products_element.findall('.//parentProduct', namespaces=ns)
-        if elements is not None:
-            for parent_product in elements:
-                parent = {
-                    'id': None,
-                    'title': None,
-                }
-                parent_id = parent_product.find('parentProductId', namespaces=ns)
-                if parent_id is not None:
-                    parent['id'] = parent_id.text[-8:].upper() if parent_id is not None else None
-                
-                parent_title = parent_product.find('parentReducedTitle', namespaces=ns)
-                if parent_title is not None:
-                    parent['title'] = parent_title.text if parent_title is not None else None
+        rel_elem = image.find("relationshipType", namespaces=OLD_NS)
+        url_elem = image.find("fileUrl", namespaces=OLD_NS)
+        if rel_elem is None or url_elem is None:
+            continue
+        rel_type = rel_elem.text
+        if rel_type in OLD_RELATIONSHIP_MAP:
+            key = OLD_RELATIONSHIP_MAP[rel_type]
+            if game_data["artwork"][key] is None:
+                game_data["artwork"][key] = url_elem.text
 
-                if parent['id'] != game_data['id']: # Checking if Parent_ID and Game_ID match and if they do, don't add Parent
-                    game_data['products']['parent'].append(parent)
+    slideshows = entry.find("slideShows", namespaces=OLD_NS)
+    if slideshows is not None:
+        for slideshow in slideshows.findall("slideShow", namespaces=OLD_NS):
+            for image in slideshow.findall("image", namespaces=OLD_NS):
+                url_elem = image.find("fileUrl", namespaces=OLD_NS)
+                if url_elem is not None and url_elem.text:
+                    game_data["artwork"]["gallery"].append(url_elem.text)
+    game_data["artwork"]["gallery"] = sorted(
+        game_data["artwork"]["gallery"], key=extract_number
+    )
 
-    # Parse related products
-    related_products_element = entry.find('.//relatedUrls', namespaces=ns)
-    if related_products_element is not None:
-        elements = related_products_element.findall('.//relatedUrl', namespaces=ns)
-        if elements is not None:
-            for related_product in elements:
-                related_product_url = related_product.find('relatedUrl', namespaces=ns)
-                if related_product_url is not None:
-                    game_data['products']['related'].append(related_product_url.text)
+    parent_products = entry.find("parentProducts", namespaces=OLD_NS)
+    if parent_products is not None:
+        for pp in parent_products.findall("parentProduct", namespaces=OLD_NS):
+            parent = {"id": None, "title": None}
+            pid = pp.find("parentProductId", namespaces=OLD_NS)
+            if pid is not None and pid.text:
+                parent["id"] = pid.text[-8:].upper()
+            ptitle = pp.find("parentReducedTitle", namespaces=OLD_NS)
+            if ptitle is not None and ptitle.text:
+                parent["title"] = ptitle.text
+            if parent["id"] and parent["id"] != title_id:
+                game_data["products"]["parent"].append(parent)
 
-    return game_data # Returns the parsed game data
+    related_urls = entry.find("relatedUrls", namespaces=OLD_NS)
+    if related_urls is not None:
+        for ru in related_urls.findall("relatedUrl", namespaces=OLD_NS):
+            url_elem = ru.find("relatedUrl", namespaces=OLD_NS)
+            if url_elem is not None and url_elem.text:
+                game_data["products"]["related"].append(url_elem.text)
 
-# Checks if the image already exists
-def find_image(image_name, search_dir):
-    # Define the common image formats/extensions you want to check
-    image_formats = ['.png', '.jpg', '.jpeg', '.bmp', '.tiff', '.webp']
+    logger.debug(
+        "OLD API %s: title=%r, dev=%r, pub=%r, genres=%d, artworks=%s, gallery=%d",
+        title_id,
+        game_data["title"]["full"],
+        game_data["developer"],
+        game_data["publisher"],
+        len(game_data["genre"]),
+        {k: v for k, v in game_data["artwork"].items() if k != "gallery" and v},
+        len(game_data["artwork"]["gallery"]),
+    )
+    return game_data
 
-    # Loop through all possible formats and check if the image exists
-    for fmt in image_formats:
-        image_path = os.path.join(search_dir, image_name + fmt)
-        if os.path.isfile(image_path):
-            return True  # Return the path if the image exists
-    return False
 
-# Fallback check for extension of the image
-def fallback_with_pil(image_content, image_name):
-    """
-    Fallback to detect the image format using PIL if MIME type detection fails.
-    """
-    try:
-        image = Image.open(BytesIO(image_content))
-        image_format = image.format.lower()  # Convert format to lowercase for consistency
-        extension = f'.{image_format}'
-        print(f"Using PIL fallback: Detected image format is {image_format}.")
-        return extension
-    except Exception as e:
-        print(f"Failed to detect image format for {image_name} using PIL. Error: {e}")
-        return ''  # If detection fails, return an empty extension
+def extract_game_data_new(xml_content, title_id, media):
+    """Parse NEW API (catalog-cdn) XML response into game data dict."""
+    logger.debug("Parsing NEW API XML for %s (%d bytes)", title_id, len(xml_content))
+    root = ET.fromstring(xml_content)
+    entry = root.find("a:entry", namespaces=NEW_NS)
+    if entry is None:
+        logger.debug("No <entry> found in NEW API response for %s", title_id)
+        return None
+    logger.debug("Found <entry> in NEW API response for %s", title_id)
 
-# Saves image
-def save_image(url, image_name,target_path):
+    game_data = {
+        "id": title_id,
+        "title": {"full": None, "reduced": None},
+        "genre": [],
+        "developer": None,
+        "publisher": None,
+        "release_date": None,
+        "user_rating": None,
+        "description": {"full": None, "short": None},
+        "media": media,
+        "artwork": {
+            "background": None,
+            "banner": None,
+            "boxart": None,
+            "icon": None,
+            "gallery": [],
+        },
+        "products": {"parent": [], "related": []},
+    }
+
+    media_elem = entry.find("live:media", namespaces=NEW_NS)
+    if media_elem is not None:
+        full_title_elem = media_elem.find("live:fullTitle", namespaces=NEW_NS)
+        if full_title_elem is not None and full_title_elem.text:
+            game_data["title"]["full"] = clean_title(full_title_elem.text)
+
+        reduced_title_elem = media_elem.find("live:reducedTitle", namespaces=NEW_NS)
+        if reduced_title_elem is not None and reduced_title_elem.text:
+            game_data["title"]["reduced"] = clean_title(reduced_title_elem.text)
+
+        dev = media_elem.find("live:developer", namespaces=NEW_NS)
+        if dev is not None:
+            game_data["developer"] = dev.text
+
+        pub = media_elem.find("live:publisher", namespaces=NEW_NS)
+        if pub is not None:
+            game_data["publisher"] = pub.text
+
+        desc = media_elem.find("live:description", namespaces=NEW_NS)
+        if desc is not None:
+            game_data["description"]["full"] = desc.text
+
+        short_desc = media_elem.find("live:reducedDescription", namespaces=NEW_NS)
+        if short_desc is not None:
+            game_data["description"]["short"] = short_desc.text
+
+        rel = media_elem.find("live:releaseDate", namespaces=NEW_NS)
+        if rel is not None and rel.text:
+            game_data["release_date"] = re.sub(r"T.*$", "", rel.text)
+
+        rating = media_elem.find("live:ratingAggregate", namespaces=NEW_NS)
+        if rating is not None and rating.text:
+            game_data["user_rating"] = rating.text
+
+    categories_elem = entry.find("live:categories", namespaces=NEW_NS)
+    if categories_elem is not None:
+        for cat in categories_elem.findall("live:category", namespaces=NEW_NS):
+            cat_id_elem = cat.find("live:categoryId", namespaces=NEW_NS)
+            system_elem = cat.find("live:system", namespaces=NEW_NS)
+            name_elem = cat.find("live:name", namespaces=NEW_NS)
+            if (
+                system_elem is not None
+                and system_elem.text == "3000"
+                and cat_id_elem is not None
+                and cat_id_elem.text not in GENRE_EXCLUDE_IDS
+                and name_elem is not None
+                and name_elem.text
+            ):
+                game_data["genre"].append(name_elem.text)
+    game_data["genre"] = sorted(game_data["genre"])
+
+    images_elem = entry.find("live:images", namespaces=NEW_NS)
+    if images_elem is not None:
+        for image in images_elem.findall("live:image", namespaces=NEW_NS):
+            rel_type_elem = image.find("live:relationshipType", namespaces=NEW_NS)
+            fileurl_elem = image.find("live:fileUrl", namespaces=NEW_NS)
+            if rel_type_elem is None or fileurl_elem is None:
+                continue
+            if rel_type_elem.text in NEW_RELATIONSHIP_MAP:
+                key = NEW_RELATIONSHIP_MAP[rel_type_elem.text]
+                if game_data["artwork"][key] is None:
+                    game_data["artwork"][key] = fileurl_elem.text
+
+    slideshows_elem = entry.find("live:slideShows", namespaces=NEW_NS)
+    if slideshows_elem is not None:
+        for slideshow in slideshows_elem.findall("live:slideShow", namespaces=NEW_NS):
+            for image in slideshow.findall("live:image", namespaces=NEW_NS):
+                fileurl_elem = image.find("live:fileUrl", namespaces=NEW_NS)
+                if fileurl_elem is not None:
+                    game_data["artwork"]["gallery"].append(fileurl_elem.text)
+    game_data["artwork"]["gallery"] = sorted(
+        game_data["artwork"]["gallery"], key=extract_number
+    )
+
+    logger.debug(
+        "NEW API %s: title=%r, dev=%r, pub=%r, genres=%d, artworks=%s, gallery=%d",
+        title_id,
+        game_data["title"]["full"],
+        game_data["developer"],
+        game_data["publisher"],
+        len(game_data["genre"]),
+        {k: v for k, v in game_data["artwork"].items() if k != "gallery" and v},
+        len(game_data["artwork"]["gallery"]),
+    )
+    return game_data
+
+
+# =========================
+# API Fetch Functions
+# =========================
+
+
+def fetch_from_old_api(title_id, locale):
+    """Fetch game data from legacy marketplace-xb API with retries."""
+    url = MARKETPLACE_URL_TEMPLATE.format(locale=locale, title_id=title_id)
+    logger.debug("OLD API request: %s", url)
     for attempt in range(MAX_RETRIES):
         try:
-            response = requests.get(url, headers={
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
-                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'})
-            content_type = response.headers.get('Content-Type', '')
+            resp = requests.get(url, timeout=10)
+            logger.debug(
+                "OLD API %s response: status=%d, size=%d bytes",
+                title_id,
+                resp.status_code,
+                len(resp.content),
+            )
+            if resp.status_code == 200 and b"entry" in resp.content:
+                game_data = extract_game_data_old(resp.text, title_id, [])
+                if game_data is not None:
+                    return game_data
+                logger.debug("OLD API %s: entry found but extraction failed", title_id)
+                return None
+            logger.debug("OLD API %s: no data (status=%d)", title_id, resp.status_code)
+        except Exception as e:
+            logger.debug("OLD API %s attempt %d failed: %s", title_id, attempt + 1, e)
+        if attempt < MAX_RETRIES - 1:
+            time.sleep(RETRY_DELAY)
+    return None
+
+
+def fetch_from_new_api(title_id, locale, media):
+    """Fetch game data from catalog-cdn API with retries."""
+    url = CATALOG_URL_TEMPLATE.format(locale=locale, title_id=title_id.lower())
+    logger.debug("NEW API request: %s", url)
+    for attempt in range(MAX_RETRIES):
+        try:
+            resp = requests.get(url, timeout=10)
+            logger.debug(
+                "NEW API %s response: status=%d, size=%d bytes",
+                title_id,
+                resp.status_code,
+                len(resp.content),
+            )
+            if resp.status_code == 200 and b"entry" in resp.content:
+                game_data = extract_game_data_new(resp.text, title_id, media)
+                if game_data is not None:
+                    return game_data
+                logger.debug("NEW API %s: entry found but extraction failed", title_id)
+                return None
+            logger.debug("NEW API %s: no data (status=%d)", title_id, resp.status_code)
+        except Exception as e:
+            logger.debug("NEW API %s attempt %d failed: %s", title_id, attempt + 1, e)
+        if attempt < MAX_RETRIES - 1:
+            time.sleep(RETRY_DELAY)
+    return None
+
+
+def fetch_game_data(title_id, locale, media, api="auto"):
+    """Fetch game data using specified API or fallback chain."""
+    logger.debug("fetch_game_data(%s, locale=%s, api=%s)", title_id, locale, api)
+    if api == "marketplace-xb":
+        game_data = fetch_from_old_api(title_id, locale)
+        return (game_data, "marketplace-xb") if game_data else (None, None)
+    if api == "catalog-cdn":
+        game_data = fetch_from_new_api(title_id, locale, media)
+        return (game_data, "catalog-cdn") if game_data else (None, None)
+    game_data = fetch_from_old_api(title_id, locale)
+    if game_data is not None:
+        logger.debug("Auto: %s found via OLD API", title_id)
+        return game_data, "marketplace-xb"
+    logger.debug("Auto: %s not found via OLD API, trying NEW", title_id)
+    game_data = fetch_from_new_api(title_id, locale, media)
+    if game_data is not None:
+        logger.debug("Auto: %s found via NEW API", title_id)
+        return game_data, "catalog-cdn"
+    logger.debug("Auto: %s not found via either API", title_id)
+    return None, None
+
+
+def fetch_locale_new_api(args):
+    """Fetch game data for a single locale via NEW API (used in thread pool)."""
+    title_id, locale, media = args
+    url = CATALOG_URL_TEMPLATE.format(locale=locale, title_id=title_id.lower())
+    logger.debug("NEW API locale fetch: %s for %s", locale, title_id)
+    try:
+        resp = requests.get(url, timeout=10)
+        logger.debug(
+            "NEW API locale %s %s: status=%d, size=%d bytes",
+            title_id,
+            locale,
+            resp.status_code,
+            len(resp.content),
+        )
+        if resp.status_code == 200 and b"entry" in resp.content:
+            game_data = extract_game_data_new(resp.text, title_id, media)
+            if game_data is not None:
+                logger.debug(
+                    "NEW API locale %s %s: title=%r",
+                    title_id,
+                    locale,
+                    game_data["title"]["full"],
+                )
+                return {"locale": locale, "url": url, "data": game_data}
+            logger.debug(
+                "NEW API locale %s %s: entry found but extraction failed", title_id, locale
+            )
+    except Exception as e:
+        logger.debug("NEW API locale %s %s failed: %s", title_id, locale, e)
+    return None
+
+
+def fetch_locale_old_api(args):
+    """Fetch game data for a single locale via OLD API (used in thread pool)."""
+    title_id, locale, media = args
+    url = MARKETPLACE_URL_TEMPLATE.format(locale=locale, title_id=title_id)
+    logger.debug("OLD API locale fetch: %s for %s", locale, title_id)
+    try:
+        resp = requests.get(url, timeout=10)
+        logger.debug(
+            "OLD API locale %s %s: status=%d, size=%d bytes",
+            title_id,
+            locale,
+            resp.status_code,
+            len(resp.content),
+        )
+        if resp.status_code == 200 and b"entry" in resp.content:
+            game_data = extract_game_data_old(resp.text, title_id, media)
+            if game_data is not None:
+                logger.debug(
+                    "OLD API locale %s %s: title=%r",
+                    title_id,
+                    locale,
+                    game_data["title"]["full"],
+                )
+                return {"locale": locale, "url": url, "data": game_data}
+            logger.debug(
+                "OLD API locale %s %s: entry found but extraction failed", title_id, locale
+            )
+    except Exception as e:
+        logger.debug("OLD API locale %s %s failed: %s", title_id, locale, e)
+    return None
+
+
+def fetch_all_locales(title_id, media):
+    """Fetch game data for all 50 locales. Tries OLD API first, falls back to NEW API for failures."""
+    tasks = [(title_id, locale, media) for locale in LOCALES]
+    locale_results = {}
+    failed_locales = []
+
+    logger.debug("Phase 1: Fetching all locales via OLD API")
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = {executor.submit(fetch_locale_old_api, task): task[1] for task in tasks}
+        for future in as_completed(futures):
+            locale = futures[future]
+            result = future.result()
+            if result:
+                locale_results[locale] = {
+                    "url": result["url"],
+                    "data": result["data"],
+                }
+            else:
+                failed_locales.append(locale)
+
+    if failed_locales:
+        logger.debug("Phase 2: Retrying %d failed locales via NEW API: %s", len(failed_locales), failed_locales)
+        retry_tasks = [(title_id, locale, media) for locale in failed_locales]
+        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+            futures = {executor.submit(fetch_locale_new_api, task): task[1] for task in retry_tasks}
+            for future in as_completed(futures):
+                locale = futures[future]
+                result = future.result()
+                if result:
+                    locale_results[locale] = {
+                        "url": result["url"],
+                        "data": result["data"],
+                    }
+
+    return locale_results
+
+
+# =========================
+# Download & Save Functions
+# =========================
+
+
+def find_existing_artwork(artwork_dir, base_name):
+    """Check if artwork file exists with any supported extension."""
+    for ext in [".jpg", ".png", ".bmp", ".webp", ".tiff", ".ico"]:
+        path = os.path.join(artwork_dir, base_name + ext)
+        if os.path.isfile(path):
+            return path
+    return None
+
+
+def download_artwork(url, save_path):
+    """Download image from URL with retries, detecting extension from Content-Type."""
+    logger.debug("Downloading artwork: %s -> %s", url, save_path)
+    for attempt in range(MAX_RETRIES):
+        try:
+            resp = requests.get(
+                url,
+                timeout=30,
+                headers={
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+                },
+            )
+            content_type = resp.headers.get("Content-Type", "")
             if "image" in content_type:
-                extension = MIME_TYPE_TO_EXTENSION.get(content_type, '')
-                if not extension:
-                    extension = fallback_with_pil(response.content, image_name)
+                ext = MIME_TYPE_TO_EXTENSION.get(content_type, "")
+                if not ext:
+                    try:
+                        img = Image.open(BytesIO(resp.content))
+                        ext = f".{img.format.lower()}"
+                    except Exception:
+                        ext = ".png"
+                final_path = save_path + ext
+                with open(final_path, "wb") as f:
+                    f.write(resp.content)
+                logger.debug(
+                    "Saved artwork: %s (%d bytes)", final_path, len(resp.content)
+                )
+                return final_path
+            logger.debug("Non-image response: Content-Type=%s", content_type)
+        except Exception as e:
+            logger.debug("Download attempt %d failed: %s", attempt + 1, e)
+        if attempt < MAX_RETRIES - 1:
+            time.sleep(RETRY_DELAY)
+    logger.warning("Failed to download artwork after %d attempts: %s", MAX_RETRIES, url)
+    return None
 
-                if not extension:
-                    print(f"Skipping saving {image_name} as no valid image format was detected.")
-                    break
 
-                with open(target_path + extension, 'wb') as f:
-                    f.write(response.content)
-            else:
-                print(f"Failed to fetch the {image_name}")
-            break
-        except requests.exceptions.RequestException as e:
-            print(f"Failed to fetch the {image_name}, status code: {response.status_code} (Attempt {attempt}/{MAX_RETRIES})")
-            if attempt < MAX_RETRIES - 1:
-                print(f'Retrying in {RETRY_DELAY} seconds...')
-                time.sleep(RETRY_DELAY)
-    return
+def save_artwork(game_data, title_dir):
+    """Download and save background, banner, boxart, and icon artwork."""
+    artwork_dir = os.path.join(title_dir, "artwork")
+    os.makedirs(artwork_dir, exist_ok=True)
+    for artwork_type in ["background", "banner", "boxart", "icon"]:
+        url = game_data["artwork"].get(artwork_type)
+        if not url:
+            logger.debug("No %s artwork URL for %s", artwork_type, game_data["id"])
+            continue
+        if find_existing_artwork(artwork_dir, artwork_type):
+            logger.debug("Skipping %s artwork (already exists)", artwork_type)
+            continue
+        save_path = os.path.join(artwork_dir, artwork_type)
+        downloaded = download_artwork(url, save_path)
+        if downloaded:
+            print(f"  Saved artwork/{os.path.basename(downloaded)}")
 
-# Function that saves game data to it's respective folder
-def save_game_data(game_data, json_filename, titleid):
-    # Create directory for the game itself
-    os.makedirs(f'Database/Xbox Marketplace/{titleid}', exist_ok=True) # Creates a directory for the game
 
-    # Check if the game data has already been scraped
-    if not os.path.exists(json_filename):   
-        # Save the XML of game as JSON
-        with open(f'Database/Xbox Marketplace/{titleid}/{titleid}.json', 'w', encoding='utf-8') as f:
-            json.dump(game_data, f, ensure_ascii=False, indent=4)
+def save_gallery(game_data, title_dir):
+    """Download and save gallery screenshots keeping original filenames."""
+    gallery_urls = game_data["artwork"].get("gallery", [])
+    if not gallery_urls:
+        return
+    gallery_dir = os.path.join(title_dir, "gallery")
+    os.makedirs(gallery_dir, exist_ok=True)
+    for url in gallery_urls:
+        filename = url.rsplit("/", 1)[-1].split("?")[0]
+        base_name = filename.rsplit(".", 1)[0]
+        if find_existing_artwork(gallery_dir, base_name):
+            logger.debug("Skipping gallery image %s (already exists)", filename)
+            continue
+        save_path = os.path.join(gallery_dir, base_name)
+        downloaded = download_artwork(url, save_path)
+        if downloaded:
+            print(f"  Saved gallery/{os.path.basename(downloaded)}")
 
-    # Save necessary Artwork
-    if DOWNLOAD_ARTWORK == True:   
-        # Background
-        if game_data['artwork']['background'] is not None and not find_image("background", f'Database/Xbox Marketplace/{titleid}/'):
-            save_image(game_data['artwork']['background'], 'background',f'Database/Xbox Marketplace/{titleid}/background')
-        # Banner
-        if game_data['artwork']['banner'] is not None and not find_image("banner", f'Database/Xbox Marketplace/{titleid}/'):
-            save_image(game_data['artwork']['banner'], 'banner',f'Database/Xbox Marketplace/{titleid}/banner')
-        # Boxart
-        if game_data['artwork']['boxart'] is not None and not find_image("boxart", f'Database/Xbox Marketplace/{titleid}/'):
-            save_image(game_data['artwork']['boxart'], 'boxart',f'Database/Xbox Marketplace/{titleid}/boxart')
-        # Icon
-        if game_data['artwork']['icon'] is not None and not find_image("icon", f'Database/Xbox Marketplace/{titleid}/'):
-            save_image(game_data['artwork']['icon'], 'icon',f'Database/Xbox Marketplace/{titleid}/icon')
-        # Slideshow/Gallery
-        """if game_data['artwork']['gallery'] is not None and len(game_data['artwork']['gallery']) > 0:
-            os.makedirs(f'Database/Xbox Marketplace/{titleid}/Gallery', exist_ok=True) # Creates a directory for the game's slideshow
-            for slideshow_image in game_data['artwork']['gallery']:
-                if not os.path.exists(f'Database/Xbox Marketplace/{titleid}/Gallery/{os.path.basename(slideshow_image)}'):
-                    save_image(slideshow_image, f'Database/Xbox Marketplace/{titleid}/Gallery/{os.path.basename(slideshow_image)}')"""
 
-    # Create smaller entry for game
-    small_game_data = {
-        'id': game_data['id'],
-        'title': None,
-        'boxart': None,
-        'media_id': []
-    }
+def save_products(game_data, title_dir, locale, media):
+    """Download related product URLs (manuals, etc.) into products/ subdirectory."""
+    related = game_data["products"].get("related", [])
+    if not related:
+        return
+    products_dir = os.path.join(title_dir, "products")
+    os.makedirs(products_dir, exist_ok=True)
+    for url in related:
+        filename = url.rsplit("/", 1)[-1].split("?")[0]
+        save_path = os.path.join(products_dir, filename)
+        if os.path.exists(save_path):
+            logger.debug("Skipping product %s (already exists)", filename)
+            continue
+        logger.debug("Downloading product: %s", url)
+        try:
+            resp = requests.get(url, timeout=30)
+            if resp.status_code == 200:
+                with open(save_path, "wb") as f:
+                    f.write(resp.content)
+                print(f"  Saved products/{filename}")
+        except Exception as e:
+            logger.debug("Failed to download %s: %s", url, e)
 
-    # Add title
-    if game_data['title']['full'] is not None:
-        small_game_data['title'] = game_data['title']['full']
-    elif game_data['title']['reduced'] is not None:
-        small_game_data['title'] = game_data['title']['reduced']
-    
-    small_game_data['boxart'] = game_data['artwork']['boxart'] # Boxart URL
 
-    # Adding all of the Media ID's to the entry
-    for media in game_data['media']:
-        small_game_data['media_id'].append(media['media_id'])
-    
-    return small_game_data
+# =========================
+# Input & Locale Helpers
+# =========================
 
-# Function that goes through "base_games_list" and scrapes data for games
-def scrape_game_data(base_games_list):
-    output_data = []
-    for game in base_games_list:
-        titleid = game['titleid']
-        #titleid = "4C5307D3" # Test for an entry without boxart
-        json_filename = f"Database/Xbox Marketplace/{titleid}/{titleid}.json"
 
-        # Check if the game data has already been scraped
-        if os.path.exists(json_filename) and UPDATE_DATA == False:
-            print(f"{game['title']} ({titleid}) has already been scraped. Reading data from the file.")
-            with open(json_filename, 'r', encoding='utf-8') as file:
-                 game_data = json.load(file)
-            output_data.append(save_game_data(game_data, json_filename, titleid))
-            continue # Continue on with the for loop since we already have the data for this entry
-        
-        url = URL_TEMPLATE.format(id=titleid) # Replaces the 'id' with the actual id in the API URL
-        success = False # This is just to check if it successfuly scraped the data for the game
+def load_input(input_path):
+    """Load title IDs from JSON file or single hex ID string."""
+    if os.path.isfile(input_path):
+        with open(input_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return [(item["titleid"].upper(), item.get("media", [])) for item in data]
+    else:
+        title_id = input_path.strip().upper()
+        if re.match(r"^[0-9A-Fa-f]{8}$", title_id):
+            return [(title_id, [])]
+        else:
+            print(f"Invalid title ID: {title_id} (must be 8 hex characters)")
+            sys.exit(1)
 
-        # 5 attempts to scrape everything if it fails move onto the next entry
-        for attempt in range(MAX_RETRIES): 
-            response = requests.get(url)
-            if response.status_code == 200:
-                success = True
-                game_data = extract_game_data(response.content, titleid, game['media'])
-                if game_data:
-                    print(f"Processing {game_data['title']['full']} ({game_data['id']})")
-                    output_data.append(save_game_data(game_data, json_filename, titleid))
-                #time.sleep(1)
-                break # Exit loop after successful request
-            else:
-                print(f"Failed to fetch data for titleid: {titleid}, status code: {response.status_code} (Attempt {attempt}/{MAX_RETRIES})")
-                if attempt < MAX_RETRIES - 1:  # Avoid sleeping on the last attempt
-                    print(f"Retrying in {RETRY_DELAY} seconds...")
-                    time.sleep(RETRY_DELAY)
-        if success == False:
-            print(f"Failed to fetch data for titleid: {titleid} after retrying 5 times (status code: {response.status_code})")
 
-    return output_data
+def pick_default_locale(locale_results, preferred):
+    """Select best locale from results, preferring English variants."""
+    if preferred and preferred in locale_results:
+        return preferred
+    for loc in ENGLISH_LOCALES:
+        if loc in locale_results:
+            return loc
+    if locale_results:
+        return sorted(locale_results.keys())[0]
+    return None
 
-# Starting function
+
+# =========================
+# Main
+# =========================
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Fetch Xbox Marketplace game data.")
+    parser.add_argument(
+        "input",
+        help="JSON file with title entries or a single 8-character hex title ID",
+    )
+    parser.add_argument(
+        "--api",
+        choices=["auto", "marketplace-xb", "catalog-cdn"],
+        default="auto",
+        help="API for info.json: marketplace-xb, catalog-cdn, or auto (default: auto)",
+    )
+    parser.add_argument(
+        "--region",
+        default="en-US",
+        help="Locale to use as default for info.json (default: en-US)",
+    )
+    parser.add_argument(
+        "--all-locales",
+        action="store_true",
+        help="Fetch all 50 locales and save each as info_{locale}.json",
+    )
+    parser.add_argument(
+        "--artwork",
+        action="store_true",
+        help="Download artwork (background, banner, boxart, icon) per title",
+    )
+    parser.add_argument(
+        "--gallery",
+        action="store_true",
+        help="Download gallery screenshots into gallery/ folder per title",
+    )
+    parser.add_argument(
+        "--products",
+        action="store_true",
+        help="Fetch parent product info into products/ folder per title",
+    )
+    parser.add_argument(
+        "--update",
+        action="store_true",
+        help="Re-fetch data even if info.json already exists",
+    )
+    parser.add_argument(
+        "-v",
+        "--verbose",
+        action="store_true",
+        help="Enable debug logging (HTTP requests, parsing details, artwork downloads)",
+    )
+    args = parser.parse_args()
+
+    logging.basicConfig(
+        level=logging.DEBUG if args.verbose else logging.WARNING,
+        format="%(asctime)s %(levelname)s %(message)s",
+        datefmt="%H:%M:%S",
+    )
+    logging.getLogger("urllib3").setLevel(
+        logging.INFO if args.verbose else logging.WARNING
+    )
+
+    titles = load_input(args.input)
+    output_dir = os.path.join(
+        os.path.dirname(os.path.abspath(__file__)), "..", "titles"
+    )
+
+    print(f"Processing {len(titles)} title ID(s)...\n")
+
+    for i, (title_id, media) in enumerate(titles):
+        title_dir = os.path.join(output_dir, title_id)
+        info_path = os.path.join(title_dir, "info.json")
+
+        if os.path.exists(info_path) and not args.update:
+            print(f"[{i+1}/{len(titles)}] {title_id} - already exists, skipping")
+            continue
+
+        os.makedirs(title_dir, exist_ok=True)
+
+        if args.all_locales:
+            logger.debug("Fetching all locales for %s", title_id)
+            locale_results = fetch_all_locales(title_id, media)
+
+            game_data, source = fetch_game_data(title_id, args.region, media, args.api)
+            if game_data is None:
+                print(f"[{i+1}/{len(titles)}] {title_id} - no data for {args.region}")
+                continue
+
+            default_locale = args.region if source else args.region
+
+            print(
+                f"[{i+1}/{len(titles)}] {title_id} - "
+                f"{game_data['title']['full'] or 'Unknown'} "
+                f"({source}, {len(locale_results)} locales)"
+            )
+
+            logger.debug("Writing %s", info_path)
+            with open(info_path, "w", encoding="utf-8") as f:
+                json.dump(game_data, f, ensure_ascii=False, indent=2)
+
+            for loc, loc_result in locale_results.items():
+                if loc == default_locale:
+                    continue
+                locale_info_path = os.path.join(title_dir, f"info_{loc}.json")
+                logger.debug("Writing %s", locale_info_path)
+                with open(locale_info_path, "w", encoding="utf-8") as f:
+                    json.dump(
+                        loc_result["data"],
+                        f,
+                        ensure_ascii=False,
+                        indent=2,
+                    )
+
+            if args.artwork:
+                save_artwork(game_data, title_dir)
+
+            if args.gallery:
+                save_gallery(game_data, title_dir)
+
+            if args.products:
+                save_products(game_data, title_dir, args.region, media)
+
+        else:
+            game_data, source = fetch_game_data(title_id, args.region, media, args.api)
+            if game_data is None:
+                print(f"[{i+1}/{len(titles)}] {title_id} - no data for {args.region}")
+                continue
+
+            print(
+                f"[{i+1}/{len(titles)}] {title_id} - "
+                f"{game_data['title']['full'] or 'Unknown'} ({source})"
+            )
+
+            logger.debug("Writing %s", info_path)
+            with open(info_path, "w", encoding="utf-8") as f:
+                json.dump(game_data, f, ensure_ascii=False, indent=2)
+
+            if args.artwork:
+                save_artwork(game_data, title_dir)
+
+            if args.gallery:
+                save_gallery(game_data, title_dir)
+
+            if args.products:
+                save_products(game_data, title_dir, args.region, media)
+
+    print("\nDone.")
+
+
 if __name__ == "__main__":
-    games_list = fetch_base_games_list()
-    with open(f'Database/xbox_marketplace_games.json', 'w', encoding='utf-8') as f:
-        json.dump(scrape_game_data(games_list), f, ensure_ascii=False, indent=4)
+    main()
