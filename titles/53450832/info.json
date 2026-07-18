@@ -52,7 +52,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "53450839",
+                "title": "Resonance of Fate"
+            }
+        ],
         "related": []
     }
 }
