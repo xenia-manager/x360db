@@ -37,14 +37,19 @@ x360db/
 ├── titles/
 │   └── {TitleID}/
 │       ├── info.json       # Full metadata for this title
-│       └── artwork/        # Downloaded artwork images
-│           ├── boxart.jpg
-│           ├── background.jpg
-│           ├── icon.png
-│           └── banner.jpg
+│       ├── artwork/        # Downloaded artwork images
+│       │   ├── boxart.jpg
+│       │   ├── background.jpg
+│       │   ├── icon.png
+│       │   └── banner.jpg
+│       ├── gallery/        # Gallery screenshots
+│       │   ├── screenlg1.jpg
+│       │   └── screenlg2.jpg
+│       └── products/       # Related product files (manuals, PDFs)
+│           └── b1fe1227-...PDF
 ├── scripts/
 │   ├── generate_games_json.py     # Regenerates games.json from info.json files
-│   ├── xbox_marketplace.py        # Scrapes data from Xbox Marketplace API
+│   ├── xbox_marketplace.py        # Fetches data from Xbox Marketplace API
 │   └── backfill_artwork_urls.py   # Backfills artwork URLs from local files
 └── docs/
     └── CONTRIBUTING.md            # This file
@@ -143,21 +148,28 @@ artwork/
 
 The marketplace scraper fetches data from the Xbox Marketplace API and writes it to the `titles/` directory.
 
-1. Set up a JSON file with a list of Title IDs (see `config.py` for the expected format)
-2. Set the `GAMES_LIST_URL` environment variable pointing to your JSON
-3. Run the scraper:
+1. Run the scraper with a single Title ID:
 
    ```bash
-   python scripts/xbox_marketplace.py
+   python scripts/xbox_marketplace.py 4D5309C9
    ```
 
-4. Backfill artwork URLs from locally-downloaded artwork files:
+2. Or with a JSON file containing multiple titles:
 
    ```bash
-   python scripts/backfill_artwork_urls.py
+   python scripts/xbox_marketplace.py titles.json
    ```
 
-5. Regenerate `games.json`:
+   The JSON file should be an array of objects with `titleid` and optional `media` fields:
+
+   ```json
+   [
+     { "titleid": "4D5309C9", "media": [] },
+     { "titleid": "545407F2", "media": [] }
+   ]
+   ```
+
+3. Regenerate `games.json`:
 
    ```bash
    python scripts/generate_games_json.py
@@ -208,12 +220,38 @@ Options:
 
 ### `scripts/xbox_marketplace.py`
 
-Scrapes game data from the Xbox Marketplace API. Requires a `GAMES_LIST_URL` environment variable pointing to a JSON array of `{titleid, media}` objects.
+Fetches game data from the Xbox Marketplace API. Supports two APIs: the legacy `marketplace-xb` API (primary) and the newer `catalog-cdn` API (fallback).
 
 ```bash
-set GAMES_LIST_URL=https://example.com/games-list.json
-python scripts/xbox_marketplace.py
+# Single title
+python scripts/xbox_marketplace.py 4D5309C9
+
+# Multiple titles from JSON file
+python scripts/xbox_marketplace.py titles.json
+
+# With artwork and gallery download
+python scripts/xbox_marketplace.py 4D5309C9 --artwork --gallery
+
+# Fetch all locales
+python scripts/xbox_marketplace.py 4D5309C9 --all-locales
+
+# Force a specific API
+python scripts/xbox_marketplace.py 4D5309C9 --api catalog-cdn
 ```
+
+Options:
+
+| Flag | Description |
+|------|-------------|
+| `input` | Single 8-character hex Title ID or path to a JSON file with title entries |
+| `--api` | API to use: `auto` (default), `marketplace-xb`, or `catalog-cdn` |
+| `--region` | Locale for default `info.json` (default: `en-US`) |
+| `--all-locales` | Fetch all 50 locales, saving each as `info_{locale}.json` |
+| `--artwork` | Download artwork (background, banner, boxart, icon) per title |
+| `--gallery` | Download gallery screenshots into `gallery/` folder per title |
+| `--products` | Download related product files (manuals, PDFs) into `products/` folder per title |
+| `--update` | Re-fetch data even if `info.json` already exists |
+| `-v, --verbose` | Enable debug logging (HTTP requests, parsing, downloads) |
 
 ### `scripts/backfill_artwork_urls.py`
 
@@ -233,10 +271,6 @@ Options:
 | `--titles-dir` | Override the titles directory |
 
 When `--dry-run` is used with `--log-file`, a `.summary.json` file is written alongside the log with a complete report of all proposed changes.
-
-### `scripts/config.py`
-
-Shared configuration for the scraper — retry limits, URL templates, artwork download settings.
 
 ---
 
