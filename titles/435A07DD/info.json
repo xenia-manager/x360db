@@ -31,7 +31,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "545A07D3",
+                "title": "Akai Katana"
+            }
+        ],
         "related": []
     }
 }
