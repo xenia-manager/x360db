@@ -31,7 +31,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "555307EE",
+                "title": "IMPORT TUNER CHALLENGE"
+            }
+        ],
         "related": []
     }
 }

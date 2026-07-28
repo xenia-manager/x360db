@@ -31,7 +31,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B4E07DA",
+                "title": "Pro Evolution Soccer 6"
+            }
+        ],
         "related": []
     }
 }

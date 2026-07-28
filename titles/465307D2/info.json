@@ -39,7 +39,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "555307E6",
+                "title": "Enchanted Arms"
+            }
+        ],
         "related": []
     }
 }

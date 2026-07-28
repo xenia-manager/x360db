@@ -44,7 +44,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B4E07E6",
+                "title": "PES2008"
+            }
+        ],
         "related": []
     }
 }

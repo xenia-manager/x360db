@@ -37,7 +37,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4E4D0800",
+                "title": "DW GUNDAM 2"
+            }
+        ],
         "related": []
     }
 }

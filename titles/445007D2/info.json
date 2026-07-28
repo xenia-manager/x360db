@@ -52,7 +52,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "445007EA",
+                "title": "Onechanbara"
+            }
+        ],
         "related": []
     }
 }
