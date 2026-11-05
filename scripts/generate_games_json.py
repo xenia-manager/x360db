@@ -101,36 +101,97 @@ def main() -> None:
         sys.exit(1)
 
     child_to_parents: Dict[str, List[str]] = {}
+    parent_ids: Dict[str, List[str]] = {}
+    infos: Dict[str, Dict[str, Any]] = {}
 
     for dir_entry in sorted(os.listdir(titles_dir)):
         info = load_info(dir_entry, titles_dir)
         if info is None:
             continue
-        parents = get_parent_ids(info)
-        if parents:
-            for pid in parents:
-                child_to_parents.setdefault(pid, []).append(info["id"])
+        info_id = str(info.get("id", dir_entry)).upper()
+        infos[info_id] = info
+
+    self_parents: List[str] = []
+    for info_id, info in infos.items():
+        parents: List[str] = []
+        for parent_id in get_parent_ids(info):
+            parent_id = parent_id.upper()
+            if parent_id == info_id:
+                self_parents.append(info_id)
+                continue
+            parents.append(parent_id)
+        parent_ids[info_id] = parents
+        for parent_id in parents:
+            if parent_id in infos:
+                child_to_parents.setdefault(parent_id, []).append(info_id)
+
+    if self_parents:
+        logger.warning(
+            "Ignoring self-referencing parent(s) for: %s",
+            ", ".join(sorted(set(self_parents))),
+        )
+
+    roots = [
+        info_id
+        for info_id, parents in parent_ids.items()
+        if not any(parent_id in infos for parent_id in parents)
+    ]
+
+    orphaned = [
+        info_id
+        for info_id, parents in parent_ids.items()
+        if parents and not any(parent_id in infos for parent_id in parents)
+    ]
+    if orphaned:
+        logger.warning(
+            "Treating %d title(s) with missing parents as top-level: %s",
+            len(orphaned),
+            ", ".join(sorted(orphaned)),
+        )
+
+    def collect_descendants(root_id: str) -> List[str]:
+        """Collect all descendant title IDs, guarding against cycles."""
+        descendants: List[str] = []
+        seen = {root_id}
+        stack = [root_id]
+        while stack:
+            current = stack.pop()
+            for child_id in child_to_parents.get(current, []):
+                if child_id in seen:
+                    continue
+                seen.add(child_id)
+                descendants.append(child_id)
+                stack.append(child_id)
+        return sorted(descendants)
+
+    descendants_by_root = {
+        root_id: collect_descendants(root_id) for root_id in roots
+    }
+
+    # Promote anything unreachable (for example, a non-self parent cycle) so
+    # that no title silently disappears from games.json.
+    reachable = set()
+    for root_id, descendants in descendants_by_root.items():
+        reachable.add(root_id)
+        reachable.update(descendants)
+
+    for info_id in sorted(infos):
+        if info_id in reachable:
+            continue
+        roots.append(info_id)
+        descendants_by_root[info_id] = collect_descendants(info_id)
+        reachable.add(info_id)
+        reachable.update(descendants_by_root[info_id])
 
     entries: List[Dict[str, Any]] = []
 
-    for dir_entry in sorted(os.listdir(titles_dir)):
-        info = load_info(dir_entry, titles_dir)
-        if info is None:
-            continue
-
-        info_id = info["id"]
-        parents = get_parent_ids(info)
-
-        if parents:
-            continue
-
-        children = sorted(child_to_parents.get(info_id, []))
+    for info_id in roots:
+        info = infos[info_id]
+        children = descendants_by_root[info_id]
 
         all_media_ids = get_media_ids(info)
         for child_id in children:
-            child_info = load_info(child_id, titles_dir)
-            if child_info is not None:
-                all_media_ids.extend(get_media_ids(child_info))
+            all_media_ids.extend(get_media_ids(infos[child_id]))
 
         all_media_ids = sorted(set(all_media_ids))
 
