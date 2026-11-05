@@ -148,32 +148,75 @@ artwork/
 
 The marketplace scraper fetches data from the Xbox Marketplace API and writes it to the `titles/` directory.
 
-1. Run the scraper with a single Title ID:
+Most titles use the `D802` media family, but some — including several backwards-compatible releases — use `D804`.
+Run the catalog enumeration once so the script can look up the exact media ID for every title.
+
+1. Enumerate the catalog:
+
+   ```bash
+   python scripts/xbox_marketplace.py --enumerate
+   ```
+
+   This writes `catalog.json` with every title ID and its exact media ID. The file doubles as batch input.
+   If `catalog.json` exists at the project root, later runs use it automatically.
+
+2. Run the scraper with a single Title ID, a JSON file, or the catalog:
 
    ```bash
    python scripts/xbox_marketplace.py 4D5309C9
-   ```
-
-2. Or with a JSON file containing multiple titles:
-
-   ```bash
    python scripts/xbox_marketplace.py titles.json
+   python scripts/xbox_marketplace.py catalog.json
    ```
 
-   The JSON file should be an array of objects with `titleid` and optional `media` fields:
+   A title list is an array of objects with `titleid`, an optional `media` array, and an optional `media_id`:
 
    ```json
    [
      { "titleid": "4D5309C9", "media": [] },
-     { "titleid": "545407F2", "media": [] }
+     { "titleid": "545407F2", "media": [] },
+     { "titleid": "33390FA0", "media_id": "66ACD000-77FE-1000-9115-D80433390FA0" }
    ]
    ```
+
+   If a title is missing from the catalog, `--probe-prefixes` tries `D802` and then `D804`.
 
 3. Regenerate `games.json`:
 
    ```bash
    python scripts/generate_games_json.py
    ```
+
+#### Choosing Artwork from Other Locales
+
+Use `--artwork-locales` to gather boxart, backgrounds, banners, icons, screenshots, and related products
+from additional locales. Add `--pick-artwork` to choose interactively before `info.json` is written:
+
+```bash
+# List candidates only (does not write info.json)
+python scripts/xbox_marketplace.py 4D5309C9 --artwork-locales en-US,ja-JP,de-DE --list-artwork
+
+# Choose interactively, previewing with 'v N'
+python scripts/xbox_marketplace.py 4D5309C9 --artwork-locales en-US,ja-JP,de-DE --pick-artwork
+
+# Gather artwork from every supported locale, but write only info.json
+python scripts/xbox_marketplace.py 4D5309C9 --artwork-locales all --pick-artwork
+
+# Also download the selected artwork, gallery, and products, replacing existing files
+python scripts/xbox_marketplace.py 4D5309C9 --artwork-locales all --pick-artwork \
+  --artwork --gallery --products --overwrite-artwork
+```
+
+`--artwork-locales all` fetches all locales for the picker without writing `info_{locale}.json` files.
+Use `--all-locales` instead when you also want those per-locale files.
+
+Without `--overwrite-artwork`, existing files in `artwork/`, `gallery/`, and `products/` are skipped.
+With it, matching files are replaced after the new download succeeds, and stale copies with a different
+image extension (for example `boxart.png` when the new file is `boxart.jpg`) are removed. Files whose
+names differ from the new selection (such as locale-suffixed gallery variants) are left in place.
+
+In the picker, press Enter to accept the default, enter numbers and ranges (`1,3,5-7`) for gallery and
+product lists, `a` for all, `n` for none, and `s` or `q` to keep the existing selection. `v N` downloads a
+candidate and opens it in your default image viewer.
 
 ### Option 2: Manual Entry (Preferred for Single Games)
 
@@ -223,11 +266,22 @@ Options:
 Fetches game data from the Xbox Marketplace API. Supports two APIs: the legacy `marketplace-xb` API (primary) and the newer `catalog-cdn` API (fallback).
 
 ```bash
+# Build catalog.json with the exact media ID for every title
+python scripts/xbox_marketplace.py --enumerate
+
 # Single title
 python scripts/xbox_marketplace.py 4D5309C9
 
-# Multiple titles from JSON file
+# Multiple titles from JSON file or catalog
 python scripts/xbox_marketplace.py titles.json
+python scripts/xbox_marketplace.py catalog.json
+
+# Fetch artwork from other locales and pick interactively
+python scripts/xbox_marketplace.py 4D5309C9 --artwork-locales en-US,ja-JP --pick-artwork
+
+# Fetch all locales, pick assets, and replace existing local files
+python scripts/xbox_marketplace.py 4D5309C9 --artwork-locales all --pick-artwork \
+  --artwork --gallery --products --overwrite-artwork
 
 # With artwork and gallery download
 python scripts/xbox_marketplace.py 4D5309C9 --artwork --gallery
@@ -243,14 +297,25 @@ Options:
 
 | Flag | Description |
 |------|-------------|
-| `input` | Single 8-character hex Title ID or path to a JSON file with title entries |
+| `input` | Single 8-character hex Title ID, a JSON title list, or `catalog.json` |
+| `--enumerate` | Enumerate the legacy catalog and write `catalog.json` |
+| `--catalog` | Catalog file used to resolve exact media IDs (default: `<project_root>/catalog.json` when present) |
+| `--catalog-out` | Output path for `--enumerate` (default: `<project_root>/catalog.json`) |
+| `--max-pages`, `--page-delay` | Limit or pace catalog enumeration (useful for testing) |
 | `--api` | API to use: `auto` (default), `marketplace-xb`, or `catalog-cdn` |
-| `--region` | Locale for default `info.json` (default: `en-US`) |
-| `--all-locales` | Fetch all 50 locales, saving each as `info_{locale}.json` |
+| `--region` | Locale for the default `info.json` and catalog enumeration (default: `en-US`) |
+| `--all-locales` | Fetch all supported locales, saving each as `info_{locale}.json` |
+| `--artwork-locales` | Comma-separated extra locales for artwork, gallery, and product URLs, or `all` for every supported locale |
+| `--pick-artwork` | Interactively choose artwork, gallery, and product URLs (`v N` previews) |
+| `--list-artwork` | List candidates without writing `info.json` |
+| `--probe-prefixes` | Try `D802` and then `D804` when the catalog has no media ID |
 | `--artwork` | Download artwork (background, banner, boxart, icon) per title |
 | `--gallery` | Download gallery screenshots into `gallery/` folder per title |
 | `--products` | Download related product files (manuals, PDFs) into `products/` folder per title |
+| `--overwrite-artwork` | Replace existing artwork/gallery/product files with the selected versions (alias: `--overwrite-assets`) |
 | `--update` | Re-fetch data even if `info.json` already exists |
+| `--output-dir` | Directory for title folders (default: `<project_root>/titles`) |
+| `--workers` | Concurrent locale requests (default: 8) |
 | `-v, --verbose` | Enable debug logging (HTTP requests, parsing, downloads) |
 
 ### `scripts/backfill_artwork_urls.py`
@@ -350,3 +415,6 @@ Use clear, descriptive commit messages:
 - If a title is DLC, a demo, or a variant, set its `products.parent` field to point to the main game
 - The main game should NOT have a `parent` entry
 - `generate_games_json.py` automatically skips child entries and rolls their media IDs into the parent
+- Nested children are rolled into the highest available parent entry
+- If none of a title's parents exist in `titles/`, the title is kept as a top-level entry instead of being dropped
+- Self-referencing `products.parent` entries are ignored
